@@ -1,0 +1,19 @@
+{
+  "chunk_id": "chunk_2",
+  "chunk_summary": "문제 청소년들(troubled teens)은 초기 사망률이 높았으나, 생존자들은 중년기에 안정적인 결혼 생활과 직업을 갖춘 책임감 있는 시민으로 변화했다. 이러한 긍정적인 삶의 궤적 변화는 전문적인 개입보다는 고등학교 졸업 이후의 기회(제3, 40대)를 통해 이루어졌다. 특히 지역사회 대학 교육, 군 복무를 통한 기술 습득, 안정적인 결혼, 그리고 종교적 공동체 참여가 가장 강력한 변화의 동인으로 작용했다.",
+  "key_quotes": [
+    "Overall, the “troubled” teenagers had slightly higher mortality rates by age forty (4.4%) than their resilient peers (3.3%) and the “low-risk” members of the same birth cohort (2.8%), with more fatalities due to accidents and AIDS.",
+    "Several turning points led to lasting positive shift in the life trajectories among the high-risk men and women in our cohort who had been troubled teenagers.",
+    "Among the most potent forces for positive change for these youth in adulthood were continuing education at community colleges and adult high schools, educational and vocational skills acquired during service in the armed forces, marriage to a stable partner, conversion to a religion that demanded active participation in a “community of faith,” recovery from a life-threatening illness or accident..."
+  ],
+  "checklists": [
+    "회복탄력성",
+    "보호 요인",
+    "위험 요인",
+    "종단연구",
+    "고위험 아동",
+    "긍정적 결과 예측 요인"
+  ],
+  "relevance": 0.95,
+  "domain": "social_development"
+}

@@ -1,0 +1,147 @@
+Title: The Sign 4 Big Feelings Intervention: Improving Early Language Development and Emotional Well-Being in Preschool Children Using Sign Language
+PMC ID: PMC9166658
+Year: 2022
+Tier: 2 | Grade: B
+Category: emotional_development
+Keywords: sign language, emotion expression, preschool, early language, wellbeing, gestural communication, emotion vocabulary, EAL children, disadvantaged
+
+---
+
+ABSTRACT
+
+This study evaluated the Sign 4 Big Feelings intervention — a sign language program designed to improve early language development and emotional well-being in preschool children in Luton, UK. N=111 children (mean age 39 months), 54% boys, 33% with English as additional language (EAL), 3-month intervention.
+
+Key Findings:
+- Words understood: mean 6.3 → 11.4 (significant increase)
+- Words spoken: mean 4.1 → 9.6 (significant increase)
+- Wellbeing (Leuven scale): significant improvement
+- All 4 early years outcome domains: substantial gains
+- Effect sizes: Cohen's d = 1.17–1.56 (LARGE)
+- EAL children: ~4 steps progress vs. ~2 steps for native speakers (greater benefit)
+
+Core message: "몸짓+감정명명 결합 개입→언어 아직 미숙한 유아도 감정 표현 가능"
+
+INTRODUCTION
+
+The communication gap problem:
+Children ages 2-4 have strong emotional experiences but often lack the verbal language to express them. This gap between what children feel and what they can say contributes to:
+- Frustration-driven behavior problems ("tantrum = communication failure")
+- Emotion regulation difficulties
+- Social withdrawal in non-native language environments
+- Reduced wellbeing from inability to communicate needs
+
+Sign language as bridge:
+Baby signing and Makaton (simplified sign language for language development) have decades of evidence showing:
+- Children develop gestural communication before verbal
+- Signs can be learned faster than spoken words
+- Gesture + word pairing accelerates spoken language acquisition
+- Emotional gesture-word pairs may be particularly powerful (body already carries emotion)
+
+Sign 4 Big Feelings program:
+- Uses storybooks + dolls depicting various emotions
+- 16 key emotion-related words taught with simple sign language
+- Integrated into regular storytimes by practitioners
+- Emotions targeted: happy, sad, angry, scared, worried, surprised, disgusted, proud, embarrassed, jealous, excited, calm, frustrated, shy, loving, lonely
+- "몸짓+감정명명" — gestural + verbal pairing for emotion expression
+
+METHODS
+
+Design: Pre-post intervention (no control group)
+Sample: N=111 children
+Mean age: 39 months (range ~24-60 months)
+Gender: 54% boys, 46% girls
+Language: 33% English as Additional Language (EAL)
+Funded status: Proportion receiving free early years (disadvantaged indicator)
+Setting: Preschool settings in Luton, UK
+Duration: 3 months
+
+Intervention delivery:
+- Practitioners received training in Sign 4 Big Feelings
+- Integrated into existing storytime routines (not additional sessions)
+- Storybooks featuring the 16 emotion signs
+- Emotion dolls with facial expressions for demonstration
+- Signs used consistently throughout the day when emotion words arose
+
+Measures:
+- Language (words understood and spoken): practitioner-rated observation scale
+- Wellbeing: Leuven Scale of Well-Being (observation-based)
+- Early years outcomes: 4 domain assessment (communication/language, personal/social/emotional, physical, literacy/maths)
+
+RESULTS
+
+Language outcomes:
+- Words understood: 6.3 → 11.4 (increase of 5.1 words, significant p<.001)
+- Words spoken: 4.1 → 9.6 (increase of 5.5 words, significant p<.001)
+- Effect sizes: d = 1.17–1.56 (LARGE — unusually high for language interventions)
+
+Wellbeing:
+- Leuven well-being score: significant improvement across all children
+- Trend: children who gained most in language showed greatest wellbeing improvement
+
+Early years outcomes (all 4 domains significant):
+- Personal, Social and Emotional Development
+- Communication and Language
+- Physical Development
+- Literacy and Mathematics
+
+Group differences — EAL children:
+- EAL children: ~4 steps progress on early years outcomes
+- Native English children: ~2 steps progress
+- EAL children benefited MORE — sign language provided language-neutral emotion expression channel
+- Gestural communication bypasses language barrier for emotion expression
+
+Group differences — disadvantaged children:
+- Funded status children: 4.15 steps progress
+- Non-funded children: 2.5 steps progress
+- Disadvantaged children benefited MORE — sign language gave extra expressive channel where verbal was limited
+
+Gender differences: NONE — no significant gender effects across any measure
+
+DISCUSSION
+
+Why gestural emotion training works:
+1. Motor-verbal pairing: Using the body (hand sign) + voice (word) simultaneously creates multi-modal memory trace
+2. Body-first pathway: Signs are produced by the body → activates proprioceptive-interoceptive system → connects to IC-208/209's body-emotion link
+3. Slower communication: Signs force the pace slightly slower than speech → creates pause that supports emotional processing
+4. Social reinforcement: Adults respond to both sign and word → double positive reinforcement
+5. Language-neutral: Works before verbal fluency, works across languages
+
+The frustration-expression bridge:
+A 2-year-old who SIGNS "angry" instead of hitting has:
+- Successfully communicated the emotion
+- Received a verbal response (adult says "angry! You're angry!")
+- Bypassed the violent behavior
+- Practiced emotion labeling in the body
+
+This is the earliest form of Gottman's Step 4 (labeling) — before words are fluent.
+
+EAL children benefit most — why this matters for Korean families:
+Korean immigrant families in English-speaking countries, or Korean children in international environments, may benefit from gestural emotion bridging. But even in Korean monolingual contexts:
+- Very young children (18-36 months) are pre-verbal even in their native language
+- Signing "슬퍼" at 18 months is possible before saying it
+- The body-gesture pairing accelerates verbal acquisition
+
+Korean parenting application:
+Simple parent implementation:
+- 4-6 basic signs (행복/슬픔/화남/무서움/피곤/아파)
+- Pair sign with word always: [sign 슬픔] + "슬프구나"
+- Use dolls or stuffed animals with emotion faces for demonstration
+- Read picture books with emotion signs throughout
+
+Limitations:
+- No control group (cannot rule out maturation effects)
+- 3-month duration (cannot establish long-term retention)
+- Small sample for subgroup analyses
+- Practitioner fidelity varied
+- Leuven scale has limited validation for this age group
+- Restricted wellbeing data collection
+
+CONCLUSION
+
+The Sign 4 Big Feelings intervention produced large effect size improvements in emotion vocabulary, language development, and wellbeing in children as young as 39 months. Gestural + verbal emotion pairing is particularly effective for children with limited verbal capacity (EAL, disadvantaged, very young). It provides a pathway for emotion expression before verbal fluency is established, preventing the frustration-behavior cycle.
+
+ATLAS connections:
+- BR-218: picture books as primary vehicle (Sign 4 uses books + dolls)
+- IC-208/209: body-emotion connection (sign = body-based emotion encoding)
+- EV-214/215: emotion vocabulary (signs accelerate verbal emotion word acquisition)
+- Gottman 감정코칭 Step 4 (이름붙이기): gestural pairing as earliest form

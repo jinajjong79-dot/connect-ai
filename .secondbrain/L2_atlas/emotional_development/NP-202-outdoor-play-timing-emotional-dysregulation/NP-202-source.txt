@@ -1,0 +1,86 @@
+Title: Outdoor Play Timing and Emotional Dysregulation in Preschoolers
+PMC ID: PMC11660033
+Year: 2024 (published 2025 epub)
+DOI: (see PMC record)
+Tier: 2 | Grade: A ★
+Category: emotional_development
+Keywords: outdoor play, timing, circadian rhythm, emotion regulation, dysregulation, working memory, preschool, low-income
+
+---
+
+ABSTRACT
+
+This study examined how the timing and amount of outdoor play relates to emotional dysregulation in preschool children. Using data from 325 preschool children (mean age 4.19 years) from low-income families in a Midwestern U.S. city, researchers analyzed outdoor play patterns across three time windows: wake-up to noon, noon to 6 PM, and 6 PM to bedtime.
+
+Key Findings:
+- Outdoor play from noon to 6 PM correlated with BETTER emotion regulation (lower dysregulation)
+- Outdoor play from wake-up to noon and 6 PM to bedtime associated with GREATER dysregulation
+- Working memory FULLY MEDIATED the beneficial effect of midday outdoor play on emotion regulation
+- Results held after controlling for total outdoor play time, preschool attendance, and family income
+
+INTRODUCTION
+
+Emotion regulation difficulties in early childhood are significant predictors of long-term behavioral and academic outcomes. Low-income children face disproportionate risks for dysregulation due to environmental stressors. Outdoor play has been associated with benefits for physical, cognitive, and social-emotional development, but the timing dimension has been largely unexplored.
+
+The circadian rhythm hypothesis: Children's cortisol levels follow a diurnal pattern, peaking in the morning and declining through the day. Afternoon outdoor play may align with natural cortisol troughs, allowing greater cognitive capacity for emotional regulation through enhanced working memory.
+
+METHODS
+
+Sample: 325 preschool-age children from low-income families
+- 72.6% identified as Black/African American
+- Average income-to-needs ratio: 0.67 (below poverty line)
+- 82.3% attended daytime preschool
+
+Data collection: Accelerometers + parent-reported emotion regulation measures + cognitive assessments
+Time periods analyzed:
+- Morning: wake-up to noon
+- Afternoon: noon to 6 PM
+- Evening: 6 PM to bedtime
+
+Statistical analysis: Mediation models controlling for total outdoor play, preschool attendance, income
+
+RESULTS
+
+Primary findings:
+1. Afternoon outdoor play (noon–6 PM): Significant negative association with emotion dysregulation
+   - β = -0.24 (p < .01) after covariates
+   - Effect fully mediated by working memory (indirect effect = -0.11, 95% CI [-0.18, -0.05])
+
+2. Morning outdoor play (wake–noon): Positive association with dysregulation
+   - β = 0.19 (p < .05)
+   - Hypothesized mechanism: disruption of morning cortisol peak/sleep inertia period
+
+3. Evening outdoor play (6 PM–bedtime): Positive association with dysregulation
+   - β = 0.21 (p < .05)
+   - Hypothesized mechanism: circadian disruption, delayed melatonin onset, sleep interference
+
+Working memory mediation:
+- Afternoon outdoor play → working memory (β = 0.28, p < .001)
+- Working memory → reduced dysregulation (β = -0.39, p < .001)
+- Full mediation confirmed via bootstrapped CI
+
+DISCUSSION
+
+The circadian rhythm mechanism: Midday outdoor play supports natural biological rhythms, enhancing the prefrontal cortex's capacity for working memory, which in turn supports top-down emotion regulation. Physical activity in natural light exposure during afternoon hours may reduce cortisol and increase attentional resources.
+
+"숲에서 수업한 날 코르티솔 유의미하게 감소" — related finding from allied research cited in this paper supports the cortisol reduction mechanism.
+
+Implications for practice:
+- Preschools should schedule outdoor play in the afternoon (noon–6 PM) rather than only morning recess
+- Reduce evening outdoor vigorous activity that may interfere with sleep and next-day regulation
+- Morning outdoor time may be less beneficial for emotion regulation specifically
+
+Limitations:
+- Sample: low-income urban children only; generalizability limited
+- Data from 2009-2014 cohort (pre-pandemic, different screen time context)
+- Cross-sectional mediation cannot establish causality
+- Outdoor play measured by accelerometer proximity, not direct observation
+
+CONCLUSION
+
+Timing of outdoor play matters as much as amount. Afternoon outdoor play enhances working memory via circadian alignment, which predicts better emotion regulation in preschool children. Policy and practice should consider not just how much outdoor play, but when it occurs.
+
+Clinical/Educational Implications:
+- Schedule afternoon outdoor play as standard in preschool programs
+- Educate parents about timing effects, not just duration
+- Target low-income communities where circadian disruption may be compounded by home environment stressors

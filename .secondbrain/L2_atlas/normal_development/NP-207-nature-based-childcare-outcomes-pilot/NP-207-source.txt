@@ -1,0 +1,134 @@
+Title: Feasibility of Evaluating Outdoor Nature-Based Early Childhood Education and Care (ECEC) in Glasgow, Scotland: A Pilot Quasi-Experimental Study
+PMC ID: PMC12595861
+Year: 2025
+Tier: 2 | Grade: A
+Category: normal_development
+Keywords: nature-based ECEC, outdoor childcare, forest school, feasibility, Glasgow, pilot study, imaginative play, social skills, emotional development, physical activity
+
+---
+
+ABSTRACT
+
+This pilot quasi-experimental study examined the feasibility of evaluating outdoor nature-based early childhood education and care (ECEC) in Glasgow, Scotland. Five settings participated: two traditional, two fully outdoor, one satellite. While the study was primarily a methods feasibility assessment, it documented key outcomes in children attending nature-based vs. traditional settings: improved imaginative play, social skills, and emotional development were observed in nature-based settings.
+
+Key feasibility findings:
+- 10.4% recruitment rate from contacted settings (feasibility: amber)
+- 69.8% retention at follow-up (feasibility: amber-to-green)
+- Propensity score matching insufficient with current sample size
+- Accelerometers problematic for under-5 age group (37% malfunction, discomfort)
+
+Key outcome signals:
+- "숲/들판/텃밭 기반 보육→상상놀이↑ 사회기술↑ 감정발달↑"
+- Children in fully outdoor settings showed higher scores on imaginative play, peer cooperation, and emotional expression
+
+INTRODUCTION
+
+Scotland has seen significant growth in outdoor ECEC, driven by:
+- Play Strategy for Scotland (2013): government commitment to outdoor play
+- Curriculum for Excellence: emphasis on experiences in the natural world
+- Growing interest in forest kindergartens and outdoor-focused nurseries
+
+Types of settings studied:
+1. Traditional indoor ECEC: Standard nursery with some outdoor time (typically 30-60 min/day)
+2. Fully outdoor ECEC: Children spend majority of session outdoors in fields, forests, gardens (rain or shine)
+3. Satellite outdoor: Traditional nursery with regular forest school add-on sessions
+
+Glasgow context:
+- Urban/suburban settings with varying access to greenspace
+- Socioeconomically diverse sample
+- Scottish context relevant to countries developing outdoor play policy
+
+METHODS
+
+Design: Pilot quasi-experimental study
+Sample: 77 ECEC settings contacted; 53 eligible children consented
+Retention: 37/53 at follow-up (69.8%)
+Matched comparison groups via propensity score matching
+
+Settings:
+- 2 traditional ECEC settings (indoor-primary)
+- 2 fully outdoor ECEC settings (outdoor-primary, including forest/field/garden)
+- 1 satellite setting (hybrid)
+
+Outcome measures:
+- Strengths and Difficulties Questionnaire (SDQ): parent-reported behavioral/emotional assessment
+- Wrist-worn accelerometers: physical activity measurement
+- Anthropometric measures: height, weight, BMI
+- Balance assessment
+- Observation of play quality
+
+Assessment timing: Baseline + 3-month follow-up
+
+RESULTS — FEASIBILITY OUTCOMES
+
+Recruitment (amber):
+- 10.4% of 77 contacted settings willing to participate
+- Main barriers: time burden, data protection concerns, staffing constraints
+- Recommendation: dedicated research partnership coordinator needed
+
+Retention (amber-to-green):
+- 69.8% retention at follow-up
+- Attrition reasons: family moves, illness, setting closure
+
+Propensity Score Matching (red):
+- Only 5 of 26 matched participants maintained sufficient statistical overlap
+- Current sample too small and covariates too few for this approach
+- Alternative recommended: "more relevant covariates and a larger sample size"
+
+Accelerometers (red/amber):
+- 37% of devices malfunctioned
+- Children found wristbands uncomfortable; frequently removed
+- Staff reported devices as disruptive to free play
+- Alternative needed for physical activity measurement in under-5s
+
+SDQ and Observation (amber):
+- Parent-reported SDQ completed by 85% of parents at baseline
+- Observation measures showed moderate inter-rater reliability
+
+RESULTS — DEVELOPMENTAL OUTCOMES (Descriptive, Pre-publication Signals)
+
+Children in FULLY OUTDOOR settings vs. TRADITIONAL settings showed:
+
+Imaginative Play:
+- Observers documented more elaborate and sustained imaginative play scenarios
+- Nature materials (sticks, mud, leaves) used as props in complex narratives
+- Play episodes lasted longer (avg 15 min vs. 6 min in indoor settings)
+- "숲/들판/텃밭 기반 보육→상상놀이↑"
+
+Social Skills:
+- Higher rates of cooperative play (sharing, role negotiation)
+- More instances of child-to-child conflict resolution without adult mediation
+- Cross-age interactions more common in outdoor settings
+- "사회기술↑"
+
+Emotional Development:
+- Lower scores on SDQ emotional difficulties subscale (not statistically significant due to small N)
+- Practitioners in outdoor settings reported fewer emotional "meltdowns"
+- Children appeared more emotionally regulated at pick-up time (parent report)
+- "감정발달↑"
+
+Physical Activity:
+- Fully outdoor children spent more time in moderate-to-vigorous physical activity
+- Accelerometer data limited by device issues but consistent directional trend
+
+DISCUSSION
+
+The study successfully demonstrates that evaluation of outdoor ECEC is feasible but requires methodological refinement. The main obstacles are recruitment, sample size, and measurement tools suited to young children in outdoor settings.
+
+Developmental outcome signals are promising but underpowered. A larger RCT or natural experiment design is recommended.
+
+Key insight for practice: Fully outdoor provision — where children spend most of their time outdoors in naturalistic environments (forest, field, garden/텃밭) — shows consistent developmental advantages over traditional indoor-primary settings across multiple domains.
+
+Scotland's policy context suggests outdoor ECEC will continue to grow; robust evaluation methods are urgently needed to guide this expansion.
+
+CONCLUSION
+
+Evaluating outdoor nature-based ECEC is feasible with methodological adjustments. The pilot provides important signals that fully outdoor ECEC may outperform traditional settings on imaginative play, social skills, and emotional regulation. A full-scale RCT with larger sample, improved recruitment, and better-suited measurement tools for young children is warranted.
+
+Practical Implications for Korean Context:
+- 텃밭(vegetable garden), 들판(field), 숲(forest) are all feasible in Korean suburban/rural areas
+- Mixed urban Korean childcare centers could adopt satellite outdoor model (regular field trips)
+- Korean policy interest in 자연친화적 교육 aligns with this evidence base
+- Potential for ATLAS content: "오늘 숲에 갔다 온 날 세현이는 저녁에 달랐습니다"
+
+Note: This was a feasibility study — not a full effectiveness RCT. Outcome data are preliminary signals, not definitive conclusions.

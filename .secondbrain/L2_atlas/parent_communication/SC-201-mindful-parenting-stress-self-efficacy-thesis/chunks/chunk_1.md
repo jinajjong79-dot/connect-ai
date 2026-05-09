@@ -1,0 +1,44 @@
+마인드풀 양육: 양육스트레스·자기효능감·자기연민에 미치는 영향 (Liberty University 2025)
+Title: Mindful Parenting: The Impact on Parental Stress, Self-Efficacy, and Self-Compassion
+Author: M. Helm
+Institution: Liberty University, Senior Honors Thesis
+Year: 2025
+URL: https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=2583&context=honors
+ATLAS ID: SC-201
+Category: parent_communication / mindful_parenting / parenting_stress / self_efficacy / self_compassion / MBSR / thesis_review
+Note: 본문 HTTP 403 차단 — 부분 초록+공개 색인 내용만 수록
+Tier: 3 | Grade: B
+
+=== 연구 개요 ===
+
+Liberty University 우등생 학위논문. 초등학교 연령 자녀 부모 대상.
+MBSR(마인드풀니스 기반 스트레스 감소)+자기연민 통합 프로그램 효과 리뷰.
+결과 변수: 양육스트레스, 자기효능감, 자기연민.
+
+=== 연구 배경 ===
+
+"부모는 자신의 삶의 도전에 더해 자녀 양육 스트레스까지 감당해야 한다."
+MBSR은 스트레스 관리에 효과적이며, 자기연민 훈련과 통합 시 시너지 효과 기대.
+목표: 부모-자녀 관계 개선, 가족 역동 향상, 아동의 정서조절 역량 증가.
+
+=== 핵심 주제 ===
+
+1. MBSR+자기연민 통합 프로그램이 양육스트레스를 감소시킨다
+2. 자기효능감(양육 자신감)이 매개 변수로 기능
+3. 자기연민 훈련이 부모 소진 방지에 기여
+4. 부모의 마인드풀니스 역량↑ → 아동 정서조절 역량↑ (파급 효과)
+
+=== 시사점 ===
+
+MBSR과 자기연민을 결합한 통합 프로그램이 양육스트레스·자기효능감·자기연민 세 영역을 동시에 다룬다.
+부모 개입이 아동 발달에 직접 이어지는 전달 경로 강조.
+
+=== 채널2 소재 ===
+
+"자기연민과 MBSR을 함께 쓰면 더 강력한 이유" — 통합 프로그램 설계 근거
+"부모의 자기돌봄이 아이를 돌보는 것" — 파급 효과 프레임
+
+출처:
+- Helm M. (2025). Mindful Parenting: The Impact on Parental Stress, Self-Efficacy, and Self-Compassion. Liberty University Senior Honors Thesis. https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=2583&context=honors
+## 관련 문서
+- [[SC-201_selfrag_atlas]] — 공유 엔티티: Liberty University

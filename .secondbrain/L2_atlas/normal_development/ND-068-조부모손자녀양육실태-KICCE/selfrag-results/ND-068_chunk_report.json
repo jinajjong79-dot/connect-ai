@@ -1,0 +1,12 @@
+{
+  "chunk_id": "ND-068_chunk_report",
+  "chunk_summary": "이 청크는 원본 문서의 분할 과정을 보고하는 메타데이터입니다. 원본 파일의 경로, 총 청크 수, 그리고 실제 청크의 크기 및 연령 커버리지 정보를 제공합니다. 실제 내용은 포함되어 있지 않으며, 문서의 구조적 정보를 담고 있습니다.",
+  "key_quotes": [
+    "chunk_id: ND-068_chunk_report",
+    "총 청크: 1개",
+    "연령 커버리지: 0%"
+  ],
+  "checklists": [],
+  "relevance": 0.8,
+  "domain": "normal_development"
+}

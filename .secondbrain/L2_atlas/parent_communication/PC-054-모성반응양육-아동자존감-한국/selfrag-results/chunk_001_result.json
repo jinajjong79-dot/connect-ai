@@ -1,0 +1,19 @@
+{
+  "chunk_id": "pc054_chunk_001",
+  "chunk_summary": "본 연구는 한국 아동패널 데이터를 활용하여 출생부터 3세까지의 어머니의 반응적 양육 태도 궤적과 초등학교 시기 자녀의 자아존중감 간의 연관성을 분석했습니다. 연구 결과, 어머니의 반응적 양육 태도가 낮을수록 자녀의 자아존중감이 낮게 나타났으며, 초기 양육 경험이 후기 발달 단계의 자아존중감에 중요한 예측 변수임을 확인했습니다. 따라서 반응적 양육 개입은 출생 직후부터 일관성 있게 이루어져야 함을 시사합니다.",
+  "key_quotes": [
+    "Longitudinal link confirmed: mother-reported responsive parenting during infancy predicts child-reported self-esteem at first grade",
+    "Early responsive parenting (birth–age 3) is a significant predictor of self-esteem in later developmental stages",
+    "Responsive parenting interventions should begin as early as possible (birth to 36 months)"
+  ],
+  "checklists": [
+    "일관성 있는 반응적 양육 태도 유지 (Consistency in responsive parenting)",
+    "아동의 감정 표현에 민감하게 반응하기 (Responding sensitively to the child's emotional expression)",
+    "초기 양육 경험의 중요성 인식 (Recognizing the importance of early parenting experiences)",
+    "출생 직후부터 36개월까지의 조기 개입 필요 (Need for early intervention from birth to 36 months)"
+  ],
+  "relevance": 0.95,
+  "domain": "parent_communication",
+  "_chunk_num": 1,
+  "_elapsed": 49.0
+}

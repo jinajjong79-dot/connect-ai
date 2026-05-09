@@ -1,0 +1,18 @@
+{
+  "chunk_id": "chunk_5",
+  "chunk_summary": "본 텍스트는 부모의 메타정서 철학이 아동의 발달 결과에 미치는 영향을 설명하는 이론적 모델을 제시합니다. 연구자들은 특히 감정 코칭 메타정서 철학이 부모의 칭찬과 부정적 평가 억제와 관련될 것으로 가정했습니다. 또한, 이러한 부모의 태도가 아동의 정서 조절 능력, 또래 사회성(부정적 정서 억제), 그리고 인지 능력(높은 미주신경 긴장도와 집중력 향상)을 예측할 것이라고 가설을 세우고 있습니다.",
+  "key_quotes": [
+    "we hypothesized that the emotion-coaching meta-emotion philosophy would be related to scaffoldingpraising and to the inhibition of parental derogation.",
+    "We expected that the child's peer social competence would hold in the inhibition of negative affect (Guralnick, 1981), particularly negativity such as aggression, whining, oppositional behavior, fighting requiring parental intervention, sadness, and anxiety with peers.",
+    "We expected that an emotion-coaching meta-emotion philosophy would predict the development of superior cognitive skills of the child (through superior vagal tone and greater ability to focus attention)."
+  ],
+  "checklists": [
+    "메타정서",
+    "감정코칭",
+    "부모 감정철학",
+    "자율신경 조절",
+    "vagal tone"
+  ],
+  "relevance": 0.95,
+  "domain": "emotional_development"
+}

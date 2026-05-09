@@ -1,0 +1,85 @@
+아빠: 초기 아동 발달의 핵심 인물 — 웹 기반 종단 개입 연구
+Title: Fathers as Key Figures Shaping the Foundations of Early Childhood Development: An Exploratory Longitudinal Study on Web-Based Intervention
+Authors: Silvia Cimino, Mimma Tafà, Luca Cerniglia
+Affiliations: (이탈리아)
+Journal: Journal of Clinical Medicine
+Published: 2024년 11월 26일
+Volume: 13(23):7167
+DOI: 10.3390/jcm13237167
+PMCID: PMC11642843
+PMID: 39685626
+ATLAS ID: FI-160
+Category: parent_communication / father_involvement / intervention / video_feedback / depression / anxiety / infant_behavior
+
+=== 연구 개요 ===
+
+웹 기반 화상 피드백 중재(VIT)가 아버지-유아 먹이기 상호작용 및 아버지·자녀의 정신건강에 미치는 효과를 검증한 종단 연구. N=244. 비디오피드백 4주 → 아빠 우울↓ 불안↓ + 자녀 내면화·외현화 문제↓. 온라인 개입 가능성 확인.
+
+=== 연구 설계 ===
+
+표본: 244명 아버지 + 유아 (초기 271명 → 최종 244명)
+유아 평균 연령: 24.2개월 (SD=2.41)
+아버지 평균 연령: 34.17세 (SD=2.31)
+중재: 주 2회, 1시간 원격 세션, 4주
+
+중재 방법 (Video Intervention Therapy, VIT):
+1. 아동 관점 강조 — 배고픔·포만감·자가급식 신호 인식
+2. 아버지 역할 중점 — 공유 정서 경험, 조화 반응, 민감한 적시 반응
+3. 갈등 트리거 인식 — 식사 시간 잠재적 갈등 유발 요인 파악
+
+=== 주요 발견: 아버지 정신건강 (SCL-90-R) ===
+
+| 지표 | T1 | T2 | η² |
+|-----|-----|-----|-----|
+| 우울증 | 0.66 | 0.42 | 0.72** |
+| 불안 | 0.73 | 0.41 | 0.58** |
+| 강박증 | 0.53 | 0.24 | 0.59** |
+| Global Severity Index | 0.85 | 0.66 | 0.74** |
+
+모두 p<0.001, 효과크기 대(η²>0.5)
+
+=== 주요 발견: 아버지-유아 상호작용 (SVIA) ===
+
+| 척도 | η² |
+|-----|-----|
+| 부모 정서 상태 | 0.62** |
+| 상호작용 갈등 | 0.64** |
+| 음식 거부 행동 | 0.68** |
+| 전체 질 | 0.71** |
+
+=== 주요 발견: 자녀 정서/행동 (CBCL) ===
+
+- 내재화 문제: T1 19.51→T2 15.42 (η²=0.61, p<0.001)
+- 외현화 문제: T1 12.44→T2 10.31 (η²=0.58, p<0.001)
+
+=== 메커니즘 ===
+
+아버지 정신건강 개선 경로:
+- 화상 피드백 → 아동 신호 인식 강화 → 상호작용 질 개선
+- 양육 능력감 증진 → 우울·불안 감소
+- 갈등 감소 → 아버지-유아 관계 안정화
+
+자녀 개선 경로:
+- 반응적·민감한 아버지 돌봄 → 정서 조절 학습
+- 안전 애착 형성 → 내재화·외현화 문제 감소
+
+=== 핵심 결론 ===
+
+1. 4주 온라인 개입으로 아빠 우울·불안 대폭 감소 (η²=0.72)
+2. 아빠 정신건강↑ → 자녀 행동 문제↓ (이중 효과)
+3. 텔레헬스 만족도 높음 — 모든 참가자 긍정 평가
+4. 12-24개월이 아빠 개입의 핵심 발달 창
+
+=== 양육 시사점 ===
+
+1. 아빠의 우울·불안이 아이 행동 문제의 위험 요인: 아빠 정신건강 관리가 아이를 돕는다
+2. 온라인으로도 효과적: 4주 주 2회 원격 세션으로 큰 변화 가능
+3. 먹이기 상호작용이 관계의 핵심 창구: 식사 시간이 애착 형성 기회
+4. "아빠도 연습하면 달라진다" — 기술은 배울 수 있다
+
+=== 채널2 시그니처 ===
+
+"아빠의 불안이 낮아지면 아이의 문제도 줄어든다" — 4주 온라인 개입 N=244 실증 근거
+
+출처:
+- Cimino, S., Tafà, M., & Cerniglia, L. (2024). Fathers as Key Figures Shaping the Foundations of Early Childhood Development: An Exploratory Longitudinal Study on Web-Based Intervention. Journal of Clinical Medicine, 13(23), 7167. DOI: 10.3390/jcm13237167. PMCID: PMC11642843.

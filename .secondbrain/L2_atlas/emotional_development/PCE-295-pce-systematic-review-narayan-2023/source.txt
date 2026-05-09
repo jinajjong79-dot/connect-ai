@@ -1,0 +1,39 @@
+# PCE-295 Source
+
+Title: A systematic review of positive childhood experiences and adult outcomes: Promotive and protective processes for resilience in the context of childhood adversity
+Authors: Deborah Han, Nathalie Dieujuste, Jenalee R Doom, Angela J Narayan (University of Denver)
+Journal: Child Abuse & Neglect
+Year: 2023 (Published July 18, 2023; October 2023 issue)
+PMC ID: PMC10528145
+NIHMSID: NIHMS1918500
+
+## Methods
+Study design: 체계적 문헌 리뷰 (PRISMA)
+검색: PubMed, PsycINFO, 2023년 5월까지
+포함 연구: 131건 스크리닝 → 58건 (논문 53 + 학위논문 5)
+특성: 2017-2023 발표 54건; 미국 34건; 중국 10건, 터키 3건
+참여자: n=43~9,468 (M=1,467); 대부분 18세+; 대학생, 지역사회, 임신부, 저소득층 포함
+설계: 대부분 횡단; 전향적 종단 3건뿐
+PCE 측정: 67.2% Benevolent Childhood Experiences(BCE) 척도; 19건 대안 도구
+
+## Key Results
+PCE-ACE 상관관계:
+- r=−.26 to −.62 (26개 연구) → PCE와 ACE는 부분적으로 독립된 경험 세트
+
+주요 결과별:
+정신건강(34건): PCE↑ → 우울·불안·PTSD 증상↓ (대부분 연구, ACE 통제 후에도 유의)
+심리사회 기능(28건): 외로움·수치심·공격성↓; 번성·번영·사회지지·생활만족·자기조절↑
+신체건강(16건): 수면 문제↓, 위험 성행동↓ (물질 사용·신체 활동은 불일치)
+
+★ 핵심 발견: 조절(protective) vs 촉진(promotive) 효과
+- 고전적 조절 효과(PCE×ACE 상호작용): 2건만 확인
+- 촉진 효과(PCE 독립 주효과): 훨씬 더 많음
+- 4건: 고PCE+고ACE = 저PCE+고ACE보다 나쁨 (비선형 관계)
+- "PCE는 ACE를 완충(moderate)하기보다 독립적으로 작용"
+
+Bethell 2019 인용: PCE 6-7 vs 0-2 → 우울 72%↓ (OR=0.28)
+
+## Conclusions
+"PCE는 ACE 노출과 독립적으로 더 나은 결과 예측 — 상호작용보다 독립 효과가 더 일관적"
+PCE와 ACE = 일부 중복하나 상당히 독립된 경험 세트; 동시 보유 가능
+임상 함의: ACE만이 아닌 PCE+ACE 동시 스크리닝 권고

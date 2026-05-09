@@ -1,0 +1,6 @@
+{
+  "error": "parse_failed",
+  "raw": "{\n  \"chunk_id\": \"pc033_chunk_017\",\n  \"chunk_summary\": \"이 청크는 개인의 심리적 상태를 측정하는 두 가지 임상 척도, '증상 체크리스트(Symptoms Checklist)'와 '섭식태도 검사(Eating Attitude Test)'를 설명하고 있다. 증상 체크리스트는 신체적·심리적 증상을 포괄적으로 측정하며, 섭식태도 검사는 거식증 등 섭식장애의 증상을 측정하는 데 사용된다.\",\n  \"key_quotes\": [\n    \"증상 체크리스트(Symptoms Checklist)는 개인의 심리상태를",
+  "_chunk_num": 17,
+  "_elapsed": 58.9
+}

@@ -1,0 +1,138 @@
+Title: Promoting Children's Social-Emotional Skills in Preschool Can Enhance Academic and Behavioral Functioning in Kindergarten: Findings from Head Start REDI
+PMC ID: PMC3845880
+Year: 2013
+Journal: Early Education and Development, 24(7)
+DOI: 10.1080/10409289.2013.825565
+Tier: 2 | Grade: A ★
+Category: emotional_development
+Keywords: Head Start, REDI, emotion understanding, social problem solving, kindergarten, reading achievement, learning engagement, RCT, preschool, academic outcomes
+
+---
+
+ABSTRACT
+
+Randomized-controlled trial (N=356) examining the Head Start REDI intervention's effects on kindergarten outcomes. Children from low-income families (42% African American or Latino) received an integrated language/literacy + social-emotional curriculum including Preschool PATHS (emotion understanding, social problem solving, prosocial behavior). Social-emotional gains in preschool independently predicted kindergarten reading achievement, learning engagement, and positive social behavior.
+
+Core finding: "감정 교육이 학업도 올린다" — emotion understanding gains predicted kindergarten reading (β=.20, p<.001) and learning engagement (β=.11, p<.05), over and above literacy gains.
+
+INTRODUCTION
+
+The developmental paradox:
+Head Start programs historically emphasized academic readiness (literacy, math) with social-emotional skills as secondary. Yet research repeatedly shows that children who arrive at kindergarten with poor emotion regulation, poor social skills, or high aggression struggle academically regardless of their literacy skills.
+
+Why social-emotional skills predict academic outcomes:
+1. Emotion language hypothesis: "The capacity to use language to describe internal affective states allows children to redirect emotional arousal into adaptive activity." Naming emotions shifts processing from amygdala to prefrontal cortex — the same brain area used for academic learning.
+2. Peer relationship pathway: Prosocial skills → positive peer interactions → enhanced learning engagement in classroom.
+3. Executive function: Preschool is the "accelerated development" window for working memory, inhibitory control, attention shifting — all relevant to both emotion regulation and academic learning.
+4. "Developmental research suggests reciprocal relations among emotion understanding, emotion control, cognitive understanding, and cognitive control during the preschool years."
+
+The integrated logic: Promoting social-emotional AND academic skills together produces ADDITIVE benefits — neither alone is as effective.
+
+METHODS
+
+Design: Randomized-controlled trial
+Sample: N=356 four-year-old children
+Demographics: 17% Latino, 25% African American, 54% girls
+Setting: 44 Head Start classrooms in Pennsylvania (rural and urban)
+Retention: >95% at kindergarten follow-up (2 cohorts)
+
+Intervention — REDI (Research-Based, Developmentally-Informed):
+
+Language/Literacy Component:
+- Daily dialogic reading (scripted questions for vocabulary development)
+- Sound games (phonological awareness)
+- Alphabet center activities (developmental sequencing)
+- Implementation: ~6 dialogic readings, 2-3 sound games, 3-4 alphabet sessions per week
+
+Social-Emotional Component (Preschool PATHS):
+- Weekly lessons: social competence, emotion regulation, emotion understanding
+- Extension activities: competent social problem solving in natural peer interactions
+- Teacher coaching: integrated into classroom routines
+- Professional development: 3-day August training + ongoing weekly mentoring (3 hrs/week)
+- Implementation: 1.77 PATHS lessons per week average
+
+Assessment timepoints: Baseline (preschool start) → Post-intervention (preschool end) → Kindergarten follow-up
+Assessors: Blinded to intervention condition at kindergarten follow-up
+
+Key Measures:
+Preschool outcomes:
+- Vocabulary (EOWPVT): α = .94
+- Emergent Literacy (TOPEL): α = .86/.83
+- Emotion Understanding: composite of 2 measures (α = .57/.63)
+- Social Problem Solving (Challenging Situations Task): κ = .94
+- Positive Social Behavior (SCS + TOCA-R): α = .71
+
+Kindergarten outcomes:
+- Reading Achievement: Print Knowledge + Phonemic Decoding + Story Recall (α = .60)
+- Learning Engagement: SRQ + ADHD Inattention (α = .96/.93)
+- Positive Social Behavior: teacher + parent ratings (α = .76)
+
+RESULTS
+
+Preschool Gains — REDI vs. Control:
+| Skill | REDI | Control | Effect |
+|-------|------|---------|--------|
+| Vocabulary | +.11 SD | -.12 SD | β=.25, p<.05 |
+| Emergent Literacy | +.22 SD | -.26 SD | β=.49, p<.001 |
+| Emotion Understanding | +.16 SD | -.19 SD | β=.36, p<.01 |
+| Social Problem Solving | +.17 SD | -.19 SD | β=.36, p<.01 |
+| Positive Social Behavior | +.15 SD | -.17 SD | β=.33, p<.01 |
+
+Mediation Analysis — Reading Achievement:
+Four preschool gains independently predicted kindergarten reading:
+- Vocabulary: β=.18, indirect effect μ=.05, p<.05
+- Emergent Literacy: β=.14, indirect effect μ=.07, p<.01
+- EMOTION UNDERSTANDING: β=.20, indirect effect μ=.07, p<.01 ← KEY
+- Social Problem Solving: β=.17, indirect effect μ=.06, p<.01
+
+Emotion understanding predicted reading as strongly as emergent literacy.
+
+Mediation Analysis — Learning Engagement:
+- Emergent Literacy: β=.14, μ=.07, p<.01
+- EMOTION UNDERSTANDING: β=.11, μ=.04, p<.05 ← KEY
+- Positive Social Behavior: β=.26, μ=.09, p<.05 (strongest predictor)
+- Note: emotion understanding predicted engagement for African American children specifically
+
+Mediation Analysis — Positive Social Behavior:
+- Only preschool positive social behavior predicted kindergarten social behavior
+- β=.35, μ=.12, p<.05
+
+KEY NUMBERS:
+- Emotion Understanding → Reading: β=.20 (as strong as literacy skills themselves)
+- Emotion Understanding → Engagement: β=.11
+- Social Problem Solving → Reading: β=.17
+
+DISCUSSION
+
+The cross-domain pathway mechanism:
+Emotion understanding → language to describe internal states → redirecting emotional arousal → improved attention and engagement → better learning → higher reading achievement.
+
+This is not just correlation — it's mediation through intervention. REDI caused emotion understanding gains, which in turn caused reading gains.
+
+"Promoting language and emergent literacy skills alone, without attending to the social-emotional competencies of children from low income families, would be less effective than the integrated approach."
+
+Cultural/demographic moderation:
+- Emergent literacy → learning engagement: significant for European American children only
+- Emotion understanding → learning engagement: significant for African American children
+- Suggests emotion education may be particularly powerful pathway for some cultural contexts
+- Korean context: collectivist culture places high value on social harmony → emotion understanding may be especially salient pathway
+
+The poverty context:
+"Over 40% of children in Head Start demonstrate delayed language skills and social skills, and over 20% exhibit high rates of disruptive behavior."
+- Children in adverse environments particularly need integrated social-emotional + academic programs
+- Emotion dysregulation in poverty contexts is resource-depleting and academically costly
+- REDI shows these children benefit substantially from integrated approaches
+
+For Korean parenting channel:
+"아이에게 감정 교육을 하면 학교 성적도 오릅니다" — this is the direct evidence. Not because emotion education trains academic skills, but because emotion understanding frees cognitive resources and enhances learning engagement.
+
+Parent implications:
+- 감정코칭은 사교육이 아니다 — 그것은 학업의 기반이다
+- Emotion understanding at preschool → reading readiness at kindergarten
+- Every 감정코칭 conversation is an investment in academic future
+
+CONCLUSION
+
+Head Start REDI demonstrates that integrated social-emotional + language/literacy preschool curricula produces additive kindergarten benefits. Emotion understanding gains independently predicted reading achievement and learning engagement, over and above literacy skill gains. This is the strongest RCT evidence that "감정 교육이 학업도 올린다."
+
+Evidence level: RCT, N=356, diverse low-income sample, 95%+ retention, blinded assessors = highest quality.

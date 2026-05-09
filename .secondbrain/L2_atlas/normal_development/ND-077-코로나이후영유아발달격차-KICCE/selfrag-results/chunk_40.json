@@ -1,0 +1,17 @@
+{
+  "chunk_id": "chunk_40",
+  "chunk_summary": "이 청크는 코로나19 팬데믹 기간 동안의 심리적 어려움, 감염병 노출이 영유아 발달에 미치는 영향, 그리고 사회경제적 요인과 부모의 스트레스에 관한 다양한 연구 문헌들을 포함하고 있습니다. 특히, 코로나19로 인한 아동의 움직임 및 놀이 행동 변화, 그리고 스크린 타임과 아동의 정서적 문제 간의 연관성을 탐색한 연구들이 주목됩니다.",
+  "key_quotes": [
+    "Impact of the COVID-19 virus outbreak on movement and play behaviours of Canadian children and youth: a national survey.",
+    "A nationwide survey of psychological distress among Italian people during the COVID-19 pandemic: immediate psychological responses and associated factors.",
+    "Are emotional and behavioral problems of infants and children aged younger than 7 years related to screen time exposure during the coronavirus disease 2019 confinement?"
+  ],
+  "checklists": [
+    "코로나19 영향",
+    "영유아 발달 격차",
+    "신체활동",
+    "미디어 이용"
+  ],
+  "relevance": 0.9,
+  "domain": "normal_development"
+}

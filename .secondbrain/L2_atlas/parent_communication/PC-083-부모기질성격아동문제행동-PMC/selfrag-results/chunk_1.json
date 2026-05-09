@@ -1,0 +1,18 @@
+{
+  "chunk_id": "chunk_1",
+  "chunk_summary": "부모의 성격이 양육 방식과 자녀의 행동 문제에 미치는 영향은 중요하지만, 이 분야에 대한 연구는 상대적으로 부족했습니다. 따라서 본 연구는 부모의 성격 특성과 자녀의 문제 행동 간의 관계를 조사하는 것을 목표로 합니다. 연구에 참여한 190명의 학령전 외래 환아와 그 부모의 성격은 기질성격검사(TCI)를 통해 측정되었습니다.",
+  "key_quotes": [
+    "Parents have important roles in child rearing, but the influence of their personality on rearing practices and their impact on the behavior of children has received surprisingly little attention.",
+    "The aim of the current study was to investigate the relationship between parents' personality and children's problem behaviors.",
+    "The personality profiles of both parents were measured by the Temperament and Character Inventory"
+  ],
+  "checklists": [
+    "TCI 기질성격검사",
+    "위험회피",
+    "자기지향성",
+    "아동 CBCL 문제행동",
+    "부모 성격 관련 항목"
+  ],
+  "relevance": 0.9,
+  "domain": "parent_communication"
+}

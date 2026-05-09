@@ -1,0 +1,63 @@
+정서기반예방프로그램(EBP) → 위험군 유아 감정지식·적응행동 (Head Start RCT)
+Title: Emotion-based preventive intervention: Effectively promoting emotion knowledge and adaptive behavior among at-risk preschoolers
+Authors: Kristy J Finlon, Carroll E Izard, Adina Seidenfeld, Stacy R Johnson, Elizabeth Woodburn Cavadel, E Stephanie Krauthamer Ewing, Judith K Morgan
+Affiliations: (미국)
+Journal: Development and Psychopathology (Developmental Psychopathology)
+Published: 2015년 11월
+Volume: 27(4 Pt 1):1353-1365
+DOI: 10.1017/S0954579414001461
+PMCID: PMC4602163
+PMID: 26439080
+ATLAS ID: ER-175
+Category: emotional_development / emotion_regulation / prevention_program / preschool / Head_Start / RCT / emotion_knowledge
+
+=== 연구 개요 ===
+
+저소득 다문화 Head Start 유아 N=248. 정서기반예방프로그램(EBP) vs 문제해결 프로그램(ICPS) 효과비교. 감정 인식·조절·활용 3축 프로그램. 교사+부모 메시지 병행. EBP가 감정 지식↑·부정 정서↓·내재화 문제↓에서 ICPS보다 우수.
+
+=== 연구 설계 ===
+
+표본: N=248 저소득 다문화 Head Start 유아 (취학전)
+설계: 효과성 시험 (effectiveness trial) — EBP vs ICPS 비교
+측정: 직접 아동 평가 + 교사 보고 + 부모 인터뷰 + 독립 관찰
+조절변수: 누적 위험도, 부모 우울증 증상, 교실 환경
+
+=== 주요 결과 ===
+
+EBP vs ICPS 비교:
+- 감정 지식: EBP 아동이 "더 많이 증가"
+- 부정 정서 표현: EBP 아동에서 더 큰 감소
+- 내재화 행동: EBP 아동에서 더 큰 감소
+
+조절변수:
+- 누적 위험↑ 아동 → EBP가 ICPS보다 특히 효과적
+- 부모 우울증 높은 경우 → EBP 효과 두드러짐
+- 지지가 적은 교실 환경 → EBP 우위
+- 교사 프로그램 충실도: "일관되게 잘 유지"
+
+=== EBP 프로그램 3축 구조 ===
+
+| 축 | 내용 |
+|---|---|
+| 감정 인식 | 자신·타인의 감정 인식 훈련 |
+| 감정 조절 | 감정 강도 조절, 진정 전략 |
+| 감정 활용 | 감정을 사회적 상호작용에 사용 |
+
+교사 + 부모 메시지 병행 → 가정-유치원 연계 효과
+
+=== 핵심 결론 ===
+
+1. 감정 인식·조절·활용 3축 통합 프로그램이 문제해결 중심보다 감정 발달에 효과적
+2. 가장 위험한 환경(누적 위험↑, 부모 우울↑)의 아이에게 EBP 효과가 가장 크다
+3. 교사 훈련으로 충실도 유지 가능 — 대규모 보급 가능성
+4. 가정-기관 연계(부모 메시지)가 프로그램 효과를 강화
+
+=== 양육 시사점 ===
+
+1. 감정 이름 붙이기(인식) → 조절 → 활용의 순서가 중요하다
+2. 아이가 힘든 환경일수록 감정코칭 개입이 더 큰 효과를 낸다
+3. 유치원 선생님과 부모가 같은 언어로 감정 이야기하면 시너지가 난다
+4. 채널2가 EBP의 가정 버전 역할 가능 — "엄마·아빠 메시지" 형식
+
+출처:
+- Finlon, K.J., Izard, C.E., Seidenfeld, A., Johnson, S.R., Cavadel, E.W., Krauthamer Ewing, E.S., & Morgan, J.K. (2015). Emotion-based preventive intervention: Effectively promoting emotion knowledge and adaptive behavior among at-risk preschoolers. Development and Psychopathology, 27(4 Pt 1), 1353-1365. DOI: 10.1017/S0954579414001461. PMCID: PMC4602163.

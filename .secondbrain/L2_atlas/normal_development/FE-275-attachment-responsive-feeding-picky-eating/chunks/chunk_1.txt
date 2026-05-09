@@ -1,0 +1,32 @@
+ATLAS ID: FE-275
+Source: PMC10796209
+Author: Iwinski, Cole, Saltzman, Donovan, Lee, Fiese & Bost (2020)
+Journal: Eating Behaviors
+Domain: normal_development
+Tier: 2
+Grade: A
+
+---
+
+Iwinski et al. (2020). Eating Behaviors. PMC10796209. N=110 families. Child age 18-24 months (M=21 months, SD=2.7). Longitudinal observational — home-based mealtime videotaping + caregiver surveys.
+
+Note: Actual publication year is 2020 (user listed as 2024).
+
+Key findings:
+
+Correlations:
+- Caregiver-reported FR ↔ observed FR: r=0.26, p=.007
+- Caregiver-reported picky eating (PE) ↔ observed PE: ρ=0.21, p=.029
+- Child attachment (smooth interactions) ↔ observed PE: ρ=−0.22, p=.021
+
+Survey regression (Adj.R²=0.17, total R²=0.191):
+- FR → reduced PE: β=−0.33, p≤.001
+- Attachment moderates FR-PE relationship: β=−0.22, p=.015
+
+Observational regression:
+- FR → reduced PE incident rate by 34%: IR=0.660 (95% CI: 0.472–0.923)
+- FR × Attachment interaction: IR=0.669, p=.024
+
+Conclusion: Secure attachment behaviors ENHANCE the effect of responsive feeding on reducing picky eating. Relationship quality amplifies feeding effectiveness.
+
+Key concept: "안전 애착→반응적 수유 효과 강화(β=−0.22 조절 효과): 관계 질이 좋을수록 반응적 수유→편식↓ 경로 더 강력. '관계가 좋으면 밥도 잘 먹는다' 기제 확인"

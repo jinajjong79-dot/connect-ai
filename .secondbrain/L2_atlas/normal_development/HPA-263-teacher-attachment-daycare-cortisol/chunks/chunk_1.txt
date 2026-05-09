@@ -1,0 +1,28 @@
+ATLAS ID: HPA-263
+Source: PMC3295236
+Author: Badanes, Dmitrieva & Watamura (2012)
+Journal: Early Childhood Research Quarterly
+Domain: normal_development
+Tier: 2
+Grade: A
+
+---
+
+Badanes, Dmitrieva & Watamura (2012). Early Childhood Research Quarterly. PMC3295236. N=110 preschoolers, ages 2.03-5.38 years (M=4.03).
+
+Study design: Measured cortisol at daycare across the day (morning, midday, afternoon). Maternal attachment (Strange Situation) and teacher attachment security rated. Classroom quality assessed independently.
+
+Key findings:
+- Teacher security → FALLING cortisol across daycare day: β=-.07, p<.05 (HLM)
+- Maternal security → cortisol: NOT significant alone (β=.01, ns) — R²=.50 for model
+- Age predictor: β=-.03, p<.01 (older children show more natural decline)
+- Morning cortisol predicts change: β=-.70, p<.001
+
+INTERACTION (maternal security × classroom quality):
+- Secure maternal + HIGH-quality care = optimal decreasing cortisol (best outcome)
+- Secure maternal + LOWER-quality care = RISING cortisol (stress signal)
+- Insecure maternal: flat patterns regardless of classroom quality
+
+Mechanism: Teacher-child secure relationship directly buffers HPA activation during daycare. Maternal security alone insufficient — must combine with quality daycare environment.
+
+Key concept: "어린이집에서의 코르티솔 완충 = 교사-아동 안전 애착이 직접 효과; 엄마 애착은 단독 효과 없음, 양질 보육과의 상호작용으로만 작동"

@@ -1,0 +1,58 @@
+모성·부성 민감성 → 아동 애착 안정성 메타분석 (Psychological Bulletin 2024)
+Title: Maternal and paternal sensitivity: Key determinants of child attachment security examined through meta-analysis
+Authors: Sheri Madigan, Audrey-Ann Deneault, Robbie Duschinsky, Marian J Bakermans-Kranenburg, Carlo Schuengel, Marinus H van IJzendoorn, Anh Ly, R M Pasco Fearon, Rachel Eirich, Marije L Verhage
+Affiliations: (국제 컨소시엄)
+Journal: Psychological Bulletin
+Published: 2024년 7월
+DOI: 10.1037/bul0000433
+PMID: 38709619
+ATLAS ID: FI-169
+Category: emotional_development / paternal_sensitivity / maternal_sensitivity / attachment / meta-analysis
+Note: 본문 유료 — 초록 + 결과 기반 요약
+
+=== 연구 개요 ===
+
+k=174 연구, N=22,914. 양육자 민감성과 아동-양육자 애착 안정성의 메타분석. 민감성 = "아이의 신호에 주목하고, 해석하며, 신속하게 반응하는 능력". 모성(k=159)·부성(k=22) 민감성 비교. 조절변수 분석.
+
+=== 주요 메타분석 결과 ===
+
+전체 효과:
+- 모든 양육자-아동: r=0.25 [0.22, 0.28], k=174, N=22,914
+
+모성 민감성:
+- r=0.26 [0.22, 0.29], k=159, N=21,483
+
+부성 민감성:
+- r=0.21 [0.14, 0.27], k=22, N=1,626
+
+불안정 애착과 민감성 부적 상관 (모성):
+- 회피형 애착: r=-0.24 [-.34, -.13], k=43
+- 저항형 애착: r=-0.12 [-.19, -.06], k=43
+- 무질서형 애착: r=-0.19 [-.27, -.11], k=24
+
+=== 조절변수 분석 ===
+
+모성 민감성:
+- Attachment Q-Sort 사용 시 더 큰 효과
+- 더 긴 관찰 기간 + 짧은 평가 간격에서 효과 강화
+
+부성 민감성 주요 조절변수:
+- 나이가 많은 아버지와 아동에서 더 큰 효과
+→ "아빠 민감성 효과는 아이와 아빠가 함께 나이 들수록 강해진다"
+
+=== 핵심 결론 ===
+
+1. 부모 민감성(모·부 모두)이 아동 애착 안정성의 핵심 결정요인 — 메타분석으로 확증
+2. 부성 민감성 효과 (r=0.21)는 모성 (r=0.26)과 유사 수준
+3. 아빠 민감성의 효과는 시간이 지날수록 강해짐 — "아빠와의 관계는 나중에 더 중요해진다"
+4. 불안정 애착(회피·저항·무질서형) 예방에 부모 민감성 개입이 핵심
+
+=== 양육 시사점 ===
+
+1. 아빠의 민감성(아이 신호 읽기)이 애착 안정성을 결정한다 — 시간보다 질
+2. 어릴 때 아빠 민감성 훈련이 장기적으로 더 강력한 효과를 낸다
+3. 모성·부성 민감성은 서로 보완적 — 둘 다 중요
+4. 불안 애착(특히 무질서형)은 부모 민감성 개입으로 예방 가능
+
+출처:
+- Madigan, S., Deneault, A-A., Duschinsky, R., Bakermans-Kranenburg, M.J., Schuengel, C., van IJzendoorn, M.H., Ly, A., Fearon, R.M.P., Eirich, R., & Verhage, M.L. (2024). Maternal and paternal sensitivity: Key determinants of child attachment security examined through meta-analysis. Psychological Bulletin. DOI: 10.1037/bul0000433. PMID: 38709619.

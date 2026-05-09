@@ -1,0 +1,20 @@
+{
+  "chunk_id": "chunk_2",
+  "chunk_summary": "이 청크는 유아기 우울증의 고위험 시기(예: 학령기 시작, 가족 변화, 부모 우울증)를 모니터링하는 것이 중요하며, 부모의 직관을 신뢰할 것을 강조합니다. 조기 개입이 가장 효과적이며, 치료는 관계 중심적 접근(PCIT-ED, 부모 심리치료, CPP)이 선호됩니다. 특히, 유아기 우울증의 경우 약물 치료(SSRI)보다는 부모-자녀 관계 개선에 초점을 맞춘 개입이 필수적입니다.",
+  "key_quotes": [
+    "The importance of identifying depression at the earliest possible point in development cannot be overstated.",
+    "Persistent behavioral change + loss of joy + self-criticism = seek professional evaluation",
+    "Relationship-based interventions are preferred."
+  ],
+  "checklists": [
+    "유아 우울 조기 신호: 지속적인 행동 변화, 즐거움 상실, 자기 비판적 태도",
+    "쾌감소실: (Loss of joy) 확인 필요",
+    "죄책감: (Self-criticism) 확인 필요",
+    "놀이 주제: 부모-자녀 상호작용을 통한 정서적 애착 강화 필요",
+    "정상 발달과의 구분: 학령기 시작이나 가족 변화 시기 조정과 우울증을 구분하여 모니터링",
+    "위험 요인: 부모의 우울증 경험, 심각한 상실 또는 가족 변화, 초기 정서 발달 기술의 결함",
+    "예방 접근: 부모-자녀 상호작용 치료(PCIT-ED), 부모 심리치료, 조기 개입의 중요성"
+  ],
+  "relevance": 0.95,
+  "domain": "emotional_development"
+}

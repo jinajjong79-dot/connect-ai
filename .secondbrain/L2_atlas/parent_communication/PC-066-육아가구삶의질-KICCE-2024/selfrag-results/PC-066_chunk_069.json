@@ -1,0 +1,18 @@
+{
+  "chunk_id": "PC-066_chunk069",
+  "chunk_summary": "이 청크는 육아가구의 삶의 질 제고 방안을 논하기 위한 학술적 참고 문헌 목록을 제공한다. 주요 연구 주제로는 일반적인 삶의 질 측정(WHOQOL), 장애 아동을 둔 가족의 삶의 질, 가족 시간 활용, 부부 간 수면 패턴 변화, 그리고 부모의 심리적 안녕감 등 광범위한 영역이 포함되어 있다. 이는 육아가구의 다차원적인 복지 증진에 대한 이론적 배경을 구축한다.",
+  "key_quotes": [
+    "Quality of life and the individual’s perspective.",
+    "Family quality of life: An international perspective",
+    "The fourth shift: exploring the gendered nature of sleep disruption among couples with children."
+  ],
+  "checklists": [
+    "양육분담",
+    "삶의 질",
+    "육아스트레스",
+    "부부관계",
+    "일-가정 양립"
+  ],
+  "relevance": 0.95,
+  "domain": "family_wellbeing"
+}

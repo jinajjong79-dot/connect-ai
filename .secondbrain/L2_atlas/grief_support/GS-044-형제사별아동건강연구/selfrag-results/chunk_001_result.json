@@ -1,0 +1,18 @@
+{
+  "chunk_id": "gs044_chunk_001",
+  "chunk_summary": "이 연구는 형제 사별 후 생존 아동의 건강에 대한 부모와 아동의 인식을 비교 분석했습니다. 부모들은 아동의 건강 상태를 체계적으로 과대평가하는 경향이 있으며, 아동은 부모를 보호하기 위해 어려움을 숨길 수 있다는 임상적 시사점을 제시합니다. 정신 건강 측면에서는 초기 불안이 주된 반응으로 나타나지만, 시간이 지남에 따라 우울증이 나타나는 경향을 보였습니다.",
+  "key_quotes": [
+    "Parents systematically overestimate surviving children's health — children may be masking distress to protect parents",
+    "Anxiety is the primary early response; decreases over time",
+    "Depression emerges later (2 → 4 months)"
+  ],
+  "checklists": [
+    "parental bias assessment (overestimation of child's health)",
+    "screening for masked distress in bereaved children",
+    "monitoring for delayed onset of depression (2-4 months)"
+  ],
+  "relevance": 0.9,
+  "domain": "grief_support",
+  "_chunk_num": 1,
+  "_elapsed": 80.2
+}

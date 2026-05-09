@@ -1,0 +1,35 @@
+ATLAS ID: FE-276
+Source: PMC12340540
+Author: Zeyrek, Güney, Özaslan & Dikmen (2025)
+Journal: Brain and Behavior
+Domain: normal_development
+Tier: 2
+Grade: A ★
+
+---
+
+Zeyrek, Güney, Özaslan & Dikmen (2025). Brain and Behavior. PMC12340540. N=203 Turkish preschoolers, ages 3-6 years.
+
+Key findings:
+
+Parental feeding style → child eating:
+- Emotional feeding → emotional overeating: r=0.316, p<.01
+- Instrumental feeding → food responsiveness: B=0.22, p=.028
+- Tight/coercive feeding control → food responsiveness↑: B=0.27, p=.008
+- Tolerance-controlled feeding → desire to drink↓: B=−0.18, p=.032
+
+Child temperament → eating:
+- Negative affect → enjoyment of food↓: r=−0.255, p<.01 (편식 관련)
+- Negative affect → satiety responsiveness↑: r=0.347, p<.01 (포만감 과반응)
+- Surgency → desire to drink↑: B=0.04, p=.001
+- Effortful control → emotional overeating↓: r=−0.207, p<.01
+
+Model R²:
+- Food responsiveness: 13%
+- Emotional overeating: 17%
+- Satiety responsiveness: 22%
+- Slowness in eating: 19%
+
+Conclusion: "Parental feeding behaviors and temperamental traits significantly influence children's eating behaviors." Tight control amplifies food responsiveness (not desired outcome). Negative affect temperament → less food enjoyment + more satiety sensitivity.
+
+Key concept: "기질×양육 상호작용: 부정적 정서 기질↑→음식 즐거움↓(r=−.255); 강압적 수유 통제→음식 반응성↑(B=0.27); 기질 맞춤 식사 접근 필요"

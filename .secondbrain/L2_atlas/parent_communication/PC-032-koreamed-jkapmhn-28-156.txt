@@ -1,0 +1,1488 @@
+J Korean Acad Psychiatr Ment Health Nurs
+
+ISSN (Print) 1225-8482 | ISSN (Online) 2288-4653
+https://doi.org/10.12934/jkpmhn.2019.28.2.156
+
+Vol. 28 No. 2, 156-164, June 2019
+
+사별을 경험한 성인의 정신건강 영향요인
+강문희1 · 김선희2
+충남대학교 간호대학 부교수1, 충남대학교 대학원 간호학과 박사과정2
+
+Factors Influencing on Mental Health of
+Adults Who Have Experienced Bereavement
+Gang, Moonhee1 · Kim, Sun Hee2
+1
+
+Associate Professor, College of Nursing Chungnam National University, Daejeon
+Doctoral Student, College of Nursing Chungnam National University, Daejeon, Korea
+
+2
+
+Purpose: The aim of this study was to identify factors influencing on the mental health in bereaved adults. Methods:
+A descriptive and correlational study was conducted in 160 adults who had experienced bereavement. The collected
+data was analyzed using descriptive statistics, Pearson’s correlation, and hierarchical multiple linear regression analyses with SPSS 26.0. Results: The participants’ mental health showed a positive correlation with complicated grief
+(r=.31, p<.001) and a negative correlation with grief and meaning reconstruction (r=-.30, p<.001). Sex, sleeping
+time, intimacy with the deceased, grief reaction, and grief and meaning reconstruction were significant factors influencing on the mental health. The total explanatory power of these variables was 31.8%. Conclusion: It is necessary
+to explore the persistent and impairing grief after experiencing bereavement. Our study findings will be fundamental
+evidence to develop nursing interventions to improve adult mental health dealing with bereavement and grief.
+Key Words: Bereavement; Grief; Mental health; Adult
+
+서
+
+론
+
+1. 연구의 필요성
+
+인의 건강한 삶뿐만 아니라 가족, 나아가서는 생산성에 영향을
+주어 사회, 경제적인 측면에서도 상당한 손실을 가져올 수 있다
+는 점에서 삶에서 매우 중요한 부분이다.
+선행연구에 따르면, 사별을 경험한 성인의 주요 정신건강문
+
+통계청에 의하면, 연간 총 사망자 수 2017년 28만 5천 500여
+
+제는 우울, 불안, 불면증, 소외감 등이 보고되고 있으며, 자살 충
+
+명, 2018년 29만 8천 900여 명으로 추산되어 총 사망자 수는
+
+동 및 정신질환 이환율을 증가시키고 사회적 고립감 또는 위축
+
+4.7%의 증가를 보였다[1]. 특히 가족 또는 가까운 지인을 상실
+
+을 야기시켜 결국 죽음에까지도 이르게 할 수 있다[2,3]. 사별
+
+하게 되는 ‘사별’은 인간이 살아가면서 겪게 되는 정신적으로
+
+에 대한 연구는 주로 청소년의 부모와의 사별 경험[4], 노인의
+
+충격적인 사건과 동시에 정상적인 성숙의 과정이다. 하지만 사
+
+배우자와의 사별경험[5]을 다룬 질적연구가 많았다. 또한 일반
+
+별 후 반응은 생애주기에 따라 차이가 있으며 신체적 건강뿐만
+
+적인 성인을 대상으로 한 연구에서도 배우자 또는 자녀와의 사
+
+아니라 정신적 건강에 영향을 미치게 된다[2]. 정신건강은 개
+
+별경험이 주를 이루어 고인과의 관계나 사망원인이 다양하지
+
+주요어: 사별, 애도, 정신건강, 성인
+
+Corresponding author: Kim, Sun Hee https://orcid.org/0000-0003-0628-2013
+College of Nursing, Chungnam National University, 266 Munhwa-ro, Jung-gu, Daejeon 35015, Korea.
+Tel: +82-42-580-8332, Fax: +82-42-580-8309, E-mail: sunnny_kim@naver.com
+Received: Mar 7, 2019 | Revised: Apr 15, 2019 | Accepted: Apr 30, 2019
+This is an open access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/3.0), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+ⓒ 2019 The Korean Academy of Psychiatric and Mental Health Nursing
+
+http://www.mhnursing.or.kr
+
+사별을 경험한 성인의 정신건강 영향요인
+
+않았다[6,7]. 사별을 경험한 성인을 대상으로 한 정신건강 관련
+
+따라서 본 연구는 사별을 경험한 성인을 대상으로 애도반응,
+
+선행연구를 살펴보면, 암으로 자녀와 사별한 어머니의 슬픔단
+
+복합성 애도, 사회적 반응 및 애도의 의미 재구성을 파악하고,
+
+계에 따른 반응으로 자녀 죽음에 대한 현실감 저하, 죽음과 관
+
+정신건강에 미치는 영향요인을 확인하고자 한다.
+
+련된 상황을 자꾸 떠올림, 집중력 저하, 환상 증가 등의 반응이
+나타났고, 자녀와의 친밀감과 사회적 지지에 따라 자녀를 잃은
+
+2. 연구목적
+
+슬픔에 영향을 주는 것으로 나타났다[6]. 배우자의 사별과 우
+울감의 관계에 있어서 공식적인 사회참여보다 친척이나 친구
+
+본 연구의 목적은 사별을 경험한 성인의 애도반응, 복합성
+
+와의 비공식적 사회참여가 배우자 사별과 우울감의 관계를 매
+
+애도, 사회적 반응, 애도의 의미 재구성 및 정신건강의 정도를
+
+개한다고 하였다[7].
+
+파악하고 정신건강에 영향을 미치는 요인을 파악하는 것이다.
+
+애도반응은 사별을 경험한 사람의 정상적이고 자연스러운
+
+ 대상자의 일반적 특성, 애도반응, 복합성 애도, 사회적 반
+
+반응으로 인지적, 행동적, 신체적으로 표출되는 다양한 증상을
+
+응, 애도의 의미 재구성 및 정신건강의 정도를 파악한다.
+
+포함하는 복잡한 증후군이며 고인과의 관계, 사별 기간의 경과
+
+ 대상자의 일반적 특성에 따른 정신건강의 차이를 파악
+
+에서 차이를 보인다[8]. 또한 애도는 그 자체로 신체적, 정신적
+질환을 일으킬 수 있는 심각한 정신적 스트레스 요인으로 작용
+
+한다.
+ 대상자의 애도반응, 복합성 애도, 사회적 반응, 애도의 의
+
+하기도 한다[2]. 특히 복합성 애도(complicated grief)는 병리
+
+미 재구성 및 정신건강 간의 상관관계를 분석한다.
+
+적인 애도, 외상성 애도라고 표현되기도 하는데[9], 이는 죽은
+
+ 대상자의 정신건강에 영향을 미치는 요인을 파악한다.
+
+자에 대한 간절한 생각과 함께 강렬한 비통함이 지속되는 애도
+로서 상실에 대한 기억이 반복적으로 떠올라 신체적, 정신적,
+
+연구방법
+
+사회적 기능의 손상을 초래한다[10]. 복합성 애도는 남성에 비
+하여 여성에게 더 잘 발생하며, 자녀와의 사별을 경험한 경우
+
+1. 연구설계
+
+높은 유병률을 보이고, 사고나 자살, 타살과 같은 사고로 인하
+여 사별을 하게 된 경우에 신체적, 정신적 질환의 위험성이 높
+
+본 연구는 사별을 경험한 성인의 애도반응, 복합성 애도, 사
+
+아진다고 보고되었다[11]. 그리고 일상생활에서 충격적인 사
+
+회적 반응, 애도의 의미 재구성 및 정신건강의 정도를 파악하고
+
+건을 경험한 사람들은 주변 사람들과 자신의 경험에 대해 이야
+
+정신건강에 영향을 미치는 요인을 파악하기 위한 서술적 상관
+
+기를 나누며 회복하는 과정을 겪게 되는데[12], 이러한 외상경
+
+관계 조사연구이다.
+
+험에 대하여 타인에게 이야기하는 것은 심리적인 고통을 낮추
+며 주관적 안녕감을 향상시킬 수 있다는 연구결과가 있다[13].
+
+2. 연구대상
+
+하지만 사별 후 주변에서 고인의 부주의를 비난하거나 사별 경
+험자를 이전과 다르게 대우하는 등의 부정적인 사회적 반응을
+
+본 연구의 대상자는 일개 지역에 거주하며, 의미 있는 대상
+
+받는 것은 오히려 정신건강과 관련하여 여러 심리적 부적응을
+
+과 사별한지 6개월 이상이 된 자이다. 연구참여에 서면 동의한
+
+초래하는 것으로 나타났다[14,15]. 또한 의미 재구성은 고통을
+
+만 19세 이상 성인으로 20대부터 60대까지 다양한 연령대로 남
+
+극복하기 위해 이전의 의미 구조를 새롭게 변화시키고 조정하
+
+녀 성비를 고려하여 모집하였다. 사별을 경험한지 6개월 이내
+
+려는 시도를 하는 것이다[14]. 이러한 의미 재구성은 시련과 역
+
+의 대상자는 연구참여가 심리적인 고통이 가중될 수 있기 때문
+
+경의 상황에서 사건의 의미를 찾고자 하는 시도로서 적응적 대
+
+에 제외하였다.
+
+처방식의 촉진제가 되었다는 보고가 있으며[16], 가족구성원
+
+대상자 수는 G*Power 3.1 프로그램을 이용하여 회귀분석
+
+의 상실을 경험한 사람들이 의미 재구성 과정을 통하여 상실감
+
+을 위해 양측검정, 효과크기 0.15, 검정력 .80, 예측인자 17, 유
+
+을 극복했다는 연구가 있다[17]. 이와 같이 애도반응, 외상 후
+
+의수준 .05로 하였을 때 산출된 대상자 수는 146명이었다. 이를
+
+사회적 반응, 복합성 애도와 애도의 의미 재구성이 정신건강에
+
+근거로 회수율과 응답률 60%를 예상하여 200부의 설문지를
+
+부정적인 영향을 미치게 된다면 고인과의 사별 후 심리적 고통
+
+배부하였으며, 설문에 불성실하게 응답하거나 회수되지 않은
+
+으로 인해 정신건강에 영향을 줄 수 있다. 하지만 성인을 대상으
+
+설문지 40부를 제외한 160부가 최종 분석에 사용되었다.
+
+로 한 심리사회적 영향요인을 살펴본 연구는 부족한 실정이다.
+
+Vol. 28 No. 2, 2019
+
+157
+
+강문희 · 김선희
+
+증상이 심함을 의미한다. 도구의 신뢰도 Cronbach’s ⍺는 .95
+
+3. 자료수집
+
+였고, 본 연구에서는 .97이었다.
+연구자는 일개 지역에 위치한 기차역, 미용실 및 마트의 기
+3) 사회적 반응
+
+관장을 방문하여 연구의 목적과 절차를 설명하고 허락을 받아
+모집공고 또는 부스를 설치하여 자발적으로 연구에 참여하기
+
+Ullman [14]이 개발한 외상사건 개방에 대한 사회적 반응도
+
+를 동의한 대상자를 편의표집하였다. 또한 연구의 주제가 다소
+
+구(Social Reaction Questionnaire, SRQ)를 한국판으로 타당
+
+부정적인 정신건강 문제가 포함되어 있기 때문에 부스 안에서
+
+화한 K-SRQ [21]를 저자의 승인을 받아 사용하였다. 이 도구는
+
+편안하게 설문지를 작성할 수 있도록 공간을 마련하였고, 원하
+
+자신이 경험한 외상사건을 타인에게 이야기했을 때 받을 수 있
+
+는 경우 정신간호사인 연구담당자가 심리적 응급처치 수행 및
+
+는 긍정적, 부정적 사회적 반응을 포괄적으로 측정하기 위해
+
+치료기관을 안내할 것을 약속하였다.
+
+개발되었다. 이 도구는 Likert 5점 척도로 점수가 높을수록 긍
+
+자료수집기간은 2018년 11월부터 12월까지였으며, 연구대
+
+정적 또는 부정적 사회적 반응이 높음을 의미한다. 도구의 신
+
+상자의 윤리적 측면을 보호하기 위해 일개 대학교 생명윤리위
+
+뢰도는 긍정적 사회적 반응 Cronbach’s ⍺는 .95, 부정적 사회
+
+원회의 승인(201810-SB-179-01)을 받은 후 실시하였다. 모든
+
+적 반응 Cronbach’s ⍺는 .90이었고, 본 연구에서는 총 점수를
+
+자료수집은 사전에 훈련을 받은 정신건강간호사와 정신과 간
+
+사용하였으며 Cronbach’s ⍺는 .93이었다.
+
+호사 경력이 있으며 심리상담사 1급 자격증이 있는 연구자가
+4) 애도의 의미 재구성
+
+함께 시행하였다. 연구참여 대상자에게 연구로 인한 이익 및 위
+험, 연구대상자 보호, 연구참여를 언제든지 철회할 수 있음과
+
+Gillies [22]가 개발한 애도의 의미 재구성 도구(Grief and
+
+설문자료의 익명성 보장, 비밀보장, 연구목적 이외 사용되지
+
+Meaning Reconstruction Inventory, GMRI)는 Jo [20]가 번
+
+않음 등을 설명하였고 원하는 경우 정신간호사인 연구담당자
+
+안한 도구를 저자의 승인을 받아 측정하였다. 이 도구는 재조
+
+가 심리적 응급처치 수행 및 치료기관을 안내할 것을 약속하였
+
+직화된 관계의 의미로서 관계의 지속, 성장과 가치발견, 내적
+
+다. 또한 연구대상자의 개인정보는 연구 종료 후 3년간 보관하
+
+평과, 공허함 극복의 4개 요인의 총 29문항으로 구성되었으
+
+고 보관기간이 종료된 후 문서는 파쇄 또는 소각, 영구 삭제할
+
+며, Likert 5점 척도로 점수가 높을수록 사건과 경험에서 의미
+
+것임을 설명하였다. 설문 응답시간은 약 20분 정도 소요되었으
+
+를 만들거나 찾는 정도가 높음을 의미한다. 도구의 신뢰도
+
+며, 설문이 끝난 즉시 회수하였다.
+
+Cronbach’s ⍺는 .84였고, 본 연구에서는 .91이었다.
+
+4. 연구도구
+
+5) 정신건강
+Goldberg와 Hiller [23]이 일반인을 대상으로 정신질환의 선
+
+1) 애도반응
+
+별과 조기발견을 위해 개발한(General Health Questionnaire,
+
+Hwang 등[18]이 사별 후 사람들이 경험할 수 있는 생각, 의
+
+GHQ)를 Park 등[24]에 의해 번역된 축약형을 저자의 승인을
+
+미, 느낌, 행동을 측정하기 위해 개발한 도구로 저자의 승인을
+
+받아 사용하였으며 점수가 높을수록 심리적 고통이 큰 것을 의
+
+받아 사용하였다. Likert 5점 척도로 점수가 높을수록 애도반
+
+미한다. 이 도구는 우울 및 불안, 사회적 역기능의 12문항으로
+
+응의 정도가 높음을 의미한다. 도구의 신뢰도 Cronbach’s ⍺
+
+구성되었으며, 평점법은 0~3점의 Likert 4점 척도를 사용하였
+
+는 .92였고, 본 연구에서도 .92였다.
+
+다. 도구의 신뢰도 Cronbach’s ⍺는 .79였고, 본 연구에서는
+.64였다.
+
+2) 복합성 애도
+Prigerson과 Jacobs [19]가 개발한 복합성 애도 척도 수정판
+
+5. 자료분석
+
+(Inventory of Complicated Grief-Revised)은 복합성 애도 증
+상을 측정하기 위한 자기보고식 척도이며, Jo [20]의 연구에서
+번안한 척도를 저자의 승인을 받아 사용하였다. 복합성 애도는
+
+수집된 자료를 SPSS/WIN 26.0 프로그램을 이용하여 다음
+과 같이 분석하였다.
+
+분리에 대한 고통과 외상적 고통을 반영하는 총 30문항으로 구
+
+ 대상자의 일반적 특성, 애도반응, 복합성 애도, 사회적 반
+
+성되었으며, Likert 5점 척도로 점수가 높을수록 복합성 애도
+
+응, 애도의 의미 재구성 및 정신건강은 빈도와 백분율, 평
+
+158
+
+Journal of Korean Academy of Psychiatric and Mental Health Nursing
+
+사별을 경험한 성인의 정신건강 영향요인
+
+균, 표준편차로 분석하였다.
+ 대상자의 일반적 특성에 따른 애도반응, 복합성 애도, 사
+회적 반응, 애도의 의미 재구성 및 정신건강의 차이는 in-
+
+Table 1. General Characteristics of Participants
+
+(N=160)
+
+Characteristics
+
+Categories
+
+n (%)
+
+Sex
+
+Male
+Female
+
+74 (46.2)
+86 (53.8)
+
+Age
+
+20's
+30's
+40's
+Over 50
+
+28 (17.5)
+53 (33.1)
+45 (28.1)
+34 (21.3)
+
+Sleeping time
+
+≤6 hours
+≥7 hours
+
+64 (40.0)
+96 (60.0)
+
+Physical health
+status
+
+Very healthy
+Healthy
+Normal
+Unhealthy
+
+31 (19.4)
+88 (55.0)
+33 (20.6)
+8 (5.0)
+
+Relationship with
+deceased person
+
+Spouse
+Child
+Parent
+Brother or sister
+Relative
+Other
+
+4 (2.5)
+11 (6.9)
+40 (25.0)
+4 (2.5)
+61 (38.1)
+40 (25.0)
+
+Anticipation of
+bereavement with
+deceased person
+
+Not at all
+Almost unexpected
+Expected to be normal
+Almost expected
+Certainly expected
+
+44 (27.5)
+34 (21.3)
+47 (29.4)
+26 (16.3)
+9 (5.5)
+
+Intimacy with the
+deceased
+
+Not at all intimate
+Not nearly intimate
+Usually intimate
+A little intimate
+Very intimate
+
+4 (2.4)
+20 (12.5)
+51 (31.9)
+34 (21.3)
+51 (31.9)
+
+The death period of
+the deceased (year)
+
+＜1
+1~＜5
+5~＜10
+10~＜15
+15~＜20
+≥20
+
+18 (11.3)
+58 (36.3)
+45 (28.1)
+13 (8.1)
+11 (6.9)
+15 (9.3)
+
+Cause of death
+
+Aging
+Sickness
+Traumatic accident
+Suicide
+Others
+
+43 (26.8)
+82 (51.3)
+20 (12.5)
+8 (5.0)
+7 (4.4)
+
+Self-injury attempt
+
+Yes
+No
+
+5 (3.1)
+155 (96.9)
+
+Suicidal ideation
+
+Yes
+No
+
+46 (28.7)
+114 (71.3)
+
+Suicidal attempt
+
+Yes
+No
+
+7 (4.4)
+153 (95.6)
+
+dependent t-test와 one-way ANOVA로 분석하였고, 사
+후 검정을 위해 Scheffé test를 이용하였다. 분산의 동질성
+이 확보되지 않은 경우는 Kruskal Wallis test, 사후 검정
+을 위해 Mann-Whitney U test를 이용하였다.
+ 대상자의 애도반응, 복합성 애도, 사회적 반응, 애도의 의미
+재구성 및 정신건강 간의 상관관계는 Pearson’s correlation coefficients를 이용하여 확인하였다.
+ 대상자의 애도반응, 복합성 애도, 사회적 반응, 애도의 의
+미 재구성 및 정신건강에 미치는 영향은 multiple linear
+regression으로 분석하였다. 독립변수에 대한 회귀분석
+의 가정을 검정하기 위하여 다중공선성, 잔차, 특이값을
+확인하였다. 먼저 독립변수들 간의 상관계수에서 .80 이
+상인 설명변수가 없어 예측변수들이 독립적임이 확인되
+었으며, 자기 상관을 나타내는 Durbin-Watson 통계량이
+1.68로 자기 상관의 문제는 없었다. 또한 다중공선성을 확
+인한 결과 공차한계(tolerance)가 0.51~0.98로 0.1 이상으
+로 나타났으며, 분산팽창인자(variance inflation factor)
+도 1.02~1.95로 기준인 10 이상을 넘지 않아 다중공선성
+의 문제는 없었다. 잔차의 가정을 충족하는지 확인하기 위
+한 검정을 시행한 결과, 선형성, 오차항의 정규성, 등분산
+성의 가정도 만족하였다. 따라서 회귀식의 가정이 모두 충
+족되어 회귀분석의 결과는 신뢰할 수 있는 것으로 판단되
+었다.
+
+연구결과
+1. 일반적 특성
+대상자의 일반적 특성은 Table 1과 같다. 성별은 여자가
+53.8%로 약간 많았고, 연령은 30대가 33.1%, 40대가 28.1% 순
+으로 많았다. 수면시간은 하루에 6시간 이하가 40.0%, 7시간
+이상이 60.0%였다. 본인의 신체적 건강상태는 ‘건강한 편이다’
+가 55.0%로 가장 많았고, ‘건강하지 않다’는 5%였다. 사별한
+고인과의 관계는 친인척 38.1%, 부모님 25.0% 순으로 나타났
+다. 고인과 사별을 예상했는지에 대해서는 ‘보통 정도로 예상
+함’이 29.4%로 가장 많았고, ‘전혀 예상하지 못함’이 27.5%로
+나타났다. 고인과의 친밀도는 ‘보통 정도로 친밀함’, ‘매우 친
+
+사별한 기간은 1~5년 미만이 36.3%, 5~10년 미만이 28.1% 순
+
+밀함’이 각각 31.9%로 가장 높은 비율을 차지하였고, 고인과의
+
+으로 나타났다. 사별원인으로 질병에 의한 사망이 51.3%로 가
+
+Vol. 28 No. 2, 2019
+
+159
+
+강문희 · 김선희
+
+장 많았고, 자살로 인한 사망도 5.0%를 차지하였다. 자해시도
+
+(F=3.01, p =.020), 자살사고의 경험(t=3.89, p <.001), 자살시
+
+경험은 3.1%, 자살사고의 경험은 28.7%로 나타났고, 자살을
+
+도(t=4.10, p<.001)에 유의미한 차이가 나타났다.
+
+시도한 경험은 4.4%였다.
+
+4. 정신건강의 영향요인
+2. 애도반응, 복합성 애도, 사회적 반응, 애도의 의미
+대상자의 애도반응, 복합성 애도, 사회적 반응, 애도의 의미
+
+재구성 및 정신건강 정도와 상관관계
+
+재구성이 정신건강에 미치는 영향은 Table 4와 같다. 대상자의
+대상자의 애도반응, 복합성 애도, 사회적 반응, 애도의 의미
+
+애도반응, 복합성 애도, 사회적 반응, 애도의 의미 재구성이 정
+
+재구성 및 정신건강은 Table 2와 같다. 대상자의 애도반응 수
+
+신건강에 미치는 영향을 확인하기 위하여 위계적 회귀분석을
+
+준은 155점 만점에 평균 84.15±15.82점이었고, 복합성 애도는
+
+시행하였다. 다변량 분석결과, 일반적 특성 중 정신건강에 차
+
+150점 만점에 평균 46.83±20.23점이었다. 사회적 반응은 176
+
+이를 보인 성별, 수면시간, 고인과의 친밀도와 애도반응, 사회
+
+점 만점에 평균 56.16±22.82점이었고, 애도의 의미 재구성은
+
+적 반응, 복합성 애도, 애도의 의미 재구성을 주요 독립변수로
+
+145점 만점에 평균 96.31±13.48점이었으며 정신건강의 평균
+
+선정하였으며, 이 중 성별, 수면시간, 고인과의 친밀도를 가변
+
+은 36점 만점에 평균 10.62±5.70점으로 나타났다.
+
+수로 처리하였다. 위계적 회귀분석 1단계로 성별, 수면시간,
+
+대상자의 애도반응, 복합성 애도, 사회적 반응, 애도의 의미
+
+고인과의 친밀도를 모형에 투입하고 2단계로 애도반응, 사회
+
+재구성 및 정신건강 간의 상관관계는 Table 2와 같다. 애도반
+
+적 반응, 복합성 애도, 애도의 의미 재구성을 투입하여 분석하
+
+응은 사회적 반응(r=.39, p<.001), 복합성 애도(r=.58, p<.001),
+
+였다.
+
+애도의 의미 재구성(r=.23, p=.004)과 유의한 양의 상관관계를
+
+위계적 회귀분석 1단계로 변수를 모형에 투입한 결과, 여자
+
+보였고, 사회적 반응은 복합성 애도(r=.42, p <.001), 애도의 의
+
+인 경우 심리적 고통이 증가하였고(β=.28, p <.001), 수면시간
+
+미 재구성(r=.24, p =.002)과 유의한 양의 상관관계를 보였다.
+
+이 적은 경우(β=-.16, p =.032), 고인과의 친밀도가 낮은 경우(β
+
+또한 복합성 애도는 정신건강(r=.31, p<.001)과 유의미한 양
+
+=-.17, p =.030) 정신건강의 심리적 고통이 큰 것으로 나타났
+
+의 상관관계를 보였고, 애도의 의미 재구성은 정신건강(r=-.30,
+
+다. 모형의 설명력은 13.3%였다. 위계적 회귀분석 2단계로 애
+
+p <.001)과 유의미한 음의 상관관계를 보였다.
+
+도반응, 복합성 애도, 사회적 반응, 애도의 의미 재구성을 투입
+한 결과, 여자인 경우 심리적 고통이 증가하였고(β=.24, p=
+.001), 수면시간이 적은 경우(β=-.19, p=.007), 고인과의 친밀도
+
+3. 일반적 특성에 따른 정신건강의 차이
+
+가 낮은 경우(β=-.24, p=.001) 정신건강의 심리적 고통이 큰 것
+일반적 특성에 따른 정신건강의 차이는 Table 3과 같다. 대
+
+으로 나타났다. 또한, 애도반응이 높을 경우 심리적 고통이 큰
+
+상자의 정신건강은 성별(t=-3.95, p <.001), 수면시간(t=2.19,
+
+것으로 나타났고(β=.19, p=.040), 사회적 반응은 정신건강에
+
+p =.030), 신체적 건강상태(F=7.60, p <.001), 고인과의 친밀도
+
+영향을 미치지 않는 것으로 나타났다(β=-.13, p=.110). 또한 복
+
+Table 2. Correlations among Study Variables
+
+Variables
+
+Range
+
+M±SD
+
+Grief reaction
+
+31~155
+
+84.15±15.82
+
+Social reaction
+
+0~176
+
+56.16±22.82
+
+Complicated grief
+
+30~150
+
+46.83±20.23
+
+Grief and meaning
+reconstruction
+
+29~145
+
+96.31±13.48
+
+Mental health
+
+0~36
+
+10.62±5.70
+
+160
+
+(N=160)
+Grief
+reaction
+
+Social
+reaction
+
+Complicated
+grief
+
+Grief and
+meaning
+reconstruction
+
+Mental
+health
+
+r (p)
+
+r (p)
+
+r (p)
+
+r (p)
+
+r (p)
+
+1
+
+.39 (＜.001)
+
+.58 (＜.001)
+
+.23 (.004)
+
+.13 (.097)
+
+1
+
+.42 (＜.001)
+
+.24 (.002)
+
+.01 (.942)
+
+1
+
+-.00 (.986)
+
+.31 (＜.001)
+
+1
+
+-.30 (＜.001)
+
+Journal of Korean Academy of Psychiatric and Mental Health Nursing
+
+1
+
+사별을 경험한 성인의 정신건강 영향요인
+
+Table 3. Differences of Mental Health by General Characteristics
+Characteristics
+
+Categories
+
+Sex
+
+(N=160)
+Mental health
+M±SD
+
+t or F (p)
+
+Scheffé
+
+Male
+Female
+
+8.78±5.18
+12.20±5.68
+
+-3.95 (＜.001)
+
+Age
+
+20's
+30's
+40's
+Over 50
+
+12.07±7.37
+9.28±5.12
+10.96±5.73
+11.06±4.70
+
+1.72 (.165)
+
+Sleeping time
+
+6 hours or less
+7 hours or more
+
+11.81±5.99
+9.82±5.38
+
+2.19 (.030)
+
+Physical health status
+
+Very healthya
+b
+Healthy
+c
+Normal
+Unhealthyd
+
+8.19±4.88
+10.01±5.31
+14.24±6.02
+11.75±5.09
+
+7.60 (＜.001)
+
+Relationship with
+deceased person
+
+Spouse
+Child
+Parent
+Brother or sister
+Relative
+Other
+
+12.50±6.56
+10.09±6.46
+10.08±4.37
+7.50±3.42
+10.21±4.59
+12.05±7.87
+
+0.98 (.429)
+
+Anticipation of
+bereavement with
+deceased person
+
+Not at all
+Almost unexpected
+Expected to be normal
+Almost expected
+Certainly expected
+
+11.14±6.18
+11.94±5.79
+8.85±5.04
+10.96±6.10
+11.33±3.39
+
+1.77 (.137)
+
+Intimacy with the
+deceased
+
+Not at all intimatea
+Not nearly intimateb
+Usually intimatec
+A little intimated
+Very intimatee
+
+17.25±8.66
+12.95±5.96
+10.59±6.00
+10.47±5.58
+9.31±4.61
+
+3.01 (.020)
+
+The death period of
+the deceased (year)
+
+＜1
+1~＜5
+5~＜10
+10~＜15
+15~＜20
+≥20
+
+12.94±7.81
+10.84±6.14
+9.84±4.72
+11.46±4.89
+8.55±4.11
+10.07±5.05
+
+1.17 (.328)
+
+Cause of death
+
+Aging
+Sickness
+Traumatic accident
+Suicide
+Others
+
+10.19±4.89
+10.39±5.74
+11.25±7.59
+13.00±5.04
+11.43±5.03
+
+0.53 (.711)
+
+Self-injury attempt
+
+Yes
+No
+
+11.40±4.22
+10.59±5.75
+
+0.31 (.757)
+
+Suicidal ideation
+
+Yes
+No
+
+13.26±5.99
+9.55±5.24
+
+3.89 (＜.001)
+
+Suicidal attempt
+
+Yes
+No
+
+18.86±7.82
+10.24±5.32
+
+4.10 (＜.001)
+
+a＜b,c
+
+a＞e
+
+합성 애도는 높을수록 정신건강의 심리적 고통이 증가하였고
+
+정신건강의 심리적 고통이 증가하는 것으로 나타났다(β= -.28,
+
+(β=.27, p=.002), 마지막으로 애도의 의미 재구성이 낮을수록
+
+p <.001). 최종 모형에서 이들 변수의 총 설명력은 31.8%였다.
+
+Vol. 28 No. 2, 2019
+
+161
+
+강문희 · 김선희
+
+Table 4. Influencing Factors on Mental Health
+Variables
+
+(N=160)
+
+Categories
+
+2
+
+2
+
+β
+
+t (p)
+
+R (Adj. R )
+
+F (p)
+
+†
+
+.28
+-.16
+-.17
+
+3.77 (＜.001)
+-2.17 (.032)
+-2.20 (.030)
+
+.15 (.13)
+
+9.13 (.001)
+
+†
+
+.24
+-.19
+-.24
+.19
+-.13
+.27
+-.28
+
+3.52 (.001)
+-2.74 (.007)
+-3.33 (.001)
+2.08 (.040)
+-1.61 (.110)
+3.14 (.002)
+-3.95 (＜.001)
+
+.35 (.32)
+
+11.58 (＜.001)
+
+Model 1
+
+Sex (female)
+†
+Sleeping time (7 hours or more)
+Intimacy with the deceased† (more than usually intimacy)
+
+Model 2
+
+Sex (female)
+Sleeping time† (7 hours or more)
+†
+Intimacy with the deceased (more than usually intimacy)
+Grief reaction
+Social reaction
+Complicated grief
+Grief and meaning reconstruction
+
+†
+
+Dummy variable: Sex (male=0, female=1); Sleeping time (6 hours or less=0, 7 hours or more=1); Intimacy with the deceased (not at all
+intimate and not nearly intimacy=0, more than usually intimacy=1).
+
+논
+
+구의 사회적 반응 결과는 선행연구와 다소 차이가 있었다. 복합
+
+의
+
+성 애도 또한 911 테러나 세월호 사고와 같이 자연적인 경과의
+
+본 연구는 사별을 경험한 성인의 애도반응, 복합성 애도, 사
+
+사별이 아닌 충격적인 사건의 결과로 사별을 하게 되었을 경우
+
+회적 반응, 애도의 의미 재구성 및 정신건강 정도를 파악하고,
+
+에 강렬한 복합성 애도가 지속된다고 하였다[11,28]. 그러나 본
+
+이들 변수의 관련성을 살펴보며, 정신건강에 미치는 영향요인
+
+연구의 대상자인 사별을 경험한 대상자에게는 고인의 사망 원
+
+을 확인하고자 시도되었다. 본 연구의 결과는 고인과 사별한
+
+인이 타살, 자살 또는 충격적인 사고로 인한 사별을 경험한 대
+
+후 슬픔을 겪으면서 새로운 삶에 적응하기까지 어려움을 완화
+
+상자의 수가 적었다. 이러한 선행연구들과의 비교 결과, 사회
+
+할 수 있는 중재전략 및 자료를 마련할 수 있다는 점에서 의의
+
+적 반응과 복합성 애도는 충격적인 외상성 사건(trauma)을 경
+
+가 있다.
+
+험한 대상자에게 의미가 있을 것으로 생각된다. 그러나 상관분
+
+본 연구에서 파악된 사별한 성인의 애도반응은 총점 155점
+
+석에서 사회적 반응은 복합성 애도와 애도의 의미 재구성에서
+
+에서 평균 84.15점으로 평균점수로 보면 중간수준 이상이었다.
+
+통계적으로 유의미 하다고 나타났고, 복합성 애도는 정신건강
+
+이는 사별로 인한 애도경험이 있는 결과들과 유사한 수준이었
+
+과 유의미함을 나타내어 이 변수들 간에 서로 관련성이 있음에
+
+다. Park [25]의 연구에서는 본 연구와 같은 측정도구를 사용하
+
+의미가 있다.
+
+여 애도반응이 총점 5점 만점에서 평균 2.83점으로 조사되었으
+
+애도의 의미 재구성에서는 총점 145점에서 평균 96.31점으
+
+며, 다른 애도반응 측정도구를 사용한 부모와 사별한 대학생의
+
+로 중간 이상의 점수가 나타났으며 정신건강과 상관관계가
+
+애도경험을 연구한 Youn 등[26]의 연구에서도 중간수준 이상
+
+있어 애도의 의미 재구성 점수가 낮을수록 심리적 고통이 높
+
+으로 나타났다. 이러한 애도반응에 대한 선행연구에서는 사별
+
+게 나타났다. 이러한 연구결과는 외상 후 스트레스 장애(Post
+
+을 경험한 대상자들이 시간이 지남에 따라 외상 후 인간적, 심
+
+Traumatic Syndrome Disorder, PTSD) 위험군일수록 상실
+
+리적 성장을 경험한다고 보고하였다. 이러한 사별에 따른 애도
+
+경험과 관련된 고통 수준이 높은 것이므로 불안, 우울, 신체화
+
+반응에 대한 선행연구를 살펴보았을 때, 본 연구에서 애도반응
+
+증상이 더 높으며 의미 재구성이나 스트레스 관련 성장 수준이
+
+과 사회적 반응, 복합성 애도, 애도의 의미 재구성에서 모두 통
+
+더 낮게 나타났다는 Choi와 Ahn [29]의 연구결과와 일치하
+
+계적으로 유의한 양적 상관관계를 보였다는 측면에서 의미 있
+
+며, 기존의 선행연구들에서도 상실 경험에 대한 의미 재구성
+
+다고 볼 수 있다.
+
+과 같은 인지적 대처 전략이 스트레스 상황에서 더 나은 적응
+
+대상자의 외상 경험 개방에 대한 사회적 반응과 복합성 애도
+
+을 하게 한다는 결과와도 일치한다[25]. 또한 측정도구는 다르
+
+는 모두 평균이 총점의 중간 이하의 점수가 나타났다. 사회적
+
+지만, 부모와 사별한 대학생의 애도경험이 높을수록 삶의 의
+
+반응에 대한 선행연구를 살펴보면, 성적 폭력이나 스트레스 사
+
+미가 구체적으로 형성되었다는 Youn 등[26]의 연구와도 일치
+
+건과 같은 외상 경험을 개방한 경우 비난을 받거나, 낙인이 찍
+
+하는 결과이다.
+
+히는 것과 같은 부정적인 반응을 받기도 하는데[15,27], 본 연
+
+162
+
+Journal of Korean Academy of Psychiatric and Mental Health Nursing
+
+본 연구의 일반적 특성에서 수면시간이 적은 경우 심리적
+
+사별을 경험한 성인의 정신건강 영향요인
+
+고통이 크다고 나타났는데, 이는 수면시간이 적을수록 우울,
+
+결
+
+론
+
+스트레스, 자살생각에 영향을 미친다는 연구[2,3]와 유사한 연
+구결과로 나타났다. 또한 사별한 고인의 사망 원인에 따라서 애
+
+본 연구에서 사별을 경험한 성인의 정신건강에 영향을 미치
+
+도반응과 애도의 의미 재구성에서 유의미한 차이가 나타났는
+
+는 유의한 요인은 성별, 수면시간, 고인과의 친밀도, 애도반응,
+
+데, 자살로 인한 사망이 정신건강에 심각한 문제점으로 나타나
+
+복합성 애도, 애도에 대한 의미 재구성으로 확인되었다. 따라
+
+는 연구[16]가 확인되었으나 본 연구에서는 주로 노화와 질병
+
+서 이러한 연구결과를 기반으로 사별을 경험한 성인의 정신건
+
+으로 인한 사망이 78.2%로 주를 이루어 다양한 사망원인이 선
+
+강을 향상시키기 위해서는 복합성 애도나 수면장애를 예방하
+
+별되지 않아 추후 연구에서는 사망원인에 따른 애도반응이나
+
+고 대상자의 성별과 고인과의 친밀도를 고려하여 적응적인 애
+
+정신건강의 연구가 수행되어야 할 것이다. 자살사고와 자살시
+
+도과정을 경험하고 사별경험에 대한 긍정적 의미를 부여할 수
+
+도의 경험이 애도반응, 복합성 애도, 정신건강과 유의미한 차
+
+있는 다양한 사별관리 프로그램이 제공되어야 할 것이다.
+
+이가 있다고 나타난 본 연구는 배우자 사별을 경험한 독거노인
+의 애도수준과 자살생각 간의 관계를 나타낸 연구의 애도수준
+
+CONFLICTS OF INTEREST
+
+과 자살생각 간의 관계가 없다는 결과와는 다르다[30]. 그러나
+
+The authors declared no conflicts of interest.
+
+자살생각이나 자살시도 경험자들은 정신건강에서 우울과 매
+우 밀접한 관계가 있으므로[30] 사별을 경험한 사람들의 우울
+
+ORCID
+
+감과 자상생각, 자살시도에 대한 추가연구가 필요하다고 사료
+
+Gang, Moonhee
+
+https://orcid.org/0000-0002-3484-061X
+
+된다. 이 또한 본 연구에서 자살생각이나 자살시도 경험자의 수
+
+Kim, Sun Hee
+
+https://orcid.org/0000-0003-0628-2013
+
+가 적기 때문에 나타난 결과라고 생각된다.
+
+REFERENCES
+
+사별을 경험한 성인의 정신건강에 영향을 미치는 요인을 파
+악하기 위해 실시한 위계적 회귀분석결과, 성별, 수면시간, 고
+
+1. Statistics Korea. Statistics of causes of death. Statistical infor-
+
+인과의 친밀도, 애도반응, 복합성 애도, 애도의 의미 재구성이
+
+mation report for users [Internet]. 2018 [cited 2018 Dec]. Avail-
+
+정신건강에 영향을 미치는 요인이었다. 먼저, 대상자의 정신건
+
+able from:
+
+강에 영향을 미치는 가장 큰 영향요인은 애도의 의미 재구성으
+
+https://meta.narastat.kr/metasvc/index.do?confmNo=101054
+
+로 나타났다. 이는 애도의 의미 재구성이 낮을수록 정신건강의
+심리적 고통이 크다는 선행연구결과를 지지하였다[29]. 또한
+수면시간이 정신건강에 영향을 미치는 요인으로 나타났는데
+이는 수면시간이 낮을수록 정신건강에 영향을 미칠 수 있다는
+선행연구[30]와 일치하는 결과이다. 애도반응과 복합성 애도
+반응에서도 정신건강에 미치는 영향요인으로 유의미한 결과
+
+&inputYear=2017
+2. Yang JS, Lyu JY. The development and effect of the grief therapy program for middle-aged women with bereavement. Korean Counseling. 2018;19(3):293-312.
+3. Nam IS. A feminine women's experience and living culture.
+Family and Culture. 2001;13(2):79-106.
+4. Shin JY, Lee DH, Seo EK, Jeon J. A qualitative study on the experience in the marital relationship of adolescent victims' pa-
+
+가 나타났는데, 이는 선행연구[20,28]와 일치한다. 따라서 사별
+
+rents: focusing on the experience of Sewol ferry disaster vic-
+
+을 경험한 성인의 정신건강에서 심리적 고통을 완화하기 위해
+
+tims' families. Korean Journal of Psychology: General. 2018;37
+
+서는 적절한 수면시간과 애도반응, 복합성 애도 반응의 감소,
+애도의 의미 재구성 향상을 위한 노력이 필요하며 이에 대한 중
+재전략의 개발이 이루어져야 할 것이다.
+
+(2):221-255. https://doi.org/10.22257/kjp.2018.06.37.2.221
+5. Choi M, Kim K, Kim D. Experiences of the elderly survivors after spouses' suicide- focusing on the rural areas. Mental Health
+and Social Work. 2016;44(1):76-105.
+
+본 연구는 일개 지역에 거주하고 있는 사별을 경험한 성인을
+
+6. Lee WH, Hwang AR. Grief stages and responses of bereaved
+
+대상으로 편의추출 방법의 자가 보고식 조사였다는 점에서 제
+
+mother who lost her children with cancer. Journal of Korean
+
+한점이 있다. 또한 건강한 성인을 대상으로 시행하였고 사별의
+
+Academy of Nursing. 2003;33(6):847-855.
+https://doi.org/10.4040/jkan.2003.33.6.847
+
+원인을 다양하게 고려하지 못한 점과 사별 기간이 다소 광범위
+
+7. Min J, Choi H. Gender differences in the mediating effects of so-
+
+했다는 점에서 선행연구들과 다소 차이가 있었다고 사료된다.
+
+cial participation on the association between widowhood and
+
+추후 연구에서는 이에 대한 다양한 그룹이 포함되어 연구되어
+
+depressive symptoms: widowhood, social participation, and
+
+야 할 것이다.
+
+depressive symptoms. Journal of Korean Home Management
+
+Vol. 28 No. 2, 2019
+
+163
+
+강문희 · 김선희
+Association. 2015;33(4):67-82.
+
+logy. 2014;21(3):537-560.
+
+https://doi.org/10.7466/JKHMA.2015.33.4.67
+
+19. Prigerson HO, Jacobs SC. Traumatic grief as a distinct dis-
+
+8. Han H, Choi W, Huh S, Heo H, Chae JH. Understanding of
+
+order: a rationale, consensus criteria, and a preliminary em-
+
+complicated grief. Cognitive Behavior Therapy in Korea. 2016;
+
+pirical test. Washington DC: American Psychological Associa-
+
+16(3):383-401.
+
+tion; 2001. 613-646 p.
+
+9. Zhang B, El-Jawahri A, Prigerson HG. Update on bereavement
+
+20. Jo MS. The effect of meaning making and centrality of event on
+
+research: evidence-based guidelines for the diagnosis and treat-
+
+pathological grief symptoms of bereaved family [dissertation].
+
+ment of complicated bereavement. Journal of Palliative Medi-
+
+[Seoul]: The Catholic University of Korea; 2012. 193 p.
+
+cine. 2006;9(5):1188-1203.
+
+21. Sim KS, Ahn HN. A validation of the Korean version of the
+
+https://doi.org/10.1089/jpm.2006.9.1188
+
+Social Reactions Questionnaire. The Korean Journal of Coun-
+
+10. Dutton YC, Zisook S. Adaptation to bereavement. Death Studies. 2005;29(10):877-903.
+
+seling and Psychotherapy. 2014;26(2):271-296.
+22. Gillies JM. Meaning reconstruction in response to bereave-
+
+https://doi.org/10.1080/07481180500298826
+
+ment: constructing a measure [dissertation]. [Tennessee]: The
+
+11. Meert KL, Shear K, Newth CJL, Harrison R, Berger J, Zimmerman J, et al. Follow-up study of complicated grief among pa-
+
+University of Memphis; 2005. 139 p.
+23. Goldberg DP, Hiller VF. A scaled version of the General Health
+
+rents eighteen months after a child's death in the pediatric in-
+
+Questionnaire. Psychological Medicine. 1979;9(1):139-145.
+
+tensive care unit. Journal of Palliative Medicine. 2011;14(2):
+
+24. Park JI, Kim YJ, Cho MJ. Factor structure of the 12-item Gene-
+
+207-214. https://doi.org/10.1089/jpm.2010.0291
+
+ral Health Questionnaire in the Korean general adult popul-
+
+12. Ahrens CE, Campbell R, Ternier-Thames NK, Wasco SM, Sefl
+
+ation. Journal of Korean Neuropsychiatric Association. 2012;
+
+T. Deciding whom to tell: expectations and outcomes of rape
+
+51(4):178-184. https://doi.org/10.4306/jknpa.2012.51.4.178
+
+survivors' first disclosures. Psychology of Women Quarterly.
+
+25. Park SJ. Relationship between mourning experience and post-
+
+2007;31(1):38-49.
+
+traumatic growth: mediating effect of resilience and self-esteem.
+
+https://doi.org/10.1111/j.1471-6402.2007.00329.x
+
+Korean Journal of Family Welfare. 2017;22(4):565-583.
+
+13. Bolton EE, Glenn DM, Orsillo S, Roemer L, Litz BT. The rela-
+
+https://doi.org/10.13049/kfwa.2017.22.4.2
+
+tionship between self-disclosure and symptoms of posttrau-
+
+26. Youn MS, Kim NH, Choi HJ. The mediating role of meaning in
+
+matic stress disorder in peacekeepers deployed to Somalia.
+
+life between the experiences of parental bereavement and post-
+
+Journal of Traumatic Stress. 2003;16(3):203-210.
+
+traumatic growth among university students. Korean Journal
+of Family Social Work. 2013;39:83-111.
+
+https://doi.org/10.1023/A:1023754820991
+14. Ullman SE. Psychometric characteristics of the social reactions
+
+27. Foynes MM, Freyd JJ. An exploratory study evaluating re-
+
+questionnaire: a measure of reactions to sexual assault victims.
+
+sponses to the disclosure of stressful life experiences as they oc-
+
+Psychology of Women Quarterly. 2000;24(3):257-271.
+
+curred in real time. Psychological Trauma: Theory, Research,
+
+https://doi.org/10.1111/j.1471-6402.2000.tb00208.x
+
+Practice and Policy. 2013;5(3):295-300.
+https://doi.org/10.1037/a0028408
+
+15. Davis RC, Brickman E, Baker T. Supportive and unsupportive
+responses of others to rape victims: effects on concurrent vic-
+
+28. Neria Y, Gross R, Litz B, Maguen S, Insel B, Seirmarco G, et al.
+
+tim adjustment. American Journal of Community Psychology.
+
+Prevalence and psychological correlates of complicated grief
+
+1991;19(3):443-451.
+
+among bereaved adults 2.5-3.5 years after September 11th
+attacks. Journal of Traumatic Stress. 2007;20(3):251-262.
+
+16. Park CL, Ai AL. Meaning making and growth: new directions
+
+https://doi.org/10.1002/jts.20223
+
+for research on survivors of trauma. Journal of Loss and Trauma. 2006;11(5):389-407.
+
+29. Choi SJ, Ahn HN. The relationship between meaning reconstruction in response to loss experience and psychological ad-
+
+https://doi.org/10.1080/15325020600685295
+
+justment. Korean Journal of Counseling. 2013;14(1):323-341.
+
+17. Davis CG, Nolen-Hoeksema S, Larson J. Making sense of loss
+
+https://doi.org/10.15703/kjc.14.1.201302.323
+
+and benefiting from the experience: two constructions of meaning. Journal of Personality and Social Psychology. 1998;75(2):
+
+30. Lee HG. A study on the relationship between grief level and
+
+561-574. https://doi.org/10.1037/0022-3514.75.2.561
+18. Hwang JY, Kim MO, Cheon SM. Development and validation
+of mourning scale for adults. Journal of Rehabilitation Psycho-
+
+164
+
+Journal of Korean Academy of Psychiatric and Mental Health Nursing
+
+suicidal ideation among the bereaved elderly who are living
+alone: focusing on the mediating effects of depression. Mental
+Health and Social Work. 2016;44(1):24-47.
+
+

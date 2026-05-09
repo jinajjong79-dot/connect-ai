@@ -1,0 +1,157 @@
+Raising an Emotionally Intelligent Child: The Heart of Parenting
+Author: John M. Gottman, Ph.D. with Joan DeClaire
+Introduction by Daniel Goleman
+Publisher: Simon & Schuster (1997)
+Korean Title: 내 아이를 위한 감정코칭
+ATLAS ID: PC-096
+Category: parenting_caregiving / emotional coaching
+
+=== OVERVIEW ===
+
+This book presents Gottman's Emotion Coaching approach based on twenty years of research at the University of Washington studying parent-child interactions. Gottman argues that the key to raising a happy, thriving child is Emotional Intelligence (EQ), not IQ. The central premise is that parents who help their children understand and manage emotions raise kids who are healthier, more resilient, and more successful in life and relationships.
+
+=== THE FOUR PARENTING STYLES ===
+
+Gottman identifies four distinct parenting philosophies based on how parents respond to their children's negative emotions:
+
+1. DISMISSING PARENTS
+- Disregard, ignore, or trivialize children's negative emotions
+- Believe negative emotions are harmful or unproductive
+- Try to fix, distract, or cheer up children quickly
+- Often say things like "Don't cry" or "You're fine"
+- Fear that acknowledging emotions will make them worse
+- Result: Children learn their feelings are wrong/bad, lose trust in their own emotional perceptions, have difficulty regulating emotions
+
+2. DISAPPROVING PARENTS
+- Judge and criticize children for emotional expression
+- Use discipline and punishment for emotional display
+- Believe emotions (especially negative ones) indicate weak character
+- Combine dismissal with criticism: "Stop being so sensitive"
+- Result: Children feel shame about their emotions, become emotionally dysregulated, develop behavioral problems
+
+3. LAISSEZ-FAIRE PARENTS
+- Accept and empathize with all emotions freely
+- Offer little guidance about emotional regulation or problem-solving
+- Believe all emotions should be freely expressed without limits
+- Do not set behavioral boundaries during emotional states
+- Result: Children struggle with emotional regulation, have poor focus, difficulty in relationships, cannot self-soothe
+
+4. EMOTION COACHING PARENTS (THE IDEAL)
+- Aware of children's emotions, including subtle emotional states
+- See negative emotions as opportunities for intimacy and teaching
+- Listen empathetically and validate children's feelings
+- Help children label and articulate emotions with words
+- Set clear behavioral limits while accepting emotional experience
+- Guide problem-solving collaboratively
+- Result: Emotionally intelligent, resilient, socially competent children
+
+=== THE FIVE STEPS OF EMOTION COACHING ===
+
+Step 1: BECOME AWARE OF THE CHILD'S EMOTION
+- Tune into child's emotional signals before they escalate
+- Notice subtle cues: facial expressions, body language, tone of voice
+- Practice monitoring your own emotional reactions without judgment
+- Adopt the child's perspective to understand their inner experience
+- Key: Awareness before intervention
+
+Step 2: RECOGNIZE THE EMOTION AS AN OPPORTUNITY FOR INTIMACY AND TEACHING
+- Reframe the child's emotional moment as a bonding opportunity, not a crisis
+- Treat the emotion as a teaching moment, not a problem to eliminate
+- Position yourself as an ally, not an adversary
+- Ask: "What is my child feeling?" not "How do I make this stop?"
+- Replace judgment ("Why are you acting like this?") with curiosity ("What's going on inside you?")
+
+Step 3: LISTEN EMPATHETICALLY AND VALIDATE THE CHILD'S FEELINGS
+- Critical principle: Empathy BEFORE problem-solving
+- "To propose solutions before you empathize with children is like trying to build the frame of a house before you lay a firm foundation"
+- Reflective listening phrases: "It sounds like you're feeling...", "I can see that you're really upset about..."
+- Validate the feeling even if the behavior is unacceptable
+- DO NOT: Minimize ("It's not a big deal"), lecture, or immediately offer solutions
+- Physical presence matters: Get down to child's level, make eye contact, use a calm tone
+
+Step 4: HELP THE CHILD LABEL EMOTIONS WITH WORDS
+- Naming an emotion has a calming neurological effect
+- Putting feelings into words activates the prefrontal cortex and calms the amygdala
+- Expand children's emotional vocabulary beyond "mad/sad/happy"
+- Emotion intensity vocabulary:
+  * Fear spectrum: nervous → worried → anxious → scared → terrified → petrified
+  * Happiness spectrum: content → pleased → satisfied → happy → joyful → ecstatic
+  * Anger spectrum: annoyed → frustrated → angry → furious → irate → enraged
+  * Sadness spectrum: disappointed → dejected → deflated → sad → sorrowful → devastated
+- Use "emotion coaching language" naturally throughout the day
+
+Step 5: SET LIMITS ON BEHAVIOR WHILE HELPING THE CHILD PROBLEM-SOLVE
+- All feelings are acceptable; not all behaviors are acceptable
+- Clearly state limits: "I understand you're angry, AND hitting is not okay"
+- Collaboratively identify goals: "What do you want to happen here?"
+- Brainstorm solutions together (all ideas welcome initially)
+- Evaluate consequences of each solution
+- Allow the child to choose their own solution (age-appropriate)
+- Follow up to see if the solution worked
+
+=== WHEN EMOTION COACHING IS NOT APPROPRIATE ===
+
+Gottman acknowledges five situations where emotion coaching is less effective:
+1. When the parent is too emotionally dysregulated (must self-regulate first)
+2. When the situation is dangerous (safety takes priority)
+3. When the child is too upset to process language (wait for physiological calm)
+4. In embarrassing or very public situations (address in private)
+5. When the child is very young and lacks language skills (use non-verbal soothing)
+
+=== RESEARCH FOUNDATION ===
+
+Based on 20 years of longitudinal research at the University of Washington:
+- Gottman's meta-emotion study began with children at age 5 and followed them to age 8
+- Children of Emotion Coaching parents showed measurably better outcomes:
+  * Higher academic achievement
+  * Better peer relationships and social competence
+  * Fewer behavioral problems
+  * Better physical health (lower cortisol, better vagal tone)
+  * Greater emotional regulation abilities
+  * Stronger parent-child relationships
+
+Key finding: It is not the absence of conflict or negative emotion that predicts healthy development, but HOW parents RESPOND to children's emotions.
+
+=== THE EMOTION COACHING PHILOSOPHY ===
+
+Core beliefs underlying emotion coaching:
+1. Emotions are natural and healthy, not signs of weakness
+2. Negative emotions (anger, fear, sadness) are not enemies but important signals
+3. Children cannot learn to regulate emotions they are not allowed to experience
+4. The parent-child emotional relationship is the primary curriculum of emotional intelligence
+5. Emotional intelligence is more predictive of life success than cognitive intelligence
+
+=== EMOTION COACHING ACROSS DEVELOPMENT ===
+
+Infancy (0-1):
+- Responsive caregiving teaches emotional safety
+- Mirroring and attunement build basic emotional regulation
+- Consistent emotional responses create secure attachment
+
+Toddlers (1-3):
+- Tantrums are normal emotional regulation challenges, not manipulation
+- Simple emotion labeling: "You're frustrated because the blocks fell"
+- Brief validation + redirection
+
+Preschool (3-6):
+- Expanding emotion vocabulary
+- Beginning causal emotion understanding ("I'm sad BECAUSE...")
+- Fantasy play as emotional processing venue
+- This age group: Primary focus for 세현이의 방
+
+School Age (6-12):
+- More complex emotion conversations
+- Social emotions (embarrassment, pride, jealousy) become prominent
+- Problem-solving with more sophisticated options
+
+Adolescence:
+- Increased autonomy in emotion regulation
+- Peer relationships become primary emotional context
+- Parent as consultant rather than coach
+
+=== KEY QUOTES ===
+
+"Emotion coaching is not about being permissive or giving in. It's about being present with your child's emotional experience while still maintaining appropriate behavioral limits."
+## 관련 문서
+- [[PV-137_selfrag_atlas]] — 공유 엔티티: University of Washington
+- [[EF-220_selfrag_atlas]] — 공유 엔티티: REDIRECTI

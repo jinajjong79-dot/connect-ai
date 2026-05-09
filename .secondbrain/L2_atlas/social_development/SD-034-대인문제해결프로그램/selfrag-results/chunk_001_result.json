@@ -1,0 +1,18 @@
+{
+  "chunk_id": "sd034_chunk_001",
+  "chunk_summary": "본 연구는 유아의 문제해결능력 증진을 위한 교육 프로그램(EPECP)을 개발하고 그 효과를 검증하는 것을 목적으로 한다. 프로그램은 누리과정을 기반으로 14가지 활동과 교사 지침을 포함하며, 6주간의 현장 실험을 통해 적용되었다. 그 결과, 실험 집단은 프로그램 적용 후 비교 집단에 비해 유아의 문제해결능력 점수가 통계적으로 유의미하게 향상된 것으로 나타났다.",
+  "key_quotes": [
+    "Educational Program to Enhance Children’s Problem-solving-ability(EPECP)",
+    "14 activities based on the Nuri curriculums",
+    "two groups showed a significant difference in the children’s problem-solving-ability scores (t=4.78, p< .001)."
+  ],
+  "checklists": [
+    "프로그램 활동 지침: 누리과정을 기반으로 한 14가지 활동을 자유 놀이 시간에 적용한다.",
+    "교사 개입 방안: 프로그램 실행을 위한 구체적인 교사 지침을 활용하여 활동을 지도한다.",
+    "평가 방안: 유아의 문제해결능력 변화를 측정할 수 있는 평가 방법을 활용한다."
+  ],
+  "relevance": 0.9,
+  "domain": "social_development",
+  "_chunk_num": 1,
+  "_elapsed": 46.8
+}

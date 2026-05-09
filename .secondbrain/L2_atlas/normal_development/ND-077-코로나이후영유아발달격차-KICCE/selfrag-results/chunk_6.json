@@ -1,0 +1,15 @@
+{
+  "chunk_id": "chunk_6",
+  "chunk_summary": "본 텍스트는 영유아의 발달 현황을 측정하기 위한 연구 방법론을 상세히 설명한다. 만 2세반과 만 5세반 영유아를 대상으로 한국 Wechsler 유아지능검사(K-WPPSI-IV)와 바인랜드 적응행동검사(K-Vineland-2)를 실시했으며, 총 20개 기관의 200명 아동이 검사에 참여했다. 검사는 IRB 승인 이후 체계적인 참여자 모집, 검사자 교육 과정을 거쳐 진행되었다.",
+  "key_quotes": [
+    "만 2세반과 만 5세반 영유아의 발달현황 검사를 위해서 한국 Wechsler 유아지능검사(K-WPPSI-Ⅳ)와 바인랜드 적응행동검사(K-Vineland-2)를 실시하였다.",
+    "총 20개 기관 (K-WPPSI-4, K-Vineland-2)",
+    "IRB 연구계획서 승인"
+  ],
+  "checklists": [
+    "코로나19 영향",
+    "영유아 발달 격차"
+  ],
+  "relevance": 0.9,
+  "domain": "normal_development"
+}

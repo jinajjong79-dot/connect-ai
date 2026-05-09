@@ -1,0 +1,34 @@
+# GE-308 Source
+
+Title: To be good enough
+Authors: Savithiri Ratnapalan, Helen Batty
+Journal: Canadian Family Physician
+Year: 2009
+PMC: PMC2654842
+Tier: 2
+Grade: A ★★
+Domain: parent_communication
+Type: Commentary/Opinion (비실험적 논평)
+
+## Abstract
+Winnicott의 1953년 "good enough mother" 개념을 출발점으로 삼아 "충분히 좋다는 원칙(Principle of Good Enough, POGE)"을 의료 실천에 적용. 완벽을 추구하는 대신 전문적 탁월성과 개인 웰빙의 균형을 이루는 역량 있는 케어가 진정한 탁월성을 달성한다는 주장.
+
+## 핵심 발견
+- POGE = 강박적 완벽주의가 아닌 합리적 선택
+- Good enough 조건: 충분한 이익, 치명적 문제 없음, 이익이 문제를 상회, 추가 개선이 해를 줄 것으로 인식
+- 소프트웨어 혁신(이더넷, 인터넷 프로토콜, WWW)에서 성공적으로 적용된 개념
+- 대부분의 의사들은 달성 불가능한 완벽의 이상을 향해 압박받음
+
+## Winnicott 원개념
+"Her failure to adapt to every need of the child helps them adapt to external realities"
+— 완벽하게 맞춰주지 않는 것이 아이의 현실 적응력을 키움
+
+## 핵심 인용구
+"Good enough is not mediocrity. It has to do with rational choices as opposed to compulsive behaviour."
+
+## 채널2 연결
+"완벽을 추구하면 아이도 완벽주의자가 된다. 실패를 경험해야 적응력이 생긴다."
+충분히 좋은 부모 = 합리적 선택 + 현실적 기준 → 진정한 탁월성
+
+## 비고
+⚠️ 실증 연구 아닌 논평/의견 — N/A, 통계 없음. Winnicott 원개념 + 소프트웨어 적용 사례 기반 주장.

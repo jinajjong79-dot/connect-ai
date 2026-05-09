@@ -1,0 +1,62 @@
+마인드풀니스+자기연민 기반 부모 번아웃 치료 8주 RCT (2024)
+Title: Treating Parental Burnout: Impact and Particularities of a Mindfulness- and Compassion-Based Approach
+Authors: Marie Bayot et al.
+Affiliations: University of Liège; Catholic University of Louvain; Université Lumière Lyon 2
+Journal: Children (Basel), 11(2):168
+Published: January 27, 2024
+DOI: 10.3390/children11020168
+PMC ID: PMC10887731
+ATLAS ID: PB-196
+Category: parent_communication / parental_burnout / mindfulness / self_compassion / RCT / hair_cortisol
+Tier: 2 | Grade: A ★
+
+=== 연구 개요 ===
+
+N=54 (MCA n=29 / PBP n=25). 8주 RCT. 두 가지 활성 개입 비교:
+- MCA: 마인드풀니스+자기연민 기반 접근법 (Mindfulness- and Compassion-based Approach)
+- PBP: 균형 잡힌 양육 프로그램 (Parenting in Balance Program) — 활성 대조군
+
+측정: 양육번아웃(PBA), 방임, 폭력, 마인드풀 양육, 자기연민, 모발 코르티솔(HCC) 생물학적 스트레스 지표, 제3자 보고.
+
+=== 핵심 결과 ===
+
+양육 번아웃 (PBA, 기본 결과):
+- MCA: 90.83→70.12 (−28%), η²p=0.45 (large)
+- PBP: 87.20→60.85 (−30%), η²p=0.45 (large)
+- 그룹 간 차이 없음 (두 프로그램 동등하게 효과)
+
+방임: η²p=0.22 (large), MCA −32% / PBP −26%
+폭력: η²p=0.27 (large), MCA −28% / PBP −34%
+마인드풀 양육: η²p=0.24 (large)
+자기연민: η²p=0.28 (large)
+
+모발 코르티솔 (HCC): 유의미한 변화 없음 (p=.11) — N이 작아 검정력 부족 가능성
+
+=== 중요 발견 (주의) ===
+
+MCA 비반응자: MCA 참가자의 21%가 개입 후 번아웃 오히려 증가 (+1~+16점). PBP에서는 5%만.
+이론적 메커니즘 미확인: MCA의 번아웃 감소가 마인드풀니스·자기연민 증가를 통해 일어난다는 가설 검증 실패 (r=−0.13, p=.52 / r=−0.08, p=.71).
+→ 효과는 그룹 공통 치료 요인(구조화된 모임, 심리교육, 사회적 지지)에 기인 가능성.
+
+=== 핵심 결론 ===
+
+마인드풀니스·자기연민 기반 프로그램과 일반 양육 프로그램 모두 번아웃·방임·폭력에 large effect 개선.
+그러나 MCA의 이론적 특이성(mindfulness as mechanism) 미확인.
+급성 번아웃 단계에서 내성찰이 역효과를 줄 수 있는 개인에게는 MCA가 부적합할 수 있음 — 개인-프로그램 적합성 중요.
+
+=== 양육 시사점 ===
+
+1. 번아웃은 치료 가능하다 — 8주 만에 30% 감소
+2. 방임·폭력 등 양육 행동도 함께 개선됨
+3. 마인드풀니스가 맞지 않는 부모도 있음 — 강요보다 선택이 중요
+4. 그룹 프로그램 자체의 사회적 지지 효과가 크다
+
+=== 채널2 소재 ===
+
+"번아웃된 부모를 8주 만에 바꾼 프로그램" — 번아웃 30% 감소 데이터
+"마인드풀니스가 나에게 맞지 않는 이유" — 21% 악화 데이터 솔직하게
+
+출처:
+- Bayot M, et al. (2024). Treating Parental Burnout: Impact and Particularities of a Mindfulness- and Compassion-Based Approach. Children (Basel), 11(2), 168. DOI: 10.3390/children11020168. PMC10887731.
+## 관련 문서
+- [[FI-163_selfrag_atlas]] — 공유 엔티티: Children (Basel)

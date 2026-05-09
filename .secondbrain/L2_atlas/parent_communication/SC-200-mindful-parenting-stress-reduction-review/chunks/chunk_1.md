@@ -1,0 +1,63 @@
+마인드풀 양육으로 부모 스트레스 줄이기 전략 리뷰 (2024)
+Title: Mindful Parenting as a Strategy to Reduce Parenting Stress in Parents with Early Childhood
+Author: Siti Rayani
+Affiliation: Universitas Muhammadiyah Yogyakarta, Indonesia
+Journal: Asian Journal of Multidisciplinary Research (AJMR)
+ISSN: 3047-6224; Vol.1, No.3 (2024), pp.97–105
+URL: https://jujurnal.com/index.php/ajmr/article/download/66/49
+ATLAS ID: SC-200
+Category: parent_communication / mindful_parenting / parenting_stress / toxic_parenting / review / digital_intervention / cultural_context
+Note: PMC10469175 = 하드웨어/딥러닝 논문 오류 → 본 대체 논문 사용
+Tier: 3 | Grade: B
+
+=== 연구 개요 ===
+
+질적 문헌 리뷰 (PRISMA). Google Scholar·PubMed·ScienceDirect·ProQuest·SpringerLink에서 2019~2024년 10편 선별. 주제 분석법.
+대상: 영유아 부모의 양육스트레스에 대한 마인드풀 양육의 역할.
+
+=== 핵심 발견 10개 주제 ===
+
+1. 마인드풀 양육의 스트레스 감소 효과
+ACT, 마인드풀 명상 → 정서조절↑, 양육스트레스↓. 메타분석(Mo et al. 2024): 마인드풀니스 훈련이 양육스트레스 감소에 가장 효과적인 개입.
+
+2. 마인드풀 양육과 정서조절
+부모가 정서적으로 조절될 때 아이의 행동 문제↓, 안정 애착↑. 충동적 반응↓.
+
+3. 디지털·mHealth 개입
+모바일 앱, 온라인 플랫폼이 시간·자원 제약 부모에게 접근성 높은 경로.
+
+4. 마인드풀니스 = 독성 양육(Toxic Parenting) 방어막
+Zahira et al. (2025): 마인드풀 양육이 가혹한 훈육 직접 완충 → 아동 불안·우울 예방.
+마인드풀니스가 역경적 아동 경험(ACE) 예방 개입으로 기능.
+
+5. 문화적 맥락
+대부분의 연구가 서구 맥락. 동양 문화권(불교 명상 전통)에서 자연스럽게 통합 가능하나 문화적 맞춤 필요.
+
+6. 교육자에게도 효과
+마인드풀 양육 프로그램이 교사의 스트레스 관리 역량도 향상.
+
+7. 한계와 비판
+모든 부모에게 마인드풀니스가 적합하지 않음. 동기·시간·문화적 낙인·재정 장벽 존재.
+
+8. 실제 구현 과제
+바쁜 일상, 생산성 우선 사회 압력, 정신건강 낙인 → 다면적 해결책 필요.
+
+9. 학제간 협력
+심리학·교육학·공중보건의 협력이 마인드풀 양육 보급에 필수.
+
+10. 미래 방향
+문화 맞춤·하이브리드(디지털+대면) 개입. 종단 연구. 저소득 가정 보조 프로그램.
+
+=== 핵심 결론 ===
+
+마인드풀 양육은 양육스트레스를 유의하게 낮추고, 정서조절·긍정적 부모-자녀 상호작용을 강화하며, 독성 양육 행동을 예방한다.
+디지털 개입이 접근성을 높였으나 장기 효과 검증 필요.
+정책적으로 저소득 가정 보조 프로그램 권고.
+
+=== 채널2 소재 ===
+
+"화를 참는 것이 아니라 화가 나지 않는 부모 되기" — 마인드풀 양육 정서조절
+"스마트폰으로 할 수 있는 양육 훈련" — 디지털 개입 가능성
+
+출처:
+- Rayani S. (2024). Mindful Parenting as a Strategy to Reduce Parenting Stress in Parents with Early Childhood. Asian Journal of Multidisciplinary Research (AJMR), 1(3), 97-105. https://jujurnal.com/index.php/ajmr/article/download/66/49

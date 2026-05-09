@@ -1,0 +1,18 @@
+{
+  "chunk_id": "sd049_chunk_003",
+  "chunk_summary": "본 연구는 유아발달 평가의 질적 측면과 국제 비교 연구의 필요성을 다루며, 국제 비교 연구의 주요 결과 분석 및 평가 도구의 타당화 방안을 제시하는 것을 목표로 한다. 연구 방법으로는 iPIPS, EDI 등 주요 국제 평가 도구에 대한 문헌 검토와 국내외 전문가 협의진을 통한 심층 자문, 그리고 전문가 의견 조사를 순차적으로 진행하여 학술적 깊이를 확보하고 있다.",
+  "key_quotes": [
+    "유아발달 평가도구를 사용한 국제비교연구의 주요결과들을 분석한다.",
+    "총체적인 발달영역에 걸쳐 국제비교에 활용되는 영국의 iPIPS, 캐나다의 EDI(Early Development Instrument), 유네스코의 Learning Metrics, ARNEC의 ECDS(Early Childhood Development Scale) 등 평가도구의 개괄적 특징...",
+    "국내외 유아발달 평가도구 검토 및 유아발달 국제비교연구의 주요결과 분석을 토대로 향후 국제비교를 위한 유아발달평가에 대한 국내 전문가의 의견을 파악하고자 조사를 실시하였다."
+  ],
+  "checklists": [
+    "발달평가 도구 (iPIPS, EDI, Learning Metrics, ECDS)",
+    "총체적 발달영역 평가",
+    "국제비교 연구 결과 분석"
+  ],
+  "relevance": 0.95,
+  "domain": "international_comparative_research",
+  "_chunk_num": 3,
+  "_elapsed": 55.6
+}

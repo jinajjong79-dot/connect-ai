@@ -1,0 +1,42 @@
+# FR-284 Source
+
+Title: Benefits of a bedtime routine in young children: Sleep, development, and beyond
+Authors: Jodi A. Mindell, Ariel A. Williamson
+Journal: Sleep Medicine Reviews
+Year: 2017 (online Nov 2017; final Aug 2018)
+PMC ID: PMC6587181
+PMID: 29195725
+
+## Methods
+Study design: 문헌 리뷰 + 개념 모델 제안
+대상: 0-5세 아동
+크로스컬처 분석: N=29,287 영유아 (17개국/지역, Mindell et al.)
+미국 유병률: 부모 81-95% 취침루틴 실시 보고
+다양한 연구 설계 검토: 횡단, 종단, 개입 연구
+
+## Key Results
+수면 효과:
+- 취침루틴 = 더 이른 취침 + 입면 잠복 단축 + 야간 수면 연장 + 야간 각성 감소
+- 용량-반응 관계: 루틴 일관성 높을수록 수면 개선 선형 증가
+- Mindell 2015 (N=10,085): 루틴 → 복수 수면 파라미터 개선
+
+수면 넘어서는 발달 효과 (취침루틴 4영역):
+1. 영양(nutrition): 취침 전 수유/간식 루틴
+2. 위생(hygiene): 목욕, 치아 관리
+3. 소통(communication): 책 읽기, 대화, 노래
+4. 신체접촉(physical contact): 마사지, 포옹
+
+발달 결과:
+- 언어 기반 루틴 @ 3세 → 수용어휘 향상 @ 5세 (예측)
+- 일관 루틴(주 4회 이상) @ 36개월 → 감정-행동 조절 향상
+- 취침루틴 → 가족 스트레스 완충 효과
+- 개입 연구: 모성 기분 개선 + 양육 자기효능감 증가
+- 관련 영역: 언어 발달, 리터러시, 감정 조절, 부모-자녀 애착, 가족 기능
+
+크로스컬처:
+- 루틴 유병률: 40%(인도) ~ 80%(영국)
+- 저SES·일부 인종 집단: 일관 루틴 실시 낮음 (취약계층 타겟 필요)
+
+## Conclusions
+일관된 취침루틴 = 실행 가능하고 비용 효율적인 조기 발달 지원 전략
+취약 계층 대상 기본 건강 지도(anticipatory guidance)에 루틴 포함 권고

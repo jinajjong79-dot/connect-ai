@@ -1,0 +1,31 @@
+# GP-291 Source
+
+Title: Effects of Positive Psychology Interventions on the Well-Being of Young Children: A Systematic Literature Review
+Authors: Valérie Benoit, Piera Gabola
+Journal: International Journal of Environmental Research and Public Health
+Year: 2021
+PMC ID: PMC8623229
+PMID: 34831827
+
+## Methods
+Study design: 체계적 문헌 리뷰
+포함 기준: 6세 미만 아동 대상 긍정심리 개입
+결과: 포함 연구 n=3 (매우 적음 ★)
+Sample sizes: N=62-315
+Age: 3-11.5세 (1건만 6세 미만 단독; 나머지 더 넓은 연령대 포함)
+성별: 남아 48-49% (균형)
+설계: 사전/사후 측정 종단; 2건 유사 실험(대조군 있음); 1건 대조군 없음
+평가 도구: PANAS-C, BMSLSS, KINDL-R, SDQ, FASTE, HTKS, ALS
+
+## Key Results
+PERMA(H) 차원별 주요 결과:
+- 긍정 감정: 개입군 유의한 증가, 특히 공감 (효과 크기 medium-large: 0.34-0.81)
+- 몰입: 교사 보고 교실 참여 향상; 긍정적 학습 행동 유의한 증가
+- 관계: 교사-학생 친밀감 + 친사회 행동 향상
+- 성취: 교사의 학생 강점 인식 향상 + 긍정적 학습 접근
+- 건강/웰빙: 생활 만족도 및 정신건강(행동 문제) 혼재 결과
+
+## Conclusions
+"만6세 미만 아동 긍정심리 개입 연구 극히 부족" 강조
+연구 3건에 불과 — 이 분야 공백 확인 ★ (채널2 선점 가능)
+더 큰 샘플·강건한 방법론·가정·어린이집 세팅 후속 연구 권고

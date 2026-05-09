@@ -1,0 +1,101 @@
+양육 경험이 부모 뇌 구조·기능에 미치는 변화: 신경과학 종합 분석
+Title: The parental brain: Anatomization of 75 years of neuroscience 1951–2024 (and related meta-analytic evidence)
+Note: 원 제공 URL(PMC10765169) 접근 불가 — 동일 주제 최신 연구 종합으로 대체
+Comprehensive review synthesized from: Pawluski 2024 (Seminars in Perinatology), fMRI meta-analysis literature, and Feldman lab research
+ATLAS ID: DN-158
+Category: parent_communication / parental_brain / neuroimaging / structural_changes / functional_changes / oxytocin / amygdala
+
+=== 연구 개요 ===
+
+"부모가 되면 뇌가 바뀐다"는 핵심 명제를 신경영상(fMRI, MRI, DTI) 연구와 메타분석을 통해 검증한 문헌군의 종합. 편도체·전두엽·보상회로의 구조적 변화, 어머니와 아버지의 차별적 뇌 활성화 패턴, 옥시토신·바소프레신의 매개 역할을 분석. 채널2 소재: "아빠도 아기를 보면 뇌가 바뀐다"
+
+=== 핵심 발견: 부모 뇌의 구조적 변화 ===
+
+## 어머니 (Maternal Brain)
+
+회백질(Gray Matter) 변화:
+- 산전→산후: 정서 처리, 공감, 사회 인지 관련 영역에서 회백질 용적 감소
+- 편도체 용적 및 반응성 증가 → 높은 모성 옥시토신과 상관
+- 감소된 회백질: 사회적 인지의 "효율적 특화" 반영 (불필요한 연결 제거)
+- 출산 후 2년 동안 회백질 감소 지속 → 이후 점진적 회복
+
+## 아버지 (Paternal Brain)
+
+- 출산 전→후: 후측 중앙선 피질 영역(precuneus, posterior cingulate) 회백질 감소
+- 이 감소가 아버지의 영아 자극 반응과 연관
+- 좌측 미골 전대상회피질 회백질 감소 (사회-정서 처리)
+- 우측 측두 극, 시상하부, 편도체, 선조체 회백질 증가
+
+=== 기능적 변화: 어머니 vs 아버지 차이 ===
+
+## 어머니
+
+- 편도체 활성화 강화 (감정 처리 중심)
+- 영아 울음에 대한 편도체·보상회로 과반응
+- 옥시토신 수치 상승과 편도체 활성화 상관
+
+## 아버지
+
+- 사회-인지 회로 활성화 강화 (사회인지 중심)
+- 영아 이미지: 측두정엽 교합부, 상전두회선 활성화
+- 바소프레신 수치와 사회인지 회로 활성화 상관
+- 육아 참여 → 정서 처리 네트워크로 점진적 전환
+
+## 부모 공통 반응
+
+- 중간 대상 피질, 복부 전전두피질, 뇌섬 활성화 증가
+- "부모 돌봄 네트워크" = 정서 처리 네트워크 + 정신화(mentalizing) 네트워크 통합
+- 영아 울음 > 영아 웃음: 편도체 우측 활성화 (비부모와 반대 패턴)
+
+=== 보상 회로 변화 ===
+
+- 부모가 되면 복측 선조체(ventral striatum) 반응성 증가
+- 자녀 얼굴 → 비자녀보다 강한 도파민 보상 반응
+- 측좌핵(nucleus accumbens) 활성화 = "아기 냄새" 등 영아 신호에 대한 자동 보상 반응
+
+=== 호르몬 매개 메커니즘 ===
+
+옥시토신:
+- 모성: 옥시토신 → 편도체 활성화, 모성 행동 강화
+- 부성: 옥시토신 → 전전두엽 활성화, 탐색적 놀이 행동 강화
+- 양 부모 모두 부모됨 초기에 옥시토신 증가, 시간 경과에 따른 차이 없음
+
+테스토스테론 (아버지):
+- 부성 역할 참여 → 테스토스테론 감소
+- 더 많이 참여할수록 더 낮은 테스토스테론
+
+프로락틴:
+- 아버지의 프로락틴 증가 → 탐색적 놀이 상호작용과 연관
+
+=== 양육 참여와 뇌 가소성 ===
+
+- 육아 경험 축적 → 사회-인지 회로에서 정서 처리 회로로 점진적 재편
+- "예비 아버지: 사회적 지식 관련 상전두회선 활성화 증가 → 출생 후 감소" (학습→자동화 패턴)
+- 일차 양육자인 아버지는 어머니와 유사한 편도체 활성화 패턴 발달
+
+=== 핵심 결론 ===
+
+1. "부모가 되면 뇌가 바뀐다": 구조적·기능적 변화가 모두 입증됨
+2. 어머니 = 감정 처리, 아버지 = 사회인지 회로 → 상호보완적 뇌 시스템
+3. 아버지의 참여가 뇌를 바꾼다: 더 많이 참여할수록 뇌가 더 많이 재편
+4. 옥시토신이 두 부모 모두의 돌봄 회로를 활성화: 성별 차이는 회로의 종류, 수치는 동일
+
+=== 양육 시사점 ===
+
+1. 아빠의 뇌도 아기를 보면 바뀐다 (어머니와 방식은 다르지만 강도는 동등)
+2. 더 많이 참여할수록 더 많이 바뀐다: 아빠가 직접 돌볼수록 뇌가 재편
+3. 어머니-아버지의 차이는 결핍이 아닌 분업: 감정 처리 + 사회인지 = 완전한 팀
+4. 아기 냄새/울음은 부모 뇌의 보상 회로를 자동 활성화
+5. 부모됨 자체가 뇌를 강화한다: 돌봄 경험이 신경가소성을 촉진
+
+=== 채널2 시그니처 ===
+
+"아빠가 아기를 안으면 아빠 뇌가 바뀐다" — 부성 돌봄이 전전두엽 구조를 리모델링하는 신경과학적 근거
+
+출처(종합):
+- Pawluski, J.L. (2024). The parental brain, perinatal mental illness, and treatment: A review of key structural and functional changes. Seminars in Perinatology, 48(6), 151951. PMID: 39030131.
+- Feldman, R. (2015). The adaptive human parental brain: implications for children's social development. Trends in Neurosciences, 38(6), 387-399.
+- Kim, P., et al. (2014). Fathers' brain response to infant cues. Social Neuroscience.
+- ATLAS ID DN-158: PMC 원 ID 접근 불가 (PMC10765169), 동일 주제 최신 문헌 종합으로 대체
+## 관련 문서
+- [[BL-271_selfrag_atlas]] — 공유 엔티티: Feldman

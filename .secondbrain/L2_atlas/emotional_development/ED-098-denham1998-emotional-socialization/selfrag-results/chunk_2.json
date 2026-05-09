@@ -1,0 +1,21 @@
+{
+  "chunk_id": "chunk_2",
+  "chunk_summary": "감정 역량은 긍정적인 또래 상호작용과 학업 성취로 이어지는 핵심 메커니즘입니다. 감정 조절이 어려운 아동은 학업 집중력 저하, 또래 갈등 증가 등의 어려움을 겪습니다. 연구는 기질(temperament)과 사회화의 상호작용을 강조하며, 고반응 기질의 아동에게는 '차분한 일관성 + 높은 따뜻함 + 명확한 한계'를 가진 부모의 반응적 코칭이 가장 효과적임을 제시합니다. 또한, 기본적인 감정 역량은 문화권을 초월하는 보편적 발달 과제입니다.",
+  "key_quotes": [
+    "Emotional competence → Positive peer interactions → More learning opportunities → Better academic outcomes",
+    "Optimal parenting: Calm consistency + high-warmth + clear limits",
+    "Basic emotional competence (recognizing and understanding emotions) is a cross-cultural developmental universal"
+  ],
+  "checklists": [
+    "감정 표현력",
+    "감정 이해력",
+    "감정 조절력",
+    "감정 사회화 3경로",
+    "모델링",
+    "조건부 반응",
+    [],
+    []
+  ],
+  "relevance": 0.95,
+  "domain": "emotional_development"
+}

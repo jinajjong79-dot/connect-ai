@@ -1,0 +1,36 @@
+# PCE-296 Source
+
+Title: Positive Childhood Experiences and Adult Outcomes: A Systematic Review
+Authors: Olga Cunha, Marta Sousa, Bárbara Pereira, Marina Pinheiro, Ana Beatriz Machado, Sónia Caridade, Telma Catarina Almeida
+Journal: Trauma, Violence & Abuse
+Year: 2024 (Published November 30, 2024; PMC 등재 2025)
+PMC ID: PMC12569125
+PMID: 39614772
+
+## Methods
+Study design: 체계적 문헌 리뷰 (PRISMA, 사전등록 프로토콜)
+검색: B-On, PsycINFO, PubMed, SCOPUS, Scielo (2024년 2-8월)
+포함 연구: 87건 동료심사 실증 연구
+질 평가: Mixed Methods Appraisal Tool (MMAT)
+
+## Key Results
+정신건강:
+- PCE↑ → 우울 증상↓, 불안↓, PTSD↓, 자살 관념·행동↓ (일관적)
+
+심리사회 결과:
+- PCE↑ → 생활 만족도↑, 회복탄력성↑, 사회지지↑, 지각된 스트레스↓
+
+행동·신체 건강:
+- 혼재된 결과 (불일치 연구 있음)
+
+ACE 독립성:
+- "PCE는 독립된 경험 세트" — ACE 영향 조절보다 독립 효과 더 일관적
+- PCE와 ACE 동시 존재 가능, 서로를 배제하지 않음
+
+지리적 편향:
+- 42건이 미국 기반; 지역사회 샘플 주도
+
+## Conclusions
+PCE↑ → 성인 정신건강·심리사회 웰빙 일관적 연관 (87건 확인)
+ACE에 더해 PCE를 임상·교육 현장에 통합 평가 권고
+회복탄력성 증진 + 긍정 발달 궤적 지원 위한 PCE 중심 접근 필요

@@ -1,0 +1,34 @@
+# GE-310 Source
+
+Title: Pragmatism or idealism: a systematic review and visual analysis of Winnicott's psychoanalytical treatment views
+Authors: Zhengyan Xie, Yuting Yan, Kejuan Peng
+Journal: Frontiers in Psychiatry
+Year: 2023
+PMC: PMC10416238
+Tier: 2
+Grade: A
+Domain: emotional_development
+Type: 체계적 문헌고찰 + 계량서지학 분석
+
+## Abstract
+Winnicott의 정신분석 치료관 체계적 고찰. 촉진적 환경(facilitating environment)과 모-자 관계가 심리 발달에 미치는 역할 분석. 참자기/거짓자기, 전환적 대상, 전환적 현상 개념 분석. CiteSpace 소프트웨어를 통한 1978-2023년 Web of Science 365편 계량서지학 분석.
+
+## 핵심 발견
+- Winnicott 연구는 4시기로 구분; 2005년 이후 급격한 가속
+- 32개국 참여; 미국 102편 최다, 영국(42), 독일(20) 순
+- 14개 주요 키워드 클러스터 (Q=0.8164, S=0.9568)
+- 2018-2023 평균 연간 28편 (이전 시기 12편의 2.3배)
+
+## 핵심 개념: 참자기 vs 거짓자기
+- 참자기(True Self): "The true self does not become a living reality except as a result of the mother's repeated success in meeting the infant's spontaneous gesture"
+- 거짓자기(False Self): 만성적 불일치 환경에서 자기를 보호하기 위해 발달하는 순응적 자기
+- 좋은 상호작용 → 참자기 발달
+- 만성적 불일치 → 거짓자기로 보호
+
+## 채널2 연결 (RR-304 직접 연결)
+단절-회복(RR-304~307) ↔ 참자기/거짓자기 발달 기제 직결
+충분히 좋은 환경 → 참자기 출현 → 진정한 자기표현 가능
+
+## 통계
+- N=365 논문 (1978-2023, WoS Core Collection)
+- 분석도구: CiteSpace 계량서지학

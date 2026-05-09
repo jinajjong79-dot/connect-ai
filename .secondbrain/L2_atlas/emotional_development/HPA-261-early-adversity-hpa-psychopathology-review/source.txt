@@ -1,0 +1,27 @@
+ATLAS ID: HPA-261
+Source: PMC5771995
+Author: Koss & Gunnar (2018)
+Journal: Journal of Child Psychology and Psychiatry
+Domain: emotional_development
+Tier: 2
+Grade: A ★
+
+---
+
+Koss & Gunnar (2018). Journal of Child Psychology and Psychiatry. PMC5771995. Annual Research Review (literature synthesis, not single empirical study).
+
+Study type: Annual Research Review — synthesizes findings from multiple published studies across childhood development literature.
+
+Key synthesized findings:
+- Early adversity (poverty, maltreatment, family dysfunction, parental depression) → altered HPA axis functioning
+- Chronic neglect/institutional deprivation → hypocortisolism (blunted/suppressed cortisol) — not hyperactivation
+- Internalizing disorders: mixed associations (elevated cortisol in some contexts, blunted in others depending on current adversity)
+- Externalizing problems: more consistently associated with lower cortisol and blunted reactivity
+- Secure attachment = HPA buffering (protective)
+- Insecure attachment = HPA buffering failure (elevated stress response)
+
+Pathway model: Early adversity → HPA axis dysregulation → internalizing + externalizing psychopathology
+
+Key nuance: Type of adversity matters — threat/abuse → hyperreactivity; deprivation/neglect → hyporeactivity (HPA blunting). This distinction has implications for intervention.
+
+Key concept: "역경 유형별 HPA 반응 분화: 위협/학대=과반응, 방임/박탈=저반응(blunting); 안전 애착=HPA 완충 vs. 불안정 애착=완충 실패"

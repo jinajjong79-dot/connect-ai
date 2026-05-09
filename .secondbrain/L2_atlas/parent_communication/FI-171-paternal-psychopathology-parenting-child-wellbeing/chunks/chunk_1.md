@@ -1,0 +1,75 @@
+아빠 정신병리·양육행동 → 아동·청소년 삶의 질 종단 연구
+Title: The Father's Part: Influences of Paternal Psychopathology and Parenting Behavior on Child and Adolescent Well-Being
+Authors: Stefan Mestermann, Marie Arndt, Peter A Fasching 외
+Affiliations: (독일)
+Journal: Healthcare (Basel)
+Published: 2023년 7월
+DOI: 10.3390/healthcare11152119
+PMCID: PMC10418667
+PMID: 37570360
+ATLAS ID: FI-171
+Category: parent_communication / paternal_mental_health / parenting / child_wellbeing / longitudinal / gender_differences
+Note: 원 PMC10469175는 하드웨어 ML 연구 오류 — PMC10418667로 대체
+
+=== 연구 개요 ===
+
+N=197 부모-자녀 3지 (초등학교 입학 6-9세, t2 추적 청소년기 12-14세). 아버지 정신병리(BSI)·양육행동(APQ)→아동 삶의 질(QoL). 성별·시점별 분석. 딸의 경우 아버지 정신건강이 청소년기 QoL의 핵심 예측인자.
+
+=== 연구 설계 ===
+
+표본: 197쌍 (t1: 초등학교 입학 6-9세, t2: 청소년기 12-14세), 딸 98명·아들 99명
+측정: BSI(정신병리), APQ-7차원(양육행동), Kid-KINDLR/KIDSCREEN-10(아동 QoL)
+분석: 계층적 회귀분석, 성별·시점별 별도 분석
+
+=== 부모 간 비교 ===
+
+| 항목 | 모친 M(SD) | 부친 M(SD) | Cohen's d |
+|------|-----------|-----------|-----------|
+| 정신병리(BSI) | 47.93(13.28) | 44.82(12.30) | 0.18 |
+| 긍정적 양육 | 4.28(0.39) | 4.00(0.49) | 0.50 |
+| 양육 관여 | 4.18(0.43) | 3.57(0.56) | 0.98 |
+| 체벌 사용 | 1.66(0.45) | 1.84(0.43) | 0.30 |
+
+=== 아동 발달 결과 ===
+
+초등학교 시기(t1) — 아들 (R²=0.16):
+- 모친 긍정성: β=0.21, p=0.042* (보호)
+- 모친 체벌: β=-0.21, p=0.039* (위험)
+
+초등학교 시기(t1) — 딸:
+- 부친 감시 부족: β=-0.18, p=0.099
+- 부친 체벌: β=-0.18, p=0.106
+
+**청소년기(t2) — 전체 (R²=0.10)**:
+- **부친 정신병리: β=-0.22, p=0.008** ← 가장 강력한 예측인자
+- 부친 긍정성: β=0.16, p=0.055
+
+청소년기(t2) — 딸 (R²=0.06):
+- 부친 정신병리: β=-0.25, p=0.033* (딸에서 가장 명확)
+
+=== 핵심 결론 ===
+
+1. 아들: 모친 양육행동(긍정성, 체벌)이 초등기 QoL 핵심
+2. **딸: 아버지 정신건강이 청소년기 QoL의 가장 강력한 예측인자**
+3. "아버지의 정신건강은 특히 딸의 성장에서 중요한 영향을 미친다"
+4. 아버지 우울/불안↑ → 딸 삶의 질↓ — 아빠 정신건강 = 딸을 위한 투자
+5. 아버지 정신건강이 자녀 치료에서 더 자주 포함되어야 함
+
+=== 양육 시사점 ===
+
+1. 아빠가 심리적으로 건강해야 아이(특히 딸)가 잘 자란다
+2. 아빠 정신건강 관리 = 아동 발달 투자
+3. 아들에게는 엄마, 딸에게는 아빠의 정신건강이 특히 중요하다
+4. 아동 심리 치료 시 아버지 정신건강 동반 평가·지원 필요
+
+=== 채널2 소재 ===
+
+"아빠가 건강해야 아이가 건강하다" 시리즈:
+- 아빠 우울증이 딸에게 미치는 영향
+- 아빠 정신건강 챙기기 = 최고의 육아
+- 아빠가 스트레스받을 때 아이에게 어떤 일이 생기는가
+
+출처:
+- Mestermann, S., Arndt, M., Fasching, P.A. et al. (2023). The Father's Part: Influences of Paternal Psychopathology and Parenting Behavior on Child and Adolescent Well-Being. Healthcare (Basel), 11(15), 2119. DOI: 10.3390/healthcare11152119. PMCID: PMC10418667.
+## 관련 문서
+- [[FI-171_selfrag_atlas]] — 공유 엔티티: Stefan Mestermann

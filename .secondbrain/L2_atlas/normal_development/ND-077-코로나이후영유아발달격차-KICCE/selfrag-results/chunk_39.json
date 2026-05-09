@@ -1,0 +1,15 @@
+{
+  "chunk_id": "chunk_39",
+  "chunk_summary": "해당 청크는 코로나19 팬데믹이 아동 및 영유아 발달에 미치는 다각적인 영향을 다룬 연구들을 모아놓은 문헌 목록입니다. 주요 연구들은 팬데믹 기간 동안 아동의 발달 지연, 부모의 정신 건강 문제, 그리고 교육 환경의 어려움 등 광범위한 심리사회적 문제를 강조합니다. 이는 팬데믹 이후 아동들의 장기적인 발달 및 심리적 회복에 대한 연구 필요성을 시사합니다.",
+  "key_quotes": [
+    "SARS pandemic exposure impaired early childhood development in China.",
+    "Challenges and burden of the Coronavirus 2019 (COVID-19) pandemic for child and adolescent mental health.",
+    "Maternal Mental Health and Infant Development During the COVID-19 Pandemic."
+  ],
+  "checklists": [
+    "코로나19 영향",
+    "영유아 발달 격차"
+  ],
+  "relevance": 0.95,
+  "domain": "normal_development"
+}

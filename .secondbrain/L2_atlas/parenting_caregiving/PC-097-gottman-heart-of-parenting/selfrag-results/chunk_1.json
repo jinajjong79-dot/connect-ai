@@ -1,0 +1,17 @@
+{
+  "chunk_id": "chunk_1",
+  "chunk_summary": "본 텍스트는 Gottman의 감정 코칭 연구를 소개하며, 부모의 양육 방식이 자녀의 정서 발달에 미치는 영향을 장기간의 종단 연구를 통해 입증했습니다. 핵심 개념인 '메타정서'는 자신의 감정 및 자녀의 감정에 대한 생각과 느낌을 의미하며, 부모가 자신의 부정적 감정을 수용하고 자녀의 감정 경험을 코칭하는 태도가 자녀의 긍정적인 정서적 성과와 강하게 연결됨을 보여주었습니다.",
+  "key_quotes": [
+    "An organized set of feelings and thoughts about one's own emotions and one's children's emotions.",
+    "The answer the research revealed was not about discipline style, academic stimulation, or socioeconomic status — but about HOW parents related to their children's emotions.",
+    "Parents' feelings about their own negative emotions (e.g., comfort vs. discomfort with their own anger, sadness, fear)"
+  ],
+  "checklists": [
+    "메타정서 면접",
+    "종단연구",
+    "메타정서 철학 차원",
+    "연구 비교 관련 항목"
+  ],
+  "relevance": 0.95,
+  "domain": "parenting_caregiving"
+}

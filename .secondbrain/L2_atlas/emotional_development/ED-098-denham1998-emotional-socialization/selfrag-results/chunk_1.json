@@ -1,0 +1,21 @@
+{
+  "chunk_id": "chunk_1",
+  "chunk_summary": "이 텍스트는 유아의 감정 발달과 부모의 감정 사회화에 대한 주요 이론적 틀을 제시합니다. Denham은 감정 역량을 표현력, 이해력, 조절력 세 가지 핵심 영역으로 정의하며, 연령별 발달 단계를 상세히 설명합니다. 또한, Eisenberg 등의 연구는 부모가 자녀의 감정을 형성하는 세 가지 주요 메커니즘을 다루며, 이 두 이론은 초기 아동기 감정 사회화 분야를 정의하는 기초가 됩니다.",
+  "key_quotes": [
+    "Susanne Denham's foundational 1998 work \"Emotional Development in Young Children\" established the comprehensive theoretical framework for understanding how young children (ages 2-6) develop emotional competence.",
+    "Denham (1998) defines emotional competence as comprising three core domains: EMOTIONAL EXPRESSIVENESS, EMOTIONAL UNDERSTANDING, and EMOTION REGULATION.",
+    "Healthy expressiveness = emotional clarity + contextual appropriateness"
+  ],
+  "checklists": [
+    "감정 표현력",
+    "감정 이해력",
+    "감정 조절력",
+    "감정 사회화 3경로",
+    "모델링",
+    "조건부 반응",
+    "발달 이정표",
+    "연령별 발달 관련 항목"
+  ],
+  "relevance": 0.95,
+  "domain": "emotional_development"
+}

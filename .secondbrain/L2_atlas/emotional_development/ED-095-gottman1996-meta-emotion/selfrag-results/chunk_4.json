@@ -1,0 +1,15 @@
+{
+  "chunk_id": "chunk_4",
+  "chunk_summary": "이 텍스트는 아동의 정서 조절 능력과 관련된 미주신경 긴장도(vagal tone)의 중요성을 설명합니다. 높은 미주신경 긴장도는 집중력, 자기 진정 능력, 새로운 자극 탐색 능력과 관련이 있습니다. 특히, 환경적 또는 정서적 요구에 반응하여 미주신경 긴장도를 일시적으로 억제하는 능력(suppression)은 아동의 조절 능력 지표로 중요하며, 이 능력이 부족할 경우 이후 행동 문제와 관련될 수 있음을 강조합니다.",
+  "key_quotes": [
+    "greater ability to focus attention and greater ability to self-soothe and explore novel stimuli",
+    "the ability to perform a transitory suppression of vagal tone in response to environmental (and particularly emotional) demands is another index that needs to be added to the child regulatory physiology construct.",
+    "Porges, DoussardRoosevelt, and Portales (1992) found that 9-month-old infants who had lower baseline vagal tone and less vagal tone suppression during the Bailey examination had the greatest behavioral problems at 3 years of age"
+  ],
+  "checklists": [
+    "자율신경 조절",
+    "vagal tone"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

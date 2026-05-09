@@ -1,0 +1,16 @@
+{
+  "chunk_id": "chunk_11",
+  "chunk_summary": "본 연구는 부모의 메타정서(meta-emotion)가 자녀의 학업 성취도에 미치는 영향을 통계적으로 분석했습니다. 어머니의 우울감 인식과 아버지의 분노 코칭은 각각 자녀의 수학 점수 및 독해력 점수와 유의미한 상관관계를 보였습니다. 이는 메타정서가 양육 방식 개선과 자녀의 인지적 발달에 긍정적인 영향을 미치는 핵심 요인임을 시사합니다.",
+  "key_quotes": [
+    "For the prediction of the child's mathematics scores from the mother's awareness of her own sadness, F(4, 48) = 6.12, p < .05 (partial correlation = 0.34).",
+    "For the prediction of the child's reading comprehension scores from the father's coaching of the child's anger, F(4, 44) = 9.41, p < .01 (partial correlation = 0.37).",
+    "Metaemotion was related to both the inhibition of parental derogation of the child and to the facilitation of scaffolding-praising parenting."
+  ],
+  "checklists": [
+    "메타정서",
+    "감정코칭",
+    "경로분석"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

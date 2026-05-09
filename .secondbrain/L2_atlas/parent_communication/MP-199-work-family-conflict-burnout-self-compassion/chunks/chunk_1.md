@@ -1,0 +1,63 @@
+일-가정 갈등→양육번아웃→부모-자녀 관계: 자기연민 보호 효과 (PLOS ONE 2025)
+Title: Parents' Work–Family Conflict and Parent-Child Relationship: The Mediating Role of Parenting Burnout and the Moderating Role of Self-Compassion
+Authors: Jing Liang, Zongping Chen
+Affiliation: Chongqing Normal University, China
+Journal: PLOS ONE
+Published: March 14, 2025
+DOI: 10.1371/journal.pone.0319675
+ATLAS ID: MP-199
+Category: parent_communication / parental_burnout / self_compassion / work_family_conflict / moderated_mediation / chinese / parent_child_relationship
+Tier: 2 | Grade: A
+
+=== 연구 개요 ===
+
+중국 맞벌이 부모 N=818 (온라인, 2024년 6~7월). 조절매개 모형 (Hayes PROCESS, 5,000 bootstrap).
+경로: 일-가정 갈등(WFC) → 양육번아웃(매개) → 부모-자녀 관계 / 자기연민(조절).
+
+측정:
+- 일-가정 갈등 척도(WAFCS, α=0.87~0.90)
+- 부모-자녀 관계 척도(CPRS, α=0.87)
+- 양육번아웃 척도(PBA, α=0.96)
+- 자기연민 척도(SCS, α=0.86)
+
+=== 핵심 상관 ===
+
+- WFC↑ → 부모-자녀 관계↓: r=−0.41 (p<.001)
+- WFC↑ → 번아웃↑: r=+0.37 (p<.001)
+- 번아웃↑ → 부모-자녀 관계↓: r=−0.68 (p<.001) — 가장 강한 경로
+- 자기연민↑ → 부모-자녀 관계↑: r=+0.56 (p<.001)
+
+=== 매개·조절 결과 ===
+
+직접 효과: WFC→관계 β=−0.07 (p<.001)
+번아웃 매개: 확인됨 (부분 매개)
+자기연민 조절 (WFC→번아웃 경로):
+- 상호작용 항: β=−0.24 (p<.001)
+- 저자기연민(−1SD): 기울기=0.30 (WFC가 번아웃을 크게 증가)
+- 고자기연민(+1SD): 기울기=0.03, p=.42 (비유의 — WFC가 번아웃 증가시키지 않음!)
+
+→ 자기연민이 높으면 일-가정 갈등이 아무리 높아도 번아웃이 오르지 않음.
+→ "자기연민 = 번아웃 완전 소멸제"
+
+=== 핵심 결론 ===
+
+"일-가정 갈등은 부모-자녀 관계를 직접 해치고, 번아웃을 통해 간접적으로도 해침."
+"자기연민이 높은 부모는 WFC→번아웃 경로 자체가 차단됨 — 내적 자원 저장소 역할."
+
+자원보존이론(COR): 자기연민이 심리적 자원 저장소 역할 → 스트레스 상황에서도 소진 방지.
+
+=== 양육 시사점 ===
+
+1. 일이 바빠서 아이에게 잘 못해준다면 → 번아웃이 매개 경로
+2. 자기연민 훈련이 일-가정 갈등의 영향을 "완전히" 차단할 수 있음
+3. 기업·조직에서 자기연민 프로그램 제공이 가족에까지 긍정적 파급
+
+=== 채널2 소재 ===
+
+"직장에서 지쳤을 때 아이에게 화내는 이유" — WFC→번아웃→관계 경로
+"자기연민이 직장 스트레스를 집으로 가져오지 않는 이유" — 완전 조절 효과
+
+출처:
+- Liang J, Chen Z. (2025). Parents' Work–Family Conflict and Parent-Child Relationship: The Mediating Role of Parenting Burnout and the Moderating Role of Self-Compassion. PLOS ONE. DOI: 10.1371/journal.pone.0319675.
+## 관련 문서
+- [[MT-267_selfrag_atlas]] — 공유 엔티티: PLoS One

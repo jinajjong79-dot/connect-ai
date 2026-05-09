@@ -1,0 +1,37 @@
+# GP-292 Source
+
+Title: Positive Education for Young Children: Effects of a Positive Psychology Intervention for Preschool Children on Subjective Well Being and Learning Behaviors
+Authors: Anat Shoshani, Michelle Slone
+Journal: Frontiers in Psychology
+Year: 2017
+PMC ID: PMC5662620
+
+## Methods
+Study design: 무작위 대조 시험 (RCT), 사전/사후 반복 측정
+Sample: N=315 (개입군 160, 대조군 155, 양측 평가 완료)
+Age: M=4.53세 (SD=0.93), 범위 3-6.5세
+성별: 여아 153, 남아 162
+Setting: 이스라엘 북부 유치원 12교실
+개입: 8개 모듈, 훈련받은 교사가 32주 전달
+  모듈 내용: 긍정 감정, 몰입(engagement), 긍정 관계, 성취
+  → PERMA 모델 유아 적용
+
+## Key Results
+아동 자기보고:
+- 긍정 감정: d=0.38, p<0.001
+- 생활 만족도: d=0.67, p<0.001
+- 공감: d=0.34, p=0.003
+
+부모 보고:
+- 긍정 감정: d=0.81, p<0.001
+- 친사회 행동: d=0.66, p<0.001
+
+교사 보고:
+- 학습 접근 행동: d=0.62, p<0.001
+
+비유의: 부정 감정, 정신건강 어려움에 효과 없음
+
+## Conclusions
+긍정심리 개입 → 취학전 아동 주관적 웰빙 + 적응적 학습 행동 향상
+PERMA 모델 유아기 적용 가능성 지지
+제한: 능동적 대조군 없음, 단일 추적 측정

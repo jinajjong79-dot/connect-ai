@@ -1,0 +1,80 @@
+Maternal Reminiscing as Critical to Emotion Socialization
+Authors: Robyn Fivush (Emory University), Karen Salmon (Victoria University of Wellington)
+Journal: Mental Health & Prevention
+Year: 2023 (Volume 30, Article 200281)
+Source: PMC10163791
+ATLAS ID: NR-248
+Category: emotional_development / reminiscing / emotion socialization / narrative / intervention
+Tier: 2 | Grade: A ★★★
+Year: 2023
+
+=== OVERVIEW ===
+
+Comprehensive review synthesizing 30 years of research on how mothers' conversational patterns regarding past experiences fundamentally influence children's emotional development and self-regulation. Maternal elaborative reminiscing — providing specific details, asking open-ended questions, explicitly labeling emotions — predicts significantly stronger emotion regulation and emotion understanding in children.
+
+채널2와의 연결: 채널2가 하는 것의 정확한 학술명 = "elaborative reminiscing" (정교화 회상).
+
+=== THEORETICAL FRAMEWORK ===
+
+Sociocultural Developmental Theory of Autobiographical Memory:
+- Memory is fundamentally a social and cultural construction, not purely individual cognition
+- Children learn narrative structures through repeated family conversations about shared past experiences
+- Reminiscing occurs approximately every 5 minutes during typical family interactions — multiple daily opportunities
+- Mothers scaffold: action-based "landscape of action" (what happened) → psychological "landscape of consciousness" (thoughts, feelings, motivations)
+- Individual differences in maternal elaborative reminiscing persist over time and predict important developmental outcomes
+
+=== KEY FINDINGS ===
+
+Elaborative Reminiscing and Memory Development:
+- Children of highly elaborative mothers → "more detailed and coherent memories" persisting across time
+- Effects statistically significant even controlling for child language ability, temperament, executive function
+- Maternal elaboration = unique developmental influence independent of child's own cognitive abilities
+- Quality and specificity of emotional discourse matters more than quantity
+
+Emotion Understanding and Regulation:
+- Mothers who explain causes/consequences of emotional experiences → children with stronger emotion understanding "over and above the total amount of talk about emotions"
+- Maternal elaboration during NEGATIVE experiences → stronger association with emotion understanding than positive discussions
+- Longitudinal: children of highly elaborative mothers "able to better manage an emotion-eliciting task" 1 year later
+
+=== INTERVENTION RESULTS ===
+
+Typically-Developing Children:
+- 4 one-hour sessions → mothers increased elaborative utterances and emotional language
+- Effects persisted: significant at 44 months post-training and continuing into adolescence (ages 11-15)
+- Children showed "more elaborate memories with their parents and independently"
+
+At-Risk Populations:
+- Mothers of children with CONDUCT PROBLEMS: successfully increased elaborative utterances + emotion references after coaching
+- Children of MALTREATING mothers: "higher levels of emotion understanding from baseline to post-intervention assessment"
+- Treatment gains maintained over 6-month follow-up
+- Additional physiological benefits: improved CORTISOL REGULATION patterns in children
+→ "트라우마 경험 부모도 정교화 회상을 배우면 세대간 전이를 끊을 수 있다"
+
+=== INTERVENTION COMPONENTS ("TIPS FOR TALKING") ===
+
+1. Ask open-ended questions (not yes/no)
+2. Praise children's responses to encourage continued participation
+3. Explicitly label emotion causes AND consequences
+4. Help children understand temporal and relational context of emotional experiences
+
+=== ATLAS SIGNIFICANCE ===
+
+NR-248 = 채널2 "세현이와 아빠"의 학술적 근거:
+- 아빠가 세현이와 과거 감정 경험을 함께 이야기하는 행위 = elaborative reminiscing
+- 감정이해↑, 자기개념↑, 감정조절↑의 세 효과가 30년 연구로 확립
+- 인터벤션 효과 = 4회기만으로도 청소년기까지 지속
+- 저소득·학대 경험 부모도 훈련 가능 → 접근성과 확장성 높음
+
+Critical clinical note: 부정 감정에 대한 정교화가 긍정보다 더 중요. 단, "감정을 다루는 방식이 조절적이어야 한다" — dysregulated 방식으로 부정 감정을 다루면 역효과.
+
+ATLAS Connections:
+- [[ED-098]] Denham 1998 — 감정 표현력/이해력/조절력 3요소 (elaborative reminiscing = 이해력 핵심 경로)
+- [[ES-241]] Eisenberg 1998 — 감정사회화 3경로: 토론(emotion discourse) = 이 논문의 핵심
+- [[ME-238]] 모자 감정사회화 양방향 종단
+- [[ME-239]] 감정코칭 스트레스 완충
+- [[ED-095]] Gottman 메타정서 철학
+- [[NR-250]] At-risk 어머니 정교화 회상 연구
+
+Sources:
+- Fivush, R., & Salmon, K. (2023). Maternal reminiscing as critical to emotion socialization. Mental Health & Prevention, 30, 200281.
+- PMC10163791

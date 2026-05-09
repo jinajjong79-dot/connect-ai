@@ -1,0 +1,18 @@
+{
+  "chunk_id": "chunk_3",
+  "chunk_summary": "어머니의 성격 마스크(집단적 이상, 개인적 이상, 신체/정신적 특성)가 양육 행동에 미치는 영향이 분석되었으며, 각 성격 유형별로 뚜렷한 양육 패턴이 나타났다. 예를 들어, 집단적 이상을 중시하는 어머니는 애정적이지만 덜 민주적인 경향을 보였다. 연구는 어머니가 이 세 가지 요소 간의 균형을 이루는 것이 건강한 양육과 심리적 안정을 위해 필수적임을 강조한다.",
+  "key_quotes": [
+    "Physical/mental qualities, crucial for survival and reproduction, are prioritized unconsciously despite lower conscious ranking.",
+    "Collective Ideals mothers → more affectionate, more consistent, less democratic",
+    "Individual Ideals mothers → more autonomy-supporting, more democratic, less overprotective, more flexible (less consistent)"
+  ],
+  "checklists": [
+    "성격 마스크",
+    "암묵적 성격",
+    "양육행동",
+    "어머니 성격",
+    []
+  ],
+  "relevance": 0.8,
+  "domain": "emotional_development"
+}

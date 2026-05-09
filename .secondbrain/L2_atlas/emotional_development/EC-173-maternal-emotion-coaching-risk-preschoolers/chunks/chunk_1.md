@@ -1,0 +1,66 @@
+위험군 취학전 아동에서 모성 감정코칭 → 감정조절 매개 연구
+Title: Emotion Regulation Among Preschoolers on a Continuum of Risk: The Role of Maternal Emotion Coaching
+Authors: B Heidi Ellis, Eva Alisic, Amy Reiss, Tom Dishion, Philip A Fisher
+Affiliations: (미국)
+Journal: Journal of Child & Family Studies
+Published: 2014년 8월 (온라인 2013년 4월 30일)
+DOI: 10.1007/s10826-013-9752-z
+PMCID: PMC5448709
+NIHMSID: NIHMS849114
+PMID: 28572715
+ATLAS ID: EC-173
+Category: emotional_development / emotion_coaching / maternal / emotion_regulation / risk / preschool / mediation
+
+=== 연구 개요 ===
+
+가족 위험(경제적 어려움·가족 스트레스·학대)이 취학전 아동 감정조절에 미치는 영향에서 모성 감정코칭의 매개 역할 검증. N=74 (46-58개월, 약 32%가 아동학대 관련 서비스 의뢰 경험). 실험실 모-아 부정적 기억 회상 대화 코딩 분석.
+
+=== 연구 설계 ===
+
+표본: 46-58개월령 74명(남아 29, 여아 45), 중간 연소득 $15,000-20,000
+측정: 5분 모-아 부정적 기억 회상 대화 (Family Emotional Communication Scoring System 코딩, κ=0.86)
+- 평균 감정코칭 발화: 5.9개(SD=4.05) — 부정 정서 4.9개 vs 긍정 정서 1.0개
+ERC(아동 감정조절), FEC(가족 스트레스)
+분석: 계층적 회귀 매개 분석
+
+=== 주요 결과 ===
+
+상관분석:
+- 가족 위험 × 감정코칭: r=-0.27* (위험↑ → 감정코칭↓)
+- 가족 위험 × 아동 감정조절: r=-0.30**
+- 감정코칭 × 아동 감정조절: r=0.26*
+- 감정코칭 × 정서 불안정성: r=-0.30**
+
+매개 분석 — 전체 감정조절 (R²=0.22):
+- 가족 위험→감정코칭: β=-0.27, p=0.02
+- 감정코칭→감정조절: β=0.27, p=0.02
+- 부분 매개 확인 (가족 위험 효과 β=-0.31→-0.23으로 감소)
+
+매개 분석 — 정서 불안정성 (R²=0.22):
+- 감정코칭→정서 불안정성: β=-0.34, p<0.01 (강한 매개)
+
+적응적 조절: 감정코칭과 유의한 관계 없음 (β=0.09, p=0.44)
+
+=== 핵심 결론 ===
+
+1. 가족 위험 환경에서도 모성 감정코칭이 아동 감정조절을 부분 매개
+2. 특히 정서 불안정성 감소에 감정코칭이 강력한 효과 (β=-0.34)
+3. "위험군 유아에서도 감정코칭 훈련 → 아동 감정조절 개선 가능"
+4. 부정 정서 회상 대화가 긍정보다 5배 많음 — 일상에서 부정 감정 다루기가 핵심
+
+=== 양육 시사점 ===
+
+1. 가정 환경이 어려워도 엄마(아빠) 감정코칭으로 아이 감정 폭발을 줄일 수 있다
+2. 특히 아이의 감정 불안정성(감정 폭발, 과잉반응)에 감정코칭이 가장 효과적
+3. 부정 감정 상황(화났을 때, 울 때)을 다루는 대화 연습이 핵심 — 긍정 감정보다 5배 중요
+4. 위험군 가정을 위한 감정코칭 훈련 프로그램이 필요하다
+
+=== 채널2 소재 ===
+
+"아이가 화났을 때 이렇게 말하라" 시리즈:
+- 감정코칭이 위험 가정에서도 효과가 있는 이유
+- 엄마의 감정코칭 대화 5가지 패턴
+- 아이의 감정 불안정성을 줄이는 유일한 방법
+
+출처:
+- Ellis, B.H., Alisic, E., Reiss, A., Dishion, T., & Fisher, P.A. (2014). Emotion Regulation Among Preschoolers on a Continuum of Risk: The Role of Maternal Emotion Coaching. Journal of Child & Family Studies, 23, 965-974. DOI: 10.1007/s10826-013-9752-z. PMCID: PMC5448709.

@@ -1,0 +1,63 @@
+소아 수면건강·수면행동장애 종합리뷰 (Wiley 2025)
+Title: A Closer Look at Paediatric Sleep: Sleep Health and Sleep Behavioural Disorders in Children and Adolescents
+Authors: Debora Meneo, Dimitri Gavriloff, Silvia Cerolini, Elisabetta Baldi, Angelika Schlarb, Lino Nobili, Chiara Baglioni
+Affiliations: Guglielmo Marconi University Rome, University of Oxford, University of Bielefeld, IRCCS Istituto Giannina Gaslini Genoa, University Medical Center Freiburg
+Journal: Journal of Sleep Research
+Published: April 28, 2025; Vol.34(5), Article e70078
+DOI: 10.1111/jsr.70078
+PMID: 40292521
+ATLAS ID: SL-188
+Category: normal_development / sleep / sleep_health / behavioral_disorders / adolescent / neurodevelopmental / review
+Note: 본문 유료 — 초록+공개 색인 내용 수록
+Tier: 2 | Grade: A
+
+=== 연구 개요 ===
+
+서술적 리뷰 (Narrative Review). 영아~청소년 수면 건강 전 영역 최신 종합.
+수면 건강을 다차원 구성 개념으로 접근: 만족도·낮 시간 각성도·수면 타이밍·효율·지속시간·수면 관련 행동.
+
+=== 핵심 내용 ===
+
+수면과 정신건강 (청소년):
+- 수면 문제(불면, 야간 각성, 수면 분절) ↔ 내재화 증상(불안·우울) + 외현화 행동(과잉활동·공격성) 밀접 연관
+- 수면은 청소년 정신건강의 보호 요인
+
+수면 지속 시간 + 위험 행동:
+- 짧은 기저 수면 + 늦은 수면 타이밍 → 알코올·물질 사용 위험 증가 (종단 연구)
+
+영양과 수면:
+- 늦은 취침 → 야간 음식 섭취 증가 (고당분·가공식품 편중)
+
+일주기 리듬과 청소년 발달:
+- 청소년기 수면 구조 변화 + 일주기 리듬 + 호르몬 변동 + 뇌 성숙 → 인지·정서 기능에 복합 영향
+
+신경발달장애 아동:
+- 수면의 보호적 역할: 신경발달장애 아동의 정서·행동 문제 관리에 핵심
+- 스크린 타임 효과 + 개입 방법 → 연구 공백 영역
+
+스크린 타임:
+- 스마트폰·SNS 노출이 수면에 미치는 영향 — 중요 연구 필요 영역
+
+연령·성별·문화 요인:
+- 연령별, 성별별, 문화별 소아 수면건강 요인 구별 필요
+
+=== 미래 연구 우선순위 ===
+
+1. 아동 수면에 대한 스크린 타임 효과
+2. 신경발달장애 아동을 위한 맞춤형 개입
+3. 소아 수면건강 예방 프로그램
+
+=== 핵심 결론 ===
+
+소아 수면 건강은 단일 지표가 아닌 다차원 구성 개념.
+수면 부족·수면 문제는 정신건강·행동·영양·위험 행동에 광범위한 영향.
+신경발달장애 아동에게 수면 개입이 특히 중요.
+
+=== 채널2 소재 ===
+
+"아이 수면이 10년 후를 결정하는 방식" — 수면-정신건강-행동 연결
+"잠을 못 자는 아이가 나쁜 음식을 더 찾는 이유" — 수면-영양 연결
+"청소년 수면의 역설" — 일주기 리듬 변화와 뇌 발달
+
+출처:
+- Meneo D, Gavriloff D, Cerolini S, Baldi E, Schlarb A, Nobili L, Baglioni C. (2025). A Closer Look at Paediatric Sleep: Sleep Health and Sleep Behavioural Disorders in Children and Adolescents. Journal of Sleep Research, 34(5), e70078. DOI: 10.1111/jsr.70078. PMID: 40292521.

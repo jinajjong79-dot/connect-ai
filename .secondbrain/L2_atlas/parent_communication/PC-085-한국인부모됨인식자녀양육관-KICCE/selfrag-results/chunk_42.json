@@ -1,0 +1,16 @@
+{
+  "chunk_id": "chunk_42",
+  "chunk_summary": "본 텍스트는 한국인의 부모됨 인식과 자녀 양육 가치관을 조사한 연구의 초록과 관련 문헌 목록을 포함한다. 연구는 20대부터 50대까지의 성인 1,000명을 대상으로 자녀 및 양육 가치관에 대한 설문조사를 진행했다. 주요 목적은 한국인의 부모됨 가치관 변화를 파악하고 이를 바탕으로 정책적 함의를 도출하는 데 있다.",
+  "key_quotes": [
+    "The purposes of the study are to investigate Koreans’ perspectives and values on becoming a parent and child-rearing, to identify and explain changes in parental values over the years, and to provide implications for policy and research.",
+    "Questionnaires were conducted with a total of 1,000 adults sampled nation-wide by gender and age through 20s to 50s regarding their values on children and child-rearing."
+  ],
+  "checklists": [
+    "부모됨 인식",
+    "자녀가치관",
+    "부모 성장",
+    "한국인 양육관"
+  ],
+  "relevance": 0.9,
+  "domain": "parent_communication"
+}

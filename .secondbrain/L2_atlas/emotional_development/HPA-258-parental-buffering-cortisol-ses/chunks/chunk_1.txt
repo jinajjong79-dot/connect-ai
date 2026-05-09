@@ -1,0 +1,26 @@
+ATLAS ID: HPA-258
+Source: PMC9306352
+Author: Parenteau et al. (2020)
+Journal: Developmental Psychopathology
+Domain: emotional_development
+Tier: 2
+Grade: A ★★
+
+---
+
+Parenteau et al. (2020). Developmental Psychopathology. PMC9306352. N=180 children ages 9-11 years (M=9.9).
+
+Note: User-reported age range was 4-7, but actual study participants were 9-11 years old.
+
+Study design: TSST (Trier Social Stress Task) social-evaluative stressor. Conditions: with parent / with stranger / alone. Cortisol measured via salivary samples.
+
+Key findings:
+- Main effect: higher cortisol reactivity in stress vs. control: F(2,174)=19.85, p<.001
+- Parental education × condition interaction: F(2,169)=3.93, p=.02
+- Lower-education parents: BUFFERED cortisol (parent condition M=0.08 vs. alone M=0.26)
+- Higher-education parents: AMPLIFIED cortisol (parent condition M=0.25 vs. alone M=0.15)
+- Within parent condition: state anxiety correlated with cortisol r=.30, p=.03
+
+Mechanism: Higher-education parents may emphasize performance/evaluation, increasing child anxiety; lower-education parents provide more direct comfort/support.
+
+Key concept: "Social buffering (parent presence = stress buffer) is real BUT moderated by SES/parental education — more educated parents may amplify rather than buffer during performance tasks"

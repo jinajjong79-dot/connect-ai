@@ -1,0 +1,41 @@
+# GP-290 Source
+
+Title: Preschool-aged children's understanding of gratitude: Relations with emotion and mental state knowledge
+Authors: Jackie A Nelson, Lia Beatriz de Lucca Freitas, Marion O'Brien, Susan D Calkins, Esther M Leerkes, Stuart Marcovitch
+Journal: British Journal of Developmental Psychology
+Year: 2012 (published March 28, 2012)
+PMC ID: PMC5224866
+
+## Methods
+Study design: 3회 측정 종단 연구
+Sample: 3세 N=263 (여아 52%, 유럽계 58%, 아프리카계 35%)
+  → 4세 N=244 (87% 유지)
+  → 5세 N=228
+Age: 3세 M=41.78개월; 4세 M=53.41개월; 5세 M=65.51개월
+측정:
+- 감정 지식: 표정 분류, 관점 취하기, 원인 이해
+- 마음 상태 지식: 틀린 믿음, 외양-실재 구분, 관점 취하기
+- 감사 이해: 비네트 기반 반응
+
+## Key Results
+감사 이해 (5세):
+- 고양이 비네트: M=3.31 (SD=1.38)
+- 스웨터 비네트: M=3.67 (SD=1.82)
+- 비네트 간 상관: r=.33 (p<.01)
+
+경로 분석:
+- 3세 감정 지식 → 5세 감사 이해 (β 유의, p<.05)
+- 3→4세 마음 상태 지식 → 감사 이해 (p<.01)
+- 4세 마음 상태 지식이 3세 감정 지식→5세 감사 이해 경로 매개 ★
+- 모델 적합: RMSEA=.11, CFI=.97, χ²(5)=20.67, p=.001
+
+감사 구성 요소 이해:
+- 긍정 감정 보고: 53.3%(고양이), 76.7%(스웨터)
+- 수혜자와 감정 연결: 7.0%, 54.6%
+- 수혜자 도와야 함: 92.1%, 76.9%
+- 호혜성/감사 충분 이해: <20%
+
+## Conclusions
+만5세 대부분 감사 이해 초기 출현; 호혜성 완전 이해는 드묾
+초기 감정 인식 + 마음이론(ToM) 발달 = 감사 이해의 기반
+만4세부터 마음 상태 지식이 감사 이해 매개 역할 ★

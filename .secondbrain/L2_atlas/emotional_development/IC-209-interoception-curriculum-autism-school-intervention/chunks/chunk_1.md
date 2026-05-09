@@ -1,0 +1,144 @@
+Title: An Interoception-Based Intervention Using The Interoception Curriculum to Improve Emotion Regulation in Autistic Children: A 25-Week School-Based Program
+PMC ID: PMC9045986
+Year: 2022
+Tier: 2 | Grade: A
+Category: emotional_development
+Keywords: interoception curriculum, autism, emotion regulation, school-based intervention, alexithymia, interoceptive awareness, BRIEF-2, executive function
+
+---
+
+ABSTRACT
+
+This study examined a 25-week school-based intervention using "The Interoception Curriculum" to improve emotion regulation in autistic children. N=14 autistic students (ages 9-19, mean=13.86 years) participated in weekly 30-60 minute lessons across three curriculum sections: body lessons, emotion lessons, and action lessons.
+
+Key Findings:
+- Statistically significant improvements in interoceptive awareness (CQIA-2)
+- Statistically significant improvements in emotion regulation (BRIEF-2)
+- Effect sizes predominantly "very large" across most measures
+- Improvements in emotional control, shift ability, homeostatic awareness
+- General population applicability: interoceptive training benefits non-autistic children too
+
+INTRODUCTION
+
+Why autistic children and interoception:
+- Up to 85% of autistic individuals experience alexithymia (difficulty identifying emotions)
+- Alexithymia is linked to reduced interoceptive accuracy
+- Standard emotion regulation programs often fail because they assume children can already identify their feelings
+- The Interoception Curriculum addresses the PREREQUISITE: building body awareness before emotion labeling
+
+Kelly Mahler's Interoception Curriculum (2019):
+- Developed specifically for neurodiverse children
+- Based on the premise that emotion regulation requires accurate perception of bodily signals
+- Three-section progressive structure:
+  1. Body Section: Noticing physical sensations (hunger, thirst, heart rate, muscle tension, temperature, pain)
+  2. Emotion Section: Connecting body signals to emotional states
+  3. Action Section: Applying body awareness to regulation strategies
+
+The alexithymia-interoception connection (relevant for all children, not just autism):
+- Many neurotypical children also struggle with emotion identification (estimated 10-15%)
+- Children from stressed/trauma backgrounds may have blunted interoceptive awareness
+- Boys culturally discouraged from body awareness may show reduced IS
+- Emotion coaching (Gottman) works better when combined with body awareness training
+
+METHODS
+
+Design: Pre-post intervention study, single group
+Sample: N=14 autistic students
+Ages: 9-19 years (mean=13.86)
+Gender: 11 male, 3 female
+Setting: Single special education school
+Duration: 25 weeks
+Session frequency: Approximately weekly
+Session duration: 30-60 minutes per session
+Facilitators: School occupational therapists
+
+Intervention structure — The Interoception Curriculum:
+Section 1 (Body Lessons, ~8 weeks):
+- Activities to detect and describe bodily sensations
+- Exercises: jumping jacks → "what do you feel in your chest/legs/face?"
+- Temperature activities, touch activities, movement activities
+- Goal: build vocabulary for body sensations ("tight," "fluttery," "heavy," "buzzy")
+
+Section 2 (Emotion Lessons, ~9 weeks):
+- Connecting previously identified body signals to emotions
+- "When I notice X feeling in my body, that might mean I feel Y emotion"
+- "Tight chest + racing heart + clenched jaw = anxious/scared"
+- Body mapping: where do I feel each emotion?
+
+Section 3 (Action Lessons, ~8 weeks):
+- Using body awareness to guide regulation responses
+- If I notice early signals → I can act before full dysregulation
+- Personalized regulation menus matched to individual body signals
+
+Assessment tools:
+- BRIEF-2 (Behavior Rating Inventory of Executive Function, 2nd edition): caregiver-reported
+  - Global Executive Composite
+  - Behavioral Regulation Index (emotional control, shift, inhibit)
+  - Cognitive Regulation Index (working memory, planning)
+- CQIA-2 (Caregiver Questionnaire for Interoceptive Awareness): caregiver-reported
+  - Body awareness subscales: hunger, thirst, pain, elimination, heart rate, breathing, temperature
+  - Emotional awareness subscale
+
+RESULTS
+
+CQIA-2 (Interoceptive Awareness):
+- Overall interoceptive awareness: Significant improvement (p < .05), very large effect size
+- Body awareness subscales: statistically significant gains across all homeostatic functions
+  - Hunger/thirst awareness: large improvement (children could identify before extreme states)
+  - Pain awareness: significant improvement
+  - Heart rate/breathing: improvement in noticing during activity
+- Emotional awareness subscale: significant improvement, very large effect size
+- Key finding: children learned to notice body signals they had previously been unable to perceive
+
+BRIEF-2 (Executive Function/Emotion Regulation):
+- Behavioral Regulation Index: significant improvement, very large effect size
+  - Emotional Control: large improvement (fewer emotional outbursts, faster recovery)
+  - Shift: improvement (more flexible transitions, less rigidity when upset)
+  - Inhibit: improvement (better impulse control, especially emotion-driven impulsivity)
+- Global Executive Composite: significant improvement
+
+Representative case notes (from teachers/caregivers):
+- "He now says 'my heart is racing' before a meltdown — we have time to help now"
+- "She came to me and said 'my tummy feels tight, I think I'm worried' — she never did that before"
+- "When he starts feeling dysregulated, he can now identify it earlier and ask for a break"
+
+DISCUSSION
+
+Why body-first, emotion-second approach works:
+Traditional emotion regulation programs often start with: "Name your emotion → use a coping strategy"
+The interoception approach starts with: "Notice your body sensation → connect to emotion → regulate"
+
+The cascade:
+Body signal detection → sensation labeling → emotion identification → regulation activation
+
+For children with alexithymia or poor interoceptive awareness, skipping step 1 makes all subsequent steps unreliable. The curriculum rebuilds from the ground up.
+
+Application to general population (not just autism):
+- Any child who struggles with emotion identification benefits from body-awareness training
+- Emotion coaching works better when combined with "where do you feel that in your body?"
+- School programs that only teach emotion labels miss the underlying interoceptive foundation
+- Korean context: 감정코칭 + 몸알아차림 교육 결합이 더 효과적
+
+Duration insights:
+- 25 weeks is substantial — but meaningful improvements seen from ~8-10 weeks (end of body section)
+- Brief adaptations (8-week programs) may provide partial benefit
+- Homeostatic awareness (hunger, thirst) shows fastest improvement; emotional awareness takes longer
+
+Limitations:
+- Very small sample (N=14)
+- No control group
+- Caregiver-report only (subjective)
+- Single setting
+- No long-term follow-up
+- Autism-specific: generalization to neurotypical children not directly tested
+
+CONCLUSION
+
+A 25-week interoception-based curriculum produced statistically significant, very large improvements in interoceptive awareness and emotion regulation in autistic children. The body-first approach addresses the foundational deficit underlying emotion regulation difficulties. These findings support applying interoception training as a prerequisite or complement to standard emotion coaching programs — particularly for children who "know" emotion labels but cannot identify what they feel.
+
+Key message for Korean parenting and ATLAS:
+"감정코칭 1단계(감정 포착)는 몸을 먼저 가르치는 것에서 시작된다. 아이가 '무서워'라고 말하려면 먼저 '가슴이 두근거린다'를 느껴야 한다."
+## 관련 문서
+- [[chunk_1]] — 공유 엔티티: Gottman
+- [[ED-095_selfrag_atlas]] — 공유 엔티티: Gottman
+- [[PC-104_selfrag_atlas]] — 공유 엔티티: Gottman

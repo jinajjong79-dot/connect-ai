@@ -1,0 +1,18 @@
+{
+  "chunk_id": "chunk_10",
+  "chunk_summary": "아동의 감정 개념은 초기에는 단순하고 행동 기반적이지만, 발달함에 따라 자신의 노력이나 책임과 연결된 심리적으로 정교한 개념으로 발전합니다. 또한, 아동은 감정 표현이 사회문화적 규칙에 따라 어떤 결과를 초래하는지(타인에게 피해를 주거나 도움을 얻는 등) 이해하며 감정을 조절하는 '메타-감정적 이해'를 합니다. 이러한 조절은 사회적 결과에 대한 인식뿐만 아니라, 주관적인 불편함을 관리하려는 내적 노력도 포함합니다.",
+  "key_quotes": [
+    "early emotional concepts are behaviorally-based, simple, and limited in depth and scope.",
+    "an early understanding of pride that is based primarily on positive outcomes develops into a more mature conception that depends on positive outcomes that are based on one's own deliberate efforts",
+    "children in the early grade-school years become aware that emotional displays should be regulated to avoid hurting another's feelings or being personally embarrassed"
+  ],
+  "checklists": [
+    "감정 자기조절",
+    "발달 단계",
+    "외재적 조절",
+    "내재적 조절",
+    "연령별 기준"
+  ],
+  "relevance": 0.95,
+  "domain": "emotional_development"
+}

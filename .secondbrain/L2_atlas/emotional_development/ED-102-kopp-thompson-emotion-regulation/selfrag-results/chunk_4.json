@@ -1,0 +1,20 @@
+{
+  "chunk_id": "chunk_4",
+  "chunk_summary": "영아기의 감정 발달은 흥분성 및 억제성 과정의 동시적 발달과 밀접하게 관련되어 있습니다. 초기에는 교감신경계 활동이 활발하지만, 부교감신경계 활동이 각성 조절에 중요한 역할을 하며, 전반적인 각성 패턴이 반응적이고 '전부 아니면 전무(all-or-none)'의 특성에서 벗어납니다. 특히 생후 2~4개월경에 원시적인 대뇌피질 억제 중추가 발달하면서, 영아는 행동 및 감정 상태를 점차 규칙적으로 조절하고 환경에 반응하는 능력을 갖추게 됩니다.",
+  "key_quotes": [
+    "existing research indicates that two processes, occurring simultaneously, are related to the development of excitatory and inhibitory emotive processes early in infancy.",
+    "At the same time, parasympathetic activity assumes an important role in arousal regulation.",
+    "The first occurs at 2-4 months of age with the growth of rudimentary forebrain inhibitory centers"
+  ],
+  "checklists": [
+    "감정 자기조절",
+    "발달 단계",
+    "외재적 조절",
+    "내재적 조절",
+    "언어 발달",
+    "연령별 기준",
+    "신경생물학적 기제 관련 항목"
+  ],
+  "relevance": 0.88,
+  "domain": "emotional_development"
+}

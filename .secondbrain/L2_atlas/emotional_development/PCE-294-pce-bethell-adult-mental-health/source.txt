@@ -1,0 +1,43 @@
+# PCE-294 Source
+
+Title: Positive Childhood Experiences and Adult Mental and Relational Health in a Statewide Sample: Associations Across Adverse Childhood Experiences Levels
+Authors: Christina Bethell, Jennifer Jones, Narangerel Gombojav, Jeff Linkenbach, Robert Sege
+Journal: JAMA Pediatrics
+Year: 2019
+PMC ID: PMC6735495
+DOI: 10.1001/jamapediatrics.2019.3007
+
+## Methods
+Study design: 횡단 전화 설문 (2015 Wisconsin Behavioral Risk Factor Survey)
+Sample: N=6,188 Wisconsin 성인 (여성 50.7%, 백인 84.9%)
+PCE 7항목 척도:
+  ① 가족에게 감정을 말할 수 있었다
+  ② 가족이 어려울 때 옆에 있었다
+  ③ 지역사회 전통에 참여했다
+  ④ 학교에서 소속감을 느꼈다
+  ⑤ 친구의 지지를 받았다
+  ⑥ 부모 아닌 어른 2명이 관심을 가져줬다
+  ⑦ 집에서 어른에게 안전하다고 느꼈다
+ACE: 11항목 CDC 표준 척도 (0, 1, 2-3, 4-8 카테고리)
+결과 변수: 우울 진단 또는 14일 이상 정신건강 불량; 사회정서적 지지 자기보고
+
+## Key Results
+PCE 6-7 vs 0-2 → 우울/정신건강 불량:
+- OR=0.28 (95% CI: 0.21-0.39) → 72% 감소 ★
+- 유병률: 12.6% vs 48.2%
+
+PCE 3-5 vs 0-2 → 우울/정신건강 불량:
+- OR=0.50 (95% CI: 0.36-0.69) → 50% 감소
+- 유병률: 25.1% vs 48.2%
+
+PCE 6-7 vs 0-2 → 사회정서적 지지("항상" 응답):
+- OR=3.53 (95% CI: 2.60-4.80)
+
+ACE 수준 횡단 일관성:
+- ACE 1개, 2-3개, 4-8개 모든 수준에서 PCE 연관성 일관 유지
+- ACE 4+ 이어도 PCE 높으면 보호 효과
+
+## Conclusions
+PCE → ACE 노출 독립적으로 정신+관계 건강 용량반응 연관
+"좋은 경험을 쌓아주면 나쁜 경험을 이긴다" — 채널2 핵심 메시지 ★★★
+PCE 적극적 증진이 예방 전략으로 유효

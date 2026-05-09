@@ -1,0 +1,78 @@
+아버지-자녀 놀이 상호작용과 아동발달 체계적 리뷰
+Title: A Systematic Review of Father–Child Play Interactions and the Impacts on Child Development
+Authors: Erin Louise Robinson, Jennifer StGeorge, Emily Elsa Freeman
+Affiliations: (호주)
+Journal: Children (Basel)
+Published: 2021년 5월 13일
+DOI: 10.3390/children8050389
+PMCID: PMC8153002
+PMID: 34068176
+ATLAS ID: FI-170
+Category: emotional_development / father_involvement / play / rough_and_tumble / self_regulation / child_development / systematic_review
+Note: 원 PMC7059794는 단백질 연구 오류 — PMC8153002로 대체
+
+=== 연구 개요 ===
+
+0-10세 자녀와의 아버지 놀이 상호작용이 아동발달에 미치는 영향 체계적 문헌고찰. PsycINFO, Scopus, Web of Science에서 1,622개 초록 선별 → 최종 39개 논문 포함. 9가지 놀이 유형 분류.
+
+=== 놀이 유형 분류 ===
+
+| 놀이 유형 | 비중 |
+|---------|------|
+| 거친 놀이 (RTP: Rough-and-Tumble Play) | 24% |
+| 장난감 놀이 | 28% |
+| 이동 놀이 | 11% |
+| 비디오게임 놀이 | 10% |
+| 복합 놀이 | 9% |
+| 퍼즐 놀이 | 9% |
+| 기타 | 9% |
+
+=== 거친 놀이(RTP)와 자기조절 ===
+
+9개 연구, 58개 결과 지표 분석:
+- 정서/행동 관련 지표 26개: 긍정적 연관 16개, 부정적 8개
+- "아버지 지배성이 낮을 때 거친 놀이 → 정서조절 부적 상관"
+- "아버지 지시적 참여 낮을 때 → 신체 공격성 증가"
+- "아버지 양의 정서 공유 → 불안/위축 감소"
+- 질(Quality)이 빈도(Frequency)보다 중요
+
+발달 영역별:
+| 발달 영역 | 주요 패턴 |
+|---------|---------|
+| 정서/행동 | 아버지 민감성·긍정적 상호작용 시 긍정 결과 |
+| 인지발달 | 신체 활동 중심 놀이 연관 |
+| 학업성취 | 자율성 지지적 양육 시 긍정 |
+| 사회적 행동 | 아버지 열정·민감성이 긍정 모델링 |
+
+=== 아버지 놀이의 독특성 ===
+
+아버지 놀이 특성:
+- 어머니보다 더 신체적·자발적·활동적
+- 거친 놀이(RTP)가 아동 자기조절 기술에 중요한 함의
+- "아버지의 거친 놀이는 아동이 강렬한 감정을 조절하는 연습장"
+- "아빠 놀이에서 자기조절에 실패하면 놀이가 끝남 — 자기조절 동기 창출"
+
+=== 핵심 결론 ===
+
+1. "긍정적 양육 행동(민감성, 놀이충동, 상호성) → 아동발달 긍정"
+2. "부정적 행동(간섭, 통제, 비판) → 아동발달 부정"
+3. 거친 놀이: 단순 빈도보다 질(민감성, 지배권 공유)이 중요
+4. 아빠 놀이가 엄마와 다른 방식으로 아동 자기조절·인지·사회성 발달에 기여
+5. 저소득층 가정도 신체 활동을 통해 유사한 발달 효과 달성 가능
+
+=== 양육 시사점 ===
+
+1. 아빠의 거친 신체 놀이(씨름, 뛰기, 롤링) = 자기조절 훈련이다
+2. 거친 놀이의 핵심 = 아빠가 때로 져주기, 아이 수준에 맞추기
+3. 장난감 없어도 된다 — 신체 접촉 놀이가 최고의 발달 자극
+4. 아빠-아이 놀이가 엄마와 다른 것은 결함이 아니라 강점이다
+
+=== 채널2 소재 ===
+
+"아빠의 거친 놀이가 아이를 강하게 만든다" 시리즈:
+- 아빠와 씨름하는 아이가 감정 조절을 배운다
+- 아빠 놀이는 왜 엄마 놀이와 달라야 하는가
+- 거친 놀이 가이드: 이렇게 하면 자기조절이 된다
+
+출처:
+- Robinson, E.L., StGeorge, J., & Freeman, E.E. (2021). A Systematic Review of Father–Child Play Interactions and the Impacts on Child Development. Children (Basel), 8(5), 389. DOI: 10.3390/children8050389. PMCID: PMC8153002.

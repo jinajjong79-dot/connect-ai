@@ -1,0 +1,110 @@
+<!-- chunk: 1/2 | age_range: 불명확 | chars: 7768 -->
+# Parental Influence on Children's Media Use in South Korea: National Population-Based Study
+
+**Authors:** Ji Young Kim, PhD; Ah Jung Yang, PhD; Hye Eun Lee, PhD
+
+**Affiliations:** Department of Psychology, Pennsylvania State University, Middletown, PA, USA; Communication & Media Research Center, Ewha Womans University, Seoul; Department of Communication & Media, Ewha Womans University, Seoul
+
+**Journal:** JMIR Human Factors, Vol. 13, Article e75292
+
+**Published:** January 28, 2026
+
+**DOI:** 10.2196/75292
+
+**PMC:** PMC12851523 | **PMID:** 41604626
+
+---
+
+This study examines parental influences related to young children's media use in Korea over a 3-year period (2022–2024) using independent, nationally representative cohorts. Using multigroup structural equation modeling, we analyzed data from 3 independent parent-reported cohorts (for 2022, n=1058; for 2023, n=1020; for 2024, n=1020) to investigate how parental media habits, attitudes, and distinct parenting styles predict children's daytime and nighttime media consumption.
+
+Online survey results revealed that parental media time, particularly for mothers, consistently correlated with higher levels of children's daytime media use (β=.002–.003). Positive parental attitudes toward media increased children's daytime media use (β=.028–.102), whereas negative attitudes had a limited effect (β=−.069–.140). Among the 7 parenting styles, positive parenting consistently reduced children's daytime media use in 2022 and 2023 (β=−.228 for 2022, β=−.215 for 2023), but harsh punishment emerged as the strongest factor in daytime media use in 2024 (β=−.072). Parenting styles showed no significant effect on children's nighttime media use throughout the study.
+
+---
+
+In South Korea, approximately 60% of children ages 3–9 are exposed to television before age one, and 30% use smartphones prior to their first birthday. These statistics contrast sharply with American Academy of Pediatrics guidance recommending against media consumption for children under age two.
+
+Understanding factors influencing media consumption among digital natives requires examining environmental and situational contexts. Parents serve as primary role models shaping children's behavioral patterns and media habits.
+
+Bandura's social learning theory explains how children acquire behaviors through observing environmental figures. Young children naturally replicate parental media consumption patterns. Research indicates parental habitual media use correlates with increased child screen time, particularly when mothers report substantial usage.
+
+**H1:** A parent's screen time will be positively related to a child's media use.
+
+Parents establish household media rules reflecting their attitudes. Children of parents who view media positively tend to have higher screen time.
+
+**H2:** Parents with a positive attitude toward media will have children with higher levels of media use.
+
+**H3:** Parents with a negative attitude toward media will have children with lower levels of media use.
+
+The Ghent Parental Behavior Scale categorizes strategies across nine domains: positive parenting, autonomy, rules, monitoring, discipline, harsh punishment, material reward, inconsistent discipline, and ignoring.
+
+**H4:** Specific parenting styles will be associated with children's level of media use.
+
+**H5:** Children with permissive/neglectful parents (exercising positive parenting, granting autonomy) will have higher media use levels.
+
+**H6:** Children with authoritative/authoritarian parents (emphasizing monitoring, rules, discipline, punishment, rewards) will have lower media use levels.
+
+**RQ1:** Among parental media use, attitudes, and parenting styles, which factor most influences children's consumption?
+
+---
+
+Three separate cross-sectional cohorts of parents in South Korea:
+- **2022 cohort:** 1,058 parents (87.8% female) of children aged 5–7 years, surveyed April 26–May 9
+- **2023 cohort:** 1,020 parents (85.9% female) of children aged 6–8 years, surveyed October 26–November 9
+- **2024 cohort:** 1,020 parents (87.0% female) of children aged 7–9 years, surveyed July 31–August 21
+
+Recruited through Macromill Embrain, a Korean survey company. IRB approved by Ewha Womans University (EWHA-202103-0028-01).
+
+- **Parents' Media Time:** Weighted weekday/weekend time formula: (weekday × 5 + weekend × 2) / 7, converted to minutes
+- **Parental Attitudes:** 9 items for positive attitudes; 8 items for negative (intellectual + social dimensions)
+- **Parenting Styles:** Ghent Parental Behavior Scale — 7 dimensions (positive parenting, monitoring, rules, discipline, harsh punishment, material reward, autonomy)
+- **Child's Media Time:** 24-hour matrix — daytime (7AM–9PM) vs nighttime (before 7AM or after 9PM)
+
+Multigroup structural equation modeling (Mplus 8.0, maximum likelihood estimation). Model fit adequate across all three years (CFI = 0.98–0.99).
+
+---
+
+**Mother's media time → Children's daytime media use:** β = .002–.003 (significant, all years)
+
+**Father's media time → daytime:** significant only in 2023 (β = .001); non-significant in 2022 and 2024
+
+**H1 partially supported:** Maternal media time consistently predicted child media use; paternal effects were inconsistent.
+
+**Positive attitudes → Daytime use:** β = .028–.102 (significant, increased child use)
+**Negative attitudes → Daytime use:** β = −.069–.140 (reduced child use)
+**Nighttime use:** Parental attitudes were strongest predictor of nighttime media use in 2022 only.
+
+**Positive Parenting → Daytime use:**
+- 2022: β = −.228 (strongest predictor — REDUCED use)
+- 2023: β = −.215 (strongest predictor — REDUCED use)
+- 2024: not significant
+
+**Harsh Punishment → Daytime use:**
+- 2022: β = −.078; 2023: β = −.090; 2024: β = −.072 (strongest predictor in 2024)
+
+**Material Reward → Nighttime use:** 2024: β = .072 (positive association)
+
+**Parenting styles → Nighttime use:** No significant effects across all three years.
+
+- **2022–2023:** Positive parenting (β = −.228, −.215) = strongest predictor of reduced daytime use
+- **2024:** Harsh punishment (β = −.072) = strongest predictor
+- **Nighttime:** Parental attitudes were dominant (2022 only)
+
+---
+
+1. **Maternal influence dominant:** Mothers' media use consistently predicted children's media use across all years and time periods.
+
+2. **Temporal differentiation matters:** Parenting influences differed between daytime and nighttime. Parenting styles affected daytime use but showed NO significant effect on nighttime use throughout the entire study period, suggesting parental influence is more effective during waking hours.
+
+3. **Evolving parenting effects:** Positive parenting was the dominant reducer in 2022–2023, but harsh punishment became dominant by 2024. This temporal shift may reflect normalization of screen use and adaptation in parenting strategies.
+
+4. **Age-related changes:** Compared to prior research on younger children (ages 3–6 by Lee et al., 2022), this study on older children (5–9) found that parental intervention effectiveness — especially for nighttime use — diminishes as children grow.
+
+Balanced approaches combining restrictive and instructive strategies. Integrate restrictive, instructive, and joint approach strategies to create a framework that encourages parent-child collaboration. Recognize that media affects sleep quality, cognitive development, language, and socioemotional and physical health.
+
+1. Data collected 2022–2024 when screen time became more normalized
+2. Parental self-reports susceptible to social desirability bias
+3. Did not differentiate between gaming, educational content, and entertainment
+4. Online panel is not entirely random; results not fully representative
+5. Correlational design — cannot determine causation
+
+---

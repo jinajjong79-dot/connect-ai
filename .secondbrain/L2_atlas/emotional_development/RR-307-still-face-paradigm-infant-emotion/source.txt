@@ -1,0 +1,29 @@
+# RR-307 Source
+
+Title: Emotions and emotional communication in infants
+Author: E Z Tronick
+Journal: American Psychologist
+Year: 1989
+Volume: 44(2):112-119
+PMID: 2653124
+DOI: (American Psychologist 1989)
+
+## Abstract (PubMed 확인)
+영아의 감정과 정서적 소통 표현이 이전에 이해된 것보다 훨씬 더 구조화되어 있음을 최근 연구가 보여준다.
+영아는 "사건의 성격과 맥락에 적합한 다양한 개별적 정서 표현"을 나타낸다.
+영아는 양육자 얼굴 표현의 정서적 의미를 인식한다.
+영아와 양육자 간 상호적 정서 표현은 상호작용의 상호조절(mutual regulation)을 촉진한다.
+
+## 핵심 발견
+긍정 발달 ← "상호작용 오류의 빈번한 수정(frequent reparations of interactive errors)이 특징인 조율된 상호작용"
+부정 발달 ← "지속적인 상호작용 실패와 부정적 정서의 지속된 기간"
+
+## Still Face 패러다임 맥락
+엄마 무표정(Still Face) → 아기 고통 → 엄마 표정 복귀 → 회복
+"회복 자체가 발달" — 단절 후 재조율 경험이 정서 발달의 핵심 기제
+영아는 수동적 수용자가 아닌 능동적 조절 참여자
+
+## 역사적 의의
+Tronick 1989 = Still Face 패러다임의 이론적 토대
+상호조절 모델(Mutual Regulation Model) 정식화
+영아 정서 연구의 패러다임 전환 — "영아는 정서적 존재"

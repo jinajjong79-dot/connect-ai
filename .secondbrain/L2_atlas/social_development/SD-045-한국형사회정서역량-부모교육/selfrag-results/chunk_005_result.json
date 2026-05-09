@@ -1,0 +1,19 @@
+{
+  "chunk_id": "sd045_chunk005",
+  "chunk_summary": "본 청크는 사회정서학습(SEL)의 이론적 배경과 국내외 적용 사례를 포괄하는 핵심 참고문헌 목록입니다. CASEL과 OECD 등의 글로벌 기관 자료를 통해 SEL의 정의와 구성요소를 확립하고 있으며, 특히 부모 및 가족 참여(Whole-family approach)의 중요성을 강조합니다. 또한, 국내에서는 '마음교육' 도입 및 지역 교육청의 SEL 프로그램 개발 점검 사례를 제시하며 한국형 SEL 교육의 필요성과 현황을 입증하고 있습니다.",
+  "key_quotes": [
+    "Family Engagement and SEL Enhancing social-emotional learning with a whole-school, whole-family, whole-day approach.",
+    "내년부터 첫발 떼는 '마음교육'…안착 위한 과제는?",
+    "Beyond Academic Learning-FIRST RESULTS FROM THE SURVEY OF SOCIAL AND EMOTIONAL SKILLS."
+  ],
+  "checklists": [
+    "SEL 역량 구성요소 (CASEL, OECD, Elias & Weissberg)",
+    "부모교육 프로그램 요소 (CASEL Parent Resources, Shafer, Neha & Elizabeth)",
+    "한국형 적용 방안 (EBS NEWS, K-NEWS룸 등 국내 사례)",
+    "코칭 전략 (가족 및 부모 대상 개입 모델 제시)"
+  ],
+  "relevance": 1.0,
+  "domain": "social_development",
+  "_chunk_num": 5,
+  "_elapsed": 44.8
+}

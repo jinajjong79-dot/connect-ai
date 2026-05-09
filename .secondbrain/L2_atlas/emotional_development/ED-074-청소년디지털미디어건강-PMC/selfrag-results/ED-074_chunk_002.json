@@ -1,0 +1,18 @@
+{
+  "chunk_id": "ED-074_chunk002",
+  "chunk_summary": "이 청크는 디지털 미디어 사용이 아동의 인지 및 발달에 미치는 부정적인 영향을 광범위하게 다룹니다. 학업 성취도 저하, 언어 발달 지연, ADHD 증상 악화 등 다양한 연구 결과를 제시하며, 특히 과도한 스크린 타임이 부모-자녀 상호작용을 감소시켜 언어 연습 기회를 제한한다는 점을 강조합니다. 따라서 공동 시청(Co-viewing)과 같은 상호작용적 활동이 더 유익한 대안으로 제시됩니다.",
+  "key_quotes": [
+    "Social media addiction has significant negative impact on academic performance (r=−0.172)",
+    "Early and frequent smartphone/tablet use in children aged 12–24 months → 90.3% of speech delay cases had high device exposure",
+    "Excessive screen time reduces parent-child interactions, limiting language practice opportunities"
+  ],
+  "checklists": [
+    "스크린타임 건강 영향",
+    "수면·비만·정신건강",
+    "인지발달",
+    "스크린타임 가이드라인",
+    "부모 중재 전략"
+  ],
+  "relevance": 0.95,
+  "domain": "cognitive_development"
+}

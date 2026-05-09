@@ -1,0 +1,20 @@
+{
+  "chunk_id": "chunk_1",
+  "chunk_summary": "이 텍스트는 존 고트만 박사의 감정 코칭 접근법을 소개하며, 행복하고 성공적인 아이를 기르는 핵심은 지능지수(IQ)가 아닌 감성지수(EQ)임을 강조합니다. 고트만은 부모가 자녀의 부정적 감정에 반응하는 방식에 따라 네 가지 양육 방식을 제시합니다. 특히 무시하는 부모, 비난하는 부모, 방임하는 부모의 방식과 그로 인해 자녀가 겪는 부정적인 결과를 설명합니다.",
+  "key_quotes": [
+    "Gottman argues that the key to raising a happy, thriving child is Emotional Intelligence (EQ), not IQ.",
+    "Dismissing Parents: Disregard, ignore, or trivialize children's negative emotions",
+    "Disapproving Parents: Judge and criticize children for emotional expression"
+  ],
+  "checklists": [
+    "감정코칭 5단계",
+    "부모 유형 4가지",
+    "감정 명명",
+    "공감 경청",
+    "행동 한계 설정",
+    "아빠 역할",
+    "연령별 감정 발달"
+  ],
+  "relevance": 0.95,
+  "domain": "parenting_caregiving"
+}

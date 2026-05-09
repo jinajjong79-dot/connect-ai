@@ -1,0 +1,20 @@
+{
+  "chunk_id": "chunk_1",
+  "chunk_summary": "이 글은 감정 조절(Emotional Regulation)의 개념과 발달적 중요성을 전 생애에 걸쳐 개괄하는 학술 리뷰의 서론이다. 감정 조절은 감정 반응을 모니터링, 평가, 수정하는 외적 및 내적 과정을 의미하며, 그 발달 기제는 부모의 직접적인 개입, 모델링 같은 외적 요인과 언어 및 인지 능력의 발달, 자기 이해의 증진 같은 내적 요인으로 나뉜다. 이는 감정 발달의 생물학적 토대와 밀접하게 관련되어 있다.",
+  "key_quotes": [
+    "Emotional regulation refers to the extrinsic and intrinsic processes responsible for monitoring, evaluating, and modifying emotional reactions.",
+    "Extrinsic influences on the early regulation of a child's emotion and their long-term significance are then discussed, including a parent's direct intervention strategies, selective reinforcement and modeling processes...",
+    "Intrinsic contributors to the growth of emotional self-regulatory capacities include the emergence of language and cognitive skills, the child's growing emotional and self-understanding..."
+  ],
+  "checklists": [
+    "감정 자기조절",
+    "발달 단계",
+    "외재적 조절",
+    "내재적 조절",
+    "부모 개입",
+    "언어 발달",
+    "연령별 기준"
+  ],
+  "relevance": 0.95,
+  "domain": "emotional_development"
+}

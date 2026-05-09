@@ -1,0 +1,19 @@
+{
+  "chunk_id": "pc033_chunk_005",
+  "chunk_summary": "이 청크는 '분노행동 척도(The Behavioral Anger Response Questionnaire: Korean Version)'에 대한 상세한 정보를 제공한다. 이 척도는 분노를 표출하고 대처하는 다양한 방식을 폭넓게 측정하는 도구이다. 총 31문항과 6개의 하위척도로 구성되어 있으며, 점수가 높을수록 해당 분노행동을 많이 보임을 의미한다.",
+  "key_quotes": [
+    "한국판 분노행동 척도(The Behavioral Anger Response Questionnaire: Korean Version)는 분노를 표출하는 방식을 폭넓게 측정해 주는 도구이다.",
+    "총 31문항, 6개의 하위척도로 구성되어 있다.",
+    "하위척도별로 각 항목의 점수의 평균을 내어 분노행동의 수준을 평가하며 점수가 높을수록 해당 분노행동을 많이 보임을 의미한다."
+  ],
+  "checklists": [
+    "척도명: 분노행동 척도(The Behavioral Anger Response Questionnaire: Korean Version)",
+    "문항 구성: 총 31문항",
+    "채점 방법: 하위척도별 평균 점수를 계산하며, 점수가 높을수록 해당 분노행동을 많이 보임을 의미함.",
+    "활용 지침: 일반 성인을 대상으로 적용 가능하며, 6개의 하위척도(직접 분노표출, 자기표현, 사회적 지지 추구, 분산, 회피, 반추)를 통해 분노 대처 방식을 평가함."
+  ],
+  "relevance": 0.95,
+  "domain": "parent_communication",
+  "_chunk_num": 5,
+  "_elapsed": 48.9
+}

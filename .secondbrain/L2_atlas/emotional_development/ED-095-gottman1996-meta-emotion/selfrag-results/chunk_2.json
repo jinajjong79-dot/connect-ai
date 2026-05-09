@@ -1,0 +1,17 @@
+{
+  "chunk_id": "chunk_2",
+  "chunk_summary": "이 텍스트는 '메타정서(meta-emotion)', 즉 감정에 대한 감정을 다루는 개념을 심도 있게 다룹니다. 연구자들은 감정 반응의 높은 개인차를 지적하며 메타정서가 충분히 연구되지 않은 영역임을 강조합니다. 특히, 부모의 메타정서 철학을 '감정 코칭(emotion-coaching)'과 '무시/부정(dismissing)'으로 구분하여 설명합니다. 무시하는 부모는 아이의 부정적 감정을 해롭다고 느끼고, 이를 빠르게 고치거나 무시하려는 경향을 보인다고 분석합니다.",
+  "key_quotes": [
+    "sadness was important information that something was missing in one's life.",
+    "Meta-emotion may be a pervasive and understudied dimension in emotion research.",
+    "a dismissing metaemotion philosophy was one in which parents felt that the child's sadness or anger were potentially harmful to the child"
+  ],
+  "checklists": [
+    "메타정서",
+    "감정코칭",
+    "부모 감정철학",
+    "감정축소형 부모"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

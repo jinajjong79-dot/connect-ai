@@ -1,0 +1,16 @@
+{
+  "chunk_id": "chunk_2",
+  "chunk_summary": "본 청크는 연구에 참여한 아동 및 부모들의 인구통계학적 특성(나이, 성별, SES, 학력)을 통계적으로 제시하고 있다. 또한, 연구에 사용된 기질 및 성격 검사 도구인 TCI-RS의 개요를 설명하며, 이 검사가 140문항으로 구성된 자기보고식 설문지임을 밝히고 있다. 전반적으로 연구 대상자의 기본적인 배경 정보를 확립하는 데 초점을 맞추고 있다.",
+  "key_quotes": [
+    "The age and gender distribution of the 190 children were not significantly different (χ²(4, N=190) = 3.046, p = .550)",
+    "The Korean version of the Temperament and Character Inventory-Revised-Short (TCI-RS) ... is a 140-item self-report questionnaire",
+    "Results are reported as means ± standard deviation or as frequency (%)"
+  ],
+  "checklists": [
+    "TCI 기질성격검사",
+    "아동 CBCL 문제행동",
+    "부모 성격 관련 항목"
+  ],
+  "relevance": 0.7,
+  "domain": "parent_communication"
+}

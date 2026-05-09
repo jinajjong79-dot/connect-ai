@@ -1,0 +1,75 @@
+소아완화의료팀 형제 사별케어 전국 조사 — 프랑스 (2024)
+Title: A nationwide survey of bereavement care for siblings provided by paediatric palliative care teams
+Authors: Ashley Ridley, Régis Aubry, Sandra Frache
+Affiliations: Hôpital Necker Enfants Malades Paris; University Hospital of Besançon
+Journal: Palliative Care and Social Practice, Vol.18
+Published: December 16, 2024
+DOI: 10.1177/26323524241304782
+PMC ID: PMC11650496
+ATLAS ID: GS-194
+Category: grief_support / sibling_bereavement / pediatric_palliative_care / national_survey / intervention_standards / memory_box
+Tier: 2 | Grade: A
+
+=== 연구 개요 ===
+
+프랑스 전국 소아완화의료팀(PPC) 23개 중 21개 참여 (응답률 91%). 반구조화 전화 인터뷰 (2021년 2~4월). 질적 연구 + 근거이론 분석. 형제 사별케어 미션 정의, 현행 개입, 서비스 발전 방향 파악.
+
+미국 연구 추정: 만 18세까지 아동의 ~1.5%가 형제 사별 경험.
+PPC의 5개 공식 미션 중 사망 후 가족 지원(사별케어) 포함.
+
+=== 현황 통계 ===
+
+- 개인 심리치료 제공: 80% (n=17)
+- 그룹 개입 제공: 28% (n=6)
+- 체계적 추적 연락: 57% (n=12)
+- 카드 발송: 52% (n=11)
+- 전화 연락: 57% (n=12)
+- 가정 방문(형제 참여): 19% (n=4)
+- 지역 NGO 협력: 80% (n=17)
+- 학교 협력: 52% (n=11)
+- 전담 아동 애도 훈련 받은 직원: 24% (n=5)
+- 정기 디브리핑 실시: 66% (n=14)
+- 가족 니즈를 충족한다고 느끼는 팀: 33% (n=7)
+
+=== 6개 그룹 개입 프로그램 세부 ===
+
+Team 2: 2일 워크숍 × 1개월 간격. 6~15세. 사별 1년 미만. 활동: 스토리·장례 의식·삶의 변화(1일차), 기억 만들기(2일차). 기억 책자 우편 발송. 부모 2일차 참여.
+
+Team 7: 형제만 참여하는 주말 캠프. 8~12세. 사별 6~12개월 후. 사진 언어(photo-language) 대화, 음악 치료, 야외 활동. 부모 없이 진행.
+
+Team 14: 5회기 × 2시간 / 5개월. 6~18세. 사별 1년 이상. 활동: 도자기·그림·프레스코·**기억상자 만들기**·가계도·창작 글쓰기·시. 가족 미팅 3개월 후. 부모 별도 그룹(소아과의사 진행).
+
+Team 15: 전 가족 참여 주말 캠프. 6세 이상. 사별 6개월~3년. 부모-자녀 분리 및 합동 그룹 토론. 부모 워크숍 병행.
+
+Team 20: 주간 드롭인 플레이그룹. 완화의료 중인 아동 형제 포함 모든 아동. 게임·미술. 공식 팔로업 없음.
+
+Team 21 (=GS-193 팀): 4회기 × 90분 / 4개월. 훈련된 심리사·정신과의사 2명. 창의 활동+그룹 토론.
+
+모든 프로그램 무료, 외부 NGO·자선 기금으로 운영.
+
+=== 미션 정의 ===
+
+"지속적 돌봄": 사망 후에도 관계 연속성 유지, 가족이 이야기를 다시 설명할 필요 없음.
+"이차 지원자": PPC팀이 모든 니즈 충족 불가 → 지역 자원 정보 허브 역할.
+"선제적 애도 준비": 완화의료 시작 시점부터 사망 후 지원 예고 → 복잡성 애도 예방 효과.
+
+=== 발전 우선순위 ===
+
+1. 그룹 개입 확대/신설: 52%(n=11) 팀이 최우선 과제 — 아동들이 비슷한 경험을 가진 다른 아이들과 만날 때 긍정 반응
+2. 지역 협력 네트워크 강화: 6개 팀 — 학교 협력 특히 중요 ("학생과 교사 모두 도울 수 있다")
+3. 서비스 정의·홍보: 6개 팀 — 병원 내 다른 과, 학교, 가족에게 사별케어 자원 명확히 전달
+
+=== 주요 장애 요인 ===
+
+인력 부족 (17팀), 공간·재정 부족 (전체), 지리적 거리 (10팀)
+
+=== 핵심 결론 ===
+
+PPC팀은 형제 사별케어를 필수적 구성 요소로 인식. 형제에 맞는 발달 적합 개입(그룹, 기억상자, 추모 활동, 추적 연락)이 핵심. PPC팀은 지역 자원 정보 허브로서 가족을 안내하는 역할.
+
+기억상자(Memory Box), 그룹 개입, 체계적 추적 연락 → 사별케어 표준 요소.
+
+출처:
+- Ridley A, Aubry R, Frache S. (2024). A nationwide survey of bereavement care for siblings provided by paediatric palliative care teams. Palliative Care and Social Practice, 18. DOI: 10.1177/26323524241304782. PMC11650496.
+## 관련 문서
+- [[GS-194_selfrag_atlas]] — 공유 엔티티: Ashley Ridley

@@ -1,0 +1,75 @@
+Etch the Emotional Life: Mother-Child Emotion Socialization from Age 3 to 6 Years
+Source: PMC11107839 | Longitudinal, N=349 dyads, ages 3→6
+ATLAS ID: ME-238
+Category: emotional_development / emotion socialization / longitudinal
+Tier: 2 | Grade: A ★
+Year: 2024
+
+=== OVERVIEW ===
+
+Longitudinal study of 349 mother-child dyads performing a cooperative etch-a-sketch task at three time points (ages 3, 4.5, and 6 years). Researchers coded emotional expression, coaching (supportive responses), and dismissing (unsupportive responses) behaviors during 30-second intervals. Novel finding: children are active participants in emotion socialization, not passive recipients. Emotion socialization is bidirectional.
+
+=== DESIGN ===
+
+Sample: N=349 mother-child dyads
+Method: Cooperative etch-a-sketch task (30-second interval behavioral coding)
+Time points: Ages 3, 4.5, and 6 years (3 assessments)
+Coded behaviors:
+- Emotional expression (positive and negative)
+- Coaching: supportive responses to partner's emotions
+- Dismissing: unsupportive/minimizing responses to partner's emotions
+
+=== DEVELOPMENTAL TRAJECTORIES ===
+
+Mother trajectories:
+- Decreased positive emotional expression over time (unexpected)
+- Negative emotion expression remained stable
+- Decreased coaching of positive emotions
+- Coaching of negative emotions stayed constant
+- Decreased dismissing of emotions over time
+
+Child trajectories:
+- Decreased positive emotional expression over time (parallels mothers)
+- Negative emotion expression remained stable
+- Increased coaching of mothers' positive emotions (children became active coaches)
+- Decreased dismissing of emotions over time
+
+=== KEY FINDINGS (Within-Dyad Associations) ===
+
+Mother coaching → Child expression:
+- "Mothers' time-varying coaching of emotion, whether positive or negative, was positively related to children's expression of same-valence emotion"
+- When mothers coach more, children express more — in the SAME emotional valence
+
+Child coaching → Mother expression:
+- "Children's time-varying coaching of emotion, whether positive or negative, was positively related to mothers' expression of valence-matching emotion"
+- Children's coaching predicts mothers' expression — the relationship is truly bidirectional
+
+Dismissing effects:
+- Mothers' increases in dismissing also related to children's increased expression of matching emotions (complex relationship)
+- Children's dismissing of mothers' positive emotions: no significant association with mothers' expressions
+
+=== THEORETICAL SIGNIFICANCE ===
+
+Bidirectional model: Challenges traditional ONE-DIRECTIONAL model of parental influence on children. Children become increasingly active participants in emotion socialization from ages 3-6.
+
+Transactional development: Emotion socialization is a dynamic, changing process — not a fixed parenting behavior applied to a passive child. By age 6, children can actively coach parents.
+
+Implications for intervention: Targeting ONLY parent behavior may be insufficient. As children develop, targeting the child-parent interaction system may be more effective.
+
+=== ATLAS SIGNIFICANCE ===
+
+ME-238 provides evidence for:
+- Why EP02 (세대 전달) is bidirectional — 세현이도 아빠를 감정사회화한다
+- Why child development from 3-6 is particularly important for emotion socialization
+- Evidence for the "living laboratory" framing: parent and child are co-developing together
+- Graph RAG connection: ME-238 → 다음 EP에서 "아이한테서 배운 것들"
+
+=== CONNECTIONS ===
+- [[ED-098_selfrag_atlas]] Eisenberg/Denham emotion socialization (3 pathways)
+- [[ES-241]] Eisenberg 2006 review (theoretical framework)
+- [[ED-095_selfrag_atlas]] Gottman meta-emotion (parental awareness)
+- [[PC-096_selfrag_atlas]] Gottman emotion coaching
+
+Sources:
+- PMC11107839 (2024)
+- 3-time-point longitudinal study, N=349 mother-child dyads, etch-a-sketch observational paradigm

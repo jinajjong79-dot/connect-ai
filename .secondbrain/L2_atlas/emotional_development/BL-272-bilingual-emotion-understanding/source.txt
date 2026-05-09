@@ -1,0 +1,31 @@
+ATLAS ID: BL-272
+Source: PMC9029717
+Author: Bukhalenkova, Veraksa, Gavrilova & Kartushina (2022)
+Journal: Behavioral Sciences
+Domain: emotional_development
+Tier: 2
+Grade: A ★
+
+---
+
+Bukhalenkova, Veraksa, Gavrilova & Kartushina (2022). Behavioral Sciences. PMC9029717. N=593 children (319 monolingual, 278 bilingual), ages 5-6y (M=5.21, SD=0.38).
+
+⚠️ DATA CORRECTION: 사용자 기재 "감정 외적 원인 이해↑" — 실제 데이터는 외적 원인에서 집단 간 차이 없음(비유의). 정신적 원인에서 이중언어 아이가 약간 열세.
+
+Key findings:
+
+Overall emotion understanding: No significant group differences (mono vs. bi)
+
+External causes of emotions: NO significant group difference (비유의)
+- Age, non-verbal intelligence, gender (girls>boys: F=6.36, p=.012, η²=0.011) 효과만 유의
+
+Mental causes of emotions (PRIMARY FINDING):
+- Monolinguals > bilinguals: F(1,590)=7.7, p=.006, η²=0.013, Cohen's d=0.20 (소효과)
+- Mono mean=1.31 vs. Bi mean=1.13
+- Group × non-verbal intelligence interaction: F(1,590)=7.10, p=.008, η²=0.012
+
+Reflective causes: No group differences
+
+Authors' explanation: 이중문화 맥락 불일치, 언어 간 감정 어휘 의미 차이, 이중언어에서의 각 언어 노출 감소 → 감정의 정신적 원인(내적 표상) 이해 지연.
+
+Key concept: "이중언어 아이: 감정 외적 원인=단일언어와 동등, 감정 정신적 원인(내적 상태)=약간 열세(d=0.20) — 이중문화 경험이 감정 표상 발달을 복잡하게 만들 수 있으나 전반적 감정 이해는 유사"

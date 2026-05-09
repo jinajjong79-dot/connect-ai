@@ -1,0 +1,16 @@
+{
+  "chunk_id": "chunk_30",
+  "chunk_summary": "이 청크는 부모 교육 프로그램의 이론적, 실질적 기반을 다루는 학술 문헌 목록입니다. 부모-영아 관계 문제에 대한 개입 전략, 부모 교육 커리큘럼 계획, 그리고 온라인 및 전통적인 교육 전달 방식의 효과성 평가에 초점을 맞추고 있습니다. 전반적으로 가족과 부모에게 체계적인 지원과 투자가 필요함을 강조합니다.",
+  "key_quotes": [
+    "Lessons from STEEP: Linking theory, research and practice for the well-being of infants and parents.",
+    "The parenting imperative: Investing in parents and children for children and youth succeed.",
+    "Evaluation of the effectiveness of online and traditional classroom delivery format for training parent."
+  ],
+  "checklists": [
+    "양육태도",
+    "부모교육 프로그램",
+    "맞춤형 교육"
+  ],
+  "relevance": 0.9,
+  "domain": "parent_education_program"
+}

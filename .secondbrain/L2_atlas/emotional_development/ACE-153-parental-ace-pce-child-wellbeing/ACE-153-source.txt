@@ -1,0 +1,119 @@
+부모 ACE·PCE의 세대 간 전달과 자녀 웰빙
+Title: Intergenerational transmission of adverse and positive childhood experiences and associations with child well-being
+Authors: Courtney K Blackwell, David Cella, Maxwell Mansolf
+Affiliations: Northwestern University, Feinberg School of Medicine
+Journal: Child Abuse & Neglect
+Published: 2024년 9월 19일
+DOI: 10.1016/j.chiabu.2024.107050
+PMCID: PMC11512674
+ATLAS ID: ACE-153
+Category: emotional_development / ACE / PCE / intergenerational / child_wellbeing / resilience
+
+=== 연구 개요 ===
+
+부모의 아동기 부정적 경험(ACE)과 긍정적 아동기 경험(PCE)이 자녀(1-5세)의 웰빙에 어떻게 세대 간 전달되는지를 경로 모델링으로 분석한다. "부모의 좋은 기억이 자녀를 보호한다"는 핵심 메시지를 통계적으로 입증하는 채널2 시그니처 연구.
+
+=== 연구 설계 ===
+
+표본: 2019년 9월 미국 1-5세 아동의 부모 1,016명 (가중치 조정됨)
+방법: 경로 모델링 기반 중재 분석, 층화 확률 가중치 적용
+
+=== 주요 발견 ===
+
+## 1. 부모→자녀 PCE 전달 (★핵심)
+
+- 부모 PCE 1개 증가 → 자녀 PCE **0.32** 증가 (95% CI: 0.20, 0.45)
+- 해석: 부모의 3개 PCE ≈ 자녀의 1개 PCE 증가
+- 즉, 부모가 좋은 어린 시절을 기억할수록 자녀의 긍정적 경험이 늘어난다
+
+## 2. 부모→자녀 ACE 전달
+
+- 부모 ACE 1개 증가 → 자녀 ACE **0.13** 증가 (95% CI: 0.08, 0.18)
+- 부모 ACE 1개 증가 → 자녀 PCE **0.18** 증가 (95% CI: 0.06, 0.31)
+  → 부모 ACE도 자녀 PCE를 일부 높임 (보상 메커니즘 가능성)
+
+## 3. 자녀 PCE의 보호 효과 (웰빙 향상)
+
+각 자녀 PCE 1개 증가 시:
+- 긍정 감정 **0.13 SD** 증가
+- 호기심 **0.16 SD** 증가
+- 지속성 **0.14 SD** 증가
+- 유연성 **0.15 SD** 증가
+
+## 4. 자녀 PCE의 보호 효과 (정신 병리 감소)
+
+각 자녀 PCE 1개 증가 시:
+- 불안 **0.08 SD** 감소
+- 우울 증상 **0.11 SD** 감소
+- 분노/자극성 **0.06 SD** 감소
+
+## 5. 자녀 ACE의 부정적 영향
+
+각 자녀 ACE 1개 증가 시:
+- 불안 **0.18 SD** 증가 (95% CI: 0.08, 0.27)
+- 분노/자극성 **0.12 SD** 증가
+
+=== 세대 간 전달 메커니즘 ===
+
+완전 중재 모델: 부모 경험 → 자녀 PCE/ACE → 자녀 결과
+
+핵심 상호작용: 부모 PCE × ACE 상호작용이 자녀 PCE에 미치는 영향 = -0.06 (95% CI: -0.10, -0.03)
+
+조건부 경로:
+- 부모 ACE 0개일 때: PCE 1개 → 자녀 PCE 0.40 증가
+- 부모 PCE 0개일 때: ACE 1개 → 자녀 PCE 0.33 증가
+
+=== PCE(긍정적 아동기 경험) 정의 ===
+
+PCE 예시 항목:
+- 안전하다고 느끼는 이웃/지역사회에서 자람
+- 친사회적 역할모델 존재 (부모/양육자)
+- 스스로 안전하다고 느낌
+- 신뢰하는 어른이 있었음
+- 친구가 있었음
+- 즐거운 전통/행사/활동에 참여
+- 지지적인 믿음 체계 또는 영적 커뮤니티
+
+=== 핵심 결론 ===
+
+1. PCE의 강력한 영향: PCE-ACE 전달 강도 비교 시 PCE가 더 강한 영향력 보임
+
+2. 회복력 증거: 부모가 ACE를 경험했더라도, 높은 PCE는 자녀의 웰빙 보호
+
+3. 비병리적 측정의 중요성: 긍정적 자산 측정이 ACE만 평가하는 결손 모델보다 더 민감함
+
+=== 임상 시사점 ===
+
+## 평가 확대
+
+"결과는 의료 환경에서 ACE 임상 감시를 PCE 포함으로 확대할 필요성을 강조함"
+- PROMIS 측정(무료 제공, Epic 통합)을 통한 보편적 선별 권장
+
+## 이중 세대 프로그램 강화
+
+- 부모 ACE의 부정적 결과 대응 + 부모 PCE 증진 병행
+- 부모에게 자녀의 PCE 증진 도구 제공
+
+## 인구 기반 감시
+
+- CDC 자금으로 19개 주/지역이 Youth Risk Behavior Survey에 PCE/ACE 추가
+- 영유아 포함 확대 필요
+
+=== 양육 시사점 ===
+
+1. "부모의 좋은 기억이 자녀를 보호한다": 부모 PCE → 자녀 PCE 0.32 전달 (p<.001)
+
+2. 내 어린 시절이 힘들었어도: 부모 ACE가 있어도 PCE가 높으면 자녀를 보호할 수 있다 (회복력)
+
+3. 자녀에게 좋은 경험을 만들어주는 것이 ACE 예방보다 더 강력하다
+
+4. 하루하루의 긍정적 경험 — 안전한 환경, 신뢰하는 어른, 즐거운 전통 — 이 자녀의 뇌를 바꾼다
+
+5. 양육은 내 어린 시절의 상처를 물려주는 것이 아니라, 더 나은 기억을 만들어주는 기회다
+
+=== 채널2 시그니처 메시지 ===
+
+"부모의 좋은 기억이 자녀를 보호한다" — PCE 세대 간 전달의 통계적 근거 (N=1,016, p<.001)
+
+출처:
+- Blackwell, C.K., Cella, D., & Mansolf, M. (2024). Intergenerational transmission of adverse and positive childhood experiences and associations with child well-being. Child Abuse & Neglect, 157, 107050. DOI: 10.1016/j.chiabu.2024.107050. PMCID: PMC11512674.

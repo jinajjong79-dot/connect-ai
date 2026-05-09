@@ -1,0 +1,106 @@
+SPROUTS Study: Protocol for Longitudinal Self-Regulation Research in Early Childhood
+Full title: Unravelling self-regulation in early childhood: protocol for the longitudinal SPROUTS study
+Authors: Steven J Howard, E Vasseleu, L Mushahwar, S Mallawaarachchi, C Neilsen-Hewett, N Day, E C Melhuish, K E Williams
+Journal: BMC Psychology
+Year: 2024 (Published October 31, 2024)
+DOI: 10.1186/s40359-024-02077-x
+Source: PMC11526657
+ATLAS ID: SC-243
+Category: normal_development / self-regulation / executive function / longitudinal
+Tier: 2 | Grade: A
+Affiliations: University of Wollongong (Australia), University of Oxford, Zhejiang University, University of Sunshine Coast
+
+=== OVERVIEW ===
+
+SPROUTS (Study of Preschoolers' Self-Regulation and Outcomes, Undertaking Transition to School) is Australia's first comprehensive longitudinal examination of self-regulation development. The 3-year study begins during the preschool period (ages 3–5) and continues through school transition (ages 5–7), with annual data collection. The study addresses a significant gap: sufficient evidence exists to establish self-regulation as a priority target for education and intervention, yet not enough information exists to meaningfully alter developmental trajectories.
+
+=== SELF-REGULATION FRAMEWORK ===
+
+Definition: The ability to exert control over attention, cognition, emotions, and behaviours, despite contrary impulses, stressors, and distractions, in ways conducive to our goals.
+
+Three Axes (3축):
+1. Executive Function (EF): working memory, inhibitory control, cognitive flexibility
+2. Emotion Regulation: managing emotional responses to stressors
+3. Behavioral Regulation: behavioral control and compliance
+
+Preschool manifestations: sustaining play/attention, persisting with challenges, taking turns, delaying gratification, initiating/ceasing behaviors conflicting with preferences.
+
+=== KEY STATISTICS ===
+
+- Approximately 1/5 (20%) of children show atypical self-regulation growth before school entry
+- Low early self-regulation: at least 2× (doubling) risk of poor academic, health, wellbeing, and economic outcomes
+- 85+ intervention studies over 20 years using 12 different approaches: most showing small effects, few with real-world transfer
+- N=500 target sample (405 projected at Wave 3 after 10% attrition/wave)
+- Age Range: 3–5 years at baseline (Wave 1), 5–7 years at Wave 3
+- ~40 early childhood education/care (ECEC) services needed for recruitment
+
+=== STUDY DESIGN ===
+
+Single-cohort, 3-year longitudinal design with 3 annual waves:
+- Wave 1 (2024): Ages 3–5 in ECEC
+- Wave 2 (mid-2025): Early school transition
+- Wave 3 (mid-2026): Ages 5–7
+
+Nested studies per wave:
+- Wave 1: Digital activities and self-regulation
+- Wave 2: Daily observational assessment across preschool day
+- Wave 3: Qualitative investigation of children with unexpected trajectories
+
+=== MEASUREMENT INSTRUMENTS ===
+
+Self-Regulation:
+- HTKS (Head-Toes-Knees-Shoulders): opposite response task, 10 test trials, 3 difficulty levels
+- PRSIST: Observational measure — 2 play activities (memory card game group 4; curiosity boxes individual)
+
+Executive Function (Early Years Toolbox):
+- Mr Ant: working memory (spatial dot recall, iPad)
+- Go/No-Go: inhibitory control (fish/shark discrimination)
+- Catch-A-Mole: shifting (rule-change vegetable patch)
+- eCorsi: forward/backward span working memory
+- Hearts & Flowers: shifting and inhibition (rule-based side selection)
+
+Academic Learning:
+- EYT Language: 100 items, receptive language (phonology, emergent literacy, semantics, syntax, morphology)
+- EYT Early Numeracy 2: 79 items (number sense, cardinality, counting, operations, spatial/measurement)
+
+Parent Questionnaire: 200+ items across 14+ constructs (demographics, home learning, EF, sleep, stress, mental health, parent-child relationship, hostile parenting, digital activities)
+
+Educator Questionnaire: 100+ items (classroom expectations, child SR, EF, teacher-child relationship, school engagement)
+
+=== RESEARCH QUESTIONS ===
+
+1. Developmental trajectories: latent growth patterns (rapid growth vs. low/no growth)
+2. Antecedents: macro, micro, individual-level predictors using machine learning
+3. Daily fluctuations: variation across preschool day, recovery patterns
+4. Outcomes: associations between trajectories and developmental outcomes
+5. Outlier cases: children whose trajectories contradict statistical predictions (mixed methods)
+6. Measurement: comparative validity of task-based vs. observational vs. questionnaire approaches
+7. Applied: role of self-regulation in contemporary issues (digital engagement)
+
+=== ANALYTICAL APPROACH ===
+
+- Machine Learning: Tree-based models (GBM, XGBoost, R), 10-fold cross-validation, 80/20 train-test split
+- Latent profile analysis for trajectory identification
+- Structural equation modeling for antecedent/outcome models
+- Mixed-methods qualitative analysis
+- Data linkage to Department of Education extant data (academic performance, attendance, suspensions)
+
+=== SIGNIFICANCE ===
+
+SPROUTS provides the comprehensive developmental framework for self-regulation across the 3–7 age transition — the critical "만3~7세 전이기." The study maps how EF + emotion regulation + behavioral regulation develop together or independently, which antecedents drive trajectories, and what real-world outcomes follow.
+
+Key gaps addressed:
+- 85+ prior interventions show small effects, few with real-world transfer → need for mechanism clarity
+- Self-regulation is malleable; early improvements predict better outcomes decades later
+- Benefits span academic, health, vocational, and social domains
+
+ATLAS Connections:
+- [[EF-220]] EF 3축·PFC·Tools of Mind: foundational framework
+- [[EF-221]] EF 발달 궤적 종단 N=758: trajectory mapping precedent
+- [[SC-242]] Positive parenting + EF → resilience longitudinal
+- [[NP-202]] 바깥놀이 타이밍→유아 감정조절
+
+Sources:
+- Howard, S.J., et al. (2024). Unravelling self-regulation in early childhood: protocol for the longitudinal SPROUTS study. BMC Psychology, 12, Article 2077.
+- PMC11526657
+- Open Science Framework: osf.io/maqdg

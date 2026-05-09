@@ -1,0 +1,18 @@
+{
+  "chunk_id": "ld042_chunk_004",
+  "chunk_summary": "해당 청크는 언어 지연 아동의 발달 전반에 걸친 학술 문헌 목록을 제공합니다. 주요 연구 주제는 언어 발달과 사회-정서적 발달, 인지적 선행 요인 간의 복잡한 관계를 탐구하는 것입니다. 또한, 아동기 의사소통 장애에 대한 기능적 평가 및 중재 접근법에 대한 기초 지식을 다루고 있습니다.",
+  "key_quotes": [
+    "Social-emotional development of ‘late-talking’ toddlers.",
+    "From gesture to the first word: On cognitive and social prerequisites.",
+    "Communication and socialization skills at ages 2 and 3 in ‘late-talking’ young children."
+  ],
+  "checklists": [
+    "언어발달지체 진단 기준: 'late-talking' 아동의 의사소통 및 사회화 기술 비교 연구를 통해 간접적으로 다루고 있음.",
+    "인지·사회성 연결 근거: 제스처 발달과 인지, 사회-정서적 발달, 행동적 어려움과의 연관성을 다룬 연구가 다수 포함되어 있음.",
+    "임상 평가 도구(SELSI/MB CDI-K/CSBS) 사용 지침: 특정 도구명은 언급되지 않았으나, 전반적인 평가 및 중재(Assessment and intervention)의 중요성을 강조함."
+  ],
+  "relevance": 1.0,
+  "domain": "language_development",
+  "_chunk_num": 4,
+  "_elapsed": 50.0
+}

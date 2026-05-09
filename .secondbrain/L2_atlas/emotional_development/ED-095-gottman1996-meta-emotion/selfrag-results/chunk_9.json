@@ -1,0 +1,16 @@
+{
+  "chunk_id": "chunk_9",
+  "chunk_summary": "본 청크는 부모-자녀 상호작용 중 심박수, 피부 전도도 등 생리적 지표를 분석하며, 부정적 양육 태도의 미묘한 차이를 탐구합니다. 특히, 부모의 분노(anger)와 경멸(contempt), 비난(blaming)의 차이를 구분하며, 비난이나 경멸이 아동에게 해롭다고 보는 반면 분노는 건강할 수 있음을 제시합니다. 또한, 일반적인 부모의 따뜻함(warmth)과는 구별되는 '비계적 칭찬(scaffolding-praising)'의 중요성을 강조합니다.",
+  "key_quotes": [
+    "Ginott (1965) distinguished anger versus emotional interactions with the child that communicated contempt for the child, global versus specific criticism, and criticism versus blaming or communications suggesting that the child was incompetent.",
+    "Parental anger was uncorrelated with our measure of parental derogation... and uncorrelated with negative child outcomes.",
+    "Scaffolding-praising is not warmth. It is important to emphasize that scaffolding-praising is not merely a dimension of global positivity, such as is tapped by the Cowan parental warmth variable."
+  ],
+  "checklists": [
+    "부모 감정철학",
+    "자율신경 조절",
+    "vagal tone"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

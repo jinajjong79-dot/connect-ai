@@ -1,0 +1,77 @@
+Parental Meta-Emotion Philosophy and Emotion Coaching in Families of Children and Adolescents with an Anxiety Disorder
+Authors: Katherine E. Hurrell, Frances L. Houwing, Jennifer L. Hudson
+Institution: Centre for Emotional Health, Department of Psychology, Macquarie University, Sydney, Australia
+Journal: Journal of Abnormal Child Psychology, 2017; 45(3):569-582
+Source: PMC5355507
+ATLAS ID: ME-240
+Category: emotional_development / meta-emotion / anxiety / clinical
+Tier: 2 | Grade: A
+Year: 2017
+
+=== OVERVIEW ===
+
+Comparison study: N=109 (74 anxiety-disordered + 35 non-anxious controls), ages 7-15. Examined whether parental meta-emotion philosophies (emotional awareness and emotion coaching practices) differ between families with anxiety-disordered (AD) children vs. non-AD children. Key finding: parents of anxious children have lower emotional awareness and use less emotion coaching — suggesting meta-emotion philosophy may be a transdiagnostic risk/protective factor.
+
+=== SAMPLE ===
+
+- 74 children with anxiety disorders (AD group)
+- 35 non-anxious control children
+- Ages 7-15
+- Methods: structured interviews, questionnaires, observational parent-child interaction tasks
+- Setting: clinical research center, Australia
+
+=== MAIN RESULTS ===
+
+1. PARENTAL AWARENESS
+- Parents of AD youth had "significantly less awareness of their own emotions and their children's emotions" vs. non-AD parents
+- Pattern varied by emotion type: fear, sadness, anger showed different profiles
+- Anger awareness was particularly lower in AD parents
+
+2. EMOTION COACHING BEHAVIORS
+- AD parents reported substantially LESS emotion coaching
+- AD parents were OBSERVED using fewer supportive coaching behaviors during parent-child interactions
+- Observational and self-report measures converged (consistent findings)
+
+3. CHILD EMOTION REGULATION
+- AD children showed "significantly greater difficulty regulating their emotions" across multiple measures
+- AD children exhibited greater emotional lability and negativity than non-AD peers
+
+4. EMOTION-SPECIFIC PATTERNS
+- Both parent groups engaged in LESS emotion coaching for ANGER than for fear or sadness
+- Anger is particularly challenging for parents regardless of child anxiety status
+- Implication: anger-specific coaching may need targeted intervention
+
+=== THEORETICAL SIGNIFICANCE ===
+
+Meta-emotion as transdiagnostic factor:
+These findings suggest that parental meta-emotion philosophy (awareness + coaching) is not only relevant for general child wellbeing but may be a RISK FACTOR specific to childhood anxiety.
+
+Mechanism hypothesis:
+Low parental awareness → less emotion validation → children don't learn to tolerate/regulate negative emotions → anxiety maintenance/development
+
+Clinical direction:
+Adding meta-emotion philosophy enhancement to existing anxiety treatments (CBT-based) may improve outcomes. "Emotion-coaching" parents may help children become more tolerant of anxiety-provoking situations.
+
+=== LIMITATIONS ===
+
+- Cross-sectional design: cannot determine whether low EC precedes anxiety or results from it
+- Self-selected clinical sample
+- Australian sample: cultural considerations for Korean context
+
+=== ATLAS SIGNIFICANCE ===
+
+ME-240 provides evidence for:
+- Why EP04 (소리지른 날) matters: low meta-emotion awareness is linked to child anxiety
+- Why developing parental emotional awareness is a clinical priority
+- "세현이의 방" rationale: parents who build EC skills may prevent anxiety in children
+- Counter-argument to "아이 감정은 크면 해결된다": anxiety disorders are measurably linked to parental EC deficits
+
+=== CONNECTIONS ===
+- [[ED-095_selfrag_atlas]] Gottman meta-emotion (same theoretical construct)
+- [[PC-097_selfrag_atlas]] Meta-emotion research program
+- [[ME-239]] Emotion coaching as stress buffer
+- [[PC-096_selfrag_atlas]] Emotion coaching 5-step practice
+
+Sources:
+- Hurrell, K.E., Houwing, F.L., & Hudson, J.L. (2017). Parental meta-emotion philosophy and emotion coaching in families of children and adolescents with an anxiety disorder. Journal of Abnormal Child Psychology, 45(3), 569-582.
+- PMC5355507

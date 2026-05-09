@@ -1,0 +1,18 @@
+{
+  "chunk_id": "PC-071_chunk001",
+  "chunk_summary": "본 연구는 한국의 부모 미디어 습관, 태도, 양육 방식이 자녀의 미디어 사용에 미치는 영향을 3년간의 데이터를 통해 분석했습니다. 분석 결과, 부모의 미디어 사용 시간과 긍정적인 미디어 태도는 자녀의 주간 미디어 사용 증가와 관련이 있는 것으로 나타났습니다. 반면, 긍정적 양육 방식은 자녀의 주간 미디어 사용을 감소시키는 효과가 있었으며, 이는 부모의 양육 방식이 자녀의 미디어 소비에 중요한 영향을 미침을 시사합니다.",
+  "key_quotes": [
+    "parental media time, particularly for mothers, consistently correlated with higher levels of children's daytime media use",
+    "Positive parental attitudes toward media increased children's daytime media use",
+    "positive parenting consistently reduced children's daytime media use in 2022 and 2023"
+  ],
+  "checklists": [
+    "부모 미디어 습관",
+    "양육방식",
+    "아동 스크린타임",
+    "미디어 태도",
+    "부모 중재 전략"
+  ],
+  "relevance": 0.9,
+  "domain": "parent_communication"
+}

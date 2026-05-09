@@ -1,0 +1,130 @@
+Title: 2025 International Position Statement on Active Outdoor Play
+PMC ID: PMC12462132
+Year: 2025
+Tier: 1 | Grade: A ★
+Category: normal_development
+Keywords: outdoor play, position statement, active play, nature, international consensus, health, cognition, social-emotional, environmental stewardship, lifespan
+
+---
+
+ABSTRACT
+
+This comprehensive international position statement updates the 2015 Canadian Position Statement on Active Outdoor Play, expanding scope to a global, lifespan perspective. Developed by the AOP10 Leadership Group (Seoul, December 2024) through 18 rigorous literature reviews and three rounds of consultation surveys (93-98% support), it represents the highest level of expert consensus on outdoor play.
+
+Core Statement: "Active outdoor play promotes holistic health and well-being for people of all ages" and requires "equitable access to active play outdoors and in nature" through multi-sectoral collaboration.
+
+INTRODUCTION
+
+The 2015 Canadian Position Statement established the evidence base for outdoor play as essential for child health. A decade later, the global context has changed dramatically:
+- COVID-19 pandemic accelerated indoor sedentary behaviors
+- Screen time has increased across all age groups
+- Climate change has created new urgency around nature connection
+- Global North/South equity gaps in outdoor access are more apparent
+
+This 2025 update:
+- Extends from children-only to lifespan (all ages)
+- Broadens from Canadian to international perspective
+- Adds One Health, environmental stewardship, Indigenous knowledge
+- Adds explicit equity and disability inclusion lens
+
+DEVELOPMENT PROCESS
+
+- 18 rigorous systematic literature reviews
+- AOP10 Leadership Group meeting: Seoul, South Korea, December 2024
+- Three consultation survey rounds: 93-98% support at each round
+- Translations into all six UN official languages
+- Stakeholder input from 50+ countries
+
+EIGHT EVIDENCE STATEMENTS
+
+Statement 1: Movement Behaviors
+- Outdoor time correlates with higher physical activity (moderate-to-vigorous)
+- Better sleep quality and duration with regular outdoor play
+- Reduction in sedentary behavior time
+- Effect sizes: d = 0.3–0.6 for physical activity outcomes
+
+Statement 2: Health and Well-being
+- Physical: cardiovascular fitness, bone density, healthy weight
+- Mental health: reduced anxiety and depression symptoms, improved mood
+- Social: peer relationships, cooperation, community belonging
+- Spiritual: sense of wonder, awe, meaning-making (especially in nature)
+- "바깥놀이는 건강·인지·사회정서·환경의식 전영역 발달의 기초"
+
+Statement 3: Risky Play
+- "Age-appropriate risk-taking is developmentally essential for resilience"
+- Risky play = climbing, jumping, rough-and-tumble, exploring unknown environments
+- Benefits: self-regulation, executive function, risk assessment, confidence
+- Over-protective parenting associated with reduced resilience in children
+- Recommendation: allow graduated risk-taking with minimal adult intervention
+
+Statement 4: One Health
+- Connects human, animal, and environmental health through outdoor engagement
+- Microbiome diversity: outdoor soil exposure supports immune system development
+- Zoonotic disease awareness through supervised animal interaction
+- Environmental health literacy begins in childhood outdoor play
+
+Statement 5: Nature and Environment
+- Outdoor play fosters environmental stewardship behaviors in adulthood
+- Nature connectedness in childhood predicts pro-environmental attitudes
+- "Children who play in nature protect nature as adults"
+- Biophilia hypothesis: humans have innate affinity for nature that requires activation
+
+Statement 6: Social Capital
+- Outdoor play builds intergenerational and cross-cultural community connections
+- Reduces social isolation across all ages
+- Public outdoor spaces as social infrastructure
+- Particularly important for immigrant and minority communities
+
+Statement 7: Education
+- Outdoor learning supports cognitive development, attention restoration, creativity
+- Social-emotional learning: conflict resolution, cooperation, leadership
+- Attention Restoration Theory: natural environments replenish directed attention
+- Effect on academic performance: moderate evidence for positive effects on math, literacy
+
+Statement 8: Indoor Time
+- Excessive indoor time linked to: sedentary behavior, myopia, vitamin D deficiency, poor sleep
+- Indoor air quality often worse than outdoor air
+- Screen time displacement of outdoor play is a global concern
+
+KEY RECOMMENDATIONS FOR PRACTICE
+
+For Early Childhood (0-5 years):
+- Minimum 3 hours outdoor play daily (toddlers and preschoolers)
+- Unstructured child-initiated outdoor time essential
+- Daily outdoor time even in adverse weather (appropriate clothing)
+- Natural environments preferred over manufactured play equipment
+
+For Families:
+- Allow age-appropriate risk-taking outdoors
+- Model outdoor engagement as adults
+- Reduce barriers: transportation, safety, equipment
+
+For Early Childhood Settings:
+- Minimum 1 hour outdoor time per half-day session
+- Nature-based loose parts (sticks, sand, mud, water)
+- Qualified outdoor play advocates on staff
+
+For Policy:
+- Urban planning: green space within 300m of all residences
+- School: protected outdoor play time in curriculum
+- Healthcare: "outdoor play prescriptions" from pediatricians
+- Equity: targeted outdoor programs for disadvantaged communities
+
+STRENGTHS AND LIMITATIONS
+
+Strengths:
+- Expanded scope: lifespan, global, equity-centered
+- Rigorous process: 18 reviews + 3 consultation rounds
+- Global consultation: 50+ countries
+- Accessibility: UN language translations
+
+Limitations:
+- Global North bias in underlying literature
+- Canadian emphasis in some recommendations
+- Underrepresentation of Global South perspectives
+- Research gaps: disability inclusion, Indigenous-led programs
+- Limited evidence for some populations (infants under 1 year)
+
+CONCLUSION
+
+This 2025 Position Statement provides the strongest international evidence to date that active outdoor play is fundamental to holistic human development across the lifespan. The call for equitable access recognizes that outdoor play is not a luxury but a developmental right. Multi-sectoral action—families, educators, planners, policymakers, healthcare providers—is required to restore outdoor play as the default childhood activity.

@@ -1,0 +1,27 @@
+ATLAS ID: FE-278
+Source: PMC9218312
+Author: White et al. (2022)
+Journal: Maternal & Child Nutrition
+Domain: parent_communication
+Tier: 2
+Grade: A
+
+---
+
+White et al. (2022). Maternal & Child Nutrition. PMC9218312. N=246 (Section 1, EFA); N=186 (Section 2, validation). Child ages 1.5-6 years. Scale development and validation study using exploratory factor analysis (EFA).
+
+Scale developed: MEM-P (Mealtime Emotions Measure for Parents)
+
+Three-factor structure:
+1. MEM-P Efficacy (positive emotions, 41.1% variance): prepared, comfortable, emotionally controlled, confident managing child distress → POSITIVE
+2. MEM-P Anxiety (negative, 14.2% variance): nervous, emotionally confused, distressed, embarrassed
+3. MEM-P Stress and Anger (negative, 7.3% variance): stress, frustration, anger (low relaxation/happiness)
+
+Relationships to feeding practices (controlling for general anxiety/depression):
+- HIGH Efficacy → child involvement↑ + healthy home food environment + nutrition modeling↑
+- HIGH Anxiety → allowing more child control over eating + reduced parental involvement
+- HIGH Stress/Anger → "greater use of food to regulate emotions" (coercive feeding, 강압적 수유)
+
+Main conclusion: Parental mealtime emotions are distinct from general psychopathology and meaningfully predict food parenting practices. Mealtime efficacy = proximal target for intervention.
+
+Key concept: "MEM-P 척도: 식사시간 부모 감정 3요인(효능감/불안/스트레스·분노). 스트레스·분노↑→음식으로 감정조절 시도(강압 수유). '부모가 식탁에서 어떤 감정인지'가 수유 방식 결정"

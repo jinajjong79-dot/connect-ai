@@ -1,0 +1,151 @@
+Title: Executive Function Training for 5-Year-Old Children: A Cost-Effective Play-Based Group Intervention
+PMC ID: PMC4415324
+Year: 2015
+Tier: 2 | Grade: A
+Category: emotional_development
+Keywords: executive function training, preschool, RCT, play-based intervention, inhibitory control, working memory, cognitive flexibility, group training, disadvantaged, Italy
+
+---
+
+ABSTRACT
+
+RCT evaluating a cost-effective play-based EF intervention for 5-year-old children in disadvantaged areas of northwestern Italy. N=75 (32 intervention, 43 control). 12 sessions over ~1 month, 3×/week, 30 minutes each. Small groups of 5 children. Significant improvements in inhibitory control, working memory, AND cognitive flexibility.
+
+Core finding: "12회기 그룹 훈련→억제통제↑ 작업기억↑ 인지유연성↑. 놀이 형태 개입으로 실행기능 훈련 가능"
+
+INTRODUCTION
+
+The intervention gap:
+Many EF training programs are:
+- Expensive (require specialized technology)
+- Individualized (require 1:1 therapist)
+- Time-intensive (months of daily sessions)
+- Inaccessible to disadvantaged families
+
+This study designed a LOW-COST, GROUP-BASED, teacher-deliverable EF program meeting these criteria:
+- Materials: markers, paper, cardboard (no technology)
+- Format: group of 5 children
+- Delivery: regular teacher or trained educator
+- Duration: 12 sessions (~1 month)
+- Cost per child: minimal
+
+Target population:
+5-year-olds in disadvantaged areas — a high-need group with EF development at risk (see EF-220 poverty-cortisol pathway).
+
+Why 5 years is the optimal target age:
+- EF development peaks at 3-7 (EF-221)
+- Age 5: IC is developing, WM is developing, CF is just emerging
+- All three components are in the "sensitive period" and malleable
+- Just before school entry — EF improvements directly support academic readiness
+
+METHODS
+
+Design: Randomized controlled trial
+Sample: N=75, ages 5 years
+Groups: Intervention (n=32), Control (n=43)
+Setting: Disadvantaged area, northwestern Italy
+Duration: 12 sessions
+Frequency: 3 sessions per week
+Session length: 30 minutes
+Group size: 5 children per group
+
+Intervention — "Chicco and Nanà" Program:
+Story-based format: two characters "Chicco and Nanà" appear in stories that require EF to help
+Activities: Low-cost, hands-on, play-based
+
+Session structure:
+1. Story introduction (characters present a problem requiring EF)
+2. EF-targeted activity (20 minutes, central)
+3. Reflection/consolidation (5 minutes)
+
+Activity types by EF component:
+Inhibitory Control activities:
+- Freeze game (stop on signal)
+- Simon Says (follow only when "Simon says")
+- Day/Night: say "night" when shown sun, "day" when shown moon
+- Sorting by one rule while ignoring another dimension
+
+Working Memory activities:
+- Digit span games
+- Sequence recall games
+- "Shopping list" memory (remember and repeat growing lists)
+- Spatial location memory tasks
+
+Cognitive Flexibility activities:
+- Sorting by different rules on signal
+- Category switching (animals → foods → colors on cue)
+- Dual-task activities (hold one thing in mind while doing another)
+
+Progressive difficulty: Activities increase in cognitive demand across the 12 sessions.
+
+Outcome measures:
+- Day/Night task: IC and WM
+- Backward word span: WM
+- DCCS (Dimensional Change Card Sort): CF
+- Fruit/Animal Stroop-like task: IC
+- Hot EF: Delay of gratification task
+
+RESULTS
+
+EF Improvements (Intervention > Control):
+
+Inhibitory Control:
+- Day/Night task: significant improvement (p < .05), medium effect size
+- Stroop-like task: significant improvement (p < .05)
+- Better motor control and impulse management
+- "Better suppression of prepotent responses"
+
+Working Memory:
+- Backward word span: significant improvement (p < .05), large effect size
+- Digit span: significant improvement
+- "Enhanced performance on span and updating tasks"
+
+Cognitive Flexibility:
+- DCCS: significant improvement (p < .05), medium-large effect size
+- "Improved ability to switch between rules"
+- This is notable — CF is the hardest component to train
+
+Overall: "The children who attended the intervention outperformed controls in simple and more complex EF tasks, with effect sizes ranging from medium to large for most measures."
+
+Hot EF (delay of gratification):
+- Mixed results — some measures improved, others did not
+- Hot EF (motivation-related) may require different training approach than cool EF
+
+DISCUSSION
+
+Why play-based group training works:
+
+Group dynamic effects:
+- Children regulate each other's behavior ("It's my turn, wait!")
+- Social pressure activates IC (peer observation of compliance)
+- Collaborative games require holding multiple rules (WM)
+- Friendly competition motivates engagement
+
+Story-based engagement:
+- Characters provide motivation and narrative context
+- Problem-solving within story feels meaningful, not like drills
+- Narrative structure (memory of story) scaffolds working memory
+
+Low cost = high accessibility:
+This study proves you don't need expensive technology or individual therapy to train EF. A trained educator with paper and markers can achieve medium-to-large EF effect sizes in 12 sessions.
+
+Implications for Korean 어린이집/유치원:
+- Group EF activities can be embedded in existing class time
+- Morning circle: EF games (Simon Says, freeze, sorting games)
+- Small group time: WM games (list games, sequence games)
+- Outdoor play: structured games with rules (IC training)
+- Total additional time needed: ~30 min × 3/week = feasible
+
+Parent adaptation (home):
+12 sessions is achievable at home:
+- "아빠와 EF 게임" — 30분 × 3회/주 × 4주 = 12회기
+- Simon Says, memory games, sorting games, rule-switching games
+- No materials required beyond creativity
+
+CONCLUSION
+
+A 12-session, low-cost, play-based group EF training program significantly improved inhibitory control, working memory, and cognitive flexibility in 5-year-old disadvantaged children. Effect sizes medium to large. Training is feasible in standard educational settings without specialized technology. Play-based EF training before school entry is an accessible, evidence-based strategy for school readiness improvement.
+
+"놀이 형태로 실행기능을 훈련할 수 있다 — 비용도 없고 특별한 장비도 필요 없다"
+## 관련 문서
+- [[EF-224_selfrag_atlas]] — 공유 엔티티: PMC4415324

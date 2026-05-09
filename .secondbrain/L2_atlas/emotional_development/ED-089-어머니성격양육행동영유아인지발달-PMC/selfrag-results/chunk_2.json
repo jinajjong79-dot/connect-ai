@@ -1,0 +1,18 @@
+{
+  "chunk_id": "chunk_2",
+  "chunk_summary": "본 연구는 어머니의 양육 행동과 페르소나 구조를 다각도로 측정하는 방법을 제시합니다. 어머니의 양육 행동은 5가지 차원(예: 애정-거부, 자율성-통제)을 가진 설문지를 사용했으며, 어머니 페르소나는 3단계 실험과 별도의 설문지를 통해 측정되었습니다. 분석 결과, 어머니 페르소나는 집단적 이상, 개인적 이상 등 세 가지 요인으로 구성되는 구조적 특성을 보였습니다.",
+  "key_quotes": [
+    "Maternal Parenting Behavior Questionnaire (Kim, 2011)",
+    "Three-Phase Experiment: Sentence Learning Phase, Memory Interference Phase, Sentence Recognition Phase",
+    "Final Three-Factor Structure (13 items): Collective Ideals, Individual Ideals, Phy"
+  ],
+  "checklists": [
+    "성격 마스크",
+    "암묵적 성격",
+    "양육행동",
+    "어머니 성격",
+    "인지발달 관련 항목"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

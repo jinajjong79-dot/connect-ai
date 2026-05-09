@@ -1,0 +1,6 @@
+{
+  "error": "parse_failed",
+  "raw": "{\n  \"chunk_id\": \"pc033_chunk_022\",\n  \"chunk_summary\": \"이 청크는 부모 양육 스트레스 검사(PSI)와 가족 응집성 척도(FSC)라는 두 가지 주요 심리 측정 도구를 소개한다. PSI는 부모-자녀 체계의 역기능적 요인과 스트레스 수준을 측정하며, FSC는 가족의 내재적, 외재적 환경에 대한 응집성과 적응성을 평가하는 데 사용된다.\",\n  \"key_quotes\": [\n    \"부모 양육 스트레스 검사(Parenting Stress Index)는 부모-자녀 체계의 역기능적인 면이나 부모에게 스트",
+  "_chunk_num": 22,
+  "_elapsed": 58.7
+}

@@ -1,0 +1,40 @@
+# PCE-297 Source
+
+Title: Tipping the scales: the predictive utility of the PCE-ACE ratio for criminogenic and wellbeing outcomes in a general adult population
+Authors: Colm Walsh
+Journal: Health & Justice
+Year: 2026 (사용자 기재 2025, 실제 2026)
+PMC ID: PMC12895996
+
+## ⚠️ 출판 연도 주의
+- 사용자 기재 2025 → 실제 2026년 게재
+
+## Methods
+Study design: 층화 무작위 확률 표집 (북아일랜드 일반 인구)
+Sample: N=1,203 성인 (남성 44%, 여성 56%, M=49.58세)
+PCE 측정: 10항목 척도 (범위 0-10)
+ACE 측정: WHO ACE-IQ 기반 13항목 척도
+결과 변수:
+- 정신 웰빙: SWEMWBS
+- 우울/불안: PHQ-4
+- 물질 사용: DUDIT
+- 사법 접촉: CSRI (체포, 구금, 학교 퇴학)
+핵심: PCE:ACE 가중 비율 산출
+
+## Key Results
+PCE:ACE 비율 분포:
+- 고비율(≥4.0): 75.7% (n=911)
+- 중비율(1.0-3.99): 19.5% (n=234)
+- 저비율(<1.0): 4.8% (n=58)
+
+비율별 결과 예측 (OR, 비율 1단위 증가당):
+- 학교 퇴학: OR=0.656 (p=.001) ↓
+- 정신건강 진단: OR=0.683 (p<.001) ↓
+- 물질 사용: OR=0.833 (p<.001) ↓
+- 체포: OR=0.718 (p<.001) ↓
+- 구금: OR=0.015 (p<.001) ↓
+
+## Conclusions
+PCE:ACE 비율 → 단순 합계보다 강력한 예측 지표
+"PCE가 ACE보다 많으면(비율>1) 웰빙 예측 향상"
+인구 수준 아동기 경험 균형 지표로 활용 가능

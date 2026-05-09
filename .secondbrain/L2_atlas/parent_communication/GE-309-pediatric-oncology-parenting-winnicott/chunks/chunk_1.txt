@@ -1,0 +1,39 @@
+# GE-309 Source
+
+Title: Navigating Parenting in Pediatric Oncology: Merging Psychodynamic Theory and Evidence-Based Practice
+Authors: Yael L E Ankri, Amichai Ben-Ari
+Journal: Children (Basel)
+Year: 2025
+Published: October 16, 2025
+PMC: PMC12563877
+Tier: 2
+Grade: A ★
+Domain: parent_communication
+Type: 사례 연구 (N=1)
+
+## Abstract
+소아암 아동 부모들이 죄책감과 두려움으로 과허용·과보호 행동을 채택하며, 이것이 역설적으로 정서 회복탄력성과 적응적 대처를 방해함. Winnicott의 "충분히 좋은 양육" 이론과 근거기반 실천을 통합하여 부모가 반응성과 구조의 변증법적 균형을 유지하도록 지원.
+
+## 핵심 발견
+1. 허용적 양육은 회복탄력성을 손상시킴: 선의의 과허용이 정서조절 장애와 의존성을 강화
+2. 변증법적 균형 필수: 정서적 타당화 + 적절한 요구 = "최적의 좌절(optimal frustration)"로 발달 촉진
+3. 부모 죄책감이 부적응적 반응 유발: 죄책감·무력감이 장기적 발달 관점을 가림
+4. 작고 일관된 경계가 효과적: 온기와 일관성을 갖춘 점진적 한계 설정
+
+## 사례 연구 (N=1)
+- 6.5세 여아, 급성 림프아구성 백혈병(ALL)
+- 기저선: 야간 유뇨증 매일 밤, iPad 의존 심화
+- 개입 후: 유뇨증 매일→주 2회로 감소
+- 포즈 의식: 20초 내성 → 일관된 2분 준수
+
+## 핵심 인용구
+"Permissive parenting, driven by parental guilt and fear, may initially reduce child distress, but can inadvertently reinforce emotional dysregulation and dependency."
+"Good-enough parenting is not a developmental stage, but rather a required equilibrium, enabling the child's optimal frustration for ongoing growth."
+
+## 채널2 연결
+허용적 양육(죄책감→과보호) → 감정조절↓, 의존↑
+"공감적이되 단호한 경계" = good enough
+사별·중병 맥락 교차 적용 가능
+
+## 비고
+⚠️ N=1 단일 사례 연구 — 일반화 한계 명시 필요. 임상 적용 방향성 제시 목적.

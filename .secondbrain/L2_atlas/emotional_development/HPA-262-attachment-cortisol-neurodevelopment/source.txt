@@ -1,0 +1,25 @@
+ATLAS ID: HPA-262
+Source: PMC9606391
+Author: de Mendonça Filho et al. (2022)
+Journal: Frontiers in Behavioral Neuroscience
+Domain: emotional_development
+Tier: 2
+Grade: A
+
+---
+
+de Mendonça Filho et al. (2022). Frontiers in Behavioral Neuroscience. PMC9606391. N=107 at age 3; N=71 at follow-up age 7.
+
+Study design: Longitudinal. Attachment assessed at age 3. Cortisol, neurodevelopment (BSID), and telomere length assessed at ages 3 and 7.
+
+Key findings:
+- Insecure attachment → elevated cortisol at age 3: B=0.17, p=0.048
+- Insecure attachment → poorer BSID (neurodevelopmental) scores: B=-5.17, r=0.23, p=0.017
+- Sex effect: females scored higher on BSID: B=4.93, p=0.023
+- Mediation: cortisol did NOT mediate attachment→neurodevelopment (indirect B=0.52, p=0.365)
+- TELOMERE LENGTH (age 7): NO significant association with attachment (p=0.368) — NULL RESULT
+- Telomere length predicted only by child age at collection: B=-0.13, p=0.005
+
+IMPORTANT NOTE: The user-described finding "유아기 애착→만7세 텔로미어 길이 예측" is NOT supported by the data. Telomere associations were null. The main contributions are attachment→cortisol and attachment→neurodevelopment (independent pathways).
+
+Key concept: "불안정 애착→코르티솔↑(B=0.17)+인지발달↓(B=-5.17), 독립 경로(코르티솔은 매개 아님); 텔로미어 연결은 비유의(null)"

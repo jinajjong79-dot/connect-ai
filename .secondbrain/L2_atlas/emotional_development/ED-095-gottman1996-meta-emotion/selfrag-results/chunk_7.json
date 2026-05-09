@@ -1,0 +1,22 @@
+{
+  "chunk_id": "chunk_7",
+  "chunk_summary": "본 텍스트는 부모-자녀 상호작용의 코딩 방법론과 측정 변수를 상세히 설명합니다. 특히 KACS(부모 정서 코드)를 통해 긍정적 정서(애정, 열정, 유머)와 부정적 정서(비판, 분노, 조롱 유머)를 구분하여 측정합니다. 또한, 상호작용의 신뢰도를 계산하고, '조롱 유머', '침범성', '비판'을 합산하여 '폄하(derogation)'라는 복합 변수를 생성하는 과정을 기술합니다.",
+  "key_quotes": [
+    "The KACS also consists of seven parental affect codes.",
+    "The three negative affect codes are as follows: (a) Criticism, which involved direct disparaging comments or put-downs of the child's behavior or performance; (b) Anger, in which parents were visibly frustrated by the child's actions or demonstrated disappointment, annoyance, or irritation toward the child; (c) Derisive Humor, in which parents used humor at the child's expense.",
+    "We computed the sum of derisive humor, intrusiveness, and criticism for both parents to form our derogation variable."
+  ],
+  "checklists": [
+    "메타정서",
+    "감정코칭",
+    "부모 감정철학",
+    "자율신경 조절",
+    "vagal tone",
+    "감정축소형 부모",
+    "침범성(Intrusiveness)",
+    "긍정적 정서(Affection, Enthusiasm, Humor)",
+    "부정적 정서(Criticism, Anger, Derisive Humor)"
+  ],
+  "relevance": 0.95,
+  "domain": "emotional_development"
+}

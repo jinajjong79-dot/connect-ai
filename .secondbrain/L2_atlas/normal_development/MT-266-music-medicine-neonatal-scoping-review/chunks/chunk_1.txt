@@ -1,0 +1,30 @@
+ATLAS ID: MT-266
+Source: PMC11664842
+Author: Papatzikis et al. (2024)
+Journal: BMC Pediatrics
+Domain: normal_development
+Tier: 2
+Grade: A
+
+---
+
+Papatzikis et al. (2024). BMC Pediatrics. PMC11664842. Scoping review (PRISMA), 56 peer-reviewed studies (1990-2022) on passive music listening in neonates.
+
+Study design: Scoping review, 82% quantitative, 16% mixed, 2% qualitative. 96% hospital-based settings (임상 편향 주목).
+
+Key research themes identified (NMF/LDA analysis):
+1. 생리적 효과: 음악/자장가에 대한 심박수, 호흡수, 산소포화도 반응
+2. 통증 관리: 처치 시 음악 개입 → PIPP 척도 유의한 개선
+3. 수면 및 스트레스: 음악→수면 질 개선 + 코르티솔 감소
+4. 수유 및 체중 증가: 비영양적 흡철 + 성장 결과
+
+Critical gaps flagged by authors:
+- 음악 개입 특성의 표준화 부재
+- 발달적·예방적 맥락 대표성 부족
+- 장기 결과 데이터 빈약
+- 경제성 평가 부재
+- 학제간 통합 취약
+
+Main conclusion: "음악 개입의 효능에 대한 불일치와 합의 부족"이 지속됨. 방법론적 다양성, 질적 연구 접근, 문화적으로 포용적인 글로벌 연구 체계 필요.
+
+Key concept: "신생아 음악 개입 연구: 통증↓·수면↑·코르티솔↓ 효과 관찰되나 표준화 미흡, 메타분석 수준의 확증적 근거 아직 없음"

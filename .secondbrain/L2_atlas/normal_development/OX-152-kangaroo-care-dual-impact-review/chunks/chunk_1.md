@@ -1,0 +1,101 @@
+캥거루케어: 부모·영아 이중 효과 체계적 리뷰
+Title: Challenges and enhancement of health: a dual impact of kangaroo care on parents and infants—systematic review
+Authors: Harika Yarlagadda, Jomara Sandbulte, Edward Downs
+Affiliations: (미국)
+Journal: mHealth
+Published: 2025년 6월 9일
+DOI: 10.21037/mhealth-24-80
+PMCID: PMC12314710
+ATLAS ID: OX-152
+Category: normal_development / kangaroo_care / systematic_review / maternal_attachment / postpartum_depression
+
+=== 연구 개요 ===
+
+28,039건의 NICU 관련 PubMed 논문을 기반으로 캥거루케어(KC)가 부모와 영아 모두에게 미치는 이중 효과를 체계적으로 리뷰한다. 모성 애착 강화, 산후우울증 감소, 아빠 참여 증가, 영아 체중 증가를 핵심 결과로 확인한다.
+
+=== 방법론 ===
+
+## PRISMA 기반 문헌 선정
+
+초기 검색: 28,039건 (PubMed) + 674건 (IEEE) (1993-2024년)
+단계별 선정:
+28,039건 → KC 관련 380건 → 모성 참여 포함 319건 → 36건 → 최종 16건
+
+최종 포함 논문: 16건
+- 모성 참여 및 KC 중재 연구
+- 애착 결과를 주요 변수로 측정한 연구
+
+=== 주요 효과 분석 ===
+
+## 1. 모성 애착 (★핵심)
+
+16건 중 10건이 향상된 애착 점수 보고:
+- Kurt 등(2020): 실험군 모성 애착 점수 > 대조군 (P<0.001)
+- "higher attachment scale scores and increased maternal responsiveness" 입증
+
+## 2. 산후우울증 감소
+
+3건의 연구가 산후우울증 감소 입증:
+- Ahn 등(2010): 3주 후 양 그룹에서 "reduced levels of postpartum depression" 확인
+- KC가 모성 스트레스 완충 역할
+
+## 3. 아버지 참여 (★채널2 핵심)
+
+Dong 등(2022)의 질적 연구(N=10)에서 아버지들이 경험한 것:
+- "passing a silent language of love and connecting with their baby"
+- 침묵의 사랑 언어를 통한 아기와의 연결
+- 아버지 역할의 진화적 변화 시사
+
+## 4. 영아 체중 및 생리지표
+
+- Mehrpisheh(2022): 퇴원 시 KC군 영아가 더 높은 체중 (2,164.4±481.1 vs 1,965.2±372g, P=0.042)
+- Cho 등(2016): 호흡 안정성 개선
+- Ahn 등(2010): 신장 및 두위 증가
+
+=== 기술 통합 사례 ===
+
+음악치료, 모성 음성 녹음, 클라우드 플랫폼 활용으로 팬데믹 중에도 애착 점수를 64.6에서 74.4로 증진.
+
+=== 핵심 결론 ===
+
+"comprehensive KMC integration into neonatal care can significantly enhance the quality of care and outcomes for infants and their families"
+
+주요 성과:
+- 모성-영아 애착 강화
+- 영아 생리적 기능 개선(호흡, 온도조절, 체중 증가)
+- 부모 스트레스 감소 및 수면 질 향상
+
+=== 정책 및 인프라 권장사항 ===
+
+## 정책 개혁
+
+"need for policy reforms to facilitate more flexible and family-centered care approaches" — 부제한적 부모 접근 권장
+
+## 인프라 투자
+
+- 가족용 개인실 조성
+- 편안한 부모 휴식 공간
+- 이동식 프라이버시 스크린 설치
+- 원격 모니터링 기술 도입
+
+## 교직원 교육
+
+"Training for healthcare professionals on the benefits, techniques of KMC should be expanded"
+
+=== 양육 시사점 ===
+
+1. 캥거루케어는 임상 개입이 아니라 "기본 양육의 생물학적 정상 상태"다
+
+2. 모성 애착↑ + 산후우울↓: 아기를 안을수록 엄마의 정신건강도 좋아진다
+
+3. 아빠도 "침묵의 사랑 언어"로 아기와 연결된다 — 아빠 캥거루케어 적극 권장
+
+4. 체중 증가, 호흡 안정, 신장 성장: 스킨십은 물리적 성장도 촉진한다
+
+5. 28,039건 문헌 기반 — 캥거루케어의 증거는 압도적이다
+
+출처:
+- Yarlagadda, H., Sandbulte, J., & Downs, E. (2025). Challenges and enhancement of health: a dual impact of kangaroo care on parents and infants—systematic review. mHealth, 11. DOI: 10.21037/mhealth-24-80. PMCID: PMC12314710.
+## 관련 문서
+- [[OX-150_selfrag_atlas]] — 공유 엔티티: 캥거루케어
+- [[OX-152_selfrag_atlas]] — 공유 엔티티: Harika Yarlagadda

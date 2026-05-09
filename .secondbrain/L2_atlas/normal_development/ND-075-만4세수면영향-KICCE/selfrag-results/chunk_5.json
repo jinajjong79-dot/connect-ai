@@ -1,0 +1,18 @@
+{
+  "chunk_id": "chunk_5",
+  "chunk_summary": "본 청크는 영유아기부터 학령기 아동에 이르기까지 다양한 연령층의 수면 습관과 수면 패턴에 대한 학술 문헌들을 종합적으로 검토하고 있습니다. 주요 연구들은 수면 시간이 인지 발달 및 주의력에 미치는 영향, 야간 수면의 변동성, 그리고 TV 시청과 같은 환경적 요인이 수면 방해에 미치는 상관관계를 다루고 있습니다. 특히 4세 아동의 야간 수면 지속 시간에 영향을 미치는 요인들을 분석하는 연구가 포함되어 있습니다.",
+  "key_quotes": [
+    "Shorter sleep duration is associated with reduced cognitive development at two years of age.",
+    "An Analysis on Factors Influencing Nocturnal Sleep Duration in 4-year-olds",
+    "Television-viewing habits and sleep disturbance in school children."
+  ],
+  "checklists": [
+    "영유아 수면",
+    "야간수면 시간",
+    "정서행동 발달",
+    "수면 부족 영향",
+    "보육시간 관련 항목"
+  ],
+  "relevance": 0.9,
+  "domain": "normal_development"
+}

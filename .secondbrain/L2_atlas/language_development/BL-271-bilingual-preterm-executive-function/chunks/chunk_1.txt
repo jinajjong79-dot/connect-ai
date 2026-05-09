@@ -1,0 +1,28 @@
+ATLAS ID: BL-271
+Source: PMC5003637
+Author: Loe & Feldman (2016)
+Journal: Journal of Developmental & Behavioral Pediatrics
+Domain: language_development
+Tier: 2
+Grade: A
+
+---
+
+Loe & Feldman (2016). Journal of Developmental & Behavioral Pediatrics. PMC5003637. N=161 children (82 preterm, 79 full-term), ages 3-5y (mean 4.4y). Cross-sectional, 4 groups: preterm monolingual (PT-M, n=51), preterm bilingual (PT-B, n=31), full-term monolingual (FT-M, n=53), full-term bilingual (FT-B, n=26). Bilingual exposure defined as ≥10 hours/week non-primary language.
+
+Key findings:
+
+Parent-rated EF (BRIEF Global Executive Composite):
+- Preterm vs. full-term: F(1,152)=15.9, p<.001 (prematurity effect)
+- Language status (bilingual vs. monolingual): F(1,152)=.265, p=.608 — NOT significant
+- Birth group × language interaction: F(1,152)=1.23, p=.269 — NOT significant
+
+Performance-based EF tasks:
+- 6-Boxes (working memory): birth effect F=7.2, p=.008; NO language effect
+- Bird/Dragon (complex inhibition): birth effect F=11.3, p=.001; NO language effect
+- Day/Night (response inhibition): birth effect F=5.5, p=.020; NO language effect
+- Verbal Fluency: birth effect F=7.4, p=.007; NO language effect
+
+Conclusion: "Bilingual exposure conferred neither an advantage nor disadvantage to EF skills in either the FT and PT groups." Prematurity consistently impairs EF, but bilingual exposure does not worsen this — and does not provide additional benefit either.
+
+Key concept: "이중언어 노출 = EF에 불이익도 이점도 없음(전체 비유의); 미숙아 이중언어도 단일언어 정상아와 동등 — '이중언어가 발달에 해롭다'는 우려 근거 없음"

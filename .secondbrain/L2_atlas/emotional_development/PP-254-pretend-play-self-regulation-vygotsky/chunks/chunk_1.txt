@@ -1,0 +1,30 @@
+ATLAS ID: PP-254
+Source: PMC10766374
+Author: Bredikyte & Brandisauskiene (2023)
+Journal: Frontiers in Psychology
+Domain: emotional_development
+Tier: 2
+Grade: A
+
+---
+
+Bredikyte & Brandisauskiene (2023). Frontiers in Psychology. PMC10766374. N=454 children ages 3-6, 7 Lithuanian daycare centers.
+
+Theoretical framework: Vygotskian perspective on pretend play as the leading activity for preschool development. Play creates a "zone of proximal development" for self-regulation.
+
+Five developmental capacities in play (CP&SR Checklist):
+1. Creativity
+2. Motivation
+3. Imagination
+4. Self-regulation (voluntary behavior)
+5. Perspective-taking
+
+Key findings:
+- Role adoption ↔ self-regulation: Kendall's τ=0.641, p<0.0001 (very strong association)
+- 68.1% of self-regulation variance predicted by 5 play parameters + age + gender
+- Pretend play quality is the strongest predictor of self-regulation among preschoolers
+- Age and gender contribute but play parameters dominate the variance explanation
+
+Measurement tool: CP&SR Checklist (Checklist for Play and Self-Regulation)
+
+Key concept: "Pretend play = self-regulation rehearsal space (Vygotsky); role adoption is the primary self-regulation mechanism in play"

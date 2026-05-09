@@ -1,0 +1,18 @@
+{
+  "chunk_id": "ED-074_chunk001",
+  "chunk_summary": "본 리뷰는 디지털 미디어 사용과 과도한 스크린 타임이 청소년의 신체적, 정신적, 인지적, 발달적, 정서적 건강에 미치는 광범위한 영향을 검토합니다. 과도한 노출은 비만, 수면 장애, 우울증, 불안 등 심각한 건강 위험과 관련이 있으며, 하루 2~4시간을 초과하는 스크린 타임이 위험 증가와 연결됩니다. 따라서 균형 잡힌 미디어 사용, 연령에 맞는 제한, 그리고 적극적인 부모의 지도가 필수적입니다.",
+  "key_quotes": [
+    "This review examines the physical, mental, cognitive, developmental, and emotional health consequences of digital media use and excessive screen time among youth.",
+    "Physical effects include increased risks of obesity, sleep disturbances, visual impairments, and musculoskeletal pain.",
+    "the evidence highlights the need for balanced media use, age-appropriate limits, and active parental guidance."
+  ],
+  "checklists": [
+    "스크린타임 건강 영향",
+    "수면·비만·정신건강",
+    "인지발달",
+    "스크린타임 가이드라인",
+    "부모 중재 전략"
+  ],
+  "relevance": 0.9,
+  "domain": "overall_health_impact"
+}

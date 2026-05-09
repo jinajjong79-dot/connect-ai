@@ -1,0 +1,19 @@
+{
+  "chunk_id": "chunk_10",
+  "chunk_summary": "본 연구는 메타정서, 부모 양육 방식, 생리적 변인, 정서 조절, 아동 결과 간의 복잡한 경로를 분석하여 이론적 모델의 성공적인 구축을 입증했습니다. 특히, 부모의 정서 코칭이나 아동의 정서 인식은 부정적 양육 태도를 억제하는 역할을 하는 것으로 나타났습니다. 또한, 아동의 초기 자율신경 톤 억제 능력은 이후 아동의 정서 조절 능력과 밀접하게 관련되어 부모의 과도한 감정 조절 필요성을 줄이는 것으로 분석되었습니다.",
+  "key_quotes": [
+    "For child illness, we suggested that basal vagal tone should relate to less physical illness, and it turned out that the significant paths to child illness were parental emotion coaching and basal vagal tone.",
+    "In all models, either awareness or coaching of the child's emotions was negatively related to the negative parenting variable, supporting the hypothesis that awareness or coaching is an inhibitor of parental derogation of the child.",
+    "The greater the child's ability to suppress vagal tone at age 5, the less the parents had to down regulate the child's negative affects, inappropriate behavior, and overexcitement at age 8."
+  ],
+  "checklists": [
+    "메타정서",
+    "감정코칭",
+    "자율신경 조절",
+    "vagal tone",
+    "감정축소형 부모",
+    "경로분석"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

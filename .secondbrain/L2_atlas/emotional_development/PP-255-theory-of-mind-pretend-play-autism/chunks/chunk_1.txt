@@ -1,0 +1,25 @@
+ATLAS ID: PP-255
+Source: PMC6091989
+Author: Chan et al. (2016)
+Journal: Hong Kong Journal of Occupational Therapy
+Domain: emotional_development
+Tier: 2
+Grade: B
+
+---
+
+Chan et al. (2016). Hong Kong Journal of Occupational Therapy. PMC6091989. N=20 ASD children ages 3-7.11y. Clinical sample, small N — Grade B.
+
+Study design: Cross-sectional. Theory of Mind (ToM) tested via false-belief tasks. Pretend play measured via standardized assessment (NOS = Number of Object Substitutions, NIA = Number of Imaginative Acts). Playfulness measured via ToP (Test of Playfulness). Autism severity via CARS.
+
+Key findings:
+- ToM → NOS (number of object substitutions): R²=.158, p=.002
+- ToM → NIA (number of imaginative acts) inverse: R²=.175, p=.001
+- CARS (autism severity) → internal control: R²=.125
+- CARS → framing: R²=.071
+- ToM deficit associated with pretend play performance but NOT with playfulness
+- Conclusion: Metarepresentation (ToM) is a shared cognitive mechanism for both pretend play and ToM; autism affects pretend play via ToM pathway but preserves some playfulness dimensions
+
+Key concept: "ToM deficit → pretend play performance deficit (metarepresentation as shared mechanism); but playfulness (motivation/engagement) preserved even in ASD"
+
+Note: Small N=20 clinical sample, results should be interpreted with caution. Replicated pattern aligns with larger literature on metarepresentation.

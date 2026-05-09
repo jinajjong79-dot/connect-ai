@@ -1,0 +1,26 @@
+ATLAS ID: MT-264
+Source: PMC10407289
+Author: Nguyen, Flaten, Trainor & Novembre (2023)
+Journal: Developmental Cognitive Neuroscience
+Domain: emotional_development
+Tier: 2
+Grade: A ★
+
+---
+
+Nguyen, Flaten, Trainor & Novembre (2023). Developmental Cognitive Neuroscience. PMC10407289. Review article (not single empirical study) — synthesizes multiple research strands on infant-caregiver musical interaction.
+
+Key findings synthesized:
+- Lullabies: both mother and infant arousal decreased together over time during singing; infant skin conductance reduced more by live ID singing after unresponsiveness than speech
+- Live ID (infant-directed) singing significantly better than recorded music for engaging infant attention
+- Infant visual attention aligns rhythmically with caregivers' eye movements during singing
+- Neural synchrony between caregivers and infants correlates with interaction quality
+- 14-month-olds: increased prosocial helping after synchronous bouncing with partners
+- 6-month-olds: joint music-making predicted advanced social development at 12 months
+- 2-4-year-old siblings: musical play frequency predicted prosocial behaviors
+- N=3000+ Australian children: early musical activities frequency → prosocial skills at 4-5 years
+- Premature infants receiving music therapy: reduced cardiorespiratory rates + improved sleep
+
+Core theoretical conclusion: Music functions as early-emerging interpersonal communication system via emotional (not semantic) channels. Bidirectional adaptation between caregivers and infants — not unidirectional transmission — characterizes effective musical interactions supporting attachment, co-regulation, and prosocial development across cultures.
+
+Key concept: "자장가=공동조절의 원형; 양방향 적응(bidirectional adaptation)이 핵심 — 부모→아이 전달이 아니라 상호 조율"

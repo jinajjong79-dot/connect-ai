@@ -1,0 +1,18 @@
+{
+  "chunk_id": "chunk_1",
+  "chunk_summary": "본 연구는 어머니의 실제 내면 성격과 사회적 기대에 맞춰 수행하는 양육 역할 간의 차이를 '부모 성격 마스크'로 정의하고 측정하는 도구를 개발했습니다. 이 연구는 Carl Jung의 페르소나 이론에 기반하여 486명의 어머니를 대상으로 혼합 연구 방법을 사용했습니다. 그 결과, 어머니의 성격 마스크 차원이 양육 행동과 유의미한 상관관계를 보이며, 양육 결과의 상당한 분산을 설명함을 확인했습니다.",
+  "key_quotes": [
+    "\"부모 성격 마스크\"란 어머니의 실제 내면 성격(true personality)과 양육 역할 수행 시 사회적 기대에 맞게 표출되는 성격(parenting-mode personality) 사이의 차이를 의미한다.",
+    "Carl Jung의 페르소나(persona) 이론에 근거하며, 어머니가 사회적 역할(\"좋은 어머니\")을 수행하기 위해 의식적·무의식적으로 형성하는 성격 구조물이다.",
+    "Significant correlations emerged between mask dimensions and parenting behaviors, accounting for notable variance in parenting outcomes."
+  ],
+  "checklists": [
+    "성격 마스크",
+    "암묵적 성격",
+    "양육행동",
+    "어머니 성격",
+    "인지발달 관련 항목"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

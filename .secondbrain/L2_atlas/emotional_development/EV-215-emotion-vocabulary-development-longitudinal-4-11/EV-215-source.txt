@@ -1,0 +1,161 @@
+Title: Children's Emotion Vocabulary Development: A Longitudinal Study from Ages 4 to 11
+PMC ID: PMC9382957
+Year: 2022
+Tier: 2 | Grade: A
+Category: emotional_development
+Keywords: emotion vocabulary, longitudinal, ages 4-11, semantic development, valence, emotion words, German children, adult convergence
+
+---
+
+ABSTRACT
+
+This study examined how German-speaking children develop emotion vocabulary between ages 4-11, tracking convergence with adult usage patterns and identifying factors influencing word acquisition. N=123 children across four age groups + 27 adults. First systematic investigation combining frequency, semantic dimensions, and adult convergence in emotion vocabulary development.
+
+Key developmental trajectory:
+- Age 4-5: 4.4 emotion words (basic: 기쁨/슬픔/화/무서움)
+- Age 6-7: 5.4 words
+- Age 8-9: 7.0 words
+- Age 10-11: 9.7 words
+- Adults: 14.7 words
+
+Core finding: "만4세: 기본 감정 → 만6세: 복합 감정 → 11세: 미묘 감정" — systematic progression from basic to complex to nuanced emotion vocabulary.
+
+INTRODUCTION
+
+Emotion vocabulary development matters because:
+1. Children cannot regulate what they cannot name
+2. Emotion vocabulary enables participation in social and emotional discourse
+3. Developmental norms guide intervention timing
+4. Under-developed emotion vocabulary is a risk factor for behavioral problems
+
+Research gaps this study addresses:
+- Prior research examined specific emotions at specific ages (not systematic)
+- No study had tracked the full 4-11 range longitudinally with adult comparison
+- Semantic organization (how children categorize emotions) was unstudied developmentally
+- Acquisition factors (input frequency, word specificity) were theoretical but untested
+
+METHODS
+
+Design: Cross-sectional comparison across age groups (approximates longitudinal trajectory)
+Sample: N=123 children + 27 adults
+Age groups:
+- Group 1: Ages 4-5 (n=31)
+- Group 2: Ages 6-7 (n=30)
+- Group 3: Ages 8-9 (n=31)
+- Group 4: Ages 10-11 (n=31)
+- Adults: 27
+
+Task: Vignette test — 20 illustrated scenarios depicting different emotional states
+Response: Free production — participant names the emotion shown
+Analysis: Word frequency, semantic dimensions (multidimensional scaling), adult convergence scores
+
+RESULTS — DEVELOPMENTAL TRAJECTORY
+
+Vocabulary Size by Age:
+| Age Group | Mean Words | SD |
+|-----------|-----------|-----|
+| 4-5 years | 4.4 | 1.8 |
+| 6-7 years | 5.4 | 2.1 |
+| 8-9 years | 7.0 | 2.3 |
+| 10-11 years | 9.7 | 2.9 |
+| Adults | 14.7 | 3.2 |
+
+Growth pattern: Accelerating — bigger jumps in older childhood, not finished by age 11
+
+Most frequently used words (4-5 years):
+1. "sad/슬픔" — 31.1% of responses (most common across all ages)
+2. "happy/기쁨"
+3. "angry/화남"
+4. "scared/무서움"
+General terms "good/좋음" and "bad/나쁨" used before specific labels
+
+Transition at 6-7 years (COMPLEX emotions emerge):
+- "ashamed/부끄러움" begins to appear
+- "jealous/질투" begins to appear
+- "proud/자랑스러움" begins to appear
+- "disappointed/실망" begins to appear
+- "embarrassed/당황" emerging
+- Shift from external/behavioral labels to internal state labels
+
+Transition at 8-11 years (NUANCED emotions):
+- "anxious/불안" differentiated from scared
+- "melancholy/우울" differentiated from sad
+- "irritated/짜증" differentiated from angry
+- Fine-grained distinctions within valence categories
+
+RESULTS — SEMANTIC ORGANIZATION
+
+Core semantic dimension (all ages + adults):
+"One clear criterion — the differentiation of positive versus negative emotions — for all children and adults"
+- Valence (positive vs. negative) is the FIRST and most robust semantic organizer
+- Even 4-year-olds reliably distinguish positive from negative emotions
+- This finding is stable across development
+
+Secondary dimensions (emerge with age):
+- Arousal dimension (high activation vs. low activation) — emerges more clearly in older children
+- Social dimension (self-focused vs. other-focused) — emerging in adults
+
+Adult convergence:
+- 4-5 year olds: low convergence with adult patterns (different semantic space)
+- 10-11 year olds: substantially higher convergence but not yet adult-like
+- Full adult-like organization continues developing into adolescence
+
+RESULTS — ACQUISITION FACTORS
+
+Factor 1: Input Frequency
+- Words heard more often in child-directed speech appear earlier in children's vocabularies
+- "sad," "happy," "angry" are high-frequency in parent speech → acquired first
+- "ashamed," "jealous" are lower frequency → acquired later
+- Confirms: language environment shapes emotion vocabulary acquisition
+
+Factor 2: Word Specificity (unexpected)
+- Hypothesis was that BROAD (general) emotion words would be acquired later (because they require more abstraction)
+- Finding: BROADLY-used emotion words acquired EARLIER and matched adult usage more quickly
+- Interpretation: words used across many situations (sad, happy) have more learning opportunities than situation-specific words
+
+DEVELOPMENTAL MILESTONE TABLE
+
+| Age | Typical Emotion Vocabulary | Key Developmental Task |
+|-----|---------------------------|----------------------|
+| 2-3 years | "good/bad," "happy/sad/mad" | Basic valence distinctions |
+| 4-5 years | 4-5 specific labels (기쁨/슬픔/화/무서움/놀람) | Basic emotion labeling |
+| 6-7 years | 5-6 words, first complex emotions emerging | Self-conscious emotion words appear |
+| 8-9 years | 7 words, within-category distinctions begin | Nuanced differentiation starting |
+| 10-11 years | 9-10 words, approaching adult-like variety | Approach to adult vocabulary |
+| Adults | ~15 words typical repertoire | Full adult semantic space |
+
+DISCUSSION
+
+Why "sad" is universal first (cross-cultural finding):
+- Sad is morphologically simple
+- High input frequency from caregivers
+- Associated with observable behavior (crying, withdrawal) → easier to learn
+- This pattern holds across German, English, Korean research
+
+Parent coaching implications — timing of vocabulary introduction:
+Age 4-5: Focus on mastery of 4-5 basic words first
+- "지금 느끼는 게 기쁨이야, 슬픔이야, 화야, 무서움이야?"
+- Don't introduce 'jealous' or 'ashamed' yet — cognitive prerequisite not ready
+
+Age 6-7: Introduce self-conscious emotions
+- "부끄럽다는 게 뭔지 알아? 다른 사람들이 나를 어떻게 볼까 걱정될 때 느끼는 거야"
+- "질투라는 건 다른 사람이 가진 걸 나도 갖고 싶을 때 느끼는 마음이야"
+
+Age 8-11: Introduce nuanced distinctions
+- "화나다 vs. 짜증나다 — 어떻게 다를까?"
+- "슬프다 vs. 실망하다 vs. 허탈하다"
+- "무섭다 vs. 불안하다"
+
+Genmon Channel relevance (세현이 연령):
+세현이 age (based on context): around school-age
+- If ages 6-7: self-conscious emotions (부끄러움, 질투) newly accessible
+- "세현이가 요즘 부끄럽다는 말을 쓰기 시작했어요 — 이 시기에 정상입니다, 이 감정이 발달하는 시기거든요"
+
+CONCLUSION
+
+Emotion vocabulary develops systematically from ages 4-11, following a basic→complex→nuanced progression. Valence is the earliest and most stable semantic organizer. Input frequency and word breadth predict earlier acquisition. Parental emotion coaching should be calibrated to developmental stage — introducing age-appropriate emotion labels in sequence accelerates emotional competence.
+
+ATLAS connections:
+- EV-214: depth vs. size of emotion vocabulary and regulatory outcomes
+- BR-218: picture books as emotion vocabulary scaffolding tool
+- Gottman 감정코칭: 4단계 이름 붙이기 — developmental sequence for label selection

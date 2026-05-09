@@ -1,0 +1,17 @@
+{
+  "chunk_id": "chunk_5",
+  "chunk_summary": "해당 청크는 부모의 역할과 상호작용에 관한 학술 문헌 목록(참고문헌)을 제공한다. 주요 연구 주제는 어머니의 문지기 행동(Maternal Gatekeeping)이 아버지의 양육 참여에 미치는 영향, 아버지의 가족 노동 참여 결정 요인, 그리고 성역할 이데올로기가 부부 간의 권력 관계 및 양육 분담에 미치는 영향 등이다. 이 문헌들은 부모 역할과 양육 참여에 대한 이론적 배경을 확립하는 데 중점을 둔다.",
+  "key_quotes": [
+    "Maternal gatekeeping: Mothers' beliefs and behaviors that inhibit greater father involvement in family work.",
+    "Determinants of fathers' participation in family work.",
+    "Ideology, power, and equity: Testing competing explanations for the perception of fairness in household labor."
+  ],
+  "checklists": [
+    "아버지 양육참여",
+    "어머니 문지기",
+    "성역할 인식",
+    "양육 분담 관련 항목"
+  ],
+  "relevance": 0.95,
+  "domain": "parent_communication"
+}

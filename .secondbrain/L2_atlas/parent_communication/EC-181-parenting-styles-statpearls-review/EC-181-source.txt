@@ -1,0 +1,67 @@
+양육유형 4가지: 정의·특징·아동발달 결과 종합 (StatPearls 의학 교과서)
+Title: Types of Parenting Styles and Effects on Children
+Authors: Terrence Sanvictores, Magda D. Mendez
+Affiliations: Touro University Nevada; Lincoln Medical Center/Weill Cornell
+Published: StatPearls Publishing, 2022 (최종 업데이트: 2022년 9월 18일)
+PMID: 33760502
+PMCID: NBK568743 (StatPearls Book Chapter)
+ATLAS ID: EC-181
+Category: parent_communication / parenting_style / authoritative / authoritarian / permissive / uninvolved / review / StatPearls
+Note: 의학 교과서급 종합 정리 — tier 2 A (임상 참조용)
+
+=== 연구 개요 ===
+
+StatPearls 의학 교육 플랫폼 챕터. 양육유형 4가지(권위적·권위주의적·허용적·방임형) 정의·특징·아동발달 결과 종합. 의료진 가족 역동 이해 및 문화 역량 개발 목적.
+
+=== 양육유형 4가지 정의 및 결과 ===
+
+1. 권위주의적 양육 (Authoritarian)
+정의: "일방적 의사소통, 엄격한 규칙, 질문·협상 없이 따르도록 강요"
+특징: 규칙 설명 부족, 높은 기준, 낮은 따뜻함
+아동 결과:
++ 행동 관리, 지시 따르기
+- 높은 공격성, 수줍음, 사회적 미숙함, 낮은 자존감, 권위 반발
+
+2. 권위적 양육 (Authoritative)
+정의: "긴밀하고 양육적 관계 + 명확한 기대와 지침 + 이유 설명"
+특징: 개방적 소통, 징계=지원 도구, 자녀 목표 설정 참여
+아동 결과:
++ 신뢰감, 책임감, 자기조절, 감정조절↑, 높은 자존감, 학업 우수
++ 사회적·정서적 안녕 개선
+
+3. 허용적 양육 (Permissive)
+정의: "최소한의 기대, 규칙 거의 없음, 친구 같은 역할"
+특징: 따뜻하고 양육적, 훈육 거의 없음
+아동 결과:
++ 좋은 자존감, 사회기술
+- 불건강한 식습관·비만 위험, 충동적, 이기적, 자기조절 어려움
+
+4. 방임형 양육 (Uninvolved)
+정의: "기본적 욕구만 충족, 정서적 단절, 거리감"
+특징: 높은 자유도, 제한된 소통, 최소 기대
+아동 결과:
++/- 회복력·자립심 (필요에 의해)
+- 정서조절 어려움, 학업 어려움, 사회관계 곤란
+
+=== 미국 통계 맥락 ===
+
+"2014 미국 인구조사: 어린이의 1/4이 한부모 가정, 3/4이 기혼 부모 가정"
+
+문화적 영향: 양육 방식은 문화 간 광범위하게 변이 — 단순 적용 주의
+
+=== 핵심 결론 ===
+
+1. 권위적 양육이 아동발달 전 영역에서 최적 결과를 낸다
+2. 방임형이 가장 해롭다 — 정서·학업·사회 전반 부정 영향
+3. 권위주의적 양육은 일부 행동 통제 긍정 효과가 있으나 자존감·사회성 손상
+4. 허용적 양육은 자존감·사회기술은 유지하나 자기조절·충동 문제 유발
+
+=== 양육 시사점 ===
+
+1. 4가지 양육유형 중 "권위적"이 왜 최선인지 과학적 근거가 있다
+2. 따뜻함(warmth) + 적절한 규칙(structure) = 권위적 양육의 두 기둥
+3. 한국식 엄격한 양육(권위주의)은 서구 데이터에서 자존감·사회성 손상으로 연결
+4. 의료진·상담사·교사가 양육유형 스크리닝에 활용하는 기준
+
+출처:
+- Sanvictores, T., & Mendez, M.D. (2022). Types of Parenting Styles and Effects on Children. In StatPearls. StatPearls Publishing. PMID: 33760502. NBK568743.

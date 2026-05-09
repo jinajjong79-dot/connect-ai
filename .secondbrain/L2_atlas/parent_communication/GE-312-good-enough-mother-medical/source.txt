@@ -1,0 +1,30 @@
+# GE-312 Source
+
+Title: "Good Enough Mother": Accepting the Imperfections of Motherhood in Medicine
+Author: France M Leandre, MD
+Journal: HCA Healthcare Journal of Medicine
+Year: 2025
+PMC: PMC12425420
+Tier: 2
+Grade: B
+Domain: parent_communication
+Type: 성찰적 에세이 (Reflective Essay)
+
+## Abstract
+Winnicott의 "충분히 좋은 어머니" 개념을 의료 전문가에게 적용한 성찰적 에세이. 완벽은 달성 불가능하며, 아이들은 부모의 한계를 경험함으로써 삶의 도전에 적응하는 능력을 기른다는 주장. 자기연민과 불완전함의 수용을 강조.
+
+## 핵심 발견
+- Winnicott 틀: 아이에게 완벽한 부모는 필요 없음, 진심으로 사랑하는 선의의 양육자면 충분
+- 저자 경험: 비현실적 기대에 부응하려다 압도됨
+- 현장 체험 학습 같은 약속을 놓쳐도 괜찮음; 불완전함이 회복탄력성 가르침
+
+## 핵심 인용구
+"He suggested that no child needs the perfect parent. They just need the decent, good-intentioned, sometimes grumpy mother or father who loves them limitlessly."
+"불완전함에서 아름다움을 찾을 수 있다면, 우리 자신의 불완전함에서도 찾을 수 있다"
+
+## 채널2 연결
+불완전한 자신을 수용 → 자기연민 → 충분히 좋은 부모 실천
+의료인·트라우마 생존자·고기능 부모 모두에게 적용 가능
+
+## 비고
+N/A — 성찰적 에세이, 실증 통계 없음. Grade B 적절.

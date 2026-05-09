@@ -1,0 +1,28 @@
+ATLAS ID: BL-270
+Source: PMC8641133
+Author: Lowe, Cho, Goldsmith & Morton (2021)
+Journal: Psychological Science
+Domain: language_development
+Tier: 2
+Grade: A
+
+---
+
+Lowe, Cho, Goldsmith & Morton (2021). Psychological Science. PMC8641133. Meta-analysis: k=149 studies (136 peer-reviewed, 11 dissertations, 2 unpublished), N=23,414 children (10,937 bilingual, 12,477 monolingual), ages 3-17y. 1,194 effect sizes analyzed.
+
+Key findings:
+
+Overall bilingual EF advantage:
+- Raw effect: g=.08 (95% CI [.01,.14], p=.017) — statistically significant but very small
+- After publication bias correction (PET-PEESE): g=−.04 (p=.414) — NOT significant; essentially null
+
+Domain-specific:
+- Executive attention (theorized bilingual advantage locus): g=.06 (95% CI [−.02,.14], p=.118) — NOT significant
+- Response inhibition only: g=.17 (p=.008) — significant but modest
+- All other EF domains: nonsignificant
+
+Moderators: Study quality, SES measurement, language status assessment method. Lower-quality studies + failure to control SES → larger reported effects.
+
+⚠️ IMPORTANT NOTE: The user described this as "언어 수가 아닌 인지적 전환 경험이 핵심" — but the meta-analytic finding is stronger: after bias correction, the bilingual EF advantage disappears entirely. The study does NOT confirm a reliable bilingual advantage. It instead shows that reported advantages may be methodological artifacts.
+
+Key concept: "이중언어 EF 이점: 보정 전 소폭 효과(g=.08), 출판 편향 보정 후 소멸(g=-.04) — 기존 '이중언어 이점' 주장은 출판 편향의 결과일 가능성; 연구 질 통제 필수"

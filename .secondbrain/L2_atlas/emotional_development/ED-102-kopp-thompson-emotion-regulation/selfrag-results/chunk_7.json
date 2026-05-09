@@ -1,0 +1,19 @@
+{
+  "chunk_id": "chunk_7",
+  "chunk_summary": "어머니들은 아기와의 상호작용에서 긍정적인 감정 표현을 선택적으로 강화하고 모델링하는 경향을 보이며, 이는 아기의 긍정적 정서 경험을 조절하는 역할을 합니다. 이러한 상호작용은 아기가 정서적 관용(affective tolerance)을 기르고 감정 관리 기술을 습득하는 기반이 됩니다. 아동이 성장함에 따라 부모의 정서적 조절 방식은 언어적 지시를 포함하여 더욱 다면적이고 감정 특이적으로 변화하는 것이 관찰됩니다.",
+  "key_quotes": [
+    "mothers restricted their facial expressions primarily to positive emotions (e.g., enjoyment, interest, and surprise)",
+    "In this manner, it appears mothers sought to accentuate, modulate, and regulate their offspring's positive emotional experience in play.",
+    "Parents continue to use selective reinforcement and modeling as modes of extrinsic emotional regulation throughout a child's early years"
+  ],
+  "checklists": [
+    "감정 자기조절",
+    "발달 단계",
+    "외재적 조절",
+    "부모 개입",
+    "언어 발달",
+    "연령별 기준"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

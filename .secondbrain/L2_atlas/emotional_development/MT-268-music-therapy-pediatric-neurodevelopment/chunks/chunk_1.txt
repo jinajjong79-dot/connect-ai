@@ -1,0 +1,22 @@
+ATLAS ID: MT-268
+Source: PMC12322601
+Author: Unknown (blocked)
+Journal: Unknown (blocked)
+Domain: emotional_development
+Tier: 2
+Grade: B
+
+---
+
+⚠️ FETCH FAILED: PMC12322601 페이지가 reCAPTCHA 차단으로 내용 접근 불가.
+
+사용자 제공 정보 (확인되지 않은 요약):
+- 12+24개월 추적: 음악치료→감정조절↑ 신경발달↑
+- Euterpe 방법론
+- 의학 신경인문학 에디토리얼
+- Grade B (에디토리얼 성격)
+
+처리 상태: source.txt 미완성 — 실제 논문 내용 확인 후 보강 필요.
+추천 조치: 사용자가 직접 PDF 접근 후 핵심 통계 공유 시 재처리.
+
+Key concept: [미확인 — 내용 접근 불가]

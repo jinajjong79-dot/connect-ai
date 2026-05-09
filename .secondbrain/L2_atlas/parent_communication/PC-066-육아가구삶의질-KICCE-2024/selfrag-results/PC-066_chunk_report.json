@@ -1,0 +1,12 @@
+{
+  "chunk_id": "PC-066_chunk_report",
+  "chunk_summary": "본 청크는 원본 문서를 청크로 분할하는 과정에 대한 메타데이터 보고서입니다. 원본 파일의 경로와 총 청크 개수, 그리고 청크 크기 제한 등의 기술적 정보를 담고 있습니다. 해당 보고서는 콘텐츠 내용보다는 데이터 처리 과정과 구조를 확인하는 데 중점을 두고 있습니다.",
+  "key_quotes": [
+    "chunk_id: PC-066_chunk_report",
+    "총 청크: 1개",
+    "원본: /Users/genmon/family-vault/knowledge/parent_communication/PC-066-육아가구삶의질-KICCE-2024/PC-066.md"
+  ],
+  "checklists": [],
+  "relevance": 0.7,
+  "domain": "parent_communication"
+}

@@ -1,0 +1,19 @@
+{
+  "chunk_id": "chunk_21",
+  "chunk_summary": "이 청크는 영아기부터 아동기 초기에 걸친 감정 발달에 관한 핵심적인 학술 참고문헌 목록입니다. 주요 연구들은 어머니-영아 간의 정서적 상호작용(affect attunement)의 중요성을 강조하며, 영아가 타인의 감정을 추론하고(Theory of Mind), 자신의 감정 상태를 인지적으로 이해하는 과정을 다룹니다. 전반적으로 감정 지식의 습득과 사회적 관계 속에서의 정서적 발달 메커니즘을 심도 있게 다루고 있습니다.",
+  "key_quotes": [
+    "The development of laughter in the first year of life.",
+    "Affect attunement: The sharing of feeling states between mother and infant by means of intermodal fluency.",
+    "Children's understanding of changing emotional states."
+  ],
+  "checklists": [
+    "감정 자기조절",
+    "발달 단계",
+    "외재적 조절",
+    "내재적 조절",
+    "부모 개입",
+    "연령별 기준"
+  ],
+  "relevance": 0.95,
+  "domain": "emotional_development"
+}

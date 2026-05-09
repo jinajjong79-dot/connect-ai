@@ -1,0 +1,16 @@
+{
+  "chunk_id": "chunk_41",
+  "chunk_summary": "이 청크는 코로나19 팬데믹이 아동의 발달에 미치는 광범위한 영향을 다룬 문헌들을 모았습니다. 주요 연구 주제로는 봉쇄 조치 기간 동안 아동의 행동 변화, 정신 건강 문제, 그리고 수면 패턴의 불규칙성이 있습니다. 또한, 임신 중 감염 노출이나 출산 시기 자체가 영아의 신경 발달에 미치는 영향까지 포괄적으로 다루고 있어, 팬데믹 기간 동안의 아동 발달 위험 요인을 심층적으로 분석하고 있습니다.",
+  "key_quotes": [
+    "Implications of COVID-19-induced nationwide lockdown on children's behaviour",
+    "Impact of COVID-19 on the Mental Health of Children and Adolescents",
+    "Sleep and the General Behavior of Infants and Parents during the Closure of Schools as a Result of the COVID-19 Pandemic"
+  ],
+  "checklists": [
+    "코로나19 영향",
+    "영유아 발달 격차",
+    "수면 불규칙"
+  ],
+  "relevance": 0.95,
+  "domain": "normal_development"
+}

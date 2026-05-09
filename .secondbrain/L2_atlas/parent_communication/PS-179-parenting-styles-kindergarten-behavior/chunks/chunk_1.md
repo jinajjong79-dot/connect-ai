@@ -1,0 +1,77 @@
+양육유형·가족 특성 → 유치원 교사 보고 행동 결과 N=321
+Title: Parenting Styles, Family Characteristics, and Teacher-Reported Behavioral Outcomes in Kindergarten
+Authors: Anna Cecilia McWhirter, Laura Lee McIntyre, Derek B Kosty, Elizabeth Stormshak
+Affiliations: University of Oregon, College of Education
+Journal: Journal of Child and Family Studies
+Published: 2023년 2월
+DOI: 10.1007/s10826-023-02551-x
+PMCID: PMC9937526
+PMID: 36846086
+ATLAS ID: PS-179
+Category: parent_communication / parenting_style / kindergarten / behavioral_outcomes / teacher_report / parenting_stress
+
+=== 연구 개요 ===
+
+미국 태평양 북서부 유치원생 N=321(평균연령 5.45세). 양육유형 4가지(권위적·권위주의적·허용적·방임적) 현황 + 양육스트레스 조절효과. 교사 보고 행동 측정. 권위적=문제행동 최저, 방임적=최고.
+
+=== 연구 설계 ===
+
+표본: 5개 초등학교 유치원생 321명 + 부모 + 교사
+측정: PARYC, Monitoring/Family Routines Scale, ACRS(양육), PSS(스트레스), SDQ + Strengths&Needs(교사)
+분석: 일원/이원분산분석 + 사후검정
+
+=== 양육유형 분포 ===
+
+| 유형 | 비율 |
+|------|------|
+| 허용적 | 34.9% |
+| 권위적 | 32.4% |
+| 권위주의적 | 20.6% |
+| 방임적 | 12.1% |
+
+=== 주요 결과 ===
+
+양육스트레스 (F[3,321]=9.12, p<0.001):
+- 권위적: M=1.25, SD=0.47 (최저)
+- 방임적: M=1.73, SD=0.49 (최고)
+- 권위적 vs 방임적: d=0.95, p<0.001
+- 권위적 vs 허용적: d=0.45, p=0.008
+
+부모 보고 아동 문제행동 (F[3,321]=13.59, p<0.001):
+- 권위적: M=4.45, SD=4.60 (최저)
+- 방임적: M=10.10, SD=5.45 (최고)
+- 권위적 vs 방임적: d=1.07, p<0.001 (큰 효과)
+
+교사 보고 행동문제 (F[3,39]=4.08, p=0.007):
+- 방임적 vs 허용적: d=0.59, p=0.019
+- 방임적 vs 권위적: d=0.66, p=0.006
+
+양육스트레스 조절효과 (F[3,267]=2.84, p=0.039):
+- 방임적 vs 권위적: 높은 스트레스 조건에서 d=1.0 (매우 큰 효과)
+- "스트레스가 높을수록 방임적 양육의 부정 효과 증폭"
+
+=== 핵심 결론 ===
+
+1. 권위적 양육 부모 자녀 = 교사 보고 문제행동 최저 (d=0.66 vs 방임)
+2. 방임적 양육이 가장 해롭다 — 부모·교사 보고 모두에서 최고 문제행동
+3. 양육스트레스가 높을수록 방임적 양육 효과가 증폭 (d=1.0)
+4. "가정에서의 양육이 학교 행동을 예측한다"
+
+=== 양육 시사점 ===
+
+1. 방임형 양육(무관심·무규칙)이 학교 행동 문제에 가장 강하게 연결된다
+2. 양육 스트레스 관리가 방임 방지의 핵심
+3. 유치원 입학 전 양육 유형 점검이 필요한 이유
+4. 권위적 양육(따뜻함+규칙) = 스트레스도 낮고 아이 문제도 낮다
+
+=== 채널2 소재 ===
+
+"학교에서 문제가 생기는 아이, 집에서 무슨 일이 있는 걸까?" 시리즈:
+- 양육유형과 유치원 행동: 데이터가 말하는 것
+- 방임형 양육의 신호와 대처법
+- 양육 스트레스가 높을 때 아이에게 무슨 일이 생기는가
+
+출처:
+- McWhirter, A.C., McIntyre, L.L., Kosty, D.B., & Stormshak, E. (2023). Parenting Styles, Family Characteristics, and Teacher-Reported Behavioral Outcomes in Kindergarten. Journal of Child and Family Studies, 32, 1527-1539. DOI: 10.1007/s10826-023-02551-x. PMCID: PMC9937526.
+## 관련 문서
+- [[PS-179_selfrag_atlas]] — 공유 엔티티: Anna Cecilia McWhirter

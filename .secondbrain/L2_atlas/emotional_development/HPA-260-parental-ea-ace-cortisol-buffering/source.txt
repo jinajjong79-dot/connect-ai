@@ -1,0 +1,25 @@
+ATLAS ID: HPA-260
+Source: PMC12053350
+Author: Senehi et al. (2021)
+Journal: Prevention Science
+Domain: emotional_development
+Tier: 2
+Grade: A ★★
+
+---
+
+Senehi et al. (2021). Prevention Science. PMC12053350. N=127 parent-child dyads. Child age M=18.38 months (range 5-44 months).
+
+Study design: Parental ACEs measured via ACE questionnaire. Child stress measured via hair cortisol concentration (HCC — long-term physiological stress marker). Parental emotional availability (EA) measured via structured observation.
+
+Key findings:
+- Parental ACE → child HCC: significant positive association (β=.63, p<.05; quadratic — stronger at higher ACE levels)
+- Overall model explained 26% of variance in child HCC
+- EA MODERATION: parental EA moderates the ACE→HCC pathway
+  - Lower EA parents: ACE effects increase with more adversity (B=0.07, p<.05) — intergenerational transmission
+  - Higher EA parents: ACE effects DECREASE with more adversity (B=-0.09, p<.05) — buffering/protection
+  - Effect size: Hedges' g=0.29 (small-medium)
+
+Mechanism: Emotionally available parenting interrupts the physiological transmission of parental trauma to children. Even parents with high ACE can break the cycle by being emotionally present.
+
+Key concept: "부모 ACE↑ → 아이 코르티솔↑, 그러나 부모의 정서적 가용성(EA)↑이면 이 전달 역전 → '거기 있어주기'가 세대간 트라우마 전이를 끊는 메커니즘"

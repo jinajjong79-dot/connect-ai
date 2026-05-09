@@ -1,0 +1,24 @@
+# GP-293 Source
+
+Title: (문화 간 감사 개입 효과 메타분석)
+Authors: (미상 — PNAS 2025)
+Journal: PNAS (Proceedings of the National Academy of Sciences)
+Year: 2025
+DOI: 10.1073/pnas.2425193122
+URL: https://www.pnas.org/doi/10.1073/pnas.2425193122
+
+## ⚠️ PENDING — 접근 제한
+- PNAS 403 오류로 전문 fetch 불가 (페이월)
+- 아래 내용은 사용자 제공 설명 기반 최소 소스 (확인 필요)
+
+## 사용자 제공 설명 (미검증)
+- 설계: 메타분석, k=145 연구, 28개국
+- 주요 발견: 감사 개입→웰빙 small 효과↑
+- 조절 변수: 동아시아 문화에서 효과 다소↓
+- 한국 맥락 참조 가능
+
+## Tier
+tier 1 (PNAS), grade A ★
+
+## Status
+PENDING — PDF 또는 오픈액세스 버전 수동 확인 후 재처리 필요

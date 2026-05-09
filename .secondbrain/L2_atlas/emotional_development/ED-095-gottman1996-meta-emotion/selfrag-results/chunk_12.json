@@ -1,0 +1,16 @@
+{
+  "chunk_id": "chunk_12",
+  "chunk_summary": "연구진은 높은 자각(awareness)을 가졌지만 감정 코칭(emotion coaching)을 하지 않는 가족(Group 1)과 높은 자각과 코칭을 모두 하는 가족(Group 2)을 비교했습니다. 그 결과, Group 1의 아동들은 놀이의 질, 또래 상호작용, 사회성 기술 및 공격성 측면에서 Group 2의 아동들보다 유의미하게 낮은 점수를 받았습니다. 이는 아동의 감정을 인지하는 것만으로는 부족하며, 실제로 감정 코칭을 하는 것이 아동의 긍정적인 정서 발달에 결정적인 역할을 함을 시사합니다.",
+  "key_quotes": [
+    "Group 1 had children whose play quality at age 5 was significantly lower than Group 2, F(l, 24) = 4.29, p < .05",
+    "Group 1 = -3.80, Group 2 = -0.21; higher in the Dodge Aggression Scale",
+    "These post hoc results support the hypothesis that the negative linkage between awareness and negative child outcomes may be attributable, in part, to those families who are aware of their child's emotion and perhaps are even accepting of it, but who do not emotion coach their children."
+  ],
+  "checklists": [
+    "메타정서",
+    "감정코칭",
+    "path analysis 관련 항목"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

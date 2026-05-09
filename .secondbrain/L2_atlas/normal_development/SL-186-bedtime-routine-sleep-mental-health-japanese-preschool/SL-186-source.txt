@@ -1,0 +1,63 @@
+취침루틴(BTR Index): 일본 만4~6세 수면습관·정신건강 (2024)
+Title: Bedtime routine
+Author: Jun Kohyama (Editorial/Commentary on Yamamoto & Hara study)
+Affiliation: Tokyo Bay Urayasu Ichikawa Medical Center, Urayasu, Japan
+Journal: Sleep and Biological Rhythms
+Published: July 20, 2024
+PMC ID: PMC11408428
+Article type: Editorial commentary (1차 연구: Yamamoto & Hara)
+ATLAS ID: SL-186
+Category: normal_development / sleep / bedtime_routine / japanese / preschool / BTR_index
+Note: Editorial — 1차 연구(Yamamoto & Hara) 주석·해설 포함
+Tier: 2 | Grade: B
+
+=== 연구 개요 ===
+
+Yamamoto & Hara의 1차 연구에 대한 Kohyama의 editorial commentary.
+BTR(Bedtime Routine) 지수: 6개 취침 행동 항목으로 구성, 일본 만4~6세 대상.
+
+BTR 지수 6개 항목:
+1. 잠자기 전 양치질
+2. 일관된 취침 시간 유지
+3. 잠자리에서 책 읽기/이야기 나누기
+4. 잠자기 전 음식·음료 삼가기
+5. 잠자기 전 전자기기 삼가기
+6. 잠자기 전 진정 활동 참여
+
+=== 핵심 발견 ===
+
+BTR 지수 복합 점수: 수면습관·정신건강과 전반적 유의 연관성 없음
+회귀 개별 항목 분석:
+- 잠자리 책읽기/이야기 → 수면습관에 정적 연관
+- 전자기기 회피 → 예상과 다른 음의 계수 (역설적 결과, 원인 미상)
+
+일본 문화 특이 요소:
+- "굿나잇 투어"(お休みの挨拶) — 가족·사물에 잠자리 인사, 일본 특유 취침 의식
+- 서양 기반 표준화 도구로는 이런 문화적 요소 포착 불가
+
+=== Kohyama 논평 핵심 ===
+
+BTR 복합 지수의 한계: 6개 항목으로 "적응적" 취침루틴 완전 포착 어려움.
+전자기기 항목의 역설: 방법론적 문제 또는 교란 변수 가능성.
+향후 연구 필요: 종단 연구, 문화별 취침루틴 측정 표준화, 더 큰 표본.
+
+=== 핵심 결론 ===
+
+아시아 문화권(일본) 만4~6세에서 취침루틴 지수와 수면건강·정신건강의 연관성 탐색.
+책읽기가 수면습관에 긍정적 역할 — 문화 초월적 효과 가능성.
+BTR 복합 지수보다 개별 루틴 항목이 더 유의미한 예측 변수.
+
+=== 양육 시사점 ===
+
+1. 취침루틴 일관성보다 내용이 중요할 수 있음 — 특히 책읽기 효과
+2. 아시아 가정의 문화적 취침 의식도 루틴의 일부로 인정
+3. BTR 지수 총점보다 세부 행동 추적이 실용적
+
+=== 채널2 소재 ===
+
+"취침루틴에서 가장 중요한 한 가지" — 책읽기 vs 전자기기 데이터
+"한국/일본 아이의 취침루틴이 달라야 하는 이유" — 문화적 차이
+
+출처:
+- Kohyama J. (2024). Bedtime routine. Sleep and Biological Rhythms. PMC11408428.
+- 1차 연구: Yamamoto & Hara (일본 만4~6세 BTR 지수 연구)

@@ -1,0 +1,158 @@
+초기 애착 안정성과 아동기 뇌 형태학: 9년 종단연구
+Title: Attachment Security in Infancy: A Preliminary Study of Prospective Links to Brain Morphometry in Late Childhood
+Authors: Élizabel Leblanc, Fanny Dégeilh, Véronique Daneault, Miriam H. Beauchamp, Annie Bernier
+Affiliation: 몬트리올 대학교 심리학과; CHU Sainte-Justine 연구센터
+Journal: Frontiers in Psychology
+Published: 2017년 12월
+DOI: 10.3389/fpsyg.2017.02141
+PMCID: PMC5733037
+ATLAS ID: AT-133
+Category: emotional_development / attachment / brain_morphology / longitudinal / fMRI
+
+=== 연구 개요 ===
+
+영아기 모-자 애착 안정성이 9년 후 아동기 후기(10-11세) 뇌 구조에 미치는 영향을 종단 설계로 검증한 첫 연구. 애착 안정성이 단순한 행동 변수가 아니라 뇌 구조(회백질 부피) 수준에서 물리적 흔적을 남긴다는 것을 실증했다.
+
+연구 설계:
+- 표본: N=33 (여아 20명, 남아 13명)
+- T1 (영아기): 15개월 (M=15.65개월)
+- T2 (아동기): 10-11세 (M=10.59세)
+- 추적 기간: 약 9년
+- 뇌 영상: 구조적 MRI (3T MAGNETOM Trio)
+
+=== 측정 도구 ===
+
+## 애착 안정성: AQS (Attachment Behavior Q-Sort)
+
+- Waters & Deane (1985) 개발
+- 방법: 70-90분 가정 방문 관찰
+- 점수: -1.0 (매우 불안정) ~ +1.0 (매우 안정)
+- 본 연구 범위: -0.28 ~ 0.75 (M=0.49, SD=0.26)
+- 신뢰도: ICC = 0.71
+
+AQS의 특징:
+- 낯선 상황 실험(SSP)과 달리 자연스러운 가정환경 관찰
+- 애착 "유형" 분류보다 "안정성 연속체" 측정
+- 이론 마음(Theory of Mind), 탐색 의지, 애착 행동 패턴 포함
+
+## 뇌 영상 분석
+
+VBM (복셀 기반 형태계량학):
+- 회백질 부피 측정
+- 통계: TFCE(Threshold-Free Cluster Enhancement) + FDR 보정 (p<0.05)
+
+SBM (표면 기반 형태계량학):
+- 피질 두께 측정
+
+통제 변수: 아동 나이, 성별, 사춘기 상태, 모성 교육 수준, 두개강 내 용적
+
+=== 핵심 연구 결과 ===
+
+## 회백질 부피(VBM): 영아기 애착 안정성↑ → 10-11세 측두엽 부피↑
+
+| 뇌 영역 | 위치 | Brodmann Area | TFCE 통계량 |
+|--------|------|--------------|-----------|
+| 상측두엽 설랑 (STG/STS) | 우반구 | BA 48/21 | 1122.72* |
+| 상측두엽 회 | 우반구 | BA 48 | 816.95 |
+| 측두-두정엽 결합부 (TPJ) | 우반구 | BA 21 | 744.62 |
+| 전중앙엽 | 양쪽 | BA 48 | 649.53 |
+| 상측두엽 설랑 | 좌반구 | BA 22 | 660.78 |
+
+* FWE (Family Wise Error) 보정에서도 유의미
+
+주목할 영역 — 상측두엽/TPJ의 기능:
+- 얼굴 인식, 안구 응시 감지, 생물학적 움직임 지각
+- 이론 마음(Theory of Mind): 타인의 의도·감정 이해
+- 공감 처리, 도덕적 추론
+- 과거·미래 사건 표상, 자아 표상
+
+## 피질 두께(SBM): 유의미한 관련 없음 (p>0.001, 미보정)
+
+=== 이론적 해석 ===
+
+왜 측두엽인가?
+
+경로 1: 정서 조절
+- 안정 애착 → 반복적 성공적 정서조절 경험
+- 상측두엽 = 부정 정서 하향 조절(down-regulate)에 활성화
+- 반복 활성화 → 구조적 발달 촉진
+
+경로 2: 내적 작동 모델(Internal Working Models)
+- 반응적 양육 → 긍정적 자기·타인 표상 형성
+- 상측두엽/TPJ = 자아 표상, 타인 표상 처리 담당
+- 안정 애착 → 이 영역 반복 사용 → 구조 발달
+
+경로 3: 사회 뇌 네트워크
+- 안정 애착 → 자신감 있는 사회적 상호작용 → 사회 뇌 네트워크 활성화
+- TPJ는 사회적 추론의 핵심 허브
+
+=== 학대 아동 연구와 비교 ===
+
+학대 경험 아동 선행 연구 (Teicher et al.):
+- 상·중측두엽 회백질 감소
+- 해마 용적 감소
+- 편도체 과민성
+
+이 연구의 의의:
+- 학대처럼 극단적 경험이 아닌 **정상 범위의 양육 품질 변화**도 뇌 구조에 영향
+- "학대 없어도 애착 질이 뇌를 바꾼다"
+
+=== 해마·편도체 결과 ===
+
+이 연구에서 해마·편도체 유의미한 결과 없음
+선행 연구들의 혼재 결과:
+- Luby et al. (2012, 2016): 모성 지지 → 해마 부피 ↑ (학령기)
+- Moutsiana et al. (2015): 불안정 애착 → 편도체 부피 ↑ (청년기)
+
+해석: 애착의 뇌 효과는 영역마다 발달 타임라인 다름
+
+=== 연구 제한점 ===
+
+1. 소규모 표본 (N=33) → 재검증 필요
+2. 인과 방향 불명확: 회백질 부피↑ → 안정 애착일 가능성도 있음
+3. AQS는 혼란 애착(disorganized attachment) 평가 불가
+4. 아버지 애착 미포함
+5. 단일 시점 뇌 영상 → 발달 궤적 미추적
+
+=== 양육 실천 시사점 ===
+
+1. "아기를 어떻게 대하느냐"가 문자 그대로 아이 뇌 구조를 바꾼다
+   - 1년 안에 형성된 애착 패턴이 9년 후 뇌 형태에 영향
+
+2. 사회 뇌(Social Brain) 발달이 핵심 투자 영역
+   - 측두엽/TPJ = 공감, 이론 마음, 사회적 추론의 물리적 기반
+   - 안정 애착 = 이 영역 발달의 가장 효율적 자극
+
+3. 반응적 양육의 장기 효과
+   - 즉각적 반응(아이가 울 때 반응)이 장기 사회 뇌 발달에 투자
+   - "아이를 너무 안아주면 버릇 나빠진다" = 신경과학적으로 틀림
+
+4. 채널2 콘텐츠 ★
+   - "안아주면 뇌가 바뀐다 — 9년 종단 MRI 연구"
+   - "애착이 아이의 공감 능력을 만드는 법"
+
+출처:
+- Leblanc, É. et al. (2017). Attachment Security in Infancy: Prospective Links to Brain Morphometry. Frontiers in Psychology. DOI: 10.3389/fpsyg.2017.02141
+- Bowlby, J. (1969/1982). Attachment and Loss, Vol. 1: Attachment. Basic Books.
+- Luby, J.L. et al. (2012). Maternal support in early childhood predicts larger hippocampal volumes at school age. PNAS, 109(8), 2854–2859.
+
+## 관련 문서
+- [[FI-168_selfrag_atlas]] — 공유 컨셉: 애착 안정성
+- [[FI-168_selfrag_atlas]] — 공유 컨셉: 종단 연구
+- [[FI-169_selfrag_atlas]] — 공유 컨셉: 애착 안정성
+- [[chunk_001]] — 공유 컨셉: 내적 작동 모델
+- [[chunk_1]] — 공유 컨셉: 애착 안정성
+- [[chunk_1]] — 공유 컨셉: 종단 연구
+- [[chunk_1]] — 공유 컨셉: 측두엽
+- [[공감 처리]] — 컨셉
+- [[내적 작동 모델]] — 컨셉
+- [[사회 뇌 네트워크]] — 컨셉
+- [[애착 안정성]] — 컨셉
+- [[이론 마음]] — 컨셉
+- [[자아 표상]] — 컨셉
+- [[종단 연구]] — 컨셉
+- [[측두엽]] — 컨셉
+- [[타인 표상]] — 컨셉
+- [[회백질 부피]] — 컨셉
+- [[AT-133_selfrag_atlas]] — 공유 엔티티: Élizabel Leblanc
+- [[GP-293_selfrag_atlas]] — 공유 엔티티: PNAS

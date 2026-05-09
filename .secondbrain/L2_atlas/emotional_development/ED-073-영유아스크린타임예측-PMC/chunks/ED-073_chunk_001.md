@@ -1,0 +1,128 @@
+<!-- chunk: 1/1 | age_range: 불명확 | chars: 7714 -->
+# Digital Media Exposure and Predictors for Screen Time in 12-Month-Old Children: A Cross-Sectional Analysis of Data From a German Birth Cohort
+
+**Authors:** Kira Durham; David Wethmar; Susanne Brandstetter; Birgit Seelbach-Göbel; Christian Apfelbacher; Michael Melter; Michael Kabesch; Sebastian Kerzel; The KUNO Kids Study Group
+
+**Affiliations:** Department of Pediatric Pneumology and Allergy, University Children's Hospital Regensburg; WECARE Research and Development Campus Regensburg; University Department of Obstetrics and Gynecology, Hospital St. Hedwig; Institute of Social Medicine and Health Systems Research, Otto von Guericke University Magdeburg
+
+**Journal:** Frontiers in Psychiatry
+
+**Published:** November 29, 2021
+
+**DOI:** 10.3389/fpsyt.2021.737178
+
+**PMC:** PMC8668323 | **PMID:** 34912248
+
+---
+
+**Background:** Early digital media exposure may affect physical and cognitive development in young children. The American Academy of Pediatrics and national guidelines recommend no digital media use under 18 months of age. This study determined actual digital media exposure in 12-month-old infants and identified potential risk factors for screen time.
+
+**Methods:** Data from the KUNO Kids birth cohort study (N=630 children). Parent-report questionnaires on media exposure, age at first contact with digital media, mean weekday screen time, and socioeconomic/demographic factors.
+
+**Results:** 45% of 12-month-old children had been exposed to digital media by their first birthday. Television (33.0%) and smartphones (16.9%) were the most frequent first exposures, typically around 8 months of age. On regular weekdays, 20% spent 0.5–1 hour before television and 9% before smartphones. **Significant predictors: having one sibling (OR=1.715), less living space per person (OR=0.567), and excessive household TV use (OR=1.631, doubled exposure likelihood).**
+
+**Conclusion:** Approximately 10% of 1-year-old children showed regular digital media exposure. Family TV time strongly predicted infant screen time. Parents require proactive counseling regarding developmental effects.
+
+---
+
+Digital media environments have expanded dramatically. Contemporary children encounter traditional electronic media (television) alongside interactive devices — tablets, smartphones, game consoles, PCs.
+
+The American Academy of Pediatrics and national guidelines recommend no electronic media use in children under 18 months, except video-chatting. For ages 2–5 years, less than one hour daily is advised. However, approximately one-third of European children aged 2–10 years fail to meet current recommendations.
+
+**Developmental mechanisms of harm:**
+- Activity displacement (reduced sleep, play, parent-child interaction)
+- Sleep is paramount for child development — increased daily screen time correlates with shorter nighttime sleep
+- Reduced physical activity
+- Decreased parent-child interaction
+
+Parental media use constitutes a pivotal predictor of child media consumption.
+
+---
+
+All pregnant women at the Obstetrics Department of the University of Regensburg in Bavaria, Germany received participation invitations. Study inclusion within 48 hours after delivery. Exclusion: inadequate German skills, outpatient delivery, maternal age below 18, twin families (only one child per family). Written informed consent. Ethics Committee approval: University of Regensburg (14-101-0347).
+
+Data for 630 children. Screen time questionnaires sent via mail shortly before child's first birthday (June 2015 – January 2019). 299 questionnaires returned >2 months after first birthday excluded.
+
+- Age at first contact with different digital media devices
+- Mean screen time on average weekdays (dichotomized: any vs. no screen time per AAP guidelines)
+- Household family TV time
+- Sociodemographic factors: child sex, siblings, mother's age, parental overweight, single-parent household, professional qualification, employment, nationality, housing density (m² per person), MacArthur Scale subjective social status
+
+Univariable and multivariable binary logistic regression (IBM SPSS Statistics Version 23).
+
+---
+
+- 49.7% female; 60.8% first-born
+- Mother's mean age: 34.7 years (SD: 4.0)
+- Predominantly German national parents (86.4%)
+- Medium to high professional qualification (98.0% mothers, 97.7% fathers)
+- Mean household size: 38.0 m² per person
+
+45% of 12-month-old children did not meet AAP guidelines (any screen time = non-compliance).
+
+**Devices at first exposure:**
+- Television: 33.0%
+- Smartphones: 16.9%
+- Tablets: 5.3%
+- Blu-ray/DVD/Video: 4.4%
+- Personal computers: 2.2%
+- Game consoles: 0.2%
+
+**Age at first exposure:** Mean ~7–9 months for TV, smartphone, tablet, PC (game consoles ~12 months)
+
+**Weekday screen time:**
+- 20% spent 0.5–1 hour watching TV
+- 9% spent time on smartphones
+- 31% engaged in joint parent-child media use (up to 0.5 hours)
+- 71.5% read books together with parents daily (up to 1 hour)
+
+Household television peaked at 1–2 hours daily (27%). Only 11% watched no TV on regular days.
+
+**Multivariable logistic regression results:**
+
+| Predictor | OR | 95% CI | p value |
+|---|---|---|---|
+| 1 sibling | **1.715** | 1.093–2.692 | **0.019** |
+| Living space (>median) | **0.567** | 0.375–0.857 | **0.007** |
+| Excessive family TV time (≥2-3 hrs/day) | **1.631** | 1.059–2.512 | **0.027** |
+
+Key finding: Family television time of 2–3 hours or more daily raised odds of infant screen time by **63%**. More living space per person (>median) indicated **43% decreased likelihood** of child screen time. Having one sibling increased screen time likelihood by **72%**.
+
+Mother's subjective social status showed protective tendency but narrowly missed significance in multivariable analysis (p=0.058, OR=0.853).
+
+---
+
+1. **Approximately half (45%) of 12-month-old German infants had been exposed to digital media** despite guidelines recommending none under 18 months
+2. **Television remains dominant device** though smartphones are emerging
+3. **Family TV time is strongest predictor**: excessive household viewing doubled infant screen time odds
+4. **Socioeconomic factors**: less living space associated with greater exposure; maternal social status showed protective trend
+5. **Sibling effect**: being second-born increased screen time likelihood by 72%
+
+- Common Sense Media (2017): 71% of American children under 2 exposed to TV
+- Singapore: 24% of infants up to 6 months had TV screen time, rising to 61% of 7–24-month-olds
+- German ULM SPATZ cohort: 58% of 3-year-olds watching TV/DVDs ≤1 hour daily (2014–2016)
+
+Young infants are at particular risk from activity displacement: reduced sleep and play by screen media is especially harmful to behavioral, physical, and cognitive development. Promoting adult-child reading time may serve as protective measure against excessive screen time.
+
+1. Selection bias: predominantly German national, high professional qualification sample
+2. Social desirability bias in parental self-reports
+3. Could not determine if infant exposure was active or passive/background
+4. Cross-sectional design: cannot determine causality
+5. Did not assess content or motivation of media use
+
+---
+
+1. Excessive family television time is a **major infant screen time predictor**
+2. Smaller living spaces and sibling presence are significant risk factors
+3. Approximately **10% of 1-year-olds already had regular daily digital media exposure** (up to 0.5 hours)
+4. Pediatric recommendations warrant reevaluation given actual digital media exposure occurring in infancy
+5. **Parents require proactive counseling** regarding possible developmental effects
+
+---
+
+*Frontiers in Psychiatry, 2021 Nov 29. DOI: 10.3389/fpsyt.2021.737178. PMC: PMC8668323.*
+## 관련 문서
+- [[ED-073_selfrag_atlas]] — 공유 엔티티: Frontiers in Psychiatry
+- [[FI-165_selfrag_atlas]] — 공유 엔티티: AAP
+- [[TT-279_selfrag_atlas]] — 공유 엔티티: ODD
+- [[TT-282_selfrag_atlas]] — 공유 엔티티: ODD

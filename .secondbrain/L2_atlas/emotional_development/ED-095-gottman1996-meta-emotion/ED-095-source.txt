@@ -1,0 +1,2218 @@
+Copyright 1996 by the American Psychological Association, Inc.
+O893-32O0/9OT3.OO
+
+Journal of Family Psychology
+1996, Vol. 10, No. 3, 243-268
+
+Parental Meta-Emotion Philosophy and the Emotional Life
+of Families: Theoretical Models and Preliminary Data
+John M. Gottman, Lynn Fainsilber Katz, and Carole Hooven
+University of Washington
+This article introduces the concepts of parental meta-emotion, which refers to parents'
+emotions about their own and their children's emotions, and meta-emotion philosophy,
+which refers to an organized set of thoughts and metaphors, a philosophy, and an
+approach to one's own emotions and to one's children's emotions. In the context of a
+longitudinal study beginning when the children were 5 years old and ending when they
+were 8 years old, a theoretical model and path analytic models are presented that relate
+parental meta-emotion philosophy to parenting, to child regulatory physiology, to
+emotion regulation abilities in the child, and to child outcomes in middle childhood.
+
+The importance of parenting practices for
+children's long-term psychological adjustment
+has been a central tenet in developmental and
+family psychology. In this article, we introduce
+a new concept of parenting that we call parental
+meta-emotion philosophy, which refers to an
+organized set of feelings and thoughts about
+one's own emotions and one's children's emotions. We use the term meta-emotion broadly to
+encompass both feelings and thoughts about
+emotion, rather than in the more narrow sense
+of one's feelings about feelings (e.g., feeling
+guilty about being angry). The notion we have
+in mind parallels metacognition, which refers to
+the executive functions of cognition (Allen &
+Armour, 1993; Bvinelli, 1993; Flavell, 1979;
+Fodor, 1992; Olson & Astington, 1993). In an
+analogous manner, meta-emotion philosophy
+
+refers to executive functions of emotion. In this
+article, we discuss the evolution of the metaemotion construct and describe its relationship
+to various aspects of family and child functioning. We present a parsimonious theoretical
+model of the role of parental meta-emotions in
+children's emotional development, operationalize this model, and present some path analytic
+tests of the model. In this model, we argue (a)
+that parental meta-emotion philosophy is related to both the inhibition of parental negative
+affect and the facilitation of positive parenting;
+(b) that it directly affects children's regulatory
+physiology; and (c) that this, in turn, affects
+children's ability to regulate their emotions—
+hence, parental meta-emotion philosophy has an
+impact on a variety of child outcomes.
+Background
+
+John M. Gottman, Lynn Fainsilber Katz, and Carole Hooven, Department of Psychology, University
+of Washington.
+The research of this article was supported by National Institute of Mental Health (NIMH) Research
+Grants MH42484 and MH35997, by an NIMH Merit
+Award to extend research in time, and by Research
+Scientist Award K2MH00257.
+This research received a great deal of support from
+Michael Guralnick, director of the Center for Human
+Developmental Disabilities (CHDD), and CHDD's
+core facilities, particularly the Instrument Development Laboratory at the University of Washington.
+Correspondence concerning this article should be
+addressed to John M. Gottman, Department of Psychology, Box 351525, University of Washington,
+Seattle, Washington 98115.
+
+The Concept of Meta-Emotion
+Research in developmental psychology on the
+effects of parenting has focused on parental
+affect and discipline, selecting variables such as
+warmth, control, authoritarian or authoritative
+styles, and responsiveness (see Ainsworth, Bell,
+& Stayton, 1971; Baumrind, 1967, 1971;
+Becker, 1964; Cohn, Cowan, Cowan, & Pearson, 1992; C. P. Cowan & P. A. Cowan, 1992;
+Maccoby & Martin, 1983; Patterson, 1982; and
+Schaefer, 1959). Little attention has been placed
+on examining the parents' feelings and cognitions about their own affect or their feelings and
+cognitions about their child's affect.
+
+243
+
+244
+
+GOTTMAN, KATZ, AND HOOVEN
+
+Our review of popular parenting guides also
+revealed that the overwhelming majority of
+these parenting guides are based on obtaining
+and maintaining child discipline. However, one
+genre of parenting guides focuses on children's
+emotions and on how to make immediate and
+everyday emotional connections with a child
+that are not critical and contemptuous, but accepting. These kinds of parenting guides can be
+traced to the seminal influence of one child
+psychologist: Haim Ginott (Ginott, 1956, 1971,
+1975). Although many psychological systems
+of thought (e.g., attachment theory, psychoanalysis) have written about the importance of the
+child's affect, Redl (1966) and Ginott both emphasized intervening with a child's strong negative emotions while the child is having the
+emotions. They also emphasized intervening directly, dealing with the child's conscious
+thoughts and actions. This difference was so
+important, in our view, that it amounted to a
+revolution in "how one deals with children," to
+use Redl's (1966) words.
+
+An Emotion-Coaching Meta-Emotion
+Philosophy
+
+Our initial interest was in this concept of
+parents' awareness of their children's emotional
+lives and their attempts to make emotional connections with their children. This interest led to
+the development of our meta-emotion interview
+(Katz & Gottman, 1986). All the parents were
+separately interviewed about their own experience of sadness and anger, their philosophy
+of emotional expression and control, and their
+attitudes and behavior about their children's
+anger and sadness. In our pilot work, we discovered a great variety in the emotions, experiences, philosophies, and attitudes that parents
+had about their own emotions and the emotions
+of their children. For example, one pair of parents said that they viewed anger as "from the
+devil," and that they would not permit themselves or their children to express anger. Some
+parents were accepting of sadness and anger but
+did not engage in problem solving with their
+child. Other parents were not disapproving of
+anger but, instead, in laissez-fairre fashion, ignored anger in their children. Still other parents
+encouraged the expression and exploration of
+anger. There was similar variation with respect
+to sadness. Some parents minimized sadness in
+themselves and in their children, saying such
+things as, "I can't afford to be sad," or "What
+does a child have to be sad about?" Other parents thought that emotions like sadness in their
+children were opportunities for intimacy, that
+
+In our pilot work, we noticed that there are
+some parents who are aware of the emotions in
+their lives (particularly the negative emotions),
+who can talk about those emotions in a differentiated manner, who are aware of these emotions in their children, and who assist their
+children with their emotions of anger and sadness, acting like an emotion coach. This is a
+parental meta-emotion philosophy we call an
+emotion-coaching philosophy. We found that an
+emotion-coaching meta-emotion philosophy
+had five components: parents (a) said that they
+were aware of low intensity emotions in themselves and in their children; (b) viewed the
+child's negative emotion as an opportunity for
+intimacy or teaching; (c) validated their child's
+emotion; (d) assisted the child in verbally labeling the child's emotions; and (e) problem solved
+with the child, setting behavioral limits, and
+discussing goals and strategies for dealing with
+the situation that led to the negative emotion.
+We hypothesized that these parents have a
+greater ability than other parents to maneuver in
+the world of emotions, that they are more comfortable with the world of emotions, and that
+they are better able to regulate emotions. We
+expected them to be more affectionate with their
+children and less autocratic than other parents.
+However, it was our observation that an
+emotion-coaching meta-emotion philosophy
+was different from parental warmth, and we
+
+sadness was important information that something was missing in one's life.
+This area of meta-emotion is probably characterized by great variability even in laboratory
+experiments that elicit emotions. Researchers
+have reported large variability in results from
+laboratory experiments designed to elicit emotion, such as the startle response. Ekman,
+Friesen, and Simons (1985) reported a consistent set of responses across participants to being
+startled, but there were huge individual differences in the emotional response to having been
+startled, that is, in people's meta-emotions to
+the startle; Levenson and Sutton (personal communication, June 15, 1994) reported a similar
+set of results. Meta-emotion may be a pervasive
+and understudied dimension in emotion research.
+
+META-EMOTION
+tested this notion in the current study. Very
+concerned, generally positive and warm parents
+can be oblivious to the world of emotion, and an
+emotion-coaching meta-emotion philosophy is
+something additional that these parents bring to
+their roles as parents. Perhaps warmth and limit
+setting are correlated with these meta-emotion
+variables, but we think that they are not the
+same dimensions of parenting.
+In contrast, we found that a dismissing metaemotion philosophy was one in which parents
+felt that the child's sadness or anger were potentially harmful to the child, that it was the
+parents' job to change these toxic negative emotions as quickly as possible, that the child
+needed to realize that these negative emotions
+would not last and were not very important, and
+that it was the parent's job to convey to the child
+a sense that he or she could ride out these
+negative emotions without damage. We found
+that emotion-dismissing families could be sensitive to their children's feelings and wanted to
+be helpful, but their approach to sadness, for
+example, was to ignore or deny it as much as
+possible. Often they perceived a child's strong
+emotion as a demand that they fix everything
+and make it better. These parents hoped that the
+dismissing strategy would make the emotion go
+away quickly. They often conveyed a sense that
+the child's emotion was something they may
+have been forced to deal with, but it was not
+interesting or worthy of attention in itself. They
+described sadness as something to get over, ride
+out, but look beyond and not dwell on. They
+often used distractions when their child was sad
+to move the child along, and they even used
+comfort, but within specified time limits, as if
+they were impatient with the negative emotion
+itself. They preferred a happy child and often
+found these negative states in their child quite
+painful. They did not present an insightful description of their child's emotional experience
+and did not help the child with problem solving.
+They did not see the emotion as beneficial or as
+any kind of opportunity, either for intimacy or
+for teaching. Many dismissing families saw
+their child's anger (without misbehavior) as
+enough cause for punishment or a Time Out.
+It is important to point out that the term
+meta-emotion is being used in its broadest
+sense. Metacommunication is communication
+about communication, and metacognition is
+cognition about cognition. Meta-emotion in the
+narrow sense might refer to emotions about
+
+245
+
+emotion; for example, we might only be studying how parents feel about getting angry at their
+children (e.g., feel guilty about getting angry).
+However, we use the term broadly to encompass feelings and thoughts about emotion. As
+the examples just provided suggest, the construct being tapped involves parents' feelings
+and thoughts about their own and their children's emotions, their responses to their child's
+emotions, and their reasoning about these responses (i.e., what the parent is trying to teach
+the child when responding to the child's anger).
+This broader construct indexes a fundamental
+attitude or approach to emotion. For some people, emotions are a welcome and enriching part
+of their lives; they believe, in a fundamental
+way, that it is OK to have feelings. However,
+for other people, emotions are to be avoided and
+minimized; the world of negative emotions is
+seen as dangerous (see Appendix).
+
+Meta-Emotion and Parenting
+From a theoretical standpoint, we think our
+measures of parental meta-emotion philosophy
+are embedded within a web of measures that tap
+parent-child interaction. We expect that parents' meta-emotion philosophy is not independent of their parenting. Hence, in our theoretical
+model, we include meta-emotion variables
+along with parenting variables. It is our view
+that we need to be specific about our description
+of parenting; for heuristic purposes (within the
+restricted range of families in our samples), we
+discuss three dimensions of parenting behaviors.
+First, we started with everyday, mundane
+negativity. Inherent in the literature on parenting is the idea that small things in everyday
+parenting can be quite harmful for children (or
+serve as indexes of more harmful types of parenting), akin to what J. Reid has called "nattering" (see Patterson, 1982). Ginott (1965) wrote
+strongly about this in his discussion of the importance of (a) understanding and validating the
+child's emotions and (b) avoiding contempt and
+disapproval. Thus, in our measurement of this
+negativity in our laboratory-based parent-child
+interactions, we included three variables: parental intrusiveness, criticism, and mockery. We
+call this type of parenting derogatory. In a
+teaching task, as some of the parents in our
+laboratory instructed their children, they mixed
+
+246
+
+GOTTMAN, KATZ, AND HOOVEN
+
+in a blend of frustration, taking over for the
+child as soon as the child had trouble with the
+task (which we call intrusiveness), using criticism and derisive humor (mockery, humiliation,
+belittlement of the child). We think that this
+dimension of parenting represents the microsocial processes characteristic of parental rejection (e.g., Whitbeck, Hoyt, Simons, & Conger,
+1992).
+Next, we also wished to measure two kinds of
+positive parenting. The first is the kind of
+warmth that Baumrind (1967, 1971) and others
+described: We refer to this dimension of positive parenting as warmth. Following C. P.
+Cowan and P. A. Cowan (1992), we include in
+this dimension of warmth co-warmth, which
+includes warmth between parents while interacting with the child. Our second dimension of
+positive parenting involves a positive structuring, responsive, enthusiastic, engaged, and affectionate parenting during the teaching task in
+our laboratory. This type of positive parental
+response goes beyond warmth. It includes the
+responsive style that attachment theorists have
+identified, but it is more complex than that. We
+call it scaffolding-praising (on the general scaffolding concept, see Choi, 1993; Kirchner,
+1991; Pratt, Kerig, Cowan, & Cowan, 1988; and
+Vygotsky, 1987). From watching and coding
+the videotapes, we noticed that this is a dimension quite different from Baumrind's authoritative parenting. Parents high on the scaffoldingpraising dimension provided structure for the
+task, stating the goals and procedures of the
+game simply, in a relaxed manner, and with low
+information density; they then waited for their
+child to act and commented primarily when the
+child did something right, acting like a cheering
+section at a football game, giving praise and
+approval. Parents low on this scaffolding-praising dimension either provided little structure for
+the learning situation for their children, or they
+gave information rapidly, with high density, and
+enthusiastically, appearing to excite and confuse the child; such parents then waited to comment until their child had made a mistake.
+These parents were then usually critical of the
+child's performance.
+Are the concepts of meta-emotion and emotion coaching simply subdimensions of positive
+parenting? We think not; we think that they add
+to current concepts in the parenting literature
+and are more general. Emotion coaching is one
+reason why the parenting advice literature is, in
+
+our view, far richer than the parenting research
+literature. For example, what would we predict
+that an authoritative parent would do (or recommend that he or she should do) when his or
+her child has just had a nightmare? Being warm
+and structuring provides no real guidelines.
+Emotion coaching does provide these guidelines.
+What is the expected relationship between
+meta-emotion and the derogation, warmth, and
+scaffolding-praising dimensions? When we began this study, we had two working hypotheses.
+The first hypothesis was that a coaching metaemotion philosophy might be nested within a
+web of positive parenting. We proposed that an
+emotion-coaching meta-emotion philosophy entails parenting that goes a step beyond the idea
+of warmth; that is, we suggested that it entails
+scaffolding-praising parenting. The second hypothesis was that meta-emotion performs its
+major function by inhibiting parental derogation; in particular, as Ginott (1965) noted, we
+proposed that understanding and validating the
+child's emotions serves to avoid criticism, contempt, and disapproval of the child. Most of the
+examples from Ginott's books had to do with
+the importance of emotion coaching in avoiding
+escalating negativity, frustration, disapproval,
+and emotional distance between parents and
+children. It appears to have been first suggested
+foremost as a mechanism for obtaining extensive relief from spiraling negativity: Perhaps
+validating the child's affect serves as an opponent process to derogation. Hence, it was entirely reasonable to hypothesize that the major
+effect of a coaching meta-emotion philosophy
+would be inhibiting parental negativity and that
+it might have no effect on positive parenting.
+
+Meta-Emotion and the Development of
+Emotion Regulation Abilities
+Precisely how do we think that metaemotions affect the functioning of families and
+act to affect child outcomes? What do we propose as the mechanism? We are particularly
+drawn to theories that attempt to integrate behavior and physiology, and our theorizing is
+oriented toward approaches that have emphasized the importance of (a) the development of
+children's abilities in the regulation of emotion
+(Garber & Dodge, 1991) and (b) the development of children's abilities to self-soothe strong
+
+META-EMOTION
+
+and potentially disruptive emotional states
+(Dunn, 1977), focus attention, and organize
+themselves for coordinated action in the service
+of some goal. We think that these general sets of
+abilities underlie the development of other competencies. We are especially interested in children's peer social skills, particularly because of
+their predictive validity (Parker & Asher, 1987).
+Central peer social competencies include the
+ability to resolve conflict, to find a sustained
+common ground play activity, to compromise in
+play, and to empathize with a peer in distress
+(e.g., see Asher & Coie, 1990; Gottman, 1983;
+Gottman & Parker, 1986).
+We suggest that fundamental to these abilities
+is the ability to soothe one's self physiologically
+and to focus attention. These abilities underlie
+being able to listen to what one's playmate is
+saying, being able to take another's role and
+empathize, and being able to engage in social
+problem solving. They involve the child knowing something about the world of emotion, both
+his or her own and others'. We propose that this
+knowledge arises only out of emotional connection being important in the home. In the following section, we briefly review our reasons for
+measuring child physiology as related to the
+construct of emotion regulation.
+
+Regulatory Physiology1
+We used Porges' (1984) suggestion that there
+may be a physiological basis for the ability to
+regulate emotion. To explain his notions, we
+discuss two concepts related to the child's parasympathetic nervous system (PNS) physiology.
+The major nerve of the PNS is called the vagus
+nerve. The vagus nerve (so called because it is
+the vagabond nerve that travels throughout the
+body, innervating the viscera) is the X-th cranial
+nerve. The tonic firing of the vagus nerve slows
+down many physiological processes, such as the
+heart rate. Research by Porges and his colleagues on the PNS has indicated a strong association between high vagal tone and good
+attentional abilities, and there is speculation that
+these processes are related to emotion regulation abilities. Porges (1992) reviewed evidence
+that suggests that a child's baseline vagal tone is
+related to the child's capacity to react to environmental stimuli. There is a substantial body of
+literature showing that basal vagal tone is related to both greater behavioral reactivity and
+
+247
+
+greater soothability; it is also related to greater
+ability to focus attention and greater ability to
+self-soothe and explore novel stimuli (DiPietro
+& Porges, 1991; Fox, 1989; Hofheimer & Lawson, 1988; Huffman, Bryan, Pederson, &
+Porges, 1988; Linnemeyer & Porges, 1986; Porter, Porges, & Marshall, 1988; Richards, 1985,
+1987; Stifter & Fox, 1990; Stifter, Fox, &
+Porges, 1989).
+There is also another dimension of vagal tone
+that needs to be considered, namely, the ability
+to suppress vagal tone. In general, vagal tone is
+suppressed during states that require focused or
+sustained attention, mental effort, attention to
+relevant information, emotional interaction, and
+organized responses to stress. Thus, the child's
+ability to perform a transitory suppression of
+vagal tone in response to environmental (and
+particularly emotional) demands is another index that needs to be added to the child regulatory physiology construct.2 It relates to the likelihood of approach rather than withdrawal;
+some infants with a high vagal tone who were
+unable to suppress vagal tone in attentiondemanding tasks exhibited other regulatory disorders (e.g., sleep disorders; Huffman, Bryan,
+Pederson, & Porges, 1992; Porges, Walter,
+Korb, & Sprague, 1975). Porges, DoussardRoosevelt, and Portales (1992) found that
+9-month-old infants who had lower baseline
+vagal tone and less vagal tone suppression during the Bailey examination had the greatest
+behavioral problems at 3 years of age, as measured by the Achenbach and Edelbrock (1986)
+Child Behavior Checklist. Measures of infant
+1
+We did not include the sympathetic portion of the
+child's physiology in our modeling. However, we did
+find that the child's concentration of adrenaline in the
+24-hr urine sample at age 5 correlated (r = 0.39, p <
+.001) with the child's illness at age 8.
+2
+We hypothesize that basal vagal tone is related to
+the child's ability to sustain attention, whereas the
+ability to suppress vagal tone is related to the child's
+ability to shift attention when that is called for.
+Porges and Doussard-Roosevelt (in press) pointed
+out that one must be cautious about expecting the
+suppression of vagal tone to always be the appropriate vagal response to external demands. In the neonatal intensive care unit, the appropriate response to
+gavage feeding turned out to be increases in vagal
+tone, consistent with the support of digestive processes (DiPietro & Porges, 1991). Premature infants
+who increased vagal tone during gavage feeding had
+significantly shorter hospitalizations.
+
+248
+
+GOTTMAN, KATZ, AND HOOVEN
+
+temperament derived from maternal reports
+(Bates, 1980) were not related to the 3-year
+outcome measures.3
+
+The Theoretical Challenge in Predicting
+Peer Social Competence in Middle
+Childhood From Emotion-Coaching
+Interactions
+A major goal of our research was to predict
+peer social relations in middle childhood from
+variables descriptive of the family's emotional
+life in preschool. It is now well known that the
+ability to interact successfully with peers and to
+form lasting peer relationships are important
+developmental tasks. Children who fail at these
+tasks, especially in the making of friends, are at
+risk for a number of later problems (Parker &
+Asher, 1987). The peer context presents new
+opportunities and formidable challenges to children. Interacting with peers provides opportunities to learn about more egalitarian relationships, to form friendships with agemates, to
+negotiate conflicts, to engage in cooperative and
+competitive activities, and to learn appropriate
+limits for aggressive impulses. On the other
+hand, children are typically less supportive than
+caregivers when their peers fail at these tasks. In
+our research, we have found that the quality of
+the child's peer relationships forms an important class of child outcome measures.
+We should explain what the theoretical challenge is in predicting peer social relations across
+these two major developmental periods, from
+preschool to middle childhood. Major changes
+occur in peer relations in middle childhood.
+Children become aware of a much wider social
+network than the dyad. In preschool, children
+are rarely capable of sustaining play with more
+than one other child (e.g., see Corsaro, 1979,
+1981). However, in middle childhood, children
+become aware of peer norms for social acceptance, and teasing and avoiding embarrassment
+suddenly emerge (see Gottman & Parker,
+1986). Children become aware of clique structures and of influence patterns as well as social
+acceptance. The correlates of peer acceptance
+and rejection change dramatically, particularly
+with respect to the expression of emotion. One
+of the most interesting changes is that the socially competent response to a number of salient
+social situations, such as peer entry and teasing,
+is to be a good observer who is somewhat wary,
+
+"cool," and emotionally unflappable (see Gottman & Parker, 1986). It is well known that the
+worst thing a middle-childhood child can do
+when entering a group of peers is to start talking
+about his or her own feelings as parents and
+children do in an emotion-coaching interaction.
+Thus, the basic elements and skills a child
+learns through emotion coaching (labeling, expressing one's feelings, talking about one's
+feelings, and drawing attention to one's self)
+become liabilities in the peer social world in
+middle childhood. Therefore, the basic model
+linking emotion coaching in preschool to peer
+relations in middle childhood cannot be a simple isomorphic transfer of social skills model.
+Instead, it becomes necessary to identify a
+mechanism that makes it possible for the child
+to learn something in the preschool period that
+underlies the development of appropriate social
+skills across this major developmental shift in
+what constitutes social competence with peers,
+the development in the child of what Salovey &
+Mayer (1990) and Goleman (1995) called
+"emotional intelligence," a kind of "social
+moxie." A number of researchers are addressing
+concepts related to this idea of the child's developing social intelligence, such as the child's
+developing ability to cope with stress (Saarni,
+1993), the child's emotional competence (Denham, Renwick, & Hewes, 1994), the child's
+developing empathy (Eisenberg & Fabes, 1990;
+Eisenberg & Strayer, 1987), the child's developing social understanding (Denham, Zoller, &
+Couchoud, 1994; Dunn & Brown, 1994), the
+child's developing social and emotional competence and regulation as well as the child's developing theory of social mind (Casey & Fuller,
+1994; Fox, 1994; Harris & Kavanaugh, 1993;
+Thompson, 1991), and the child's ability to
+recognize emotional expressions (Cassidy,
+Parke, & Butkovsky, 1992; Walden, 1988).
+
+3
+
+Time 1 and Time 2 down regulation scales correlated 0.41, p = .003. The Time 1 down regulation
+scale was unrelated to awareness and coaching, but it
+correlated .31 (p = .020) with derogation, .44 (p =
+.004) with Time 2 child negative affect, and 0.59
+(p < .001) with Time 2 teacher ratings of negative
+peer relations. It was unrelated to scaffoldingpraising parenting, to basal vagal tone, or to suppression of vagal tone.
+
+249
+
+META-EMOTION
+
+The Theoretical Model: Hypotheses About
+Meta-Emotion, Parenting, Regulatory
+Physiology, and Child Outcomes
+In building our theoretical model, we sought
+to explain how meta-emotion philosophy might
+be related to a variety of child outcomes. The
+theoretical model is depicted in Figure 1. Given
+the hypothesized effects of parental metaemotion philosophy on parenting skills, we expected that some effects would occur through
+parenting practices. To be specific, we hypothesized that the emotion-coaching meta-emotion
+philosophy would be related to scaffoldingpraising and to the inhibition of parental derogation. We also expected meta-emotion philosophy, high scaffolding-praising, and low
+derogation to be related to superior emotion
+regulation abilities (as indexed by PNS functioning and parental report). We also asked
+whether effects between child physiology and
+emotion coaching were bidirectional and
+whether our effects varied with child temperament. One concern with these results was
+whether parents were coaching their children
+differentially as a function of the children's
+temperament.
+We also proposed that there would be a relationship between the parents' meta-emotion
+coaching philosophy and a variety of child outcomes. We hypothesized that a parental metaemotion coaching philosophy would be related
+to the child's developing social competence
+with other children. We expected that the
+child's peer social competence would hold in
+the inhibition of negative affect (Guralnick,
+
+1981), particularly negativity such as aggression, whining, oppositional behavior, fighting
+requiring parental intervention, sadness, and
+anxiety with peers. We also expected that an
+emotion-coaching meta-emotion philosophy
+would predict the development of superior cognitive skills of the child (through superior vagal
+tone and greater ability to focus attention). We
+predicted that the relationship between the parents' meta-emotion philosophy and the child's
+achievement at age 8 years would hold over and
+above preschool measures of intelligence. Thus,
+we predicted that two preschool children of
+equal intelligence would differ, in part, in their
+ultimate achievement in school as a function of
+the parents' meta-emotion philosophy. Finally,
+we examined the child's physical health as an
+outcome variable. Because the vagus innervates
+the thymus gland (Bulloch & Moore, 1981;
+Bulloch & Pomerantz, 1984; Magni, Bruschi, &
+Kasti, 1987; Nance, Hopkins, & Bieger, 1987),
+a central part of the immune system that is
+involved in the production of T-cells, we also
+expected that basal vagal tone would be related
+to better child physical health. The path models
+also tested direct effects of meta-emotion,
+which are theoretically unexplained by the
+model.
+We recognize that our correlational studies
+could not provide us with a causal understanding of the theoretical pathways we proposed.
+However, we expected the correlational data to
+yield results consistent with or disconfirming
+these causal models, thereby suggesting some
+directions for future research.
+
+Direct Pathway
+
+Child Outcomes
+
+A
+
+Child Emotion
+Regulation Abilities
+
+Figure I.
+
+Summary model for how parental meta-emotion might influence child outcomes.
+
+250
+
+GOTTMAN, KATZ, AND HOOVEN
+
+Method
+An abbreviated set of procedures is presented in
+this article in the interests of conserving space. See
+Gottman and Katz (1989) and Katz and Gottman
+(1993) for more detail.
+
+Participants
+Fifty-six normal families were recruited from the
+Champaign-Urbana, Illinois, community for this
+study; 24 of the families had a male and 32 a female
+4- to 5-year-old child. We used a telephone version of
+the Locke-Wallace marital satisfaction scale
+(Krokoff, 1984) to ensure that our study included
+couples with wide range of marital satisfaction levels.
+The mean marital satisfaction score was 111.1 (SD =
+29.6). Three years later, we recontacted 53 of the 56
+families (94.6% of the original sample).
+
+Procedure
+The procedure involved laboratory sessions and
+home interviews for both parents and children. We
+used a combination of naturalistic interaction, highly
+structured tasks, and semistructured interviews.
+Home and laboratory visits consisted of two home
+visits-one with the marital couple and one with the
+child—and three laboratory visits—one with the couple only, one with the couple and their 4 to 5-year-old
+child, and one with the child alone. Families were
+seen at Time 1, when children were 4-5 years old,
+and again three years later at Time 2, when children
+were on average 8 years old.
+
+Time 1
+Assessment
+Meta-emotion interview. All parents were separately interviewed about their own experience of sadness and anger; their philosophy of emotional expression and control; and their feelings, attitudes, and
+behavior about their children's anger and sadness
+(Katz & Gottman, 1986). Their behavior during this
+interview was audiotaped. A script for this semistructured interview is available from John M. Gottman or
+Lynn Fainsilber Katz.
+Parent- child interaction. The parent- child interaction session consisted of a modification of two
+procedures used by P. A. Cowan and C. P. Cowan
+(1987). In the first task, parents were asked to obtain
+information from their child. The parents were informed that the child had heard a story, and they were
+asked to find out what the story was. The story that
+the children heard did not follow normal story grammar and was read in a monotone voice; thus, the story
+
+was only mildly interesting for the children and hard
+to recall. The second task involved teaching the child
+how to play an Atari game that the parents had
+learned to play while the child was hearing the story.
+The interaction lasted 10 min.
+Children's film viewing. During a second visit to
+the laboratory, children were shown segments of
+emotion-eliciting films. Our main interest was to
+obtain indexes of physiological activity during emotional and nonemotional events. Each film clip was
+preceded by a neutral story and an emotion induction
+film clip of an actress who acted out the emotions of
+the protagonist in the upcoming story. The function
+of the emotion induction was to direct the child to
+identify with the protagonist and experience the specific emotion in question. Although each film clip
+was designed to elicit a specific emotion, the emotion
+elicitation was not very successful; instead, we obtained a range of facial expressions of emotion during
+in each film. Hence, we refer to the films by their
+titles instead of by the emotion they were intended to
+induce. The child viewed clips from six films: (a) Fly
+fishing; (b) Wizard ofOz (Leroy & Flemming, 1939),
+flying monkey scene; (c) Charlotte's Web (Barbara,
+Nicolas, & Takamoto, 1973), Charlotte dies; (d)
+Meaning of Life (Goldstone & Gilliam, 1983), restaurant scene; (e) Wizard of Oz, taking Toto away;
+and (f) Daisy (Alcroft & Mitton, 1984).
+Child's physiological functioning. We assessed
+the following physiological variables from the child
+under baseline conditions, during parent-child interaction, and during film-viewing:
+1. Cardiac interbeat interval (IBI). This measure
+was determined by measuring the time interval between successive spikes (R-waves) of the electrocardiogram (EKG).
+2. Pulse transmission time to the finger (PTT-F).
+This was a measure of the elapsed time between the
+R-wave of the EKG and the arrival of the pulse wave
+at the finger.
+3. Finger pulse amplitude (FPA). This was an
+estimate of the relative volume of blood reaching the
+finger on each heart beat.
+4. Skin conductance level (SCL). This measure
+was sensitive to changes in levels of sweat in the
+eccrine sweat glands located in the hand.
+5. General somatic activity (ACT). To measure
+somatic activity, the participant's chair was mounted
+on a platform that was coupled to a rigid base in such
+a way as to allow an imperceptible amount of flexing.
+Child intelligence. The Wechsler Preschool
+Scales of Intelligence (WPPSI; Wechsler, 1974)
+Block Design, Picture Completion, and Information
+subscales were administered to each child.
+
+Measure and Coding
+Meta-emotion coding system. The audiotapes of
+the meta-emotion interview were coded using a spe-
+
+META-EMOTION
+cific checklist rating system that codes for parents'
+awareness of their own anger and sadness, their own
+regulation of anger and sadness, and their acceptance
+and assistance (coaching) with their child's anger and
+sadness (Hooven, 1994). For each dimension, the
+coding manual was quite detailed and specific. The
+Awareness score was a sum of 12 subscales: experiencing the emotion; being able to distinguish the
+emotion from others; having various experiences
+with the emotion; being descriptive of the experience
+of the emotion; being descriptive of the physical
+sensations connected with this emotion; being descriptive of the cognitive processes connected with
+this emotion; providing a descriptive anecdote;
+knowing the causes of the emotion; being aware of
+remediation processes; answering questions about the
+emotion easily, without hesitation or confusion; talking at length about this emotion; and showing interest
+or excitement about this emotion. Coaching was a
+sum of 11 scales: showing respect for the child's
+experience of the emotion, talking about the situation
+and the emotion when the child is upset, intervening
+in situations that give rise to the emotion, comforting
+the child, teaching the child rules for appropriate
+expression of the emotion, educating the child about
+the nature of this emotion, teaching the child strategies to soothe the child's own emotion, being involved in the child's experience of the emotion, feeling confident about how to deal with this emotion,
+having given thought and energy to the emotion and
+what one wants the child to know about this emotion
+(goals), and using strategies that are age and situation
+appropriate. Because coders used rating scales, the
+appropriate statistics to use for computing interrater
+reliability were correlations between independent observers for each scale, rather than Cohen's kappa,
+which is appropriate for categorical data. The range
+of interobserver reliabilities for the awareness and
+coaching scales was 0.73 to 0.86.
+Observational coding of parent-child interaction.
+Parenting was coded using the Cowans' Observational System, the Kahen Engagement Coding System (KECS), and the Kahen Affect Coding Systems
+(KACS; Gottman, in press). The KECS consists of
+seven parental engagement codes, including three
+positive, three negative, and one neutral code. The
+three Kahen positive engagement codes are as follows: (a) Engaged, which consisted of parental attention toward the child; (b) Positive Directiveness, in
+which parents issued a directive statement that began
+in a positive way (e.g., "move to your right"); and (c)
+Responds to Child's Needs, in which parents responded to a child's question or complaint. The three
+negative engagement codes are as follows: (a) Disengaged, in which parents were not attending to the
+child; (b) Negative Directiveness, in which parents
+issued a directive statement that began in a negative
+way (e.g., "Don't move around so much"); and (c)
+
+251
+
+Intrusiveness, which involved physical interference
+with the child's actions (e.g., grabbing the joy stick).
+The KACS also consists of seven parental affect
+codes. The three positive affect codes are as follows:
+(a) Affection, which consisted of praise and physical
+affection; (b) Enthusiasm, which was coded as praising and excitement at the child's performance; and
+(c) Humor, which involved parental laughter or joking. The three negative affect codes are as follows:
+(a) Criticism, which involved direct disparaging
+comments or put-downs of the child's behavior or
+performance; (b) Anger, in which parents were visibly frustrated by the child's actions or demonstrated
+disappointment, annoyance, or irritation toward the
+child; (c) Derisive Humor, in which parents used
+humor at the child's expense (e.g., through sarcasm
+or by making fun of the child).
+Parent-child interaction was coded continuously in
+real time with coding synchronized to the original
+parent-child interaction. The total number of times
+each variable occurred in the 10-min parent-child
+interaction session was recorded and totals across
+time were calculated for each of the 14 parent-child
+interaction variables. This index was therefore an
+estimate of the frequency of the parenting behavior
+within a 10-min period. Independent observers coded
+mothers and fathers. Engagement and affect dimensions were also coded by independent observers.
+Reliability was calculated across coders using a correlation coefficient. Because total number of seconds
+within each parent code was the variable computed
+and used in all data analyses, the appropriate reliability statistic was a correlation coefficient, rather than
+Cohen's kappa or percentage agreement. For the
+KECS, the mean correlation was .96, with a range of
+.86 to .99; for the KACS, the mean correlation was
+.93, with a range of .84 to .97. We computed the sum
+of derisive humor, intrusiveness, and criticism for
+both parents to form our derogation variable. The
+Kahen systems were also used to measure the
+scaffolding-praising dimension, which consisted of
+parental affection, engagement, positive structuring,
+responsiveness, and enthusiasm; we computed the
+sum of these variables across parents. Although it is
+certainly reasonable to expect to find differential
+effects of mothers and fathers on children and we
+have evidence that maternal and paternal parenting
+were uncorrelated (the correlation between mother
+and father derogation was .21 and was .12 between
+mother and father scaffolding-praising), we summed
+across parents* scores for the sake of economy. The
+scaffolding-praising dimension differs from Baumrind's authoritative parenting in that it includes a
+responsive and enthusiastic parenting style; in the
+teaching task, this was reflected in parents' (a) effectively structuring and scaffolding the child's learning
+and (b) generally waiting until the child did something right and men praising enthusiastically, rather
+
+252
+
+GOTTMAN, KATZ, AND HOOVEN
+
+than waiting until the child made a mistake and then
+being critical.
+The parents' behavior during the parent-child interaction was also coded using P. A. Cowan and C. P.
+Cowan's (1987) coding system. This coding system
+codes parents behavior on dimensions of warmthcoldness, presence or lack of structure and limit setting, whether or not parents back down when their
+child is noncompliant, anger and displeasure, unresponsiveness or responsiveness, and whether or not
+parents make maturity demands of their child. The
+behavior of parents toward each other during their
+interactions with their child (their coparenting) was
+also coded on dimensions of warmth, cooperation or
+competition, anger, disagreement, responsiveness,
+pleasure in coparenting, clarity of communication,
+and amount of interaction. For the purposes of this
+study, only the warmth dimension (parenting and
+coparenting) was of interest. For the parenting dimension, coders rated the overall degree of warmth
+and the highest level of warmth and coldness exhibited by each parent. For the coparenting dimension,
+coders rated the overall degree of warmth and the
+highest level of warmth and coldness exhibited by the
+couple toward each other. Warmth was defined as the
+sum of all the warmth variables minus the sum of all
+the coldness variables. Interreliability for the warmth
+variable was .64.
+Child regulatory physiology. An estimate of the
+child's baseline vagal tone was taken when the child
+was listening to the introduction to an interesting
+story taken from an animated cartoon film (clip from
+Charlotte's Web), a variable we called basal vagal.
+The child's ability to withdraw vagal tone was estimated as a difference between this estimate of basal
+vagal tone and the child's vagal tone during an exciting film clip designed to elicit strong emotion (the
+scene from The Wizard of Oz when the flying monkeys kidnap Dorothy). We expected vagal tone to be
+withdrawn and heart rate to increase when the child
+was emotionally engaged with the fearful stimuli in
+this second film clip. We called this second variable
+delta vagal. This second variable indexed the child's
+ability to suppress vagal tone when engaging with a
+strong emotional stimulus that included an environmental demand for changing attentional focus or regulating emotion. In this case, the engagement with
+the environment involved the demands for an emotional response being elicited by the emotional film
+as well as the demands to focus attention on the Atari
+videogame the child played immediately after each
+film clip. The index of vagal tone was computed as
+the amount of variance in the cardiac interbeat interval spectrum that was within the child's respiratory
+range using spectral time-series analysis. This index
+of vagal tone measures respiratory sinus arrhythmia,
+a measure of PNS tonus, which has been found to
+index attentional processes and emotion regulation
+abilities (Porges, 1984). Mean levels of interbeat
+
+interval at baseline, interbeat interval variability (a
+measure of vagal tone; Izard, Porges, Simons, &
+Haynes, 1991), reactivity of heart rate variability
+from baseline to the mean of the parent-child interaction (used as an index of the child's ability to
+modulate vagal tone by DiPietro, Porges, & Uhly,
+1992), and mean skin conductance level during baseline (first visit to the lab) were also computed as
+indexes of the amount of the child's chronic physiological arousal and PNS functioning.
+
+Time 2
+Assessment
+Overview. Time 2 assessment consisted of
+teacher ratings of child outcomes and couple's reports of considerations of marital dissolution. Families were recontacted 3 years later for follow-up
+assessments of child and marital outcomes. Children
+were, on average, 8 years old (M = 96.9 months;
+range = 82-110 months). Ninety-five percent (53 out
+of 56) of the families in the initial sample and 86%
+(48 out of 56) of the children's teachers at follow-up
+agreed to participate in the Time 2 assessments.
+Ratings of children's behavior problems.
+Teachers completed the Child Adaptive Behavior
+Inventory (CABI; P. A. Cowan & C. P. Cowan,
+1990). We used the CABI as a measure of child
+outcomes for two reasons. First, the CABI was developed on a normal sample and contains subscales
+that are less pathological in nature than the Child
+Behavior Checklist (Achenbach & Edelbrock, 1986).
+Second, the CABI also controls for teacher rating
+bias by having teachers complete the scale on all
+same-sexed children in the classroom and deriving z
+scores for the target child. The CABI has good internal consistency (average alpha = .81; range = .66 to
+.90) and predictive validity (P. A. Cowan & Cowan,
+1990). The factors and subscales that comprise the
+CABI include the following: (a) the Antisocial Factor, which consists of the Hyperactivity, Antisocial
+Behavior, Negative Engagement with Peers, Hostility, Fairness-Responsibility (keyed negatively),
+Calm Response to Challenge (keyed negatively), and
+Kindness-Empathy (keyed negatively) subscales;
+and (b) the Internalizing Factor, which consists of the
+Introversion, Depression, Victim-Rejected, Tension,
+and Extroversion (keyed negatively) subscales.
+Differential Emotions Scale. We used the Differential Emotions Scale (Izard, 1982) as a measure of
+temperament, given Goldsmith and Campos' (1982)
+definition of temperament in terms of affect expression (for a review and critique, see Bates, 1987). The
+Differential Emotions Scale is a 36-item questionnaire that mothers complete with regard to the frequency with which they have observed their children
+display specific emotions in the past week. Each item
+
+META-EMOTION
+
+253
+
+is rated on a 5-point scale ranging from 1 (rarely or ment at Time 2, even controlling for Time 1
+never) to 5 (very often). We computed the total child intelligence.
+number of emotions and the total number of positive
+and negative emotions for the week.
+Selection and Validity of Key
+Teacher ratings of peer aggression. Teachers
+also completed the Dodge Peer Aggression Scale
+Theoretical Variables
+(Dodge, 1986). The Dodge Peer Aggression scale
+consists of items that measure the degree to which the Reduced Set of Meta-Emotion Variables
+child uses overt aggression with peers.
+Child academic achievement. Children were in- In the interest of parsimony, we needed to cut
+dividually administered the Peabody Individual down the choice of variables for the modeling,
+Achievement Test—Revised (PIAT-R) as a measure and it was thus necessary to limit the number of
+of academic achievement (e.g., see Costenbader & meta-emotion variables. We started with 12
+Adams, 1991). They were administered the mathematics, reading recognition, reading comprehension, variables (awareness of own emotion, awareness of the child's emotion, and coaching, for
+and general information tests.
+Emotion regulation questionnaire. Mothers filled father and mother and for sadness and anger).
+out a newly developed 45-item questionnaire about Two variables from this set of 12 were conthe degree to which their child requires external structed, one of which was the sum of parental
+regulation of emotion (Katz & Gottman, 1986). This awareness of the parents' own emotions and the
+questionnaire includes items that reflect instances sum of the parents' awareness of the child's
+when the parent needs to down regulate the child to emotions and the other of which was the sum of
+reduce the child's level of activity, inappropriate the parental coaching of the child's emotions.
+behavior, and misconduct. The alpha coefficient for Table 1 gives a summary of the correlations of
+the scale was .74.
+these two summary meta-emotion variables
+Child physical health. Child illness was assessed (i.e., awareness and coaching) with the original
+by parental report using a version of the Rand Cor- 12 meta-emotion variables that were obtained.
+poration Health Insurance Study measures (available
+from John M. Gottman or Lynn Fainsilber Katz; see Therefore, it is a presentation of item-total corGottman & Katz, 1989). The following Likert or relations that demonstrate the internal construct
+true-false items were summed: "In general, would validity of the summary codes. These correlayou say that this child's health is excellent, good, fair tions show that the two variables we constructed
+or poor?," "The child's health is excellent," "The are related to all the individual awareness and
+child seems to resist illness very well," "When some- coaching variables.
+thing is going around this child usually catches it,"
+"This child has had a nosebleed in the past 30 days"
+(alpha = 0.82).
+
+Results
+
+Table 1
+Correlations of the Two Summary MetaEmotion Variables With Original 12 Variables
+
+We begin by discussing the selection and
+Original metavalidity of variables used for building the theoemotion variables Awareness Coaching
+retical model. The reduced set of variables used
+Father sadness
+to index meta-emotion philosophy are preAwareness own
+.80***
+.55***
+sented, and we address the construct validity of
+Awareness child
+.68***
+.37**
+the derogatory parenting and scaffoldingCoaching
+.26*
+.63***
+praising variables by indicating that derogatory
+Father anger
+Awareness own
+.75***
+.33**
+parenting is not anger and that scaffoldingAwareness child
+.69***
+49***
+praising parenting is not warmth. We then
+j4***
+Coaching
+44***
+present the results of our path-analytic modelMother sadness
+ing, looking separately at models related to paAwareness own
+.56***
+.32**
+rental derogation and to parental scaffoldingAwareness child
+.66***
+.63***
+Coaching
+.48***
+.72***
+praising. We also test the temperament
+Mother
+anger
+hypothesis to see whether parents select their
+Awareness own
+.57***
+.29*
+parenting style to be consistent with the child's
+Awareness child
+.64***
+.36**
+behavior. Finally, we review the result that
+Coaching
+.37**
+.66***
+meta-emotion predicts child academic achieve- *p<.05. **p<.0\ .
+***p< .001.
+
+254
+
+GOTTMAN, KATZ, AND HOOVEN
+
+Validity of Child Regulatory Physiology
+To examine the validity of the vagal tone
+variables, we correlated baseline vagal tone and
+suppression of vagal tone with other indexes of
+autonomic arousal relating to parasympathetic
+activation and general nervous system arousal.
+As Table 2 shows, baseline vagal tone and
+suppression of vagal tone were related to the
+child's mean heart rate during the parent-child
+interaction, to the child's lower resting heart rate
+during the first visit to the laboratory when it was
+a mildly stressful and novel situation, to lower
+baseline skin conductance during the second
+visit to the laboratory after initial adaptation, to
+higher heart rate variability, and to lower heart rate
+reactivity in the parent-child interaction.
+Validity of Parenting
+
+Variables
+
+Derogatory parenting is not anger. In developmental psychology today, there is a general equation of anger and negativity (see Cummings & Davies, 1994), which we consider
+unfortunate. When the construct of negative affect is broken into specific negative emotions,
+there is evidence that specific negative emotions
+serve different functions. In marital interaction,
+
+Table 2
+Validity of the Two Child Physiology
+Variables Selected for Model Building
+Variable
+
+Base vagal
+
+Delta vagal
+
+Mean heart rate
+during parentchild
+interaction
+-.26*
+-.40**
+Mean heart rate
+during first
+time in the
+laboratory
+-.28*
+-.33**
+Heart rate
+reactivity in
+parent-child
+interaction
+-.24*
+-.30*
+Heart rate
+variability
+.25*
+.39**
+Skin conductance
+level after
+adaptation to
+laboratory
+-.37**
+-.22
+Note. Basal vagal = child's baseline vagal tone;
+delta vagal = child's vagal tone when emotionally
+engaged.
+* p < .05. ** p < .01.
+
+anger is not predictive of marital dissolution,
+whereas contempt is (Gottman, 1993, 1994;
+Gottman & Krokoff, 1989; Gottman & Levenson, 1992). Ginott (1965) distinguished anger
+versus emotional interactions with the child that
+communicated contempt for the child, global
+versus specific criticism, and criticism versus
+blaming or communications suggesting that the
+child was incompetent. He suggested that the
+latter communications are harmful to a child,
+whereas anger is not and may even be healthy.
+To deal with a tendency to overgeneralize and
+conclude that anger is harmful for children, we
+selected the parental derogation codes from the
+Kahen Coding Systems, which were designed to
+measure Ginott's cluster of negative parenting;
+derogation is not the same as anger parents
+express toward children. We tested this specifically by looking at the relationships between
+parental anger and derogation. Parental anger
+was uncorrelated with our measure of parental
+derogation (for father anger, r = —.11; for
+mother anger, r = — .06), uncorrelated with the
+meta-emotion codes, and uncorrelated with negative child outcomes.
+Scaffolding-praising is not warmth. It is
+important to emphasize that scaffoldingpraising is not merely a dimension of global
+positivity, such as is tapped by the Cowan parental warmth variable. Correlations computed
+between the warmth codes from the Cowan
+system and the scaffolding-praising code indicated that only maternal warmth was related to
+our scaffolding-praising variable (r = .32, p <
+.05). Paternal warmth, maternal and paternal
+coldness, and co-warmth all showed no relation
+to scaffolding-praising.
+
+Summary of the Seven Dimensions of the
+Theoretical Model
+Aside from the outcome variables, there are
+seven dimensions of the theoretical model. The
+two meta-emotion variables were derived from
+the meta-emotion coding system used to code
+the meta-emotion interview: coaching (a sum of
+11 scales) and awareness (a sum of 12 subscales). The two parenting dimensions were extracted from the Kahen observational scales,
+scaffolding-praising (sum of three scales of the
+KECS—engagement, positive directiveness,
+and responsiveness to the child's needs—and
+two scales of positive affect of the KACS—
+
+255
+
+META-EMOTION
+
+affection-praise and enthusiasm) and derogation (the intrusiveness code of negative engagement on the KECS and criticism and derisive
+humor of the KACS negative affect codes). The
+regulatory physiology dimensions were basal
+vagal tone (when the child was listening to the
+introduction to an interesting story taken from
+an animated cartoon film, Charlotte's Web) and
+the child's ability to suppress vagal tone, which
+was estimated as a difference between this estimate of basal vagal tone and the child's vagal
+tone during an exciting film clip designed to
+elicit strong emotion (the scene from the Wizard
+of Oz when the flying monkeys kidnap Dorothy). The emotion regulation dimension was
+taken from a questionnaire mothers completed
+(when the child was 8 years old) about the
+degree to which their child required external
+down regulation of emotion.
+
+Building the Theoretical Model
+The basic template for the theoretical model
+is presented in Figure 2. There are eight conceptual pathways consistent with our theoretical
+formulation and a direct pathway from metaemotion to child outcome. First, we predicted
+that there would be statistically significant path
+coefficients from the meta-emotion variables to
+the parenting variable (Path 1). This was a validity test to see if the variables derived from
+our interview related to actual parenting behavior. Second, we tested the significance of the
+paths from meta-emotion and parenting to the
+physiological variables (Paths 2 and 3). We
+hypothesized that meta-emotion, operating (in
+part) through parenting, would significantly af-
+
+fect these physiological variables. That is, we
+fundamentally believed that these physiological
+variables are not entirely engraved in stone,
+even if they are biological; rather, we believed
+that these variables are malleable and shaped in
+part by parents through their emotional interactions with the child. These conceptual pathways
+enable us to assess whether meta-emotion philosophy and parenting in some way are related
+to the child's regulatory physiology, or, conversely, if the child's regulatory physiology is
+related to meta-emotion philosophy or parenting. We also predicted that there would be statistically significant path coefficients connecting the child physiology variables to the child
+outcome variables (Path 4), suggesting that the
+child physiology at age 5 years predicts child
+outcome at age 8 years (Path 7). We also predicted the physiological variables would predict
+the emotion regulation variable, and that the
+regulation and the parenting variables would
+relate to child outcome (Paths 5 and 8). We
+predicted that parenting would have a direct
+effect on child regulation (Path 6). There may
+be direct effects between the meta-emotion variables and the child outcome variables, but, to the
+extent that this is true, we have not completely
+succeeded in our theory, because we will not have
+had a mechanism to explain these effects.
+In the interest of data reduction, we created
+the following four child outcome variables:
+1. Child achievement was the sum of the
+mathematics and reading comprehension
+scores.
+2. Child's emotion regulation abilities was
+assessed with the Down-Regulation scale of the
+Katz-Gottman Emotional Regulation Question-
+
+Child Outcomes
+
+Regulation
+Delta Vagal
+Physiology
+
+Basal Vagal
+
+Figure 2. Outline of the general expected path structure of the theoretical model.
+
+256
+
+GOTTMAN, KATZ, AND HOOVEN
+
+naire, assessed when the children were 8 years
+old (called down regulation). Because this is
+technically an outcome variable and not a process variable (because it was measured when
+the children were 8 years old), the emotion
+regulation variable appears in every child outcome model.
+3. Child's peer relations was the sum of three
+teacher rating scales: the CABI Negative Peer
+scale, the CABI Antisocial Scale, and the
+Dodge Peer Aggression scale.
+4. Child illness was our health measure at
+age 8.
+We built two sets of theoretical models.
+Given the hypotheses that meta-emotion philosophy might either be related to the inhibition of
+parental derogation or the facilitation of
+scaffolding-praising parenting, we constructed
+separate models to examine hypotheses related
+to derogation and scaffolding-praising. All
+modeling computations were performed using
+Bentler's (1992) computer program, EQS.
+
+Modeling With Derogatory Parenting
+The results of our model building are presented in Figures 3, 4, and 5. The following are
+our goodness-of-fit statistics: for the academic
+achievement outcome variable, ^(14, N =
+56) = 13.68, p = .474, Bentler-Bonett normed
+fit index (BBN) = .981; for the peer relations
+outcome variable, ^ ( 1 3 , N = 56) = 17.95,/? =
+.159, BBN = .986; for child illness, ^ ( 1 2 , N =
+56) = 13.04, p = .366, BBN = .987. Hence, all
+models fit the data. Multiple Rs for the outcome
+variables varied: for child academic achievement, R = 0.41; for negative peer teacher rat-
+
+ings, R = 0.62; for child physical illness, R =
+0.60. The figures present the path coefficients,
+with z scores for each coefficient in parentheses.
+As can be seen from these figures, the model
+building using our theory was generally successful. We were able to find linkages for the
+major pathways we proposed between metaemotion and parenting, between meta-emotion
+and the physiological variables, between parenting and the physiological variables for child
+peer relations, between physiology and emotion
+regulation, between emotion regulation and
+child outcome, and between parenting and child
+outcome. For child illness, we suggested that
+basal vagal tone should relate to less physical
+illness, and it turned out that the significant
+paths to child illness were parental emotion
+coaching and basal vagal tone.
+In all models, either awareness or coaching of
+the child's emotions was negatively related to
+the negative parenting variable, supporting the
+hypothesis that awareness or coaching is an
+inhibitor of parental derogation of the child. It
+was interesting that in all models the child's
+ability to suppress vagal tone at age 5 was a
+significant predictor of the child's emotion regulation at age 8. The greater the child's ability
+to suppress vagal tone at age 5, the less the
+parents had to down regulate the child's negative affects, inappropriate behavior, and overexcitement at age 8.
+
+Modeling With Scaffolding-Praising
+Parenting
+We tested whether the same equations we had
+used for negative parenting would fit when the
+
+, Awareness
+.73 (6.89)
+
+Figure 3. Path model for child academic achievement with parental derogation. Numbers in
+parentheses are z scores.
+
+257
+
+META-EMOTION
+.48 (4.20)
+
+(Awareness)
+.45 (3.65)
+.73 (6.68)
+
+(
+
+Child Peer
+Relations
+
+Derogation
+
+-.47 (-3.72)
+
+A
+.31 (2.48)
+-.47 (-3.65)
+
+>(
+v
+
+Down Reguate
+
+)
+
+.61 (5.53)
+
+Figure 4. Path model for child peer relations (teacher ratings) with parental derogation. Numbers
+in parentheses are z scores.
+
+parental derogation variable was replaced with the
+scaffolding-praising parenting variable. We expected that some of the path coefficients would
+change, but we first tested whether or not a similar
+model would fit the data. For the academic
+achievement outcome variable, a very similar
+model fit the data, ^(14, AT = 56) = 13.12,
+p = .517, BBN = .986; for the peer relations
+outcome variable, ^(15, N = 56) = 24.14,
+p = .063, BBN = .978; for child illness, ^(15,
+N = 56) = 18.82, p = .222, BBN = .981. These
+results are presented as Figures 6, 7, and 8.
+Was scaffolding-praising related to the variables of the model? For child academic achievement, the scaffolding-praising variable was significantly related to the outcome and to
+
+coaching. For teacher ratings of peer interaction, the scaffolding-praising variable was not
+directly related to the outcome, but it was significantly related to coaching. For child illness,
+the scaffolding-praising variable was unrelated
+to the outcome, but it was significantly related
+to awareness.
+
+Direction of Effects Between Emotion
+Coaching and Child Regulatory
+Physiology: Testing the Temperament
+Hypothesis
+Although our path models present data supporting the notion that emotion coaching can
+
+-.43 (-3.17)
+
+Figure 5. Path model for child illness with parental derogation. Numbers in parentheses are z
+scores.
+
+258
+
+GOTTMAN, KATZ, AND HOOVEN
+
+Figure 6. Path model for child academic achievement with positive parenting in the model.
+Numbers in parentheses are z scores. SCAF-PR = scaffolding-praising.
+
+affect a child's vagal tone, it is possible that the
+direction of effects may be reversed. That is, it
+is quite possible that either (a) child physiology
+is a part of child temperament, and parents may
+select parenting style to be consistent with individual differences in child behavior or (b)
+emotion coaching changes a child's vagal tone.
+Perhaps parents are more likely to do emotion
+coaching with a child higher in vagal tone, or
+perhaps emotion coaching can affect a child's
+basal vagal tone. Although we could not answer
+causal questions in our path modeling, we did
+conduct additional analyses to see if results
+either were consistent with or disconfirmed the
+temperament hypothesis.
+We tested the hypothesis that child vagal tone
+might affect emotion coaching by reversing the
+arrow between these two variables. The models
+fit just as well with the direction of effects
+
+reversed. First, we considered the models with
+derogatory parenting. For the child outcome of
+negative peer relations, ;^(13, N = 56) =
+19.32, p = .113, BBN = .985, and the path
+coefficient from basal vagal tone to emotion
+coaching was .37, z = 3.62. For the child outcome of child achievement, )^(14, N = 56) =
+11.28, p = .664, BBN = .989, and the path
+coefficient from basal vagal tone to emotion
+coaching was .35, z = 3.74. For the child outcome of child illness, ^ ( 1 2 , N = 56) = 13.36,
+p = .344, BBN = .986, and the path coefficient
+from basal vagal tone to emotion coaching was
+.33, z = 3.05. Next, we considered the models
+with scaffolding-praising. For the child outcome of academic achievement, ;^(14, N =
+56) = 12.77, p = .545, BBN = .986, and the
+path coefficient from basal vagal tone to emotion coaching was .34, z = 3.35. For the child
+
+42 (-3.35)
+
+Delta Vagal
+
+)
+
+>(
+
+Down Reguate
+
+Figure 7. Path model for child peer relations (teacher ratings) with positive parenting in the
+model. Numbers in parentheses are z scores. SCAF-PR = scaffolding-praising.
+
+259
+
+META-EMOTION
+
+A
+
+-.53 H.02)
+.02 (.13)
+Child Illness
+
+"A
+
+.43(3.18)
+
+Figure 8. Path model for child illness with positive parenting in the model. Numbers in parentheses are z scores. SCAF-PR = scaffolding-praising.
+outcome of negative peer relations, ^ ( 1 5 , N =
+56) = 19.82, /> = .179, BBN = .982, and the
+path coefficient from basal vagal tone to emotion coaching was .40, z = 3.69. For the child
+outcome of child illness, ^ ( 1 4 , N = 56) =
+19.77, p = .138, BBN = .982, and the path
+coefficient from basal vagal tone to emotion
+coaching was .37, z = 3.64. Thus, our modeling
+can rule out neither a direction for effects, nor
+the possibility that the effects are bidirectional.
+Given recent theorizing that vagal tone is a
+temperament dimension (Porges, DoussardRoosevelt, Portales, & Suers, 1994), one concern with these results concerns the direction of
+effects; the question is whether parents are
+coaching their children differentially as a function of the children's temperament. To further
+test this hypothesis, we correlated coaching
+with our temperament measures from the Differential Emotions Scale. Coaching was uncorrelated with the amount of child negative affect
+(r = .02, ns), the amount of child positive affect
+(r = .20, ns), and the amount of child total
+affect (r = .16, ns). We were also concerned
+that the direct effects of coaching on child outcomes might be qualified as a function of the
+child's basal vagal tone. Coaching was significantly directly correlated with only one of the
+three outcomes, the child's Time 2 physical
+illness (r = - . 5 5 , p < .001). The child's basal
+vagal tone was also significantly correlated with
+this outcome (r = .30, p < .05); however, the
+partial correlation between coaching and the
+child's physical illness, controlling basal vagal
+tone, remained significant (r = -.56, p <
+
+.001). Hence, it appears that the direct benefits
+of coaching are unaffected by the child's basal
+vagal tone.
+
+Meta-Emotion Predicts Child Academic
+Achievement at Time 2, Controlling for
+Time 1 Child Intelligence
+If, as we hypothesized, the meta-emotion
+variables affect school achievement through
+emotion regulation, we should expect that the
+relationships between the meta-emotion variables and the child's achievement at age 8 will
+hold, even controlling the child's Time 1 IQ (at
+age 5). To test this hypothesis, we performed a
+regression analysis forcing in the three IQ scales
+(WPPSI Block Design, Picture Completion, and
+Information Scale scores) before entering the
+mother's awareness of her own sadness in predicting the child's math scores and, in a second
+analysis, before entering the father's coaching
+of the child's anger. The F tests for change were
+computed as well as the partial correlations. For
+the prediction of the child's mathematics scores
+from the mother's awareness of her own sadness, F(4, 48) = 6.12, p < .05 (partial correlation = 0.34). For the prediction of the child's
+reading comprehension scores from the father's
+coaching of the child's anger, F(4, 44) = 9.41,
+p < .01 (partial correlation = 0.37). For the
+prediction of the child's total achievement score
+from both the mother's awareness of her own
+sadness and the father's coaching of the child's
+anger, the two variables were summed for the
+
+260
+
+GOTTMAN, KATZ, AND HOOVEN
+
+analysis, F(4, 45) = 4.13, p < .05 (partial
+correlation = 0.29).
+
+Summary
+Let us summarize the results of our modeling
+in Figure 9 with respect to the eight conceptual
+paths numbered in Figure 2. We recognize that
+our models are probably not independent of one
+another.
+Conceptual
+
+Paths
+
+Path 1: Meta-emotion and parenting. Metaemotion was related to both the inhibition of
+parental derogation of the child and to the facilitation of scaffolding-praising parenting.
+Path 2: Meta-emotion and child physiology.
+For models including the derogation parenting
+variable, coaching was directly and significantly related in all the models (achievement,
+ratings of child peer relations, and child health)
+to the child's physiology. This linkage was
+also evident in the models that included the
+scaffolding-praising parenting variable for the
+achievement and peer relations models (marginally for the child health model, z = 1.80). This
+suggests the intriguing hypothesis that perhaps
+parents can influence a child's physiology by
+emotion coaching; however, we cannot differentiate directionality of effects without an experiment. As we posited, the child's physiology
+was significantly related to parental emotion
+regulation ratings, which, in turn, were related
+to child outcomes in the models for derogatory
+parenting and scaffolding-praising and the
+
+child's negative child peer relations. There were
+direct links between child physiology and child
+outcome only for child illness. We note, in
+passing, that in path analysis, a path coefficient
+is a partial correlation; thus, for example, the
+pathway between delta vagal and down regulate
+partials out basal vagal tone. For this reason, we
+speak of these pathways in terms of the regulatory physiology variables instead of in terms of
+single variables.
+Path 3: Parenting and child physiology.
+This hypothesized pathway was not supported
+by any of the models.
+Path 4: Parenting and emotional down regulation. This pathway was not supported by
+any of the models.
+Path 5: Parenting and child outcome. This
+pathway was supported in three of the six models: for derogatory parenting, there was a direct
+link with child academic achievement and child
+peer relations, whereas for scaffolding-praising
+parenting, there was a direct link only with
+academic achievement.
+Path 6: Child physiology and child outcome.
+This linkage was supported only for child illness and only in the derogation model.
+Path 7: Child physiology and later emotional
+down regulation. This pathway, which was
+from the 5-year-old suppression of vagal tone
+variable to the 8-year-old emotional down regulation variable, was supported in all of the
+models.
+Path 8: Emotional down regulation and child
+outcome. This linkage was supported in two of
+the six models, for models predicting peer relations.
+
+Delta Vagal
+"—
+Physiology
+,-
+
+Basal Vagal
+Figure 9. Revision of the path model derived from our theory.
+
+META-EMOTION
+
+Unexpected Direct Pathway
+In two models for derogatory parenting
+(teacher ratings of peer relations and child illness) and in one model for scaffolding-praising
+(child illness), there was a direct pathway from
+either awareness or coaching of the child's emotions and the child outcome. For one of these
+models (derogatory parenting: child peer relations), more awareness predicted more negative
+ratings, opposite to what we might have predicted, whereas for child illness, more coaching
+of the child's emotions was related to less child
+illness, which we predicted. One possible explanation for the unexpected linkage is that at
+times parental awareness of emotion is not such
+a good thing for children. Perhaps being attuned
+to a child's negative emotion fosters its expression, and even teachers pick up on this when the
+child is 8 years old and rate it negatively. As
+part of this explanation, perhaps the arrow of
+causation should be reversed, meaning that parents have heightened awareness of their child's
+negative emotions because the child is highly
+expressive of them. With this possibility in
+mind, we attempted to fit path models with the
+arrow reversed for the three models for which
+awareness was positively related to a negative
+child outcome. The results of these post hoc
+analyses were as follows. For the derogatory
+parenting models, with the child peer relations
+outcome, the new model did not fit the data,
+^ ( 1 3 , N = 56) = 48.60, p < .001. Hence, this
+hypothesis is not consistent with our data.4 The
+revised figure (Figure 9) places the Time 1
+meta-emotion variables as the exogenous, or
+driving, variables in the model, having their
+purported causal effects on parenting, which
+predicts 8-year-old child outcome, and on child
+physiology, which has its major effects on outcome through the child's emotion regulation
+abilities at age 8. These results are consistent
+with the theory we proposed.
+
+Discussion
+The preliminary results of our investigation
+of meta-emotion are encouraging. The data suggest that meta-emotion is related to parenting
+behavior and to child regulatory physiology;
+that child regulatory physiology at age 5 predicts emotion down regulation ability at age 8;
+and that parenting, meta-emotion, and the
+
+261
+
+child's regulatory physiology and behavior are
+related to child outcomes. In general, aside from
+two direct connections (from awareness to peer
+relations and from coaching to child illness),
+there are two pathways through the models that
+predict child outcomes: one from the metaemotion variables through child physiology and
+emotion regulation and one from the metaemotion variables through parenting.
+The pathway from meta-emotion to the
+child's regulatory physiology suggests the hypothesis that coaching the child's emotions has
+a soothing effect on the child that may change
+some key aspects of the child's PNS. If this
+were true, then the child's ability to self-soothe,
+to regulate negative emotion, and to focus attention may be a result of temperament and may
+also be affected by the parents' meta-emotion
+philosophy. However, the data also support an
+interpretation that suggests that parents may be
+4
+
+Because the arrow for awareness has coaching
+coming into it and, as a variable, a line from awareness represents a partial correlation of awareness,
+controlling for coaching, we wondered if the problem
+arose because some families are high in awareness
+but do not coach. We split the families who were
+above the median in awareness into two groups:
+Group 2 included those above the median (N = 18),
+and Group 1 included those below the median (N =
+8) in coaching. Thus, Group 1 represented 8 families
+high in awareness but low in coaching, whereas
+Group 2 represented 18 families high in both awareness and coaching. Group 1 had children whose play
+quality at age 5 was significantly lower than Group 2,
+F(l, 24) = 4.29, p < .05, Group 1 M = 14.13, Group
+2 M = 16.00. There were also marginal effects at age
+5 in the observed negative peer interaction with a best
+friend; in noncompliance, F(l, 24) = 3.05, p = .093,
+Group 1 = 2.75, Group 2 = .83; and in crying, F(l,
+24) = 3.74, p = .065, Group 1 = .63, Group 2 = .00.
+Also, when the children were 8 years old, teachers
+used the Dodge Rating Scale and rated the children
+on three scales of peer relations. The teachers rated
+the children in Group 1 significantly lower in the
+Dodge Social Skills scale, F(l, 25) = 7.51, p < .05,
+Group 1 = -3.80, Group 2 = -0.21; higher in the
+Dodge Aggression Scale, F(l, 25) = 4.56, p < .05,
+Group 1 = -3.29, Group 2 = -0.40; and lower in
+the Dodge scale of Overall Peer Relations, F(l,
+21) = 5.83, p < .05, Group 1 = -2.21, Group 2 =
+0.21 than Group 2. These post hoc results support the
+hypothesis that the negative linkage between awareness and negative child outcomes may be attributable, in part, to those families who are aware of their
+child's emotion and perhaps are even accepting of it,
+but who do not emotion coach their children.
+
+262
+
+GOTTMAN, KATZ, AND HOOVEN
+
+selecting emotion coaching as a good strategy
+of parenting with children who have higher basal
+vagal tone. However, parents are not differentially
+coaching their children as a function of our measures of their temperaments. The truth probably
+lies in a combination of these two directions of
+influence, or perhaps the influence is bidirectional;
+an experimental test of the effects of training parents in emotion coaching on basal vagal tone
+would help sort out these alternatives. We have
+now developed and pilot tested a parent training
+intervention in emotion coaching.
+The social skills that are related to peer social
+competence in middle childhood are not the
+same as the skills that emotion-coaching parents
+are building in their children. It has been well
+established that calling attention to oneself and
+one's feelings are precisely the opposite of what
+socially competent children do in a variety of
+critical peer situations in middle childhood (for
+data on peer entry, see Putallaz & Gottman,
+1981, and Asher & Gottman, 1981; for data on
+teasing, see Gottman & Parker, 1986, and Asher
+& Coie, 1990). They do not express their emotions. On the contrary, they act cool and unruffled, as if they have had an "emotion-ectomy."
+The point here is that children whose parents
+were emotion coaches at age 5 are acting in a
+way that teachers describe as socially competent
+at age 8. Hence, they are skillful enough to
+know what to do to be competent with peers at
+age 8, and these social skills are not at all the
+same as what they learned from their parents at
+age 5. Apparently, emotion-coached children
+have learned to be savvy about peer social situations, and they can do what is called for. They
+may have a heightened sense of awareness of
+their own emotions, a better ability to selfregulate their own upset, and a greater ability to
+attend to the salient aspects of any challenging
+peer situation. This sense of heightened awareness may lead them to be more likely to know
+what is called for and to do it. This interpretation of our results suggests that what children
+learn from emotion coaching is not at all
+modeling-specific social skills. It is far more
+likely that what they have acquired are the tools
+to learn how to learn in emotionally challenging
+situations, even if that calls for inhibiting emotional responding.
+From a theoretic standpoint, it is interesting to
+consider why and how parental coaching would
+affect the child's regulatory physiology. On the
+basis of the seminal work of Davidson and of
+
+Fox (Davidson, 1984; Davidson, Ekman, Saron,
+Senulis, & Friesen, 1990; Davidson & Fox,
+1982; Davidson, Schaffer, & Saron, 1985; Davidson & Tomarken, 1990; Fox & Davidson,
+1987, 1988), we can reason that talking about
+negative emotions while having the emotions
+might entail changing a right frontal-limbicautonomic experience of emotion into a left
+frontal dominant experience in which the left
+frontal lobe assumes control over the right frontal lobe and its limbic and autonomic connections. The positive affects, language, and anger
+are lateralized in the left frontal lobe, and Davidson called these left-lateralized emotions approach emotions. Anger is considered an approach emotion because it generally tends to
+engage people with the world rather than leading to disengagement and withdrawal. This may
+be, in part, the reason that many clinical interventions suggest a healing process in which
+depression changes into anger. The other negative affects, such as fear, disgust, and sadness,
+are lateralized in the left frontal lobe; Davidson
+called these withdrawal affects.
+We posit that talking about negative withdrawal emotions while having them entails a
+greater sense of approach rather than withdrawal, a greater sense of control of the negative emotions, and greater parasympathetic control of autonomic reactions. These hypotheses
+suggest to us a series of studies using concomitant electroencephalographic (EEG) and autonomic measurement while children are either
+experiencing a negative emotion, being distracted from an emotional response they are
+having (similar to what dismissing parents do),
+or talking about the emotions while having
+them (similar to what coaching parents do). The
+conditions in these experiments would involve a
+systematic dismantling of the emotion-coaching
+parents' behaviors; this group would be compared to appropriate controls for rival hypotheses and to a dismantling of the counterpart of
+the coaching parent, reflecting a meta-emotion
+philosophy we call dismissing. These studies
+are currently underway in our laboratory, but
+we do not hesitate to point out that these hypotheses are highly speculative.
+The results of this first study of meta-emotion
+are encouraging, but replication and extension
+to a more diverse sample of families is clearly
+needed. We are currently conducting a replication and extension study. Our initial sample was
+not racially or ethnically diverse, and it was
+
+META-EMOTION
+limited to families with two married parents.
+Subsequent investigation needs to assess
+whether these results generalize to various kinds
+of single-parent families and to blended families. Replication is also important because of the
+relatively small sample size of the present study
+and its possible effects on structural equations
+modeling (Loehlin, 1992). Naturalistic samples
+of parents interacting with their children during
+emotional moments are also needed to see how
+emotion-coaching families actually talk to their
+children during times of heightened emotion.
+These samples should be obtained across various developmental levels of both the children
+and the parents. We also need to assess the
+stability of parental meta-emotion philosophy
+over time. Changes to the meta-emotion interview are also needed, including an expansion to
+include other emotions (particularly fear, guilt,
+and shame) and the development of a measure
+of child meta-emotion philosophy.
+The second general pathway through our
+models was from the meta-emotion variables
+through parenting. What this adds to the parenting literature is that perhaps parents' own basic
+feelings and thoughts about their emotions are
+strongly related to or underlie the way they
+parent. The results of our modeling with longitudinal correlational data suggest a series of
+experiments that would further test the model.
+Each arrow in the model suggests an intervention for altering the variable at the head of the
+arrow by manipulating the variable at the foot of
+the arrow. Thus, parent training in metaemotion should affect two pathways: It should
+alter both parenting and the child's regulatory
+physiology, and it may also have a direct effect
+on child outcome. We are now planning to
+conduct this research.
+
+References
+Achenbach, T. M , & Edelbrock, C. (1986). Manual
+for the Teacher's Report Form and Teacher Version of the Child Behavior Profile. Burlington, VT:
+University of Vermont, Department of Psychiatry.
+Ainsworth, M. D. S., Bell, S. M., & Stayton, D. J.
+(1971). Individual differences in the strange situation behavior of one-year-olds. In H. R. Schaffer
+(Ed.), The origins of human social relations (pp.
+17-57). London: Academic Press.
+Alcroft, B. (Producer), & Mitton, D. (Director).
+(1984). Daisy [film]. Strand Home Video.
+Allen, B. A., & Armour, T. E. (1993). Construct
+
+263
+
+validation of metacognition. Journal of Psychology, 127, 203-211.
+Asher, S. R., & Coie, J. D. (Eds.). (1990). Peer
+rejection in childhood. New York: Cambridge University Press.
+Asher, S. R., & Gottman, J. M. (1981). The development of children's friendships. New York: Cambridge University Press.
+Barbara, H. (Producer), Nicolas, C. A., & Takamoto,
+I. (Directors). (1973). Charlotte's web [film].
+Paramount.
+Bates, J. E. (1980). The concept of difficult temperament. Merrill-Palmer Quarterly, 26, 299-319.
+Bates, J. E. (1987). Temperament in infancy. In J. D.
+Osofsky (Ed.), Handbook of infant development
+(pp. 1101-1149). New York: Wiley.
+Baumrind, D. (1967). Child care practices anteceding
+3 patterns of preschool behavior. Genetic Psychology Monographs, 75, 43-88.
+Baumrind, D. (1971). Current patterns of parental
+authority. Developmental Psychology Monograph,
+4(1, Pt. 2), 1-103.
+Becker, W. C. (1964). Consequences of different
+kinds of parental discipline. In M. L. Hoffman & L.
+W. Hoffman (Eds.), Review of child development
+research (Vol. 1, pp. 169-208). New York: Russell Sage Foundation.
+Bentler, P. M. (1992). EQS: Structural equations
+program manual. Los Angeles: BMDP Statistical
+Software.
+Bulloch, K., & Moore, R. Y. (1981). Innervation of
+the thymus gland by brain stem and spinal cord in
+mouse and rat. American Journal of Anatomy, 162,
+157-66.
+Bulloch K., & Pomerantz, W. (1984). Autonomic
+nervous system innervation of thymic-related lymphoid tissue in wildtype and nude mice. Journal of
+Comparative Neurology, 228, 57-68.
+Bvinelli, D. J. (1993). Reconstructing the evolution
+of mind. American Psychologist, 48, 493-509.
+Casey, R. J., & Fuller, L. J. (1994). Maternal regulation of children's emotions. Journal of Nonverbal Behavior, 18, 57-89.
+Cassidy, J., Parke, R. D., & Butkovsky, C. (1992).
+Family correlates of childhood peer relations.
+Child Development, 63, 603-618.
+Choi, S. (1993). Mothers' and older siblings' scaffolding of preschool children's pretend play. Dissertation Abstracts International, 5i(7-A), 22342235.
+Cohn, D. A., Cowan, P. A., Cowan, C. P., & Pearson,
+J. (1992). Mothers' and fathers' working models of
+childhood attachment relationships, parenting
+styles, and child behavior. Development & Psychopathology, 4, 417-431.
+Corsaro, W. (1979). We're friends, right?: Children's
+use of access rituals in a nursery school. Language
+in Society, 8, 315-336.
+Corsaro, W. (1981). Friendship in the nursery school:
+
+264
+
+GOTTMAN, KATZ, AND HOOVEN
+
+Social organization in the peer environment. In S.
+Asher & J. M. Gottman (Eds.), The development of
+children's friendships. New York: Cambridge
+University.
+Costenbader, V. K., & Adams, J. W. (1991). A
+review of the psychometric and administrative
+features of the PIAT-R: Implications for the
+practitioner. Journal of School Psychology, 29,
+219-228.
+Cowan, C. P., & Cowan, P. A. (1992). When parents
+become partners. New York: Basic Books.
+Cowan, P. A., & Cowan, C. P. (1987, April). Couple's relationships, parenting styles and the child's
+development at three. Paper presented at the Society for Research in Child Development, Baltimore,
+MD.
+Cowan, P. A., & Cowan, C. P. (1990). Becoming a
+family: Research and intervention. In I. Sigel & A.
+Brody (Eds.), Methods of family research (pp.
+1-51). Hillsdale, NJ: Erlbaum.
+Cummings, E. M., & Davies, P. (1994). Children and
+marital conflict: The impact offamily dispute resolution. New York: Guilford Press.
+Davidson, R. J. (1994). Temperament, affective style,
+and frontal lobe asymmetry. In G. Dawson & K.
+W. Fischer (Eds.), Human behavior and the developing brain (pp. 518-536). New York: Guilford
+Press.
+Davidson, R. J., Ekman, P., Saron, C. D., Senulis, J.
+A., & Friesen, W. (1990). Approach-withdrawal
+and cerebral asymmetry: Emotional expression and
+brain physiology. Journal of Personality and Social Psychology, 58, 330-341.
+Davidson, R. J., & Fox, N. A. (1982). Asymmetrical
+brain activity discriminates between positive and
+negative affective stimuli in human infants. Science, 218, 1235-1237.
+Davidson, R. J., Schaffer, C. E., & Saron, C. (1985).
+Effects of lateralized presentations of faces on selfreports of emotion and EEG asymmetry in depressed and non-depressed subjects. Psychophysiology, 22, 353-364.
+Davidson, R. J., & Tomarken, A. J. (1990). Laterality
+and emotion: An electrophysiological approach. In
+F. Boiler & J. Grafman (Eds.), Handbook of neuropsychology (Vol 3, pp. 419-441). Amsterdam:
+Elsevier.
+Denham, S. A., Renwick, D. S., & Hewes, S. (1994).
+Emotional communication between mothers and
+preschoolers: Relations with emotional competence. Merrill Palmer Quarterly, 40, 488-508.
+Denham, S. A., Zoller, D., & Couchoud, E. A.
+(1994). Socialization of preschoolers' emotional
+and social competence. Developmental Psychology, 30, 928-936.
+DiPietro, J. A., & Porges, S. W. (1991). Relations
+between neonatal states and 8-month developmental outcome in preterm infants. Infant Behavior &
+Development, 14, 441-450.
+
+DiPietro, J. A., Porges, S. W., & Uhly, B. (1992).
+Reactivity and developmental competence in preterm and full-term infants. Developmental Psychology, 28, 831-841.
+Dodge, K. A. (1986). A social information processing model of social competence in children. In M.
+Perlmutter (Ed.), Minnesota Symposium on Child
+Psychology (Vol. 18, pp. 77-125). Hillsdale, NJ:
+Erlbaum.
+Dunn, J. (1977). Distress and comfort. Cambridge,
+MA: Harvard University Press.
+Dunn, J., & Brown, J. (1994). Affect expression in
+the family, children's understanding of emotions,
+and their interactions with others. Merrill Palmer
+Quarterly, 40, 120-137.
+Eisenberg, N. A., & Fabes, R. A. (1990). Empathy:
+Conceptualization, measurement, and relation to
+prosocial behavior. Motivation and Emotion, 14,
+131-149.
+Eisenberg, N. A., & Strayer, J. (Eds.). (1987). Empathy and its development. New York: Cambridge
+University Press.
+Ekman, P., Friesen, W. V., & Simons, R. C. (1985).
+Is the startle reaction an emotion? Journal of Personality and Social Psychology, 49, 1416-1426.
+Flavell, J. H. (1979). Metacognition and cognitive
+monitoring: A new area of cognitive-developmental inquiry. American Psychologist, 34, 906-911.
+Fodor, J. A. (1992). A theory of the child's theory of
+mind. Cognition, 44, 283-296.
+Fox, N. A. (1989). The psychophysiological correlates of emotional reactivity during the first year of
+life. Developmental Psychology, 25, 364-372.
+Fox, N. A. (Ed.). (1994). The development of emotion regulation. Monographs of the Society for Research in Child Development, 59(2-3, Serial No.
+240).
+Fox, N. A., & Davidson, R. J. (1987). Electroencephalogram asymmetry in response to the approach of
+a stranger and maternal separation in 10-monthold infants. Developmental Psychology, 23, 233240.
+Fox, N. A., & Davidson, R. J. (1988). Patterns of
+brain electrical activity during facial signs of emotion in 10-month-old infants. Developmental Psychology, 24, 230-236.
+Garber, J., & Dodge, K. A. (Eds.). (1991). The development of emotion regulation and dysregulation. New York: Cambridge University Press.
+Ginott, H. G. (1965). Between parent and child. New
+York: Avon Books.
+Ginott, H. G. (1971). Between parent and teenager.
+New York: Avon Books.
+Ginott, H. G. (1975). Teacher and child. New York:
+Avon Books.
+Goldsmith, H. H., & Campos, J. J. (1982). Toward a
+theory of infant temperament. In R. N. Emde & R.
+Harmon (Eds.), The development of attachment
+
+META-EMOTION
+and affiliative systems (pp. 161-193). New York:
+Plenum.
+Goldstone, J. (Producer), & Gillian, T. (Director).
+(1983). Meaning of life [film]. Universal.
+Goleman, D. (1995). Emotional intelligence. New
+York: Bantam Books.
+Gottman, J. M. (1983). How children become friends.
+Monographs of the Society for Research in Child
+Development, 48(2, Serial No. 201).
+Gottman, J. M. (1993). The roles of conflict engagement, escalation, or avoidance in marital interaction: A longitudinal view of five types of couples.
+Journal of Consulting and Clinical Psychology, 61,
+
+6-15.
+Gottman, J. M. (1994). What predicts divorce?
+Hillsdale, NJ: Erlbaum.
+Gottman, J. M. (in press). Meta-emotion: The measures. Hillsdale, NJ: Erlbaum.
+Gottman, J. M , & Katz, L. F. (1989). The effects of
+marital discord on young children's peer interaction and health. Developmental Psychology, 25,
+373-381.
+Gottman, J. M., & Krokoff, L. (1989). Marital interaction and satisfaction: A longitudinal view. Journal of Consulting and Clinical Psychology, 57,
+47-52.
+Gottman, J. M., & Levenson, R. W. (1992). Marital
+processes predictive of later dissolution: Behavior,
+physiology and health. Journal of Personality and
+Social Psychology, 63, 221-233.
+Gottman, J. M., & Parker, J. (Eds.). (1986). Conversations offriends. New York: Cambridge University Press.
+Guralnick, M. J. (1981). Peer influences on the development of communciative competence. In P.
+Strain (Ed.), The utilization of classroom peers as
+behavior change agents (pp. 31-68). New York:
+Plenum.
+Harris, P. L., & Kavanaugh, R. D. (1993). Young
+children's understanding of pretense. Monographs
+of the Society for Research in Child Development,
+58(1, Serial No. 231).
+Hofheimer, J. A., & Lawson, (1988). Neurophysiological correlates of interactive behavior in preterm
+newborns. Infant Behavior and Development, 11,
+143.
+Hooven, C. (1994). The meta-emotion coding system.
+Unpublished manuscript, University of Washington, Seattle.
+Huffman, L. C , Bryan, Y. E., Pederson, F. A., &
+Porges, S. W. (1988). Infant temperament: Relationships with heart rate variablility. Unpublished
+manuscript, National Institute of Mental Health,
+Rockville, MD.
+Huffman, L. C , Bryan, Y. E., Pederson, F. A., &
+Porges, S. W. (1992). Autonomic correlates of reactivity and self-regulation at twelve weeks of age.
+Unpublished manuscript, National Institute of
+Mental Health, Rockville, MD.
+
+265
+
+Izard, C. (1982). Measuring emotions in human development. In C. Izard (Ed.), Measuring emotions
+in infants and children (pp. 3-20). New York:
+Cambridge University Press.
+Izard, C. E., Porges, S. W., Simons, R. F., & Haynes,
+O. M. (1991). Infant cardiac activity: Developmental changes and relations with attachment. Developmental P)tychology, 27, 432-439.
+Katz, L. F., &\Gottman, J. M. (1986). The metaemotion interview. Unpublished manual, University of Washington, Department of Psychology.
+Katz, L. F., & Gottman, J. M. (1993). Patterns of
+marital conflict predict children's internalizing and
+externalizing behaviors. Developmental Psychology, 29, 940-950.
+Kirchner, D. M. (1991). Using verbal scaffolding to
+facilitate conversational participation and language
+acquisition in children with pervasive developmental disorders. Journal of Childhood Communication Disorders, 14, 81-98.
+Krokoff, L. (1984). Anatomy of negative affect in
+working class marriages. Dissertation Abstracts
+International, 45, 7A. (University Microfilms No.
+84-22109)
+Leroy, M. (Producer), & Flemming, V. (Director).
+(1939). Wizard of Oz [film]. MGM.
+Linnemeyer, S. A., & Porges, S. W. (1986). Recognition memory and cardiac vagal tone in 6-monthold infants. Infant Behavior and Development, 9,
+
+43-56.
+Loehlin, J. C. (1992). Latent variable models: An
+introduction to factor, path, and structural analysis. Hillsdale, NJ: Erlbaum.
+Maccoby, E. E., & Martin, J. A. (1983). Socialization
+in the context of the family: Parent-child interaction. In E. M. Hetherington (Ed.), Handbook of
+child psychology, Vol. 4, Socialization, personality
+(pp. 1-102). New York: Wiley.
+Magni, F., Bruschi, F., & Kasti, M. (1987). The
+afferent innervation of the thymus gland in the rat.
+Brain Research, 424, 379-385.
+Nance, D. M., Hopkins, D. A., & Bieger, D. (1987).
+Re-investigation of the innervation of the thymus
+gland in mice and rats. Brain, Behavior, and Immunity, 1, \JiA-41.
+Olson, D. R., & Astington, J. W. (1993). Thinking
+about thinking: Learning how to take statements
+and hold beliefs. Educational Psychologist, 28,
+7-23.
+Parker, J. G., & Asher, S. R. (1987). Peer relations
+and later personal adjustment: Are low-accepted
+children at risk? Psychological Bulletin, 102, 357389.
+Patterson, G. R. (1982). Coercive family process.
+Eugene, OR: Castalia.
+Porges, S. W. (1984). Heart rate oscillation: An index
+of neural mediation. In M. G. H. Coles, J. R.
+Jennings, & J. A. Stern (Eds.), Psychophysiological perspectives: Festschrift for Beatrice and John
+
+266
+
+GOTTMAN, KATZ, AND HOOVEN
+
+Lacey (pp. 229-241). New York: Van Nostrand
+Reinhold.
+Porges, S. W. (1992). Autonomic regulation and attention. In B. A. Campbell, H. Hayne, & R. Richardson (Eds.), Attention and information processing in infants and adults (pp. 201-223). Hillsdale,
+NJ: Erlbaum.
+Porges, S. W., & Doussard-Roosevelt, J. A. (in
+press). The psychophysiology of temperament. In
+J. D. Noshpitz (Ed.), Handbook of child and adolescent psychology. New York: Wiley Press.
+Porges, S. W., Doussard-Roosevelt, J. A., & Portales,
+L. A. (1992). Difficultness and cardiac vagal tone:
+Stable indices of temperament in infants and toddlers. Unpublished manuscript.
+Porges, S. W., Doussard-Roosevelt, J. A., Portales, L.
+A., & Suers, P. E. (1994). Cardiac vagal tone:
+Stability and relation to difficulties in infants and 3
+year olds. Developmental Psychobiology, 27, 289300.
+Porges, S. W., Walter, G. F., Korb, R. J., & Sprague,
+R. L. (1975). The influence of methylphenidate on
+heart rate and behavioral measures of attention in
+hyperactive children. Child Development, 46, 727733.
+Porter, F. L., Porges, S. W., & Marshall, R. E. (1988).
+Newborn pain cries and vagal tone: Parallel
+changes in response to circumcision. Child Development, 59, 495-505.
+Pratt M. W., Kerig, P., Cowan, P. A., & Cowan, C. P.
+(1988). Mothers and fathers teaching 3-year-olds:
+Authoritative parenting and adult scaffolding of
+young children's learning. Developmental Psychology, 24, 832-839.
+Putallaz, M., & Gottman, J. M. (1981). An interactional model of children's entry into peer groups.
+Child Development, 52, 986-994.
+Redl, F. (1966). When we deal with children. New
+York: Free Press.
+
+Richards, J. E. (1985). The development of sustained
+visual attention in infants from 14 to 26 weeks of
+age. Psychophysiology, 22, 409-416.
+Richards, J. E. (1987). Infant visual sustained attention and respiratory sinus arrhythmia. Child Development, 58, 488-496.
+Saarni, C. (1993). The socialization of emotion. In M.
+Lewis & J. M. Haviland (Eds.), Handbook of emotions (pp. 435-446). New York: Guilford Press.
+Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. Imagination, Cognition and Personality,
+9, 185-211.
+Schaefer, E. S. (1959). A circumplex model for maternal behavior. Journal of Abnormal and Social
+Psychology, 59, 226-235.
+Stifter, C. A., & Fox, N. A. (1990). Infant reactivity:
+Physiological correlates of newborn and 5-month
+temperament. Developmental Psychology, 26,
+582-588.
+Stifter, C. A., Fox, N. A., & Porges, S. W. (1989).
+Facial expressivity and vagal tone in 5 - and 10month-old infants. Infant Behavior and Development, 12, 127-137.
+Thompson, R. A. (1991). Emotional regulation and
+emotional behavior. Educational Psychology Review, 3, 269-307.
+Vygotsky, L. S. (1987). The collected works of L. S.
+Vygotsky (R. W. Rieber & A. S. Corton, Eds.).
+New York: Plenum.
+Walden, T. A. (1988). A developmental approach to
+social behavior. Journal of Social Behavior and
+Personality, 3, 67-84.
+Wechsler, D. (1974). Selected papers of David
+Wechsler. New York: Academic Press.
+Whitbeck, L. B., Hoyt, D. R., Simons, R. L., &
+Conger, R. D. (1992). Intergenerational continuity
+of parental rejection and depressed affect. Journal
+of Personality and Social Psychology, 63, 10361045.
+
+META-EMOTION
+
+267
+
+Appendix
+Coaching and Awareness Variables
+We created two variables from our coding of the
+meta-emotion interview: coaching and awareness. To
+give readers a qualitative sense of the emotional
+nature of these two variables, we present a few examples of quotes from parents who were high and
+low on these two variables. Parents high on coaching
+said things like the following: "I feel close to my
+child when he is sad," "When Jason is sad it makes
+me feel like a real Dad, now my heart just goes out to
+him," "When my child is sad I let her know that I
+understand," "When Markie is sad I want to know
+what he is thinking," "It makes me want to hold him
+close," "I feel affectionate," "I feel love even when
+he's upset and angry at me."
+Some examples of emotion metaphors and concepts parents expressed were as follows: "Anger
+gives me energy and drive," " I think that sadness can
+be good and even productive," "Sadness tells you to
+slow down," "When I am sad I know something is
+missing from my life," "Anger is just like clearing
+your throat, just clear it and go on," "In my view,
+attending to sadness is cleansing," "I want her to be
+sad like in movies. It means she can feel and empathize," "I often have the good cry, and I think she
+does that too," "Getting angry can be a relief, like a
+storm that finally happens."
+Parents low on coaching included parents who
+were either disapproving of the child's emotion or
+dismissing of the child's emotion. Examples of comments they made include the following: "Seeing my
+child sad makes me uncomfortable," "I think that
+sadness is OK as long as it's under control," "A
+child's anger deserves a time out," "I get annoyed
+when my child acts sad," "Children often act sad just
+to get their own way," "She looks cute and silly when
+she's angry, like a little midget," "I warn him about
+not developing a bad character," "Her shouting scares
+me," "Molly gets into these black moods."
+One example of an emotion metaphor expressed
+by a parent low on coaching was as follows: "When
+people get angry they are just relieving themselves on
+others." Other disapproving examples had to do with
+loss of control; humiliation in public; metaphors of
+fire, pressure, heat, and other explosion and violence
+metaphors for anger; and generally defeat, hopelessness, and pathology concerns about sadness.
+For the awareness variable, we found that only
+people who are aware of emotion and can differentially talk about nuances of emotion and emotion
+intensity find emotional expression to be acceptable.
+If the low awareness reaction to negative emotions
+were to be characterized as a specific emotion paired
+to anger and sadness, it would be fear. People low in
+
+awareness and coaching saw these emotions as toxic
+and dangerous.
+People high in awareness tended to believe that
+one should not stifle one's emotions; that it was good,
+healthy, and positive to pay attention to emotion; and
+that emotions are always there, a part of life, and it is
+best to be aware of them. They said things like it is
+best to get anger or sadness "out of your system" by
+becoming aware of it and then being able to deal with
+it. They believed that it was important to recognize
+smaller and less intense expressions of emotion to
+prevent them from escalating. They could speak in a
+differentiated manner about each emotion and the
+bodily sensations of each; for example, some parents
+talked about the "delicious" aspects of sadness in
+some romantic movies but the awful grief that accompanies an important loss. These parents often
+described the physical sensations that accompanied
+an emotion, for example, "Sometimes I get so mad
+that my stomach is in knots."
+People low in awareness said that these negative
+effects of anger and sadness were often so aversive
+for them that they tended to prefer to minimize their
+importance or not to notice them at all so they
+wouldn't have to deal with them. That is what we
+tapped with this variable and is probably the essence
+of being low on the awareness variable. For example,
+one parent said, "When he gets on my nerves like
+that, I just tune him out," and, "He's not sad much. It
+hurts me to see him sad though. I have to go out for
+a run." Many parents who expressed discomfort with
+their child's negative affect tended to view it as toxic
+and believed that it was their role to get the child out
+of the negative mood as quickly as possible. Many of
+these parents also said that they and their children
+rarely showed the emotion, or (to prove that they
+could survive the negative mood) that they can "roll
+with the punches." They seemed to be at a loss when
+asked to describe how they could tell when they or
+their children had the emotion, and they seemed
+unaware of what might make a child feel sad or angry
+and what might be done about it. They often expressed the philosophy that the way to cope with
+negativity is to emphasize the positive aspects of life
+and to substitute a positive emotion for the negative
+emotion. They said that negative emotion must simply be endured; that the passage of time alone will
+solve emotional problems; that to get over a negative
+emotion one should just get on with life's routines,
+ignore the emotion and just go on; that anger or
+sadness meant loss of control; that feelings are private, not public; and that it is embarrassing to be sad
+or angry and better not to be aware of it. These
+
+(Appendix continues on next page)
+
+268
+
+GOTTMAN, KATZ, AND HOOVEN
+
+Appendix (continued)
+
+parents were often most aware of the demand component of a child's emotion (that they fix the world
+and make it perfect so that their child will not have
+this awful emotion).
+To summarize, these two variables represent
+highly emotional reactions and metaphors to anger
+
+and sadness, even if their names, awareness and
+coaching, do not sound very emotional,
+Received January 22, 1995
+Revision received December 14, 1995
+Accepted December 15, 1995
+
+New Editors Appointed, 1998-2003
+The Publications and Communications Board of the American Psychological Association
+announces the appointment of five new editors for 6-year terms beginning in 1998.
+As of January 1,1997, manuscripts should be directed as follows:
+•
+
+For the Journal of Experimental Psychology: Animal Behavior Processes,
+submit manuscripts to Mark E. Bouton, PhD, Department of Psychology,
+University of Vermont, Burlington, VT 05405-0134.
+
+•
+
+For the Journal of Family Psychology, submit manuscripts to Ross D. Parke,
+PhD, Department of Psychology and Center for Family Studies-075,1419
+Life Sciences, University of California, Riverside, CA 92521-0426.
+
+•
+
+For the Personality Processes and Individual Differences section of the
+Journal of Personality and Social Psychology, submit manuscripts to Ed
+Diener, PhD, Department of Psychology, University of Illinois, 603 East
+Daniel, Champaign, IL 61820.
+
+•
+
+For Psychological Assessment, submit manuscripts to Stephen N. Haynes,
+PhD, Department of Psychology, University of Hawaii, 2430 Campus Road,
+Honolulu, HI 96822.
+
+•
+
+For Psychology and Aging, submit manuscripts to Leah L. Light, PhD, Pitzer
+College, 1050 North Mills Avenue, Claremont, CA 91711-6110.
+
+Manuscript submission patterns make the precise date of completion of the 1997 volumes
+uncertain. Current editors, Stewart H. Hulse, PhD; Ronald F. Levant, EdD; Russell G.
+Geen, PhD; James N. Butcher, PhD; and Timothy A. Salthouse, PhD, respectively, will
+receive and consider manuscripts until December 31, 1996. Should 1997 volumes be
+completed before that date, manuscripts will be redirected to the new editors for consideration in 1998 volumes.
+
+•
+
+

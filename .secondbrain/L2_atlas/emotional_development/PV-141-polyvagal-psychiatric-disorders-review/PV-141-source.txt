@@ -1,0 +1,125 @@
+안전감: 다미주신경이론 렌즈로 본 정신질환 종합 체계적 문헌 고찰
+Title: Feeling Safe: A Comprehensive Systematic Literature Review of Psychiatric Disorders through the Lens of Polyvagal Theory
+Authors: Iram Mansoor
+Affiliations: CMH Lahore Medical College, Pakistan
+Journal: Life and Science
+Published: 2024년 8월 16일
+DOI: 10.37185/LnS.1.1.453
+Volume: Vol. 5 No. 3 (2024), pp. 403-412
+ATLAS ID: PV-141
+Category: emotional_development / polyvagal_theory / psychiatric_disorders / systematic_review / autonomic_dysregulation
+
+=== 연구 개요 ===
+
+본 논문은 "심리적 안전감이 정신건강 문제의 핵심 요소로 점차 인정받고 있다"는 관점에서 다미주신경이론(PVT) 개념이 다양한 정신질환 이해에 어떻게 적용되는지를 PRISMA 기반 체계적 문헌고찰로 탐색한다.
+
+이론적 기초: Porges(2011)가 제안한 PVT는 자율신경계의 사회적 행동, 감정 처리, 생리적 반응 조절 역할을 설명하는 포괄적 구조다.
+
+=== 방법론 ===
+
+## PRISMA 기반 체계적 고찰
+
+데이터베이스:
+- PubMed, APA PsycArticles, PLOS, ResearchGate, Google Scholar, PubMed Central
+
+시간범위: 2013-2023년 (10년)
+언어: 영문 논문만 포함
+방법론: PRISMA(Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 준수
+
+=== 검토 대상 정신질환 ===
+
+1. 불안장애 (Anxiety Disorders)
+2. 우울증 (Depression)
+3. 조현병 등 정신병적 장애 (Psychotic Disorders)
+4. 외상후스트레스장애 (PTSD)
+5. 경계성인격장애 (Borderline Personality Disorder)
+6. 소아 장애:
+   - 품행장애 (Conduct Disorder)
+   - ADHD (주의력결핍 과잉행동장애)
+   - 자폐스펙트럼장애 (ASD)
+
+=== 주요 결과 ===
+
+## 공통 패턴: 자율신경계 조절부전
+
+핵심 발견: "이러한 정신질환으로 고통받는 개인들은 다미주신경이론이 제안하는 자율신경계 조절부전을 빈번하게 나타내며, 이는 많은 정신질환에서 공통적으로 나타나는 특징이다."
+
+## 장애별 자율신경 패턴
+
+### 불안장애
+- 과도한 교감신경 활성화 (투쟁/도주 반응 고착)
+- 복측 미주신경 활성 저하
+- 낮은 RSA (호흡동성부정맥)
+- 신경수용(neuroception)의 만성적 위협 편향
+
+### 우울증
+- 등쪽 미주신경 우세 (셧다운/에너지 고갈)
+- 사회적 철수와 연결 단절
+- HRV(심박변이도) 감소
+- 사회참여시스템 기능 저하
+
+### PTSD
+- 자율신경계의 "방어 잠금" 상태
+- 위협 없는 상황에서도 지속되는 방어 활성화
+- 신경수용 왜곡: 안전 신호를 위험으로 해석
+- 복측 미주신경 접근 불가
+- 해리 상태 (등쪽 미주신경 동결)
+
+### 경계성인격장애(BPD)
+- 감정 조절 어려움과 자율신경계 불안정성
+- 대인관계에서의 안전-위협 신경수용 왜곡
+- 빠른 자율신경 상태 전환 (과각성 ↔ 셧다운)
+
+### 조현병 등 정신병적 장애
+- 사회적 신호 처리 손상
+- 사회참여시스템 기능 저하
+- 음성 운율 및 얼굴 표정 인식 손상
+
+### 자폐스펙트럼장애(ASD)
+- 사회참여시스템 발달 차이
+- 청각 과민성 (중이근육 기능 차이)
+- 신경수용 과민 또는 저반응
+- Safe and Sound Protocol(SSP) 효과 연구 다수
+
+### ADHD
+- 자율신경 조절의 비효율성
+- 낮은 미주신경 톤
+- 보상 회로와 자율신경 상호작용 이상
+
+=== 핵심 결론 ===
+
+1. 자율신경 조절부전이 대부분의 정신질환에서 공통적으로 나타나는 특징이다.
+
+2. PVT 렌즈는 "정신건강의 생리적 측면의 중요성을 강조"한다.
+
+3. 자율신경 조절에 초점을 맞춘 중재가 "정신질환의 기본 증상을 완화할 잠재성"을 가진다.
+
+4. 추가 연구 필요: 기저 메커니즘 규명 및 PVT 기반 중재의 임상 결과 개선.
+
+=== 임상 시사점 ===
+
+## 치료 접근법의 전환
+
+기존: 증상 억제 중심 (약물, 인지행동치료)
+PVT 기반: 자율신경 상태 조절 → 증상 근본 해결
+
+## 주요 PVT 기반 중재
+
+1. Safe and Sound Protocol (SSP): 청각 자극으로 미주신경 자극
+2. 신경피드백(Neurofeedback): HRV 바이오피드백
+3. 체화된 접근(Somatic Approaches): 움직임, 호흡, 신체 감각 기반
+4. 관계적 공동조절: 치료적 관계에서 안전 신호 제공
+
+## 공중보건적 함의
+
+정신건강 예방에서 "안전감 조성"이 핵심 개입 목표가 되어야 한다. 학교, 가정, 의료 시스템에서 신경수용적 안전 환경 구축이 필요하다.
+
+=== 양육 시사점 ===
+
+1. 아이의 정신건강 문제(불안, ADHD, 자폐)는 자율신경 조절 어려움이 핵심일 수 있다
+2. 처벌과 교정보다 안전한 연결과 공동조절이 효과적인 이유가 신경생리학적으로 확인된다
+3. PTSD적 반응을 보이는 아이에게는 먼저 신경수용적 안전감 제공이 선행되어야 한다
+4. 부모-아이 관계의 질이 아이의 자율신경계 발달과 정신건강의 핵심 보호 요인이다
+
+출처:
+- Mansoor, I. (2024). Feeling Safe: A Comprehensive Systematic Literature Review of Psychiatric Disorders through the Lens of Polyvagal Theory. Life and Science, 5(3), 403-412. DOI: 10.37185/LnS.1.1.453.

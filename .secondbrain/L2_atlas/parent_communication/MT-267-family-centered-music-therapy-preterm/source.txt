@@ -1,0 +1,31 @@
+ATLAS ID: MT-267
+Source: PMC8121291
+Author: Menke, Hass, Diener & Pöschl (2021)
+Journal: PLoS One
+Domain: parent_communication
+Tier: 2
+Grade: A
+
+---
+
+Menke, Hass, Diener & Pöschl (2021). PLoS One. PMC8121291. N=50 모-영아 쌍(47명 어머니, 30명 아버지 설문 완료). 극저출생체중아 (재태연령 ≤30+0주; 평균 27+3주). Pilot RCT, 사전-사후 측정.
+
+⚠️ IMPORTANT — PILOT STUDY, MIXED RESULTS: 집단 간 차이 없음. 피험자 내 효과만 유의.
+
+Key findings:
+INFANT outcomes (within-group descriptive, not statistically significant individually):
+- 치료 기간: 카페인 11.1일, 비강/구강위관 12.1일, 입원 15.5일 단축 (기술 통계)
+- 복합 치료 기간 요인분석 측정치: t(48)=-2.06, p=.023, Cohen's d=-0.58 (유의)
+- 다변량 검정: F(6,43)=1.57, p=.181 (비유의)
+
+MATERNAL outcomes (within-subjects, from baseline to discharge):
+- 스트레스: F(1,45)=20.33, p<.001, η²p=0.34
+- 상태 불안: F(1,45)=11.70, p=.001, η²p=0.21
+- 산후 우울: F(1,45)=29.16, p<.001, η²p=0.39
+- 양육 기술: F(1,45)=23.66, p<.001, η²p=0.37
+
+PATERNAL: 스트레스(p<.001, η²=0.47), 상태 불안(p=.034, η²=0.12) 감소
+
+⚠️ 집단 간 비교: 어머니도 아버지도 음악치료 집단과 대조군 간 유의한 차이 없음.
+
+Key concept: "가족중심 음악치료 파일럿: 입원 기간 단축 경향(d=-0.58)과 양육자 내 심리적 개선 관찰. 단, 통제군 대비 집단 간 효과 불확인 — 대규모 RCT 필요"

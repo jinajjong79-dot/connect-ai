@@ -1,0 +1,17 @@
+{
+  "chunk_id": "chunk_1",
+  "chunk_summary": "우울증은 3~6세 유아기 아동에게도 나타날 수 있는 임상적으로 유의미한 장애입니다. 과거에는 아동에게 불가능하다고 여겨졌으나, 연구를 통해 그 존재가 확립되었습니다. 이 문서는 부모가 정상적인 발달 감정과 혼동하지 않도록, 아동의 조기 우울 신호를 파악하고 예방하는 데 초점을 맞추고 있습니다.",
+  "key_quotes": [
+    "Depression is not exclusive to adults or adolescents — it manifests in children as young as 3-6 years (preschool age).",
+    "Symptoms are NON-DISRUPTIVE — unlike ADHD or oppositional behavior, depression produces no obvious behavioral disturbance",
+    "This document synthesizes research on early childhood depression for the purpose of PREVENTION and EARLY RECOGNITION — helping parents identify the earliest signs that their child may need support, distinct from normal developmental emotions."
+  ],
+  "checklists": [
+    "유아 우울 조기 신호",
+    "쾌감소실",
+    "정상 발달과의 구분",
+    "예방 접근"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

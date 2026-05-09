@@ -1,0 +1,70 @@
+아버지 현존 → 딸 회복탄력성·심리적 안정감·성취목표지향성
+Title: Father presence, adolescent girls' resilience, psychological security, and achievement goal orientation: examining direct and indirect associations
+Authors: Jiayi Zhou, Xueyan Wei, Lingfang Xue
+Affiliations: Jiangnan University (강남대학교 인문학부)
+Journal: Frontiers in Psychology
+Published: 2024년 10월 4일
+DOI: 10.3389/fpsyg.2024.1403403
+PMCID: PMC11488148
+PMID: 39430898
+ATLAS ID: FD-166
+Category: parent_communication / father_involvement / father_daughter / resilience / psychological_security / adolescent
+
+=== 연구 개요 ===
+
+중국 여성 고등학생(N=667, 13-18세) 대상. 아버지 현존과 딸의 회복탄력성 관계에서 심리적 안정감·성취목표지향성의 매개효과 검증. 아버지 현존 7차원 척도(38항목). 횡단면 설계, 경로분석.
+
+=== 연구 설계 ===
+
+표본: 중국 강소성·산서성 4개 학교(중학교 2, 고등학교 2) 667명 (유효응답률 92.9%)
+아동 연령: 13-18세 여학생
+분석: SPSS 21.0, AMOS 17.0, MPLUS 7.0 경로분석
+측정: 아버지 현존 척도 38항목·7차원, 심리적 안정감 16항목, 성취목표지향성 14항목, 회복탄력성 27항목
+
+=== 주요 결과 ===
+
+| 변수 쌍 | 상관계수 |
+|--------|---------|
+| 아버지 현존 × 심리적 안정감 | r=0.502*** |
+| 아버지 현존 × 성취목표지향성 | r=0.331*** |
+| 아버지 현존 × 회복탄력성 | r=0.296** |
+| 심리적 안정감 × 회복탄력성 | r=0.629*** (최강) |
+
+회귀분석 (회복탄력성 예측):
+- 심리적 안정감: β=0.512, t=17.734***, 설명력 39.8%
+- 아버지 현존: β=0.132, t=4.78**, 설명력 17.4%
+- 성취목표지향성: β=0.021, t=4.087*, 설명력 0.9%
+- 누적 설명력: 58.1%
+
+매개효과:
+- 심리적 안정감의 완전 매개: 95% CI [0.007, 0.052] (0 미포함)
+- 대인관계 안정감: 95% CI [0.026, 0.078]
+- 성취목표지향성 부분 매개: 95% CI [0.094, 0.169]
+  - 숙달목표지향성: [0.021, 0.069]
+  - 수행접근목표: [0.040, 0.009]
+
+모형 적합도: χ²/df=4.110, RMSEA=0.078, CFI=0.941, TLI=0.901
+
+=== 핵심 결론 ===
+
+1. 아버지 현존→딸 회복탄력성: 심리적 안정감이 완전 매개 (아버지가 안정감 기반을 먼저 형성)
+2. 성취목표지향성(숙달+수행접근)이 부분 매개 — 아버지가 딸의 목표 지향성에도 영향
+3. 심리적 안정감이 회복탄력성의 가장 강력한 예측변수 (β=0.512)
+4. "아버지의 존재가 딸의 내적 강점(안정감·목표지향성)을 통해 회복탄력성을 발달시킨다"
+
+=== 양육 시사점 ===
+
+1. 아버지가 딸에게 주는 가장 큰 선물 = 심리적 안정감 (존재, 지지, 대화)
+2. 딸의 성취목표와 진로 탐색에서 아버지 역할이 중요하다
+3. 아버지 부재/거리감은 딸의 회복력 발달에 직접 영향 — 아버지 참여 개입이 필요
+4. 중학교~고등학교 시기 부녀 관계의 질이 장기 심리 건강과 연결된다
+
+=== 채널2 소재 ===
+
+"아빠가 딸에게 주는 선물" 시리즈:
+- 아빠의 존재가 딸의 마음의 기반이 된다 (심리적 안정감 차원)
+- 아빠가 딸의 꿈을 믿어주면 도전하는 딸이 된다 (성취목표지향성 차원)
+- 아빠-딸 관계: 회복탄력성을 만드는 첫 번째 요소 ★★
+
+출처:
+- Zhou, J., Wei, X., & Xue, L. (2024). Father presence, adolescent girls' resilience, psychological security, and achievement goal orientation: examining direct and indirect associations. Frontiers in Psychology, 15. DOI: 10.3389/fpsyg.2024.1403403. PMCID: PMC11488148.

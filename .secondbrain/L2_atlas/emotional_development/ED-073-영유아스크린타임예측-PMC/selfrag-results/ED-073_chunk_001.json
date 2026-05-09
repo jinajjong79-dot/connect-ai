@@ -1,0 +1,18 @@
+{
+  "chunk_id": "ED-073_chunk_001",
+  "chunk_summary": "본 연구는 12개월 된 영아를 대상으로 디지털 미디어 노출 현황과 스크린 타임의 잠재적 위험 요인을 분석했습니다. 연구 결과, 12개월 아동의 45%가 이미 디지털 미디어에 노출되었으며, TV와 스마트폰이 가장 흔한 초기 노출 매체였습니다. 특히, 형제자녀 유무, 거주 공간 크기, 그리고 과도한 가정 내 TV 사용 등이 영아의 스크린 타임에 유의미한 예측 인자로 작용하는 것으로 나타났습니다.",
+  "key_quotes": [
+    "The American Academy of Pediatrics and national guidelines recommend no digital media use under 18 months of age.",
+    "Significant predictors: having one sibling (OR=1.715), less living space per person (OR=0.567), and excessive household TV use (OR=1.631, doubled exposure likelihood).",
+    "Television (33.0%) and smartphones (16.9%) were the most frequent first exposures, typically around 8 months of age."
+  ],
+  "checklists": [
+    "영아 스크린타임",
+    "미디어 노출 예측인자",
+    "가족 TV 습관",
+    "조기개입 근거",
+    "발달 영향 관련 항목"
+  ],
+  "relevance": 0.95,
+  "domain": "emotional_development"
+}

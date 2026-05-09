@@ -1,0 +1,18 @@
+{
+  "chunk_id": "chunk_5",
+  "chunk_summary": "본 청크는 부모 양육역량 및 관련 자기효능감 척도 개발에 초점을 맞춘 학술 문헌 목록과 초록을 포함하고 있습니다. 특히 영아기 부모를 대상으로 하는 양육역량 자기보고 척도 개발에 대한 연구가 핵심이며, 모성 자기효능감과 양육 실천 간의 관계를 다루는 등 이론적 배경과 측정 도구 개발에 대한 광범위한 논의를 제시합니다.",
+  "key_quotes": [
+    "A Preliminary Study on the Development of Parenting Competence Self-Report Scale for Parents of Infants",
+    "A Parenting Competency Model.",
+    "The relationship between maternal self-efficacy and parenting practices: Implications for parent training."
+  ],
+  "checklists": [
+    "부모 양육역량",
+    "자기보고 척도",
+    "인지적·정서적·실행적 역량",
+    "영아기",
+    "척도 개발 관련 항목"
+  ],
+  "relevance": 0.95,
+  "domain": "parenting_competency"
+}

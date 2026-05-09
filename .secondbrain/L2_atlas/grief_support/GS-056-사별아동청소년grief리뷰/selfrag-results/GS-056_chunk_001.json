@@ -1,0 +1,19 @@
+{
+  "chunk_id": "GS-056_chunk_001",
+  "chunk_summary": "이 자료는 아동 및 청소년의 애도 과정에 대한 종합적인 리뷰 논문입니다. 발달 단계별 애도 반응을 다루며, DSM-5 PCBD 기준을 포함하여 진단적 측면을 제시합니다. 또한, 형제 사별과 같은 특정 상실 유형, 그리고 심리치료적 개입(예: 비블리오테라피) 등 다양한 치료적 접근 방식을 포괄적으로 검토하고 있습니다.",
+  "key_quotes": [
+    "아동·청소년 grief 종합 리뷰",
+    "DSM-5 PCBD 기준",
+    "발달단계별 grief 반응, bibliotherapy, 형제 사별, 치료 접근 포함"
+  ],
+  "checklists": [
+    "grief stages",
+    "developmental grief responses",
+    "bibliotherapy",
+    "sibling loss",
+    "therapeutic interventions",
+    "DSM-5 criteria"
+  ],
+  "relevance": 0.95,
+  "domain": "grief_support"
+}

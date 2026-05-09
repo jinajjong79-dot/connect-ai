@@ -1,0 +1,85 @@
+Understanding the Parent-Child Coregulation Patterns Shaping Child Self-Regulation
+Authors: Frances M. Lobo, Erika Lunkenheimer
+Journal: Developmental Psychology
+Year: 2020 (Volume 56, No. 6, pp. 1121–1134; Published April 20, 2020)
+DOI: 10.1037/dev0000926
+Source: PMC7556995
+ATLAS ID: SC-245
+Category: emotional_development / coregulation / self-regulation / longitudinal
+Tier: 2 | Grade: A ★
+Year: 2020
+
+=== OVERVIEW ===
+
+This longitudinal study examined whether dynamic parent-child patterns of dyadic contingency and dyadic flexibility predicted multiple dimensions of preschoolers' self-regulation. The research investigated how parents and children regulate one another through goal-oriented behavior and expressed affect, and whether these coregulation processes shape children's emerging self-regulatory competencies.
+
+=== SAMPLE ===
+
+- N=100 mother-child dyads (54% female children)
+- Longitudinal: 2 time points
+  - T1: Children mean age = 41 months (SD=3 months, ~3세)
+  - T2: Children mean age = 45 months (SD=3 months, ~4세)
+- 86% Caucasian, median family income $65,000, 79% married parents
+
+=== METHODS ===
+
+At T1, mother-child dyads completed 3 videotaped interaction tasks:
+1. Free play (7 minutes)
+2. Clean-up task (4 minutes)
+3. Parent-Child Challenge Task (7 minutes)
+
+Coregulation Variables (T1, from video):
+- Dyadic contingency: temporally dependent sequences (state lag sequential analysis)
+- Dyadic flexibility: rate of transitions per minute (state space grids)
+- Positive/neutral (PN) affective content: duration in PN affective states
+
+Self-Regulation Outcomes (T2, maternal report):
+- Task persistence (9 items, α=.92)
+- Social persistence (6 items, α=.85)
+- Emotional lability/negativity (15 items, α=.77)
+- Inhibitory control (13 items, α=.79)
+
+=== KEY FINDINGS ===
+
+Dyadic Affective Contingency Model:
+- 34% variance in emotional lability/negativity
+- 30% variance in inhibitory control
+- 12% variance in social persistence
+- High PN + stronger affective contingency → lower emotional lability (β=−0.36, p=.01)
+- Low PN + stronger affective contingency → lower social persistence (β=−0.49, p=.02)
+
+Dyadic Affective Flexibility Model:
+- 32% variance in inhibitory control
+- 29% variance in emotional lability/negativity
+- 13% variance in social persistence
+- High PN + greater flexibility → higher social persistence (β=0.52, p=.03)
+- Low PN + greater flexibility → lower social persistence (β=−0.40, p=.05)
+
+Dyadic Behavioral Contingency Model:
+- 25% variance in inhibitory control
+- 21% variance in emotional lability
+- Low PN + stronger behavioral contingency → higher emotional lability (β=0.44, p=.02)
+
+Dyadic Behavioral Flexibility Model:
+- Low PN + greater behavioral flexibility → lower social persistence (β=−0.61, p=.002)
+
+=== SIGNIFICANCE ===
+
+핵심 발견: 공동조절 패턴(contingency/flexibility)은 그 자체로 좋거나 나쁘지 않음 — 정서적 맥락(affective content)에 따라 적응적 또는 부적응적으로 작동.
+
+긍정적 정서 맥락에서의 공동조절: 자기조절 발달에 보호적
+부정적 정서 맥락에서의 공동조절: 감정 불안정성↑, 사회 지속성↓
+
+"공동조절(coregulation)이 자기조절의 전단계": 부모와 함께 조절하는 경험이 만4세 자기조절 역량을 예측.
+→ 단순히 "함께 조절하는 것"이 아니라 "긍정적 정서 안에서 함께 조절하는 것"이 핵심.
+
+ATLAS Connections:
+- [[SC-244]] Parent self-regulation and coregulation: theoretical framework
+- [[SC-242]] Positive parenting + EF → resilience longitudinal
+- [[ME-239]] Emotion coaching as stress buffer
+- [[EC-172]] Emotion coaching RCT
+- [[ED-095]] Gottman meta-emotion philosophy
+
+Sources:
+- Lobo, F.M., & Lunkenheimer, E. (2020). Understanding the parent-child coregulation patterns shaping child self-regulation. Developmental Psychology, 56(6), 1121–1134.
+- PMC7556995

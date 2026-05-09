@@ -1,0 +1,24 @@
+ATLAS ID: PP-253
+Source: PMC10830029
+Author: Smith-Nielsen et al. (2024)
+Journal: PLoS ONE
+Domain: emotional_development
+Tier: 2
+Grade: A
+
+---
+
+Smith-Nielsen et al. (2024). PLoS ONE. PMC10830029. N=99 Danish mother-child dyads, child age 4.5y (mean).
+
+Study design: Parental mentalizing measured offline via PRFQ-IC (Parental Reflective Functioning Questionnaire – Infant/Child). Online mental state language coded from play interaction video. Child pretend play complexity measured via standardized observation.
+
+Key findings:
+- Parental offline mentalizing → mental state language (online, b=3.44, p=.008, R²=.08)
+- Mental state language → child pretend play complexity (b=0.11, p=.002, R²=.15)
+- Mediation: indirect effect b=0.37, BCa 95% CI [0.10; 0.76] (significant)
+- Offline mentalizing alone → pretend play: NOT significant (b=0.35, p=.42)
+- Conclusion: Parental mentalizing must translate into actual mental state language during play to affect child pretend play complexity. Offline capacity alone is insufficient.
+
+Clinical implication: Parenting interventions should target in-the-moment mental state verbalization during joint play, not just parental insight/awareness.
+
+Key concept: "Offline mentalizing alone not significant — must translate to action (online mental state language)"

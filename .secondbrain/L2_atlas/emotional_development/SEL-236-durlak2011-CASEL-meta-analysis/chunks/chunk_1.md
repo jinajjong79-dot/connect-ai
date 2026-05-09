@@ -1,0 +1,97 @@
+The Effects of School-Based Social and Emotional Learning: A Meta-Analytic Review of Follow-Up Effects
+Authors: Durlak, J.A., Weissberg, R.P., Dymnicki, A.B., Taylor, R.D., & Schellinger, K.B.
+Journal: Child Development, 2011, 82(1), 405-432
+Source: CASEL PDF (casel.s3.us-east-2.amazonaws.com/meta-analysis-child-development-1.pdf)
+ATLAS ID: SEL-236
+Category: emotional_development / social-emotional learning / meta-analysis
+Tier: 2 | Grade: A ★
+Year: 2011
+
+=== OVERVIEW ===
+
+This landmark meta-analysis analyzed 213 school-based, universal social and emotional learning (SEL) programs involving 270,034 kindergarten through high school students. It is the most cited and most comprehensive evidence base for SEL program effectiveness. Compared to controls, SEL participants demonstrated significantly improved social and emotional skills, attitudes, behavior, and academic performance.
+
+=== KEY QUANTITATIVE FINDINGS ===
+
+Scale:
+- k = 213 programs
+- N = 270,034 students
+- Grade range: Kindergarten through High School
+
+Academic Achievement:
+- Effect size = 0.27 → approximately 11 percentile-point gain in academic performance
+- This is the primary "SEL이 성적도 올린다" evidence
+
+Social-Emotional Outcomes:
+- Social-emotional skills: significant improvement vs. controls (d = 0.57)
+- Positive attitudes toward school: significant improvement (d = 0.23)
+- Prosocial behavior: significant improvement (d = 0.24)
+- Conduct problems: significant REDUCTION (d = -0.22)
+- Emotional distress: significant REDUCTION (d = -0.24)
+
+Follow-Up Effects:
+- Effects maintained at follow-up assessments
+- Mean follow-up period = 97 weeks (~2 years)
+- Academic and behavioral gains persisted over time
+
+=== METHODS ===
+
+Literature Search:
+- Systematic search through 2007
+- Inclusion: school-based, universal, K-12, control group required
+- Control: waitlist or active comparison
+
+SAFE Criteria (program quality coding):
+- S = Sequenced: step-by-step training
+- A = Active: active forms of learning
+- F = Focused: dedicated time on SEL skill development
+- E = Explicit: targeting specific social-emotional competencies
+
+Moderator Analyses:
+- Program characteristics (SAFE criteria)
+- Implementer type (teacher vs. external)
+- Setting (urban/suburban/rural)
+- Grade level, minority composition
+
+=== RESULTS ===
+
+Implementer Effects:
+- Teacher-led programs as effective as externally-led programs
+- All types of school staff can successfully implement SEL programs
+
+Setting Effects:
+- SEL programs effective across diverse settings
+- Urban, suburban, and rural schools showed similar effects
+- Effective across student populations including diverse racial/ethnic backgrounds
+
+Quality Moderators:
+- Programs meeting SAFE criteria produced larger effect sizes
+- Single-component programs vs. multicomponent similar in effectiveness
+
+=== KEY QUOTES ===
+
+"SEL programming represents a sound investment for schools."
+
+"The 11-percentile-point academic gain suggests SEL addresses the 'whole child' in ways that directly support academic learning."
+
+"Universal adoption is recommended with attention to program quality (SAFE criteria)."
+
+=== ATLAS SIGNIFICANCE ===
+
+SEL-236 is the foundational evidence base for:
+- Why social-emotional learning matters beyond emotional wellbeing (academic impact)
+- Why school readiness requires SEL, not just cognitive skills
+- Why ATLAS content on emotion coaching has downstream academic consequences
+- The SAFE framework as a quality standard for SEL program design
+
+Korea relevance: 감정교육이 성적도 올린다 (SEL → +11 percentile) — counterintuitive finding that addresses parents who worry "감정 이야기가 공부에 방해 아닌가?"
+
+=== CONNECTIONS ===
+- [[SEL-235]] 2025 update meta-analysis
+- [[SEL-233]] School readiness programs (implementation)
+- [[PC-096]] Gottman emotion coaching (family-based SEL)
+- [[EF-220]] Executive function and academic readiness
+
+Sources:
+- Durlak, J.A., Weissberg, R.P., Dymnicki, A.B., Taylor, R.D., & Schellinger, K.B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. Child Development, 82(1), 405-432.
+- CASEL (Collaborative for Academic, Social, and Emotional Learning)

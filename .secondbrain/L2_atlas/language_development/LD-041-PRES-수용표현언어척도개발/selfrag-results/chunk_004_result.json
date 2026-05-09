@@ -1,0 +1,14 @@
+{
+  "chunk_id": "ld041_chunk_004",
+  "chunk_summary": "본 청크는 언어 발달 및 언어 평가와 관련된 방대한 학술 문헌 목록(참고문헌)을 제공합니다. Bloom, Brown 등 언어학 분야의 고전적 연구부터 수용/표현 언어 척도 개발에 관한 논문까지 포함하고 있습니다. 이 목록은 아동의 언어 습득 과정, 문법 구조, 그리고 다양한 언어 능력 평가 도구의 이론적 배경을 보여줍니다.",
+  "key_quotes": [
+    "Bloom, L. (1970). Language Development: Form and Function of Emerging Grammars.",
+    "Brown, R. (1973). A First Language: The Early Stages.",
+    "Bzoch, K. R. & League, R. (1971). Receptive-Expressive Emergent Language Scale."
+  ],
+  "checklists": [],
+  "relevance": 0.9,
+  "domain": "language_development",
+  "_chunk_num": 4,
+  "_elapsed": 34.0
+}

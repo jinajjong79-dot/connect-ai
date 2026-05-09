@@ -1,0 +1,31 @@
+# FR-287 Source
+
+Title: Child routines moderate a brief behavioral intervention to enhance sleep in school-aged children
+Authors: Gebre A, Hawley N, Carskadon MA, Raynor H, Jelalian E, Owens J, Wing RR, Hart CN
+Journal: Journal of Pediatric Psychology
+Year: 2024
+PMC ID: PMC11098045
+PMID: 38553029
+
+## Methods
+Study design: RCT 이차 분석 (조절 효과 검증)
+Sample: N=66 가족 (개입군 n=32, 대조군 n=34)
+Age: 8-11세 (M=9.76, SD=1.02)
+Demographics: 여아 68%, 흑인·아시아·혼혈 66.2%
+개입: 2회 대면 + 2회 전화 follow-up (취침시간 1-1.5시간 연장 목표)
+측정: 활동기록계(actigraphy) 기저선+2개월; 아동 루틴 목록(CRI) 기저선
+
+## Key Results
+주효과:
+- 치료 조건 → 2개월 수면 시간 예측 (b=46.30, p<.01)
+
+조절 효과 (핵심):
+- 아동 루틴이 개입 반응 유의하게 조절 (b=1.30, p<.05)
+- 고루틴 가정: 63.93분 개선 (p<.01)
+- 저루틴 가정: 28.68분 개선 (p=.02)
+- 모델 적합도: R²=.62; 상호작용 ΔR²=.03
+
+## Conclusions
+루틴이 이미 잘 형성된 가정 → 수면 개입 효과 2배 이상
+"루틴이 있어야 개입도 먹힌다" — 루틴 형성이 개입의 전제 조건
+임상적 함의: 수면 개입 전 아동 루틴 평가 권고

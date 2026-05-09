@@ -1,0 +1,19 @@
+{
+  "chunk_id": "pc033_chunk_004",
+  "chunk_summary": "이 청크는 '사회적 문제해결 척도(Social Problem-Solving Inventory)'의 문항과 개요를 담고 있다. 이 척도는 개인의 실제적인 문제 해결 능력을 측정하기 위한 도구이며, 문제 인식, 대안 탐색, 결정 과정 등 문제해결의 다양한 인지적, 정서적 과정을 다루고 있다. 총 70문항으로 구성되어 있으며, 두 개의 하위 척도로 나뉘어 있다.",
+  "key_quotes": [
+    "사회적 문제해결 척도(Social Problem-Solving Inventory)는 개인의 실제적인 문제 해결 능력을 측정하기 위한 도구이다.",
+    "총 70문항, 2개의 하위척도로 구성되어 있다.",
+    "어떤 문제가 있을 때 문제를 해결하는 가능한 방법들을 최대한 많이 생각해내려고 노력한다."
+  ],
+  "checklists": [
+    "척도명: 사회적 문제해결 척도 (Social Problem-Solving Inventory)",
+    "문항 구성: 총 70문항, 2개의 하위척도 (The Problem Orientation Scale(POS) 및 Problem-Solving S)",
+    "채점 방법: (구체적인 채점 방법은 제시되지 않았으나, 문제해결 과정의 인지-정서-행동 과정을 측정함)",
+    "활용 지침: 개인의 실제적인 문제 해결 능력을 측정하는 데 사용됨"
+  ],
+  "relevance": 0.95,
+  "domain": "parent_communication",
+  "_chunk_num": 4,
+  "_elapsed": 46.5
+}

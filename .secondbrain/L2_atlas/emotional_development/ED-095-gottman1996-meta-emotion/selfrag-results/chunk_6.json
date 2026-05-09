@@ -1,0 +1,15 @@
+{
+  "chunk_id": "chunk_6",
+  "chunk_summary": "이 청크는 아동의 정서적 반응과 생리적 기능을 측정하기 위한 실험 절차를 설명합니다. 아동들은 부모와 함께 Atari 게임을 하거나, 감정 유발 영화 클립을 시청하는 과제를 수행했습니다. 연구자들은 아동의 심장 간격(IBI), 맥파 전송 시간(PTT-F) 등 다양한 생리적 변수를 측정하여 정서적 경험을 객관화하고 자율신경계의 반응을 분석하고자 했습니다.",
+  "key_quotes": [
+    "Our main interest was to obtain indexes of physiological activity during emotional and nonemotional events.",
+    "Each film clip was preceded by a neutral story and an emotion induction film clip of an actress who acted out the emotions of the protagonist in the upcoming story.",
+    "We assessed the following physiological variables from the child under baseline conditions, during parent-child interaction, and during film-viewing:"
+  ],
+  "checklists": [
+    "자율신경 조절",
+    "vagal tone"
+  ],
+  "relevance": 0.9,
+  "domain": "emotional_development"
+}

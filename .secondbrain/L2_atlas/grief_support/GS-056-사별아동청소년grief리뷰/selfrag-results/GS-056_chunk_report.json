@@ -1,0 +1,15 @@
+{
+  "chunk_id": "GS-056_chunk_report",
+  "chunk_summary": "이 청크는 원본 문서(GS-056.md)를 두 개의 하위 청크(001, 002)로 분할한 리포트입니다. 해당 보고서는 각 청크의 크기 및 연령 커버리지와 같은 기술적 메타데이터를 제공합니다. 이 내용은 실제 애도 이론이나 연구 내용이 아닌, 문서 구조화 과정에 대한 정보입니다.",
+  "key_quotes": [],
+  "checklists": [
+    "grief stages",
+    "developmental grief responses",
+    "bibliotherapy",
+    "sibling loss",
+    "therapeutic interventions",
+    "DSM-5 criteria"
+  ],
+  "relevance": 0.3,
+  "domain": "grief_support"
+}

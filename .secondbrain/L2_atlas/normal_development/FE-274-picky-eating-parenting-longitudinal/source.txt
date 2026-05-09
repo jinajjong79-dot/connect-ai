@@ -1,0 +1,32 @@
+ATLAS ID: FE-274
+Source: PMC5498871
+Author: Steinsbekk et al. (2017)
+Journal: International Journal of Behavioral Nutrition and Physical Activity
+Domain: normal_development
+Tier: 2
+Grade: A ★
+
+---
+
+Steinsbekk et al. (2017). International Journal of Behavioral Nutrition and Physical Activity. PMC5498871. N=997 at baseline, 795 at follow-up. Ages 4-6 years. Longitudinal, 2-year follow-up.
+
+Key findings:
+
+Prevalence & stability:
+- ~26% classified as picky eaters at both timepoints
+- Moderate stability: OR=5.92 (95% CI: 3.95–8.86); roughly half remained picky eaters over 2 years
+
+Sensory sensitivity (PROSPECTIVE):
+- Sensory sensitivity → pickiness at age 6: OR=1.25 (95% CI: 1.08–2.23) ★ (first prospective finding)
+
+Temperament: Not significant (surgency OR=0.88 ns; negative affectivity OR=1.17 ns)
+
+Parenting (TWO PATHWAYS):
+- PROTECTIVE pathway: Parental structuring → reduced pickiness: OR=0.90 (95% CI: 0.82–0.99)
+- RISK pathway: Parental sensitivity (accommodation of child's food refusals) → increased pickiness: OR=1.10 (95% CI: 1.00–1.21)
+
+NOTE: "Parental sensitivity" here means accommodating/yielding to child food refusal (over-accommodation), NOT warmth. High sensitivity to refusals = giving up trying = reinforcing avoidance.
+
+Recommendation: Repeatedly offer unfamiliar/rejected foods WITHOUT pressure; support parental structuring and child autonomy.
+
+Key concept: "편식 예측 2경로: 구조화 양육=보호(OR=0.90); 거부에 굴복하는 과민 반응=위험(OR=1.10). 감각 민감성이 최강 전향적 예측변수(OR=1.25). '억지 안 먹이되 포기도 말아야'"

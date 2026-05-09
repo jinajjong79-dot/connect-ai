@@ -1,0 +1,33 @@
+ATLAS ID: FE-277
+Source: PMC9914567
+Author: Costa & Oliveira (2023)
+Journal: Healthcare (Basel)
+Domain: parent_communication
+Tier: 2
+Grade: A
+
+---
+
+Costa & Oliveira (2023). Healthcare (Basel). PMC9914567. Narrative review (not original empirical study).
+
+Key synthesized findings:
+
+Coercive/Controlling practices:
+- Restrictive feeding → food responsiveness↑ (과식 경향)
+- Pressure to eat → food fussiness↑ + food enjoyment↓ (편식 악화)
+- Instrumental feeding (food as reward, e.g., "eat your vegetables, then you get ice cream") → eating absent hunger cues↑ (배고프지 않아도 먹음 → 과식·편식)
+
+Structure-based practices (positive):
+- Structured family mealtimes → self-regulation in eating↑
+- Monitoring consumption → overeating↓
+- Parental modeling of healthy eating → food fussiness↓
+
+Autonomy-supportive practices (positive):
+- Child involvement in food preparation → food fussiness↓
+- Nutrition education → food enjoyment↑
+
+Bidirectional effects (longitudinal evidence):
+- Child fussy eating → parent pressure to eat↑ → child food avoidance↑ (강압 순환)
+- Parent practices ↔ child eating = reciprocal, not unidirectional
+
+Key concept: "음식 보상(도구적 수유)→배고픔 무관 섭취↑·편식 예측; 구조+자율성 지지=보호; 강압 수유는 편식 순환 악화. '잘 먹으면 아이스크림'이 오히려 편식 만든다"

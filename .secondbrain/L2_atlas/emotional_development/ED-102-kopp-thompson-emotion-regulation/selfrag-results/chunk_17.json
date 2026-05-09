@@ -1,0 +1,20 @@
+{
+  "chunk_id": "chunk_17",
+  "chunk_summary": "이 청크는 유아기 및 아동기의 정서 발달에 관한 핵심적인 학술 문헌들을 나열하고 있습니다. 주요 연구들은 아동의 감정 이해가 인지적 측면(상황과 감정의 연결, 감정 지식)과 생물학적 측면(애착, 기질, 스트레스 반응)이 복합적으로 작용함을 보여줍니다. 특히, 스트레스 반응과 신경내분비학적 조절(psychoendoerine regulation)의 중요성을 강조하며, 아동의 정서 조절 능력이 생애 초기부터 발달함을 입증합니다.",
+  "key_quotes": [
+    "Attachment, temperament and adrenocortical activity in infancy: A study of psychoendoerine regulation.",
+    "Children's understanding of the link between situation and emotion.",
+    "The child's concept of emotion."
+  ],
+  "checklists": [
+    "감정 자기조절",
+    "발달 단계",
+    "외재적 조절",
+    "내재적 조절",
+    "부모 개입",
+    "연령별 기준",
+    "신경생물학적 기제 관련 항목"
+  ],
+  "relevance": 0.95,
+  "domain": "emotional_development"
+}

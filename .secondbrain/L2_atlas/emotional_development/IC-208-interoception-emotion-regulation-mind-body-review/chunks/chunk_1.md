@@ -1,0 +1,116 @@
+Title: Interoceptive Ability and Emotion Regulation in Mind-Body Interventions: An Integrative Review
+PMC ID: PMC11591285
+Year: 2024
+Tier: 2 | Grade: A ★
+Category: emotional_development
+Keywords: interoception, emotion regulation, mind-body, mindfulness, movement, top-down, bottom-up, interoceptive sensibility, interoceptive accuracy
+
+---
+
+ABSTRACT
+
+This integrative review examines the relationship between interoceptive ability (the capacity to detect and interpret bodily signals) and emotion regulation through mind-body interventions. Analyzing 26 empirical studies (2010-2023), the review maps both top-down (mindfulness/meditation) and bottom-up (movement/somatic) intervention pathways and their effects on interoceptive dimensions and emotion regulation.
+
+Core Finding: "몸을 느끼는 능력 = 감정을 조절하는 능력." Interoceptive ability acts as a mediator between mind-body practices and improved emotion regulation. Both top-down (cognitive/attentional) and bottom-up (somatic/movement) pathways show benefits, with integration of both being optimal.
+
+INTRODUCTION
+
+Interoception: The brain's representation of the internal physiological state of the body. Includes signals from heart rate, breathing, digestion, muscle tension, pain, temperature, and more.
+
+Three dimensions of interoceptive ability:
+1. Interoceptive Accuracy (IAc): Objective ability to detect internal signals (e.g., heartbeat counting task)
+2. Interoceptive Sensibility (IS): Subjective self-report of body awareness ("I notice when I'm hungry before I get irritable")
+3. Interoceptive Awareness (IA): Metacognitive correspondence — how well subjective and objective measures align
+
+Why interoception matters for emotion regulation:
+- Emotions begin as bodily states (Damasio's somatic marker hypothesis)
+- The ability to notice, label, and interpret body signals is prerequisite for top-down regulation
+- Poor interoception → alexithymia (difficulty identifying emotions) → dysregulation
+- "감정을 조절하려면 먼저 몸이 무엇을 말하는지 들을 수 있어야 한다"
+
+Top-Down vs. Bottom-Up Pathways:
+- Top-down: Mindfulness, meditation, breath awareness → voluntary attention directs awareness inward
+- Bottom-up: Movement, yoga, dance, body scan, somatic experiencing → peripheral sensory input activates interoceptive networks
+
+METHODS
+
+Integrative review design
+Search: 5 databases, 2010-2023
+Included studies: 26 empirical studies
+Populations: Children, adolescents, adults (mixed)
+Interventions: Mindfulness (21 studies), movement/somatic (5 studies)
+Outcome measures: interoceptive sensibility, accuracy, awareness + emotion regulation measures
+
+RESULTS
+
+Interoceptive Sensibility (IS) Improvements:
+- Improved across BOTH top-down and bottom-up interventions
+- Strongest improvements in: body listening, attention regulation, self-regulation, emotional awareness
+- Effect sizes: d = 0.3–0.8 (small to large)
+- Duration independence: "Improvements occurred independently of intervention duration" (from 3-day intensive to 36-week programs)
+- This is the most consistently improved dimension
+
+Interoceptive Accuracy (IAc) — Mixed results:
+- Top-down interventions: inconsistent improvement (some studies improvement, others no change)
+- Bottom-up interventions: insufficient data (only 5 studies)
+- Hypothesis: self-reported sensibility and objective accuracy may improve through different mechanisms
+
+Interoceptive Awareness (IA) — Limited data:
+- Metacognitive correspondence is hardest to measure and least studied
+- Some evidence of improvement with sustained mindfulness practice (8+ weeks)
+
+Top-Down Pathway (21 studies — mindfulness/meditation):
+- Consistent improvements in IS across populations
+- Particularly strong for anxiety, eating disorders, PTSD
+- Brief interventions (8 sessions) showed meaningful effects
+
+Bottom-Up Pathway (5 studies — movement, yoga):
+- "Under-investigated despite strong theoretical rationale"
+- Movement → proprioception + interoception activation → improved body awareness
+- Physical activity as interoceptive training: each movement creates bodily sensation that can be noticed or ignored
+- Children's natural movement play may be serving this function without explicit instruction
+
+Integration of both pathways:
+- Studies combining mindfulness with movement showed largest overall effects
+- Hypothesis: bottom-up activates the signals; top-down teaches attention to them
+- Clinical translation: breathing exercises (top-down) + physical play (bottom-up) = comprehensive interoceptive development
+
+DISCUSSION
+
+The interoception-emotion regulation pathway:
+Bodily signal → interoceptive sensibility (noticing) → interoceptive accuracy (correctly interpreting) → labeling the emotion → regulatory response
+
+When any step fails:
+- Cannot notice bodily signal → pre-emotional dysregulation (can't catch the wave before it breaks)
+- Can notice but misinterpret → mislabeling of emotions ("I'm angry" when actually scared/hungry/tired)
+- Can notice and label but no regulation strategy → emotional overwhelm despite awareness
+
+Children and interoception:
+- Interoceptive development continues through childhood and adolescence
+- Children's interoceptive sensibility can be trained (IC-209 curriculum evidence)
+- Parents who can model interoceptive awareness ("I notice my shoulders are tense — I must be stressed") teach children implicitly
+- Feelings identification activities in schools may work through interoceptive pathways
+
+"몸을 느끼는 능력 = 감정을 조절하는 능력"
+
+Practical implications:
+- Mindfulness-based programs for children should include somatic (body-awareness) components
+- Physical play is not just for health — it is interoceptive training
+- Parents and teachers can scaffold interoceptive awareness through body-check-ins
+- "Before asking 'how do you feel?' ask 'where in your body do you feel it?'"
+
+Limitations:
+- Predominantly adult populations; few child-specific studies
+- Bottom-up interventions under-studied
+- Inconsistent measurement tools across studies
+- Publication bias toward positive results
+- Most studies single-arm (no control group)
+
+CONCLUSION
+
+Interoceptive ability — especially sensibility — is a trainable mediator between mind-body interventions and emotion regulation. Both top-down (mindfulness) and bottom-up (movement) pathways improve interoceptive sensibility, with integrated approaches showing the strongest effects. Improvements can occur even in brief interventions, suggesting interoception-focused practices are feasible in educational and clinical settings.
+
+Key message for Korean parenting context:
+"아이의 감정조절은 몸 알아차림 훈련에서 시작된다. 명상(하향식)과 신체놀이(상향식)가 함께 필요하다."
+## 관련 문서
+- [[BL-269_selfrag_atlas]] — 공유 엔티티: Tran

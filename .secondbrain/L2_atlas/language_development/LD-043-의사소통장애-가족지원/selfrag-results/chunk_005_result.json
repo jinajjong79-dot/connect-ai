@@ -1,0 +1,19 @@
+{
+  "chunk_id": "ld043_chunk_005",
+  "chunk_summary": "본 청크는 의사소통 장애 아동을 둔 가족이 겪는 어려움과 필요한 지원에 초점을 맞춘 질적 연구의 배경을 제시합니다. 제시된 학술 문헌 목록은 AAC(보완대체 의사소통), 기능적 의사소통 훈련, 부모의 대처 기술 훈련 등 가족 지원 및 언어 발달에 관련된 광범위한 이론적 기반을 제공하고 있습니다. 이는 가족 중심의 포괄적인 지원 모델 구축의 중요성을 강조합니다.",
+  "key_quotes": [
+    "의사소통 장애아동을 둔 가족의 어려움과 지원요구에 관한 질적 연구",
+    "The coping skills training program for parents of children with developmental disabilities",
+    "Modifying parent-child interaction: Enhancing the development of handicapped children."
+  ],
+  "checklists": [
+    "가족 어려움 유형: 의사소통 장애 아동을 둔 가족의 심리적/사회적 어려움",
+    "지원 요구 항목: 가족 중심의 포괄적 지원 및 교육 프로그램",
+    "부모 교육 지침: 부모의 대처 기술 훈련, 부모-자녀 상호작용 수정 기법",
+    "언어치료 연계 방안: AAC 활용, 기능적 의사소통 훈련(FCT)을 통한 언어 발달 지원"
+  ],
+  "relevance": 0.95,
+  "domain": "language_development",
+  "_chunk_num": 5,
+  "_elapsed": 93.1
+}

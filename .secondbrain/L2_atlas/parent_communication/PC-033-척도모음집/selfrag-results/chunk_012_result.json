@@ -1,0 +1,16 @@
+{
+  "chunk_id": "pc033_chunk_012",
+  "chunk_summary": "이 청크는 '부정적인 평가에 대한 두려움(Fear of Negative Evaluation)' 척도를 소개한다. 이 척도는 타인에게 부정적인 평가를 받는 것에 대한 공포를 측정하며, 총 30문항 또는 12문항의 short-version으로 구성되어 있다. 채점은 T/F 또는 5점 Likert 척도를 사용하며, 총점이 높을수록 사회적 불안감과 평가에 대한 두려움이 크다는 것을 의미한다.",
+  "key_quotes": [
+    "부정적 평가에 대한 두려움(Fear of Negative Evaluation)은 타인에게 부정적인 평가를 받는 것에 대한 두려움 또는 공포를 측정하는 도구이다.",
+    "총 30문항으로 구성되어 있고, 사회적 인정에 대한 상실(사회적 부정적 평가)에 대한 두려움을 반영한다.",
+    "총점이 높을수록 사회적 불안감과 평가에 대한 두려움이 큰 것을 의미한다."
+  ],
+  "checklists": [
+    "부정적인 평가에 대한 두려움 (Fear of Negative Evaluation) 척도: 총 30문항 또는 12문항(short-version)으로 구성되어 있으며, T/F 또는 5점 Likert 척도로 채점한다. short-version 사용 시 2, 4, 7, 10번 문항은 역채점한다. 아동부터 성인까지 전 연령에 적용 가능하다."
+  ],
+  "relevance": 0.9,
+  "domain": "parent_communication",
+  "_chunk_num": 12,
+  "_elapsed": 54.0
+}

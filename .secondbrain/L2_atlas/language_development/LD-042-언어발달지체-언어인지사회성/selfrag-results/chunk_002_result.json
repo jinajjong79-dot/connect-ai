@@ -1,0 +1,18 @@
+{
+  "chunk_id": "ld042_chunk_002",
+  "chunk_summary": "본 연구는 영유아의 언어 및 의사소통 능력을 포괄적으로 평가하기 위해 K-BSID-Ⅱ, CSBS DP, SELSI, MB CDI-K 등 다양한 검사 도구를 사용했다. 검사 과정은 친숙해지는 놀이 시간으로 시작하여 각 검사를 순차적으로 실시했으며, 자료의 신뢰도를 높이기 위해 검사자간 일치도를 산출했다. 특히 의사소통 행동은 빈도, 기능(행동통제, 사회적 상호작용 등), 수단별로 세분화하여 분석하였다.",
+  "key_quotes": [
+    "Bayley Scale of Infant Development-Ⅱ(이하 BSID-Ⅱ)를 한국 영유아들을 대상으로 표준화한 30분 정도 놀이 시간을 가졌다.",
+    "K-BSID-Ⅱ는 인지척도(mental scale), 운동 척도(motor scale), 그리고 행동평정척도(behavior rating scale)의 세 가지 하위 검사로 구성되어 있다.",
+    "일치도는 91.6%였고, 의사소통 수단에 대한 검사자간 일치도는 93.3%였다."
+  ],
+  "checklists": [
+    "언어발달지체 진단 기준",
+    "인지·사회성 연결 근거",
+    "임상 평가 도구(SELSI/MB CDI-K/CSBS DP) 사용 지침"
+  ],
+  "relevance": 0.95,
+  "domain": "language_development",
+  "_chunk_num": 2,
+  "_elapsed": 99.8
+}

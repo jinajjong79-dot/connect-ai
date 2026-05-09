@@ -1,0 +1,68 @@
+TIK 부모 감정코칭 프로그램 파일럿 RCT (스칸디나비아)
+Title: A Pilot Study of a Parent Emotion Socialization Intervention: Impact on Parent Behavior, Child Self-Regulation, and Adjustment
+Authors: Evalill Bølstad, Sophie S Havighurst, Christian K Tamnes 외
+Affiliations: 노르웨이 오슬로 지역
+Journal: Frontiers in Psychology
+Published: 2021년 10월 15일
+DOI: 10.3389/fpsyg.2021.730278
+PMCID: PMC8554311
+PMID: 34721193
+ATLAS ID: EC-172
+Category: emotional_development / emotion_coaching / TIK / parenting_program / self_regulation / RCT / Scandinavia
+
+=== 연구 개요 ===
+
+노르웨이 최초 TIK(Tuning in to Kids) 프로그램 RCT 검증. N=40 아동(평균 5.91세), 부모 39명. 중재집단 21명 vs 통제집단 19명. 6주 주 2시간 야간 세션. 감정코칭 5단계 교육. 부모 ERBS·아동 자기조절·외현화 문제 측정.
+
+=== 연구 설계 ===
+
+표본: 노르웨이 오슬로 유치원 17곳, 부모 39명(어머니 29, 아버지 10), 아동 40명(여아 19, 남아 21)
+중재: TIK 프로그램 6주 (주 2시간)
+- 5단계 감정코칭: 인식→시간인식→이해소통→감정표현→한계설정/문제해결
+측정: PESQ(감정코칭/해제), ECBI(외현화), PAS-R(불안), EGNG(감정판별), AX-CPT(집행통제)
+추적: 중재 후 + 6개월
+
+=== 주요 결과 ===
+
+부모 감정코칭:
+- 중재집단: 31.0→33.3 / 통제집단: 32.7→32.1
+- 시간×조건 효과: p=0.004, d=0.75 (중간~큰 효과크기) ★
+
+아동 외현화문제 (ECBI):
+- 중재: 7.3→5.0 / 통제: 5.5→5.0
+- 조건간 차이: p=0.05(경계선), d=-0.47
+
+자기조절 행동과제:
+- 감정판별(EGNG): 통제집단이 중재집단보다 개선 (p=0.02, d=-1.1) — 예상과 반대
+- 집행통제(AX-CPT): 양 집단 모두 개선 (발달적 향상)
+
+불안: 조건간 차이 없음 (p=0.94)
+
+=== 핵심 결론 ===
+
+1. TIK 프로그램이 부모 감정코칭 행동 유의미하게 증가 (d=0.75)
+2. 아동 외현화문제 감소 경향 (d=-0.47)
+3. 직접 행동과제에서 자기조절 효과는 제한적 — "더 장기 추적과 대규모 표본 필요"
+4. 스칸디나비아 문화에서도 감정코칭 훈련 가능성 입증
+
+=== 양육 시사점 ===
+
+1. 6주 프로그램으로 부모 감정코칭 행동이 변한다 — 단기 개입도 효과적
+2. 아이 외현화(공격성, 충동) 문제에 감정코칭이 가장 먼저 효과를 보임
+3. 채널2가 이 TIK 프로그램의 역할 가능 — 5단계 감정코칭 콘텐츠로 부모 행동 변화 유도
+4. 아버지도 참여(10/39명) — 아버지 대상 감정코칭 훈련 가능성
+
+=== 채널2 소재 ===
+
+"6주 만에 달라지는 엄마·아빠의 감정코칭" 시리즈:
+- TIK 5단계 감정코칭 실습
+- 감정코칭이 아이 폭발적 행동을 줄이는 이유
+- 부모가 배울 수 있는 감정코칭 — 선천적 능력이 아니다
+
+출처:
+- Bølstad, E., Havighurst, S.S., Tamnes, C.K. et al. (2021). A Pilot Study of a Parent Emotion Socialization Intervention: Impact on Parent Behavior, Child Self-Regulation, and Adjustment. Frontiers in Psychology, 12, 730278. DOI: 10.3389/fpsyg.2021.730278. PMCID: PMC8554311.
+## 관련 문서
+- [[EF-222-source.txt]] — 공유 엔티티: TIK
+- [[checklist-master-index]] — 공유 엔티티: TIK
+- [[EC-172_selfrag_atlas]] — 공유 엔티티: TIK
+- [[ND-109_selfrag_atlas]] — 공유 엔티티: 노르웨이

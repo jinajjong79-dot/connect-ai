@@ -1,0 +1,18 @@
+{
+  "chunk_id": "ND-068_chunk034",
+  "chunk_summary": "본 연구는 전국적으로 손자녀를 양육하는 조부모를 대상으로 정책 수립을 위한 예비 데이터를 제공하는 것을 목적으로 한다. 500명의 조부모와 1,000명의 일반인을 대상으로 설문조사한 결과, 양육 동기는 자녀의 요청에 의한 경우가 가장 높았으며, 조부모들은 주당 42.53시간에 달하는 상당한 시간을 할애하고 있음이 밝혀졌다. 또한, 조부모들이 양육하는 손자녀의 평균 연령과 양육 기간, 그리고 경제적 지원 현황 등 구체적인 통계 자료를 제시하고 있다.",
+  "key_quotes": [
+    "The purpose of this study is to provide preliminary data for policy making by researching the support of grandparents’ raising grandchildren nationwide.",
+    "nurturing by 'grandchildren's parents' request'(76.0%) was higher than their 'voluntary nurture'(24.0%).",
+    "grandparents spend average 5.25 days per week and average 42.53 hours per week for nurturing grandchildren, and the hours are equivalent to working hours of wage earner."
+  ],
+  "checklists": [
+    "조부모 양육",
+    "손자녀 발달",
+    "조손가정",
+    "양육지원",
+    "세대간 양육"
+  ],
+  "relevance": 0.95,
+  "domain": "family_support_policy"
+}

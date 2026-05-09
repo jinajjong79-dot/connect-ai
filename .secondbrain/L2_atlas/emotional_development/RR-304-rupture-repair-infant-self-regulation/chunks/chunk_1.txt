@@ -1,0 +1,52 @@
+# RR-304 Source
+
+Title: (단절과 회복 — 부모-자녀 상호조절과 유아 자기조절)
+PMC ID: PMC5298208
+Year: 2017 (추정)
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5298208/
+
+## ⚠️ PENDING — CAPTCHA 차단
+PMC5298208 접근 불가 (reCAPTCHA). 아래는 사용자 제공 설명 + RR-305 교차 확인 기반.
+
+## 교차 확인 (RR-305 mindinmind.org.uk에서 확인된 내용)
+- "infants and caregivers are mismatched approximately 70% of the time" ← RR-305에서 확인 ✓
+- Tronick의 Mutual Regulation Model 핵심 통계
+
+## 사용자 제공 핵심 내용 (미검증 세부사항)
+- 부모-영아 상호작용의 70%는 불일치(mismatch/misattunement)
+- 완벽한 조율은 불가능 — 정상적 현실
+- 중요한 것은 불일치 후 회복(repair)
+- 회복 경험 축적 → 자기조절 + 회복탄력성 발달
+- 채널2 시그니처 메시지: "완벽한 부모가 아니라 충분히 좋은 부모"
+
+## Tronick 이론 맥락 (Mutual Regulation Model)
+- 단절(misattunement) → 재조율(reattuning/repair) 사이클이 발달의 엔진
+- 긍정 발달: 빈번한 상호작용 오류 수정(frequent reparations of interactive errors)과 연관
+- 부정 발달: 지속적 상호작용 실패 + 부정적 정서와 연관 (Tronick 1989 Am Psychol 확인)
+
+## Status
+PENDING — PDF 또는 오픈액세스 버전 확보 시 재처리 필요
+
+## 관련 문서
+- [[GS-031_selfrag_atlas]] — 공유 컨셉: 회복탄력성
+- [[Mutual Regulation Model]] — 컨셉
+- [[chunk_001]] — 공유 컨셉: 회복탄력성
+- [[chunk_002]] — 공유 컨셉: 회복탄력성
+- [[chunk_017]] — 공유 컨셉: 자기조절
+- [[chunk_025]] — 공유 컨셉: 자기조절
+- [[chunk_026]] — 공유 컨셉: 자기조절
+- [[chunk_031]] — 공유 컨셉: 자기조절
+- [[chunk_16]] — 공유 엔티티: Tronick
+- [[chunk_16]] — 공유 컨셉: Mutual Regulation Model
+- [[chunk_1]] — 공유 엔티티: Tronick
+- [[chunk_1]] — 공유 컨셉: 자기조절
+- [[chunk_1]] — 공유 컨셉: 회복탄력성
+- [[chunk_21]] — 공유 엔티티: Tronick
+- [[chunk_5]] — 공유 엔티티: Tronick
+- [[chunk_6]] — 공유 엔티티: Tronick
+- [[상호작용 불일치(Mismatch)]] — 컨셉
+- [[상호작용 오류 수정]] — 컨셉
+- [[상호조절]] — 컨셉
+- [[자기조절]] — 컨셉
+- [[재조율(Reattuning)]] — 컨셉
+- [[회복탄력성]] — 컨셉

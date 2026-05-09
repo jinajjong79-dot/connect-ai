@@ -1,0 +1,18 @@
+{
+  "chunk_id": "PC-067_chunk002",
+  "chunk_summary": "체계적 문헌고찰 결과, 아버지의 양육 참여 정도가 호르몬 변화 및 신경생물학적 활성화와 유의미한 관련이 있음이 밝혀졌습니다. 특히, 양질의 측정 도구를 사용했을 때 코르티솔, 프로락틴, 전방 섬엽(Anterior Insula) 등의 변화가 관찰되었습니다. 가장 중요한 발견은 주 양육 아버지가 어머니와 아버지의 패턴이 혼합된 뇌 활성화(편도체와 상측두구)를 보여, 뇌의 적응성과 네트워크 공동 활성화가 일어남을 시사한다는 점입니다.",
+  "key_quotes": [
+    "Studies employing high-standard involvement measures demonstrated significant links between hormonal changes (cortisol, prolactin), neural activations (Anterior Insula, Ventral Tegmental Area), and involvement degree.",
+    "primary-caregiving fathers displayed maternal-pattern Amygdala activations alongside paternal-pattern Superior Temporal Sulcus activations",
+    "brain adaptability to involvement degree involves coactivation"
+  ],
+  "checklists": [
+    "아버지 뇌신경 변화",
+    "호르몬 변화",
+    "양육참여 효과",
+    "paternal brain",
+    "신경영상 관련 항목"
+  ],
+  "relevance": 0.9,
+  "domain": "parent_communication"
+}

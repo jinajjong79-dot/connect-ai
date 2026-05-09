@@ -1,0 +1,42 @@
+# FR-288 Source
+
+Title: Bedtime routines child wellbeing & development
+Authors: George Kitsaras, Michaela Goodwin, Julia Allan, Michael P Kelly, Iain A Pretty
+Journal: BMC Public Health
+Year: 2018
+PMC ID: PMC5861615
+PMID: 29562892
+
+## Methods
+Study design: 횡단 연구 (2회 방문 + 5일 문자 설문)
+Sample: N=50 가족 (소규모 주의)
+Age: 3-5세 (M=4.0세, SD=0.8개월)
+취침루틴 측정: 5개 구성 요소 (일관성, 양치, 간식·음료 회피, 전자기기 회피, 책 읽기)
+학교 준비도: BSRA-3
+실행 기능: NIH Toolbox (억제/주의, 작업기억, 인지유연성) + BRIEF-A/P
+치아 건강: dmft 점수
+양육 방식: PSDQ
+
+## Key Results
+학교 준비도:
+- 최적 루틴 그룹: M=106.1 (SD=8.00) vs 비최적: M=81.2 (SD=5.4)
+- t(48)=6.92, p≤.001
+
+아동 실행 기능:
+- 작업기억: t(44)=−8.51, p≤.001
+- 억제/주의: t(48)=−9.70, p≤.001
+- 인지유연성: t(48)=−13.1, p≤.001
+
+치아 건강: 최적 루틴 → 더 나은 결과(dmft=0), U=85.5, p=.011
+
+양육 방식: 최적 루틴 가정 → 권위적 양육 더 많음, t(48)=−6.45, p≤.001
+
+부모 실행 기능:
+- 최적 루틴 부모 → 작업기억·억제·인지유연성 모두 우수 (all p≤.001)
+- 핵심: 부모 EF↑ → 루틴 형성 → 아동 EF↑ (연쇄 구조)
+
+## Conclusions
+취침루틴 → 학교 준비도·실행 기능·치아 건강 복수 영역 연관
+부모 자기조절(EF)이 루틴 형성의 전제 조건: "부모가 먼저 조절돼야 루틴 만들 수 있다"
+제한: 횡단 설계(인과 불명), N=50 소규모 → 해석 주의
+비정규 취침루틴 → 발달 지표 저하 (역 방향 확인)

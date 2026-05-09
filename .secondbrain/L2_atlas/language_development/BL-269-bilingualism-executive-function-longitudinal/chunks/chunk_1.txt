@@ -1,0 +1,33 @@
+ATLAS ID: BL-269
+Source: PMC6762025
+Author: Tran, Arredondo & Yoshida (2018/2019)
+Journal: Bilingualism: Language and Cognition
+Domain: language_development
+Tier: 2
+Grade: A ★
+
+---
+
+Tran, Arredondo & Yoshida (2018). Published 2019. Bilingualism: Language and Cognition. PMC6762025. N=96 children, ages 3-4y (initial M=38.78 months → final M=51.20 months). Longitudinal, 3 timepoints at 6-month intervals.
+
+Study design: 4 groups — Vietnamese-English bilinguals, Spanish monolinguals, English monolinguals, Spanish-English bilinguals. EF tasks: DCCS (dimensional shifting), Day/Night (verbal inhibition), Bear/Dragon (motor inhibition), Gift Delay (delay of gratification).
+
+Key findings:
+
+DCCS (selective attention + switching):
+- Bilingual advantage: F(1,76)=26.12, p<.001; effect size=0.34 (SE=0.07, p<.001) ★
+- Vietnamese-English bilinguals > Spanish monolinguals (p=.001 to .032)
+
+Day/Night (verbal response inhibition):
+- Eastern culture effect dominant: F(3,108)=4.40, p<.001; effect size=0.24 (p<.01)
+- Bilingualism × culture interaction: F(2,86)=7.57, p<.01
+- Vietnamese bilinguals > English monolinguals at Time 1 (p=.026)
+
+Bear/Dragon (motor inhibition): No main effects for language status or culture (p>.1)
+
+Gift Delay (delay of gratification):
+- Bilingual advantage: F(1,75)=3.21, p<.05; effect size=0.12 (p<.05)
+
+Conclusion: "Effects of bilingualism and cultural background based on different, though related, cognitive control processes." Bilingualism→selective attention+switching (dimensional); Eastern culture→verbal response inhibition; interactive effects when combined.
+
+Key concept: "이중언어=선택적 주의+전환 향상(d=0.34); 동아시아 문화=언어적 억제 향상(d=0.24) — 두 요인이 각각 다른 EF 구성요소에 작용, 결합 시 상호작용"

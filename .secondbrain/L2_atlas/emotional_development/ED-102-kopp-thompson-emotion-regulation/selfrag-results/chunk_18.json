@@ -1,0 +1,20 @@
+{
+  "chunk_id": "chunk_18",
+  "chunk_summary": "이 청크는 유아기 및 아동기의 감정 발달, 행동 억제(behavioral inhibition), 스트레스 대처 기제, 그리고 감정의 신경생물학적 기반을 다룬 주요 연구들을 포괄적으로 제시합니다. 특히, 사회적 참조(social referencing)를 통한 감정 조절의 중요성, 모성 양육의 영향, 그리고 감정 기능의 뇌 영역별 분화(lateralization) 등 심층적인 발달 심리학적 주제들을 다루고 있습니다.",
+  "key_quotes": [
+    "The physiology and psychology of behavioral inhibition in children.",
+    "Emotions as behavior regulators: Social referencing in infancy.",
+    "Normative stress and coping processes in infancy."
+  ],
+  "checklists": [
+    "감정 자기조절",
+    "발달 단계",
+    "외재적 조절",
+    "내재적 조절",
+    "부모 개입",
+    "연령별 기준",
+    "신경생물학적 기제"
+  ],
+  "relevance": 0.92,
+  "domain": "emotional_development"
+}

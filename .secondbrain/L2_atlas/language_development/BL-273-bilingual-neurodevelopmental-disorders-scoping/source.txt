@@ -1,0 +1,29 @@
+ATLAS ID: BL-273
+Source: PMC12468967
+Author: Yuen et al. (2025)
+Journal: Children (Basel)
+Domain: language_development
+Tier: 2
+Grade: B
+
+---
+
+Yuen HK, Ge H, Zhang C, Wong YT, Chan EYW, Tsang WWN, Capio CM (2025). Children (Basel). PMC12468967. Scoping review (Arksey & O'Malley + JBI framework). 15 cross-sectional studies. N=982 ASD children (463 mono, 404 bi) + 644 TD (346 mono, 298 bi). Ages 5-12y.
+
+⚠️ DATA CORRECTION: 사용자 기재 "ASD/ADHD/DLD 아동도 이중언어 불이익 없음" — 실제로는 ASD에 관한 연구만 존재. ADHD, DLD(발달언어장애), 기타 신경발달장애 연구 없음 (= 중요 근거 공백).
+
+Key findings (ASD only):
+
+Working memory: Bilingual ASD children → superior accuracy + faster response on 2-back tasks vs. monolingual ASD peers
+
+Inhibitory control: Mixed results — bilingual advantage on global-local tasks, but NOT on Simon/Flanker tasks
+
+Cognitive flexibility: Bilingual ASD children → significantly better on DCCS set-shifting tasks; occasionally matched TD peer performance
+
+Parent-reported measures: Inconsistent with lab findings; bilingual advantages less evident in everyday EF
+
+Conclusion: "Bilingual exposure is associated with specific cognitive benefits in children with ASD" — particularly working memory and cognitive flexibility. However:
+- Research exclusively on ASD; ADHD/DLD/other = critical evidence gap
+- No studies confirmed bilingual disadvantage for ASD
+
+Key concept: "ASD 아동에서 이중언어=WM·인지유연성 이점(실험실 과제), 불이익 없음; ADHD/DLD는 데이터 없음 — '모든 신경발달장애 아동도 안전'은 근거 없는 과일반화"

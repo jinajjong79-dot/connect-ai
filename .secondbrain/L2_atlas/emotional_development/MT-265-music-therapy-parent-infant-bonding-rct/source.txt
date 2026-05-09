@@ -1,0 +1,24 @@
+ATLAS ID: MT-265
+Source: PMC10220519
+Author: Ghetti et al. (2023)
+Journal: JAMA Network Open
+Domain: emotional_development
+Tier: 2
+Grade: A
+
+---
+
+Ghetti et al. (2023). JAMA Network Open. PMC10220519. N=206 preterm infants (<35주 재태연령), 8 NICUs, 5개국. 6개월, 12개월 교정연령 추적. 2×2 factorial RCT (NICU 내 음악치료 × 퇴원 후 음악치료).
+
+⚠️ IMPORTANT — NULL RESULT: 사용자 기재 "음악치료→부모-영아 유대↑"는 RCT 결과와 불일치
+
+Key findings:
+- PRIMARY outcome (모-영아 유대, Postpartum Bonding Questionnaire):
+  - NICU 내 음악치료: β=0.55 (95% CI −2.20~3.30; p=.70) → 비유의
+  - 퇴원 후 음악치료: β=1.02 (95% CI −1.72~3.76; p=.47) → 비유의
+  - 상호작용 효과: β=−0.20 (p=.92) → 비유의
+- SECONDARY outcomes: 모성 우울, 부모 불안/스트레스, 영아 발달 — 집단 간 임상적 차이 없음
+
+Nuanced finding: 개입은 "안전하고 부모에게 잘 수용됨". 질적 데이터에서 부모 주도성·소통 증진의 측정되지 않은 이익 시사.
+
+Key concept: "음악치료가 수용성·안전성은 확인됐으나, 대규모 다국적 RCT에서 1차 유대 결과 개선 불확인 — 측정 도구의 한계 또는 표준화 개입의 개별화 실패 가능성"

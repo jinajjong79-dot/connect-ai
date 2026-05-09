@@ -1,0 +1,18 @@
+{
+  "chunk_id": "chunk_6",
+  "chunk_summary": "이 청크는 영유아의 수면 패턴, 수면 문제, 그리고 이것이 아동의 인지 기능, 실행 기능, 그리고 학교 적응에 미치는 영향을 다루는 핵심 학술 문헌 목록입니다. 주요 연구들은 수면 평가 방법론부터 유아기 수면 문제가 학령기 학교 적응에 미치는 종단적 영향까지 광범위하게 다루고 있으며, 수면과 전반적인 발달 간의 연관성을 강조합니다.",
+  "key_quotes": [
+    "The role of sleep in young children’s development: A review.",
+    "Associations between sleep duration patterns and behavioral/cognitive functioning at school entry.",
+    "Early childhood profiles of sleep problems and self‐regulation predict later school adjustment."
+  ],
+  "checklists": [
+    "수면 문제",
+    "실행기능",
+    "학교 적응",
+    "학업 성취",
+    "종단 추적 관련 항목"
+  ],
+  "relevance": 0.95,
+  "domain": "normal_development"
+}

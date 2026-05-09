@@ -1,0 +1,1562 @@
+Educational Psychology Review, Vol. 3, No. 4, 1991
+
+Emotional Regulation and Emotional
+Development
+Ross A. Thompson 1
+
+Current neofunctionalist views of emotion underscore the biologically adaptive
+and psychologically constructive contributions of emotion to organized
+behavior, but little is known of the development of the emotional regulatory
+processes by which this is fostered. Emotional regulation refers to the extrinsic
+and intrinsic processes responsible for monitoring, evaluating, and modifying
+emotional reactions. This review provides a developmental outline of emotional
+regulation and its relation to emotional development throughout the life-span.
+The biological foundations of emotional self-regulation and individual
+differences in regulatory tendencies are summarized. Extrinsic influences on
+the early regulation of a child's emotion and their long-term significance are
+then discussed, including a parent's direct intervention strategies, selective
+reinforcement and modeling processes, affective induction, and the caregiver's
+ecological control of opportunity for heightened emotion and its management.
+Intrinsic contributors to the growth of emotional self-regulatory capacities
+include the emergence of language and cognitive skills, the child's growing
+emotional and self-understanding (and cognized strategies of emotional
+self-control), and the emergence of a "theory of personal emotion" in
+adolescence.
+KEY WORDS: emotion; self-regulation; development.
+
+INTRODUCTION
+Recent neofunctionalist views of emotion have underscored the biologically adaptive and psychologically constructive contributions of emotion
+to competent and strategic behavior (e.g., Barrett and Campos, 1987;
+1Department of Psychology, University of Nebraska, 209 Burnett Hall, Lincoln, Nebraska
+68588-0308.
+269
+
+1040-726X/91/1200-0269506.50/0© 1991PlenumPublishingCorporation
+
+270
+
+Thompson
+
+Bretherton, Fritz, Zahn-Waxler, and Ridgeway, 1986: Campos, Barrett,
+Lamb, Goldsmith, and Stenberg, 1983; Campos, Campos, and Barrett, 1989;
+Malatesta, 1990; Saarni and Harris, 1989). Contrary to traditional formulations that emphasized how the irrational and stressful features of emotional arousal make it difficult to maintain competent functioning, these
+newer views emphasize how emotions organize social communication and
+interaction, personality processes, goal-achievement, and cognitive processing from an early age. Informed by bioevolutionary models of emotion in
+human adaptation, neofunctionalist views note that while emotional arousal
+retains its capacity to undermine healthy functioning, it also motivates and
+guides, even in children, adaptive behavioral processes as diverse as empathy (e.g., Hoffman, 1982), memory retrieval (Fagan, Ohr, Fleckenstein,
+and Ribner, 1985), parent-infant interaction (Gianino and Tronick, 1988),
+attachment (Thompson, Connell, and Bridges, 1988), and self- and otherunderstanding (Bretherton, McNew, and Beeghly-Smith, 1981). Emotion
+can thus be a "behavior regulator" (cf. Klinnert, Campos, Sorce, Erode,
+and Svejda, 1983) as well as a detriment to competency.
+This paper addresses an important but somewhat neglected aspect of
+this emerging viewpoint: the development of emotional regulatory processes. In many respects, the capacity of emotion to promote or undermine
+constructive functioning depends on the extent to which emotional arousal
+is monitored, evaluated, and (if necessary) controlled by the individual. In
+a sense, emotional arousal must itself be regulated for emotion to helpfully
+guide competent functioning. This is true not because emotional arousal
+p e r se is disorganizing, but because its biologically and psychologically adaptive motivational and organizational characteristics are contingent on
+arousal remaining within the individual's capacities to cope. This is especially evident in developmental analysis. Emotional arousal is regulated primarily by others early in life as caregivers monitor and regulate the baby's
+distress, promote positive affect, and direct the emergence of self-referent
+emotions, e.g., guilt and pride. But emotional arousal becomes increasingly
+self-regulated as the result of neurophysiological development, the growth
+of cognitive and linguistic skills, and the emergence of emotional and selfunderstanding. As a consequence, whereas the newborn infant may cry uncontrollably when distressed, the toddler is capable of seeking assistance,
+the preschooler can reflect upon and talk about her feelings, the school-age
+child can re-direct attention and use other deliberate strategies to reduce
+distress (and can control its expression to others), and the adolescent has
+sufficient self-understanding to evoke more personal, idiosyncratic selfregulatory strategies. These developmental changes not only render the
+child better capable of maintaining satisfying emotional homeostasis, but
+
+Emotional Regulation and Development
+
+271
+
+also permit her to enlist emotional arousal more successfully in ongoing
+transactions with the social and nonsocial surroundings.
+Although there has been considerable interest, therefore, in emotion
+as a regulator of other developmental processes (cf. Campos et al., 1989),
+there has been little attention to how emotion itself is regulated and how
+capacities for emotional regulation affect the course of emotional development. The purpose of this paper is to offer a developmental outline of the
+latter (see also Thompson, 1990).
+
+EMOTIONAL REGULATION AND BEHAVIORAL
+DEVELOPMENT
+Emotional regulation may be defined as the extrinsic and intrinsic
+processes responsible for monitoring, evaluating, and modifying emotional
+reactions, especially their intensive and temporal features. Biologically,
+emotions organize and coordinate multi-system responses to significant environmental events (e.g., Levenson, 1988). Thus, emotional regulatory
+processes are necessary both to provide flexibility (rather than stereotypy)
+to the behavioral processes that emotions help to motivate and direct, and
+also to enable organisms to respond quickly and efficiently to changes in
+their conditions by maintaining internal arousal within performance-enhancing limits. Not surprisingly, therefore, the evolution of higher-order
+cortical functions has fostered inhibitory controls over subcortical emotive
+processes (Panksepp, 1989), although inhibitory as well as excitatory processes related to emotional arousal can be found at various levels of nervous system organization (e.g., Dawson and Panagiotides, in press; Gunnar,
+1986; Porges, 1991). Thus, although humans may be evolutionarily
+equipped with a basic repertoire of primary emotions (cf. Izard and Malatesta, 1987), there are also biological foundations to emotional regulatory
+processes that significantly alter these primary emotional experiences that
+have evolved to provide increased flexibility and efficiency to emotive motivational systems.
+Psychologically, emotional regulation is a painstaking developmental
+process because it requires intervening into phylogenetically deeply-rooted
+affect systems with psychologically complex control mechanisms. For this
+reason, the management of emotion is an important component of "emotional maturity" (Jersild, 1954) and "emotional competence" (Gordon,
+1989; Saarni, 1990). The growth of emotional regulatory capacities is a significant part of emotional development, because as emotion is externally
+managed and increasingly self-regulated with development, emotional experience becomes socialized, acquires new meaning for the individual, can
+
+272
+
+Thompson
+
+be self-controlled and used purposively, and can thus be integrated into
+the child's growing repertoire of strategic behavioral processes. A broadening range of emotional regulatory competencies thus assists the child's
+own behavioral self-regulation while also channeling emotional experience
+in ways consistent with the "emotional culture" (Gordon, 1989) in which
+the child is raised.
+This is illustrated by a recent ethnographic study of three mothers and
+their 2 1/2-year-old girls in a blue-collar neighborhood in South Baltimore
+(Miller and Moore, 1989; Miller and Sperry, 1987, 1988). These mothers
+used a variety of deliberate socialization strategies to emotionally "toughen"
+their young offspring and guide their expressions of anger in light of the
+demands for assertiveness and self-defense in their inner-city neighborhood.
+These strategies included selectively reinforcing justified aggressive outbursts
+but rewarding self-control when aggression was unjustified or inappropriate;
+provoking mock "practice" episodes of aggression; fostering the child's anger
+when self-defense seemed warranted; and using verbal comments to interpret, challenge, warn, or pacify the child. As a consequence, their young
+offspring possessed a varied repertoire for expressing anger and learned to
+regulate, evoke, or disinhibit feelings of anger in subculture-specific ways.
+These socialization processes have functional value for children in the settings in which they are growing up, but they may also be dysfunctional in
+other interactive contexts. Self-assertiveness is not likely to benefit the child
+in subcultural settings with different values, for example, such as in the
+authority relations between students and teachers, or later between employees and employers. In these contexts, the effects of the child's socialized
+strategies of emotional management are much different because the meaning and interpretation of their emotional expressions is different outside the
+neighborhood in which they are appropriate. Thus, emotional regulatory
+processes help to channel the meaning and significance of emotional arousal
+in adaptive ways in particular contexts.
+Another reason for the importance of emotional regulation to emotional development is that an understanding of emotional regulation provides a window into the growth of individual differences in personality and
+social functioning. Individual differences in infants' reactions to strangers
+and separation are indexed primarily by variations in emotionality (e.g.,
+Thompson and Limber, 1990). Variations in the quality of peer relationships are related to the child's emotional self-regulatory skills (e.g., Gottman and Mettetal, 1986). Moreover, there is considerable evidence that
+variations in the security of infant-parent attachment are related to the
+child's ability to cope with the stress of infant-mother separation in the
+Strange Situation. These coping capacities depend, in part, on the amount
+of prior experience with separation (cf. Miyake, Chen, and Campos, 1985;
+
+Emotional Regulation and Development
+
+273
+
+Sagi, Lamb, Lewkowicz, Shoham, Dvir, and Estes, 1985), support from the
+caregiver (Dickstein, Thompson, Estes, Malkin, and Lamb, 1984), temperamental vulnerability (Gunnar, Mangelsdorf, Kestenbaum, Lang, Larson,
+and Andreas, 1991), and congenital characteristics (Stiefel, Plunkett, and
+Meisels, 1987; Thompson, Cicchetti, Lamb, and Malkin, 1985), as well as
+the development of early emotional self-regulatory capacities (Thompson
+et al., 1988). Emotional regulatory skills are also related to problems in
+peer relationships (Rubin and Rose-Krasnor, 1986, in press), such as with
+children whose anger and social inferences lead to aggression against agemates (Dodge, 1991; Dodge, Pettit, McClaskey, and Brown, 1986), or with
+children who are socially withdrawn because of shyness. Taken together,
+the growth of emotional regulatory skills may provide a developmental
+foundation for the emergence of social competence.
+Similarly, individual differences in significant dimensions of child temperament, personality, or behavioral style (e.g., dominant mood, approachwithdrawal, or threshold of responsiveness) may also have their roots in
+variations in emotional regulatory competencies (the same is true of adults
+with respect to dominant personality dimensions like warmth and extraversion). As revealed in the studies by Kagan (Kagan, Reznick, and Gibbons,
+1989; Kagan, Reznick, and Snidman, 1987) and Fox (1989a,b), for example,
+physiologically-based individual differences in the functioning of neural
+structures modulating emotionality are associated with behavioral markers
+of wariness, fearfulness, and inhibition. These differences in emotional and
+behavioral style are also influenced by caregiving interventions (see Kagan
+et al., 1987). Thus, physiologically- and experientially-based tendencies related to the management and control of emotional arousal have broad implications for an individual's style of engagement with the social and
+nonsocial world. The studies by Kagan and Fox suggest that if emotional
+regulatory processes shape the quality of emotional experience for an individual in ways that promote a withdrawn or outgoing behavioral style,
+then variations in regulatory skills or tendencies may help explain why emotional arousal means different things to different individuals throughout
+the life-span (e.g., for some, the arousal of anger is empowering such that
+for example, and for others, it is to be denied or avoided). Emotional regulation underlies many differences in social and personality functioning.
+Another reason for the importance of emotional regulation is that
+emotional regulatory processes are linked to cognitive functioning and academic achievement. Emotional self-management is required for the attentional and problem-solving strategies necessary for effective cognitive
+performance, especially in tasks involving delay, inhibition, or the substitution of long-term goals for immediate incentives (e.g., Mischel and Mischel,
+1977, 1983). They influence academic performance as they are enlisted in
+
+274
+
+Thompson
+
+managing performance stress, including test anxiety. Emotion management
+may also be significant during performance evaluations, especially for coping with the emotions engendered by academic successes and failures and
+their causal implications (e.g., Graham, 1991; Graham and Weiner, 1986),
+particularly as they relate to perceptions of competence and self-confidence. Finally, when children encounter distressing situations at home or
+elsewhere, their skills at emotional self-regulation may determine whether
+these situations impair academic performance or not (e.g., Hetherington,
+Cox, and Cox, 1982).
+Finally, emotional regulatory processes are important because of their
+relevance to the study of child clinical disorders and their etiology and
+treatment. This is because many childhood disorders entail affective dimensions, and problems in emotional self-regulation define many behavioral
+problems of childhood and adolescence (e.g., Achenbach and Edelbrock,
+1983). Moreover, as developmental psychopathologists have long recognized (cf. Rutter and Garmezy, 1983), understanding normative developmental processes such as those related to emotional regulation can provide
+added insight into the origins of early psychological disorders. The offspring
+of parents with depressive or bipolar disorders, for example, are themselves
+at risk for affective disorders, in part because of how the parent's disorder
+imposes demands on the child's nascent emotional self-regulatory capacities
+(see Zahn-Waxler and Kochanska, 1990). On the other hand, the study of
+Down Syndrome infants and children reveals how the physiological processes governing emotional regulation in normal and atypical populations
+can account for the more subdued, dampened emotionality of these children (Cicchetti, 1990; Thompson et al., 1985). In each case, normative processes of emotional regulation figure prominently in understanding the
+origins and characteristics of these clinical disorders.
+The relevance of emotional regulation to the understanding of child
+clinical disorders is especially apparent in the study of child maltreatment
+(e.g., Cicchetti, 1990). The socioemotional sequelae of maltreatment are
+apparent as early as infancy, and are especially manifested in disorders of
+emotional regulation. In Gaensbauer's evocative analyses, for example,
+abused or neglected infants observed in episodes of social interaction with
+a play partner displayed signs of regulatory dysfunction, including abrupt
+and unpredictable changes in mood, the "compartmentalization" of affect
+to specific eliciting conditions, shallowness, ambiguity, or ambivalence in
+emotional expressions, and infrequent expressions of pleasure (Gaensbauer,
+1982; Gaensbauer and Mrazek, 1981; Gaensbauer and Sands, 1979). In my
+own preliminary re-analyses of these data, these infants have also exhibited
+a marked and generalized "shutting down" of affective responsiveness. In
+many respects, these infants are vulnerable owing either to precocious, en-
+
+Emotional Regulation and Development
+
+275
+
+hanced capabilities in emotional management (what might be called "overregulation" of emotion), or deficient abilities in coping with their emotional
+arousal. At older ages, maltreated children exhibit an acute sensitivity to
+aggressive stimuli, are more likely to perceive ambiguous situations as
+threatening, are more prone to angry, frustrated, and aggressive outbursts,
+and also exhibit socioemotionally withdrawn, avoidant behavior (see Aber
+and Cicchetti, 1984; and Cicchetti, 1990 for reviews). The origins of these
+disorders of emotional regulation are complex, but it is noteworthy that
+the parents of maltreated infants and children exhibit less positive and more
+negative emotion toward their offspring (e.g., Burgess and Conger, 1978;
+Lewis and Schaeffer, 1981) and, in particular, tend to misidentify and respond inappropriately to the affective expressions of young children (e.g.,
+Frodi and Lamb, 1980; Kropp and Haynes, 1987). It seems likely, therefore,
+that through direct and indirect socialization processes, the emotional regulatory capabilities of infants and young children are shaped by the "emotional climate" of the home, for both maltreated and nonmaltreated
+populations.
+Taken together, these research literatures indicate both that emotional arousal can serve valuable purposes in organizing and motivating
+adaptive behavioral processes, but that its capacity to do so depends, in
+part, on the processes by which emotion is itself monitored, evaluated, and
+modified by the individual. The development of these emotional regulatory
+p r o c e s s e s - involving both extrinsic and emerging intrinsic capacities for
+managing emotional a r o u s a l - is a life-span process, involving an ongoing
+dialectic between the individual and the demands of the social surroundings. I now turn to an overview of some of the major influences on this
+developmental process.
+
+BIOLOGICAL UNDERPINNINGS OF EMOTIONAL
+REGULATION
+
+Normative Changes in Nervous System Functioning
+As noted earlier, the management of emotion - - whether through extrinsic influences or through self-regulation - - is built upon systems of nervous system organization that have evolved to provide flexibility, efficiency,
+and control over emotive motivational processes. Some of these systems
+are immature at birth, and thus some of the neurological prerequisites of
+emotional regulatory processes are not fully functional early in infancy. Parents of young babies discover this to be true when, despite their concerted
+efforts to regulate the infant's arousal states, the newborn shifts unpre-
+
+276
+
+Thompson
+
+dictably and erratically from quiescence to heightened distress, and back
+again, and shows few genuine indicators of positive emotion.
+Although surprisingly little is known about these emerging systems
+of nervous system organization, existing research indicates that two processes, occurring simultaneously, are related to the development of excitatory and inhibitory emotive processes early in infancy. First, diffuse
+excitatory processes are functionally active from birth but decline in lability
+throughout the first year, especially those related to adrenocortical activity
+(Gunnar, 1986; Gunnar et al., 1991; Gunnar, Mangelsdorf, Larson, and
+Hertzgaard, 1989; Gunnar, Marvinney, Isensee, and Fisch, 1989). At the
+same time, parasympathetic activity assumes an important role in arousal
+regulation (Porges, 1991). As a consequence, organismic arousal gradually
+assumes less of the reactive, all-or-none character of the immediate postnatal period.
+Second, cortical inhibitory controls over emotive systems emerge more
+slowly during infancy and may not become fully functional until long after
+birth. There appear to be at least two important transitions in their emergence, however. The first occurs at 2-4 months of age with the growth of
+rudimentary forebrain inhibitory centers, and this is reflected in behavioral
+state changes (e.g., the gradual suppression of neonatal reflexes, the emergence of more regular sleep-wake patterns, greater regularity and control
+of behavioral state, etc.), and emotional changes (e.g., an increase in exogenous smiling and a decline in unexplained fussiness, growing emotional responsiveness to contingent stimulation, and a capacity for laughter) (Emde,
+Gaensbauer, and Harmon, 1976; Sroufe and Wunsch, 1972; Watson, 1972;
+Watson and Ramey, 1972). This growing environmental responsiveness may
+have its roots in the emergence of rudimentary cortical inhibitory systems
+that exert regulatory control over fluctuations in behavioral state and permit
+the infant to attend and respond to situational events.
+A second transition occurs at about 9-10 months of age, and is associated with developmental changes in frontal lobe activity and hemispheric specialization related to emotion. Diamond (1988a,b) has argued
+that a capacity for response inhibition emerges at this time because of the
+maturation of the frontal cortex (specifically the dorsal-lateral prefrontal
+cortex) which facilitates inhibitory control over initial response tendencies.
+As applied to cognitive processing, this enables infants to override initial
+response tendencies to permit memory-based approaches (such as those
+required for correct solution of Piaget's A-not-B problem) and goaldirected behavior. The same frontally-mediated inhibitory processes may
+also regulate excitatory processes related to emotional arousal (Dawson and
+Panagiotides, in press). In addition, there is considerable evidence that
+many cognitive and affective functions are cerebrally lateralized by this time
+
+Emotional Regulation and Development
+
+277
+
+(see Kinsbourne and Hiscock, 1983), with relatively greater left frontal activation occurring in situations eliciting approach/positive emotionality, and
+relatively greater right frontal activation occurring in situations evoking
+withdrawal/negative emotion (Davidson and Fox, 1982; Fox and Davidson,
+1987, 1988, 1991). Fox and Davidson (1984) have argued that right and
+left frontal lobes may increasingly exert mutual regulatory control during
+the 9- to 12-month period because of their connections to common subcortical structures, their growing functional maturity (cf. Diamond's work),
+and the maturation of transcollosal fibers during this period. Most notably,
+the left frontal cortex assists in the management of right hemispheric activation related to withdrawal/negative emotion, according to Fox and
+Davidson (1984; see also Tucker and Frederick, 1989). This is manifested
+not only in a greater capacity for emotional response inhibition but also
+in the emergence of more complex affective reactions (e.g., emotional
+blends).
+Taken together, therefore, the first year of life witnesses the growth
+of emotional regulatory capacities owing both to the consolidation and stability of excitatory systems and the progressive maturation of cortical inhibitory processes, especially in the frontal lobe. Because the latter is an
+extended developmental process--lasting well into childhood (Fox and
+Davidson, 1984; Kinsbourne and Bemporad, 1 9 8 4 ) - it appears that neurophysiological maturation contributes to the growth of emotional selfo
+regulatory capacities in the early years of life, although considerably more
+research is required to confirm and extend this speculative analysis.
+Individual Differences in Nervous System Reactivity
+In addition to these normative developmental changes, researchers
+have also been interested in the neurophysiological processes governing individual differences in emotionality and emotional regulation. Much of this
+interest has centered on differences in temperament: variations in behavioral style that are presumed to have a constitutional and/or hereditary basis. Despite considerable differences in how theories define temperament,
+most temperamental theories underscore individual differences in emotionality, and at least one prominent theory (i.e., Rothbart and Derryberry,
+1981) emphasizes the self-regulatory aspects of temperament (see Bates,
+1987; Goldsmith, Buss, Plomin, Rothbart, Thomas, Chess, Hinde, and McCall, 1987 for reviews). To Rothbart and Derryberry, temperament consists
+of "constitutional differences in reactivity and self-regulation" (Derryberry
+and Rothbart, 1984, p. 132) in which positive and negative emotion and
+their regulatory features assume a prominent role (Derryberry and
+
+278
+
+Thompson
+
+Rothbart, 1984; Rothbart and Derryberry, 1981; Rothbart and Posner,
+1985). In her infancy studies, for example, Rothbart has examined individual differences in smiling and laughter, fear, anger and frustration, and
+soothability in terms of regulatory response parameters such as latency, intensity, rise-time, and recovery of emotional reactions (e.g., Rothbart,
+1981). In their theoretical work, Rothbart and her collaborators emphasize
+the neurophysiological, endocrinological, and other biological bases of temperamental individuality, but also underscore developmental changes in
+temperament as these systems mature and reorganize throughout the lifespan (see Rothbart and Posner, 1985).
+There are emerging research findings elucidating the links between
+these neurophysiological processes and temperamental manifestations of
+emotional self-regulatory processes that give credence to this view. In particular, in his longitudinal study of behaviorally inhibited and uninhibited
+young children, Kagan has suggested that inhibited children have a generally lower threshold of reactivity in limbic structures mediating fear and
+defense (i.e., the amygdala and/or hypothalamus), and this is manifested
+in differences in autonomic measures (e.g., higher heart rate, salivary cortisol, and urinary epinephrine levels) and behavioral measures reflecting
+heightened fearful, wary, and shy behavior (see Kagan et al., 1987 for a
+review). In a similar vein, Fox (1989a,b; Stifter and Fox, 1990) has compared groups of infants who differ on cardiac measures of autonomic functioning and found that infants with higher and more stable heart rates were
+emotionally less reactive and more wary in repeated assessments over the
+first 2 years of life, and he has interpreted these differences in terms of
+parasympathetic regulation (rather than sympathetic activation). Evidence
+adduced from each set of studies strongly suggests, therefore, that individual differences in physiological reactivity and regulation underlie significant
+differences in emotionality and its regulation, consistent with the views of
+temperamental theory. Furthermore, there is some evidence for the heritability of these individual differences in neurobehavioral functioning
+(Healy, Fox, and Porges, 1988).
+Although these findings are provocative, they should not be interpreted as suggesting that individual differences in temperament or emotional
+regulation are unchanging or immutable because of their biological basis.
+As noted earlier, Kagan discovered that behavioral manifestations of infants'
+inhibition were influenced by caregivers' socialization efforts (Kagan et al.,
+1987), and this observation is consistent with views underscoring the importance of the "goodness of fit" (Lerner and Lerner, 1983) or "match" (Buss
+and Plomin, 1984) between a child's temperamental characteristics and environmental demands. Furthermore, Dienstbier (1989) has argued that experiences of intermittent s t r e s s - - s u c h as those provided by mental
+
+Emotional Regulation and Development
+
+279
+
+challenges, aerobic exercise, or other challenges to the individual - - can alter
+the physiological systems governing emotional and stress reactions in humans by facilitating resistance to neuroendocrine depletion and by enhancing catecholamine capacity. As a consequence, these experiences not only
+foster better performance in future situations involving organismic activation, but can have long-term effects on emotional and personality functioning. Taken together, therefore, although individual differences in aspects of
+emotional regulation have important neurobiological constituents, there remains considerable flexibility to these differences arising from one's history
+of experiences.
+
+EXTRINSIC REGULATION OF EMOTION IN INFANCY
+Although young infants are capable of a limited repertoire of selfsoothing behaviors (e.g., sucking on hands or fingers, visual avoidance, withdrawal, and rocking) (see Gianino and Tronick, 1988; Lipsitt, 1983; Kessen
+and Mandler, 1961), these behaviors have little effectiveness when elicitors
+persist or arousal is very high, and thus infants must rely on the assistance
+of caregivers to regulate their emotional arousal (Karraker and Lake, 1991).
+Adults can remove the source of distress when infants are incapable of
+doing so for themselves, and can provide other assists (e.g., a pacifier, a
+favorite toy, cuddling, etc.) that can foster the management of arousal
+(Campos, 1989). These interventions are the earliest ways in which emotion
+is extrinsically regulated, and they are important not only because of their
+immediate effects on the child's arousal, but also because they contribute
+to the socialization of emotional experience in accord with sociocultural
+beliefs about the suitability of different emotions and their expression and
+intensity that constitute the "emotional culture" (Gordon, 1989). Parents
+intervene into the emotional life of offspring, in other words, in accord
+with their personal beliefs and cultural values concerning emotion and its
+expression, and these interventions thus socialize emotional experience
+from infancy. And as we shall note below, the extrinsic regulation of emotion continues throughout life, although after infancy it is increasingly supplemented by the individual's own self-regulatory efforts. The individual
+also construes the effects of the emotional culture in idiosyncratic ways,
+and selects settings and demands that provide further support to emotional
+self-regulation.
+Several modes of extrinsic emotional regulation appear earliest in infancy. These include the immediate and long-term effects of the caregiver's
+direct intervention strategies, the influence of selective reinforcement and
+modeling practices, the effects of affective induction on the child's emo-
+
+280
+
+Thompson
+
+tional experience, and the caregiver's control of opportunity for emotional
+arousal and its management.
+
+Direct Intervention
+
+Strategies
+
+Clearly, the promptness and efficacy of the caregiver's interventions
+- - especially when the baby is distressed - - influence the child's immediate
+emotional experience but may also affect the child's reliance on the
+caregiver for assistance on future occasions. As Lamb (1981a,b) has argued,
+"distress-relief sequences" are highly salient early experiences involving
+contingent associations between the infant's distress and the caregiver's
+ministrations. These characteristics make early experiences optimal learning
+opportunities for the development of social expectations. When caregivers
+respond promptly and contingently, the states of quiet alertness that result
+(Korner and Thoman, 1970, 1972) foster the child's conditioned association
+of the caregiver's cues with the relief of distress. Indirect evidence supporting this formulation comes from studies by Gekoski, Rovee-Collier, and
+Carulii-Rabinowitz (1983) and Lamb and Malkin (1986) showing that infants as young as 1-2 months old quieted in anticipation of the caregiver's
+assistance when hearing or seeing the adult's arrival before being picked
+up and comforted. Anticipatory quieting increased during the early months
+of life, and infants protested when the caregiver approached but did not
+pick up the baby. These findings are consistent with the view that social
+expectations concerning the adult's assistance are developing during this
+period. Indeed, these expectations probably underlie the child's stress-tolerance when the adult's assistance can be anticipated, which is a hallmark
+of a secure attachment (cf. Ainsworth, Blehar, Waters, and Wall, 1978;
+Lamb, Thompson, Gardner, and Charnov, 1985).
+The caregiver's direct intervention strategies also may influence the
+regulation of emotion in another way. Insofar as infants experience a relatively consistent history of experiences concerning distress arousal and
+caregiver responsiveness, they may acquire distinct styles of emotional regulation based on the adult's intervention strategies and their effectiveness.
+For example, parents who regularly permit the child's distress to escalate
+to high levels before intervening not only reinforce the child's rapid escalation of distress intensity, but also may contribute to the child's more limited soothability (since highly distressed babies are more difficult to
+comfort). Conversely, caregivers who respond more immediately may foster
+the child's own emerging self-regulatory efforts by keeping the child's
+arousal within manageable limits through their own interventions.
+
+Emotional Regulation and Development
+
+281
+
+The importance of direct intervention strategies extends beyond infancy. As children grow older, however, parents intervene in more differentiated ways to emotional expressions of offspring, and seek to regulate
+these expressions in accordance with the "emotional culture" (cf. Gordon,
+1989; Miller and Sperry, 1987). For example, Brooks-Gunn and Lewis
+(1982) noted that over the first 3 years of the child's life, mothers became
+significantly more responsive to smiles, less responsive to frets and cries,
+and more responsive to nondistressed vocalizations of o f f s p r i n g - consistent with changing social expectations concerning the expression of positive
+and negative emotion by infants and preschoolers (see Lewis and Michalson, 1983). It is likely that parents also respond distinctively to expressions
+of distress, anger, fear, and other negative emotions over the same period.
+Moreover, their interventions are increasingly accompanied by meta-emotive messages (e.g., "big boys don't cry when they don't get what they
+want!") that shape the child's emerging representations of emotion and its
+regulation, as we shall see below. In these ways, therefore, direct intervention strategies remain important influences in the extrinsic regulation of
+emotion and its socialization.
+Selective Reinforcement and Modeling
+
+Not only distress but positive emotions are regulated in infancy as
+caregivers seek to enhance the latter while minimizing the former. One way
+to do so is through selective reinforcement and modeling of emotional behavior, which have been studied most frequently in the context of motherinfant face-to-face play interactions (Fogel, 1982; Gianino and Tronick,
+1988; Tronick, Cohn, and Shea, 1986). These interactions are important arenas for the extrinsic regulation of emotion because play activity itself fosters
+heightened arousal that must be managed to maintain a pleasant encounter.
+For this reason, one of the caregiver's goals during face-to-face exchanges
+is to maintain an optimal level of arousal in the baby that sustains interest
+and pleasure without the child becoming overaroused and distressed. This
+is accomplished by monitoring the child's emotional and attentional cues
+and responding sensitively to signs of disinterest, distress, or fatigue (e.g.,
+Brazelton, Koslowski, and Main, 1974: Field, 1981; Stern, 1974, 1977;
+Thompson and Lamb, 1983). The successful outcome of these efforts is not
+only pleasant play exchanges, but also the enhancement of the child's emerging capacities to cope with states of heightened excitement, or what one
+researcher has called "affective tolerance" (Fogel, 1982).
+In microanalyses of mother-infant interaction, Malatesta (1990;
+Malatesta, Culver, Tesman, and Shepard, 1989; Malatesta, Grigoryev,
+
+282
+
+Thompson
+
+Lamb, Albin, and Culver, 1986; Malatesta and Haviland, 1982) has reported
+that when playing with their babies, mothers restricted their facial expressions primarily to positive emotions (e.g., enjoyment, interest, and surprise),
+and also imitated many infant facial expressions, especially those of positive
+emotions. In other words, infants who smiled were greeted with mothers
+who smiled in return; those who fussed had mothers who quickly acted to
+re-direct the baby's emotional response more positively. In this manner, it
+appears mothers sought to accentuate, modulate, and regulate their offspring's positive emotional experience in play. These patterns of selective
+reinforcement and modeling may help to explain the linear increase in positive emotional expressions observed in these babies as they grew older, as
+well as the similarity between mothers and infants in their expressive styles
+(Malatesta and Izard, 1984). Moreover, there is reason to believe that these
+interactive experiences also foster the child's nascent skills at emotional
+management by providing the baby with frequent experiences of heightened
+arousal that are maintained within the child's capacities to hope. As a consequence of experiences that foster "affective tolerance," in other words,
+the baby's tolerance of heightened arousal in other contexts may also be
+fostered.
+Parents continue to use selective reinforcement and modeling as
+modes of extrinsic emotional regulation throughout a child's early years
+(cf. Miller annd Sperry, 1987). As noted earlier, parental approaches become more multifaceted, including verbal instruction, and more emotionspecific as the child matures. For example, parents' modeling and their
+expectations for the management of anger may lead some children to voice
+angry feelings with explosive words and gestures, others to become distressed, others to minimize the direct expression of anger, and still others
+to lose control in temper tantrums and other outbursts. Similar processes
+are likely to apply to how children learn to cope with feelings of disappointment, frustration, pride, and other emotions. In general, parents are
+more likely to reward self-controlled emotional displays than uncontrolled
+expressions, in accord with socialization goals related to the emotional culture. This makes emotional regulation and the regulation of emotional displays important socialization goals in childhood.
+As these examples suggest, however, the consequences of parental
+selective reinforcement and modeling may sometimes be unintended. ZahnWaxler and Kochanska (1990) have noted, for example, that (1) the offspring of depressed mothers often experience heightened guilt owing to
+the mother's modeling of negative attributional styles, and (2) that younger
+offspring have special difficulties in regulating interpersonal emotions like
+empathy and guilt because of their experiences with a depressed caregiver
+who exhibits negative affect and helplessness and who uses guilt-inductive
+
+Emotional Regulation and Development
+
+283
+
+disciplinary practices. In such cases, the detrimental effects of parental reinforcement and modeling practices are combined with other emotional demands on the child that undermine rather than foster effective emotional
+regulation.
+
+Affective Induction
+
+Selective reinforcement and modeling may not alone affect the baby's
+emotional experience with the mother during episodes of face-to-face play.
+Another influence may be the emotional tone of the mother's behavior. Haviland and Lelwica (1987) reported that the facial expressions of 10-week-olds
+frequently matched the posed facial expressions of their mothers for emotions of joy and anger, and that their responses to maternal expressions of
+sadness were also distinctive. Termine and Izard (1988) similarly reported
+that 9-month-olds showed more joy, played more, and looked more at their
+mothers when mothers displayed positive emotion. They showed more sadness and anger and looked away when mothers displayed sadness. These
+provocative findings suggest that in these and other situations, a baby's emotional experience may be regulated by a variety of experiences of emotional
+contagion or induction in which a caregiver can influence, either deliberately
+or unintentionally, the child's emotional experience.
+Affective induction as an extrinsic mode of emotional regulation can
+be observed not only in face-to-face play but in other interactive contexts
+during which caregivers provide an emotionally resonant response to the
+baby's emotional expressions (e.g., a resounding "yeah!" when the child
+smiles and exuberantly bangs on a drum). This has been called affective
+attunement by Stern (1985; Stem, Hofer, Haft, and Dore, 1985), who argues
+that it is sometimes used deliberately by the mother to enhance or dampen
+her child's emotional reactions. Another form of affective induction occurs
+in response to the child's specific efforts to obtain emotional cues from
+trusted adults. In social referencing, children deliberately look to familiar
+adults for information about how to evaluate an ambiguous or uncertain
+event, such as when encountering a friendly stranger (Campos and Stenberg, 1981; Feinman, 1982, 1985; Klinnert et al., 1983). The emotional cues
+the child receives contribute to accentuating, dampening, redirecting, delaying, or otherwise altering the child's emotional and behavioral reactions
+to the event, often by arousing resonant emotion in the child. Social referencing can be observed in infants as young as 7 months of age. In our
+own laboratory research we have observed that it is sometimes deliberately
+employed by parents to alter the child's initial emotional reactions to uncertain situations. It is similar to how, in adults, emotional responses are
+
+Thompson
+
+284
+
+affected by the reactions of others to ambiguous events (e.g., reacting to
+an official's call at a hockey game).
+Like the other modes of extrinsic emotional regulation, affective induction often can have complex and unanticipated consequences for young
+children, partly because children respond to a caregiver's emotional expressions with diverse emotional responses of their own, as indicated by
+the studies reviewed earlier. In a series of naturalistic home observations
+and laboratory studies, for example, Cummings and his colleagues (Cummings, 1987; Cummings, Iannotti, and Zahn-Waxler, 1985; Cummings,
+Zahn-Waxler, and Radke-Yarrow, 1981, 1984; Zahn-Waxler and Kochanska, 1990) observed that toddlers responded with distress, anger, and anxiety in the presence of adult expressions of anger. In one experimental
+study, young children were more likely to act aggressively toward an innocent peer when adults argued in the background, and convergent evidence suggested that this aggression was due to the effects of the adult's
+angry expressions on the child's emotional state (Cummings et al., 1985).
+A follow-up study revealed that children's reactions depended also on the
+degree of marital discord in the child's own family (Cummings, Pellegrini,
+Notarius, and Cummings, 1989). This research is important because it suggests how the "emotional climate" of the home can significantly affect the
+regulation of a child's emotional experience through processes of affective
+induction similar to those described above. It also indicates other consequences for children growing up with parents who have depressive or bipolar disorders.
+
+Control of Opportunity
+Direct intervention strategies, selective reinforcement and modeling,
+and affective induction are ways parents regulate the emotions of offspring
+by influencing the circumstances in which they experience states of heightened emotional arousal. Although young children naturally have many opportunities to experience heightened distress, anger, joy, frustration, and
+other emotions, their emotional experience is further regulated by the ecological and caregiving conditions created by parents which significantly influence the frequency, regularity, persistence, and intensity of these
+opportunities. These caregiving conditions are constituted in many ways:
+they are affected by the socioeconomic circumstances of the family, the
+physical ecology of the home, the child-rearing values of the parents, and
+overarching cultural values concerning children and emotion, to name a
+few. In a sense, therefore, adults control many of the opportunities children
+have to experience and learn to cope successfully with heightened emotion.
+
+Emotional Regulation and Development
+
+285
+
+This is an important contributor to the development of individual differences in emotional regulation in the early years of life, before children can
+exert significant control over their own settings and experiences.
+Cross-cultural studies of early development reveal many examples of
+the control of opportunity, that is, parental efforts to regulate emotion in
+offspring by regulating the ecological circumstances provoking emotion.
+Cultural norms concerning child-rearing practices direct many features of
+a young child's early experiences, including disruptive or upsetting childrearing procedures (e.g., early independence-training), regular or prolonged
+separations from the parent, the amount of stimulation provided the child
+(e.g., through the use of swaddling, cradleboards, etc.), the interpretation
+of the child's needs and emotions (e.g., through cultural portrayals of children as innocent or demanding that can influence parental responsiveness),
+the interpersonal density of the physical ecology, the use and quality of
+extrafamilial caregiving arrangements, and in many other ways. As noted
+in Caudilrs classic studies (Caudill and Frost, 1975; Caudill and Weinstein,
+1969), for example, the diminished emotional lability and expressiveness of
+Japanese infants compared to their American counterparts can be attributed to (1) the more soothing, pacifying style of Japanese mothers, (2) the
+small size of the Japanese home that promotes greater mother-infant proximity than in America, (3) the fact that it is culturally normative for Japanese mothers and babies to bathe together, sleep together, and engage in
+other physically intimate activities, and (4) the fact that the American custom of babysitting is practiced infrequently in Japan (Miyake, Campos, Kagan, and Bradshaw, 1986; Chen and Miyake, 1986), In these and other
+ways, young children develop skills of emotional regulation based on opportunities to experience and cope with states of heightened emotion in
+the ecological conditions parents provide.
+Regulating emotion by controlling the ecological circumstances provoking emotion is a life-long strategy, but it becomes increasingly self-controlled with maturity. As adolescents and adults exercise greater control over
+their ecological settings and the emotional demands they experience within
+those settings (e.g., stresses from noisy neighbors or a crowded workplace),
+they become capable of better regulating the emotional demands of daily
+life. There is evidence that this becomes a very important component in the
+self-regulation of emotion in older adults. As Carstensen has argued, older
+adults increasingly select settings and relationships that conserve physical
+energy, maximize positive affect, and ensure manageable and predictable
+socioemotional demands (Carstensen, 1987, in press; Frederickson and Carstensen, 1990). In controlling the opportunities for experiencing heightened
+emotional arousal and its management, older adults create ecological settings that are emotionally congenial and supportive for them.
+
+286
+
+Thompson
+
+Summary
+Although the rudiments of emotional self-regulatory capabilities are
+present in infancy, this period is predominated by the influence of caregivers' extrinsic modes of emotional regulation. The parent's direct intervention strategies, selective reinforcement and modeling, affective induction,
+and ecological control of opportunities to experience and regulate heightened emotion have life-long consequences. Caregivers continue to implement these practices in age-appropriate ways to foster the child's emotional
+self-control and to increasingly socialize emotion and its expression into
+the emotional culture. There remains quite a research agenda concerning
+these processes, and especially how they are applied in more discriminating
+and emotion-specific ways as children mature. Moreover, given the diversity
+of the settings in which infants and children are growing u p - including
+day-care and family care homes, preschool and elementary school settings,
+and the "framed" settings of television and other media (Dorr, 1985) m
+our limited knowledge concerning their emotionally-regulating influences
+(and the concordance of these influences with those of parents) defines
+another important research challenge.
+
+GROWTH OF INTRINSIC EMOTIONAL REGULATION IN
+THE TODDLER AND PRESCHOOL YEARS
+In the years following infancy, caregivers remain significant influences
+on emotional regulation. But their contributions evolve together with the
+child's growing capacities for emotional self-regulation. Many of these
+changes are associated with the growth of language skills during the toddler
+and preschool years.
+Language and the Extrinsic Regulation of Emotion
+Language significantly alters how a child's emotional experience can
+be managed by caregivers because discourse about emotion becomes possible. Language may be an especially powerful mode for the extrinsic regulation of emotion because of its explicitness, its capacity for past and future
+reference (which enables adults to draw upon a history of shared experiences as well as to anticipate future events when conveying messages about
+emotion), and its multifaceted quality. As a consequence, children can receive influential verbal messages from adults concerning the circumstances
+requiring emotional regulation, the benefits of regulated emotion, the
+
+Emotional Regulation and Development
+
+287
+
+strategies by which emotion may be regulated, the social rules governing
+emotional displays, and other information pertinent to emotion and its
+management. It is also striking how early these influences can be observed.
+Bretherton and her colleagues (Bretherton and Beeghly, 1982; Bretherton
+et al., 1981, 1986; Dunn, Bretherton, and Munn, 1987) found that explicit
+reference to emotional experiences grew significantly after 18 months of
+age and that by the third year children made relatively frequent reference
+to internal states associated with emotion.
+There are several ways this kind of verbal interaction can influence
+emotional regulation. First, parents can actively direct regulatory processes
+through verbal instruction, which can include exhortation ("Will you please
+calm down!"), threats ("You'll go to your room if you don't stop crying!"),
+and warnings of the consequences of unregulated emotion ("You'll get hiccups if you keep laughing so hard"). These messages not only have an immediate impact but also shape the child's understanding of emotion;
+children become keenly aware of the reasons for parents' efforts to direct
+the regulation of emotion and its expression in certain situations (Saami,
+1990). Second, parent-child discourse can also regulate emotion through
+the adult's management of information to the child, such as when children
+must face an uncomfortable or stressful experience that is explained and
+interpreted by the parent (e.g., a hospital procedure) (Miller and Green,
+1985). Third, parents can use language to suggest explicit emotional regulatory strategies to the child, such as the value of distracting mental imagery, comforting self-talk, redirecting thoughts, using external distractors,
+re-defining goals and outcomes, and similar procedures. Fourth, discourse
+about emotion is also important as children overhear parents talk about
+their own emotional experiences. There is evidence that children learn
+about emotion and its management indirectly from these conversations (cf.
+Miller and Sperry, 1987). It is worth noting that discourse about emotion
+also assumes an important role in the understanding of emotional experience and its regulation in peer relationships at somewhat older ages (cf.
+Gottman and Mettetal, 1986).
+
+Emotional Understanding and Emotional Self-Regulation
+Language is important not only as a means of discourse about emotion with caregivers, however. In addition to its powerful role as an extrinsic
+regulator of emotion, language is important also as it shapes a child's own
+symbolic representations of emotion and emotional experiences. Indeed,
+language is developmentally significant in emotional self-regulation because
+the effects of parent-child discourse about emotion begin at a time when
+
+288
+
+Thompson
+
+children are themselves acquiring a conceptual network of emotion terms,
+concepts, and ideas, in short, a social-cognitive understanding of emotion.
+Language thus enhances the child's reflective consciousness of emotion,
+and this makes emotive processes themselves the subject of reflection and
+analysis. In its most specific applications, language becomes an early mode
+of direct emotional self-regulation, such as in the self-coaching of young
+children in emotionally demanding situations (exemplified by the toddler
+who is overheard saying during a brief separation, "Mommy will come back.
+She said she would come back"; Smolek and Weinraub, 1979).
+More broadly, however, the growth of representational skills related
+to emotion provides the basis for the earliest cognized strategies of emotional regulation, which are part of the child's meta-emotive understanding,
+or knowledge of emotional processes (Thompson, 1990). Once children begin to acquire knowledge of emotion and its constituents, in other words,
+their capacity to identify and implement strategies of emotional regulation
+begins to emerge. One reason is that an understanding of emotion sensitizes children to the various targets of regulatory influence (e.g., one's sensory experience in emotionally-arousing circumstances, the reactions of
+others to one's emotional displays, the nature of the conditions that arouse
+emotion, internal psychological processes related to emotion, etc.). Moreover, emotional understanding also enables children to reflect on the origins and consequences of emotional arousal and its expression, and this
+can motivate and direct self-regulatory efforts. Thus, the growth of emotional understanding and knowledge of the regulation of emotion develop
+in tandem, and their origins are in the child's earliest conceptual representations of emotion during the preschool years.
+According to Meerun Terwogt and Olthof (1989), there are several
+components to children's metaemotive understanding that assist them in
+their emotional regulatory efforts. First, there is the child's understanding
+of the antecedents of emotion, or the associations between specific situations and the emotional reactions they provoke. This kind of knowledge
+emerges very early: before 3 1/2 years of age, children can accurately identify situations that elicit simple emotional reactions like happiness, sadness,
+anger, and fear (Borke, 1971; Harter, 1982a; Mood, Johnson, and Shantz,
+1978; Trabasso, Stein, and Johnson, 1981; see also Barden, Zelko, Duncan,
+and Masters, 1980; Harris, Olthof, Meerum Terwogt, and Hardman, 1987).
+The emotional lexicon expands significantly in the years that follow (Harter,
+1982a, Ridgeway, Waters, and Kuczaj, 1985; Russell and Ridgeway, 1983;
+Schwartz and Trabasso, 1984), and children can increasingly discriminate
+between the different causal antecedents of emotion (e.g., Graham and
+Weiner, 1986; Thompson, 1987, 1989; Weiner and Graham, 1984), including distinguishing between psychological and situational determinants of
+
+Emotional Regulation and Development
+
+289
+
+emotion (e.g., CJnepp and Chilamkurti, 1988; Gnepp and Gould, 1985; Harris, 1983; Stein and Trabasso, 1989).
+Thus, early emotional concepts are behaviorally-based, simple, and
+limited in depth and scope. As children increasingly acquire broader, more
+sophisticated, psychologically-based emotion concepts, their knowledge of
+the diverse origins and regulatory influences of emotion expands. For example, an early understanding of pride that is based primarily on positive
+outcomes develops into a more mature conception that depends on positive
+outcomes that are based on one's own deliberate efforts (Stipek, 1983;
+Thompson, 1987, 1989). Similarly, children begin to understand that guilt
+is warranted not just when bad things happen, but when one is responsible
+for them (Thompson, 1987, 1989).
+A second component of meta-emotive understanding is knowing the
+consequences of an emotional response. There are two aspects of this understanding. The first concerns knowing the consequences of an emotional
+display, which is related to how children understand the sociocultural rules
+governing emotional expressions. As Saarni (1979, 1989, 1990) has shown,
+children in the early grade-school years become aware that emotional displays should be regulated to avoid hurting another's feelings or being personally embarrassed, and to get attention, elicit sympathy, or obtain help
+from others. There is additional evidence that even children as young as
+age 4 can use emotional display rules appropriately, even when they cannot verbalize their strategy or reasons for using them (Cole, 1986). Thus,
+one reason for emotional regulation is because children know the consequences of unregulated emotional displays (see Fuchs and Thelen, 1988).
+Children and adults seek to regulate emotional arousal in order to manage
+its expression.
+But children and adults also strive to regulate emotion independently
+of its social consequences. Unpleasant emotional states are managed because of their subjective discomfort; emotions like anger, fear, or frustration are regulated, at times, because they can undermine effective
+functioning. Thus, knowing the consequences of an emotional response
+includes knowing the consequences of emotional arousal. We know relatively little about how this aspect of meta-emotive understanding develops.
+In one study, children from the age of 6 (the earliest age studied) were
+aware that they perceived others more positively when they were in a positive mood, and that negative emotion impaired task performance (Harris,
+Olthof, and Meerum Terwogt, 1981). From the late preschool years, children are also aware that happiness instills generosity, anger diminishes
+self-control, and sadness as well as anger dampens self-gratification (Masters and Carlson, 1984). But this aspect of children's meta-emotive knowl-
+
+Thompson
+
+290
+
+edge deserves further study, primarily because of its significance for managing emotional experience.
+A third component of meta-emotive understanding is children's knowledge of the strategies of emotional self-regulation. There has been considerable research on children's awareness of these strategies, although it relies
+largely on self-report and, in light of Cole's (1986) provocative findings reviewed earlier, it is important to enlist nonverbal performance measures in
+future studies with young children. Even so, current findings indicate that
+during the preschool years, children rely largely on a few very simple approaches to managing their own emotional experience. Preschoolers can alter their emotional experience by regulating sensory intake (e.g., covering
+the eyes or ears) (Bretherton et al., 1981). Sometimes they simply ignore an
+emotionally-arousing stimulus, even when it is personally threatening, or
+leave the situation, or otherwise restrict information-intake (Cummings,
+1987). Preschoolers also attempt to manage their emotional arousal by seeking nurturance from trusted adults (Masters, Ford, and Arend, 1983; McCoy
+and Masters, 1985), or by using encouraging or reassuring self-talk (Smolek
+and Weinraub, 1979). At times, of course, they simply remove or avoid emotionally arousing situations. There is also some evidence that preschoolers
+can manage emotional arousal by altering or substituting goals for the situation (e.g., playing by oneself instead of a frustrating peer), but this is a
+limited capability at young ages (Stein and Levine, 1989; Stein and Trabasso,
+1989). Finally, there is limited evidence that preschoolers understand that
+the intensity of an emotion wanes over time (and thus that "time heals all
+ills"), especially if emotionally arousing circumstances change. But they appreciate also that emotion can have long-term effects depending, in part,
+on the intensity of the initial experience of emotional arousal (Harris, 1983;
+Harris, Guz, Lipian, and Man-Shu, 1985).
+Taken together, these developmental achievements in how young children understand the strategies for emotional self-regulation are consistent
+with their evolving understanding of emotion itself. Emotion is perceived
+as something that exists primarily in situations and in behavior; regulatory
+efforts that change situations, reduce their influence (e.g., by restricting
+sensory- and information-intake), or alter one's behavior in those situations
+are the regulatory avenues of first resort to the preschooler.
+STRATEGIC EMOTIONAL SELF-REGULATION IN
+MIDDLE CHILDHOOD
+
+During the grade-school years, children's understanding of emotion
+evolves to encompass the psychological, attributional, and motivational
+
+Emotional Regulation and Development
+
+291
+
+complexities of emotional experience (Harris and Olthof, 1982). This
+should be unsurprising in view of several other developmental achievements
+during these years. Children are acquiring psychologically-oriented conceptions of self and other that provide a basis for a more sophisticated representation of emotional experience (Damon and Hart, 1982; Shantz, 1983).
+Cognitive achievements in the appearance/reality distinction (Flavell, Flavell, and Green, 1983), representational flexibility in applying multiple perspectives to a single event (Fischer, 1980; Fischer, Shaver, and Carnochan,
+1989), and growth in social knowledge and role-taking skills have important
+implications for children's understanding of (1) emotional display rules, (2)
+the multiple dimensions of emotional experience and the simultaneity of
+different emotions, and (3) the consequences of one's emotional expressions for social partners. For example, they understand better the causal
+implications of different emotional experiences (e.g., that pride reflects success owing to one's efforts, sympathy for another derives from their lack
+of success owing to inability etc.) (Graham, 1991). Added to these influences is the catalyst of peer interactions, which become increasingly oriented toward psychological compatibility and emotional intimacy during
+middle childhood (Selman, 1980). As a consequence, children acquire and
+enlist a broad variety of emotional self-regulatory strategies for managing
+immediate emotional reactions to emotionally salient peer encounters, especially those that place the child at heightened risk for being exposed or
+embarrassed (Gottman and Mettetal, 1986). In peer encounters as well as
+in other social situations, the skills of emotional self-regulation are enlisted
+for strategic personal and social ends.
+Not surprisingly, therefore, the repertoire of strategies for emotional
+self-regulation expands significantly in size and complexity during middle
+childhood. During this period, for example, children understand that emotional experience can be altered by internal emotional re-direction (e.g.,
+thinking happy thoughts in a sad situation) (Altshuler and Ruble, 1989;
+Band and Weisz, 1988; Carroll and Steward, 1984; Harris et al., 1981), or
+by redirecting attention or deliberate distraction (Altshuler and Ruble,
+1989; Band and Weisz, 1988; Harris and Lipian, 1989). In a related vein,
+Mischel's research has shown that children at this time can manage emotional arousal in incentive conditions through emotion-blunting ideation or
+by focusing on the benefits of regulation (or the costs of unregulation;
+Mischel and Mischel, 1977, 1983). Emotional experience can also be altered
+by reinterpreting or re-defining the situation to dampen or enhance arousal
+(e.g., thinking "it's just a story" when listening to a sad account) (Meerum
+Terwogt, Schene, and Harris, 1986). At times, grade-school children alter
+emotion by acting in a way that provokes a different emotion (e.g., playing
+with toys when feeling anxious) (Altshuler and Ruble, 1989; Harris and
+
+292
+
+Thompson
+
+Lipian, 1989: Harris et al., 1981). In middle childhood, children are also
+aware that emotional expressions to others can be dissociated from internal
+emotional experience and, by implication, one can manage emotion by altering the reactions of others to oneself (e.g., appearing brave before a
+threatening bully) (Harris, Donnelly, Guz, and Pitt-Watson, 1986; Gross
+and Harris, 1988; Harris and Gross, 1989; Harris and Lipian, 1989; Harris
+et al., 1981; Saarni, 1979, 1984; Selman, 1981; Taylor and Harris, 1984).
+Other aspects of emotional understanding that emerge during middle
+childhood are also relevant to emotional self-regulation. During this time,
+for example, children become aware that different emotions can be experienced either sequentially or simultaneously, and that when emotions are
+differently valenced they can sometimes produce ambivalence or emotional
+conflict (Carroll and Steward, 1984; Donaldson and Westerman, 1986; Harris, 1983; Harris and Lipian, 1989; Harter, 1982a,b; Harter and Buddin,
+1987; Meerum Terwogt, Koops, Oosterhoff, and Olthof, 1986a). They are
+aware of some of the causal ascriptions underlying emotional arousal, and
+know that changing attributions of causality can have different emotional
+consequences (e.g., "You shouldn't be mad at your little brother - - he didn't mean it!") (Graham and Weiner, 1986; Thompson, 1987, 1989; Weiner
+and Graham, 1984). Finally, they understand that emotion can be re-evoked
+if one recalls memories of an earlier emotional experience, whether positive
+or negative in valence (Harris et al., 1985).
+Taken together, this burgeoning repertoire of strategies reflects the
+grade-schooler's appreciation of the multifaceted features of emotional experience that entail manipulable psychological, attributional, and social inferential processes. In a sense, these achievements reflect the growth of
+emotional autonomy as well as the management of emotional experience
+because children depend less on the situational instigators and external regulators of emotion, and they can maintain satisfying emotional well-being
+more independently and self-directedly (Cole and Kaslow, 1988).
+As earlier noted, however, most of these studies rely on children's verbal self-report in response to hypothetical story scenarios involving emotional regulation. We know disappointingly little about how these regulatory
+strategies are actually implemented in real situations. The results of one
+study suggest that when actual emotional arousal is intense, the capacity of
+children to devise and apply emotional self-regulatory strategies may be
+more limited. Harris and Lipian (1989) interviewed 10-year-olds who were
+hospitalized for a variety of acute conditions, and they discovered that their
+evocation of strategies for emotional management was impoverished compared with that of nonhospitalized children of the same age. Harris and
+Lipian concluded that the negative emotions associated with hospitalization
+"flooded" children's perceptions of their conditions, blunting their capacity
+
+Emotional Regulation and Development
+
+293
+
+to regulate their own affect and accounting for the deficits observed in children's reports of emotional regulatory strategies. However, hospitalized children may also have had a more realistic sense of the limited range of
+self-regulatory strategies that were likely to prove effective in their circumstances. This is a finding, therefore, that deserves further exploration beginning with a series of investigations of self-regulatory processes in actual
+emotionally arousing situations.
+On the whole, however, these striking advances in meta-emotive understanding provide an important foundation for the systems of emotion
+k n o w l e d g e - or emotion p r o t o t y p e s - by which mature conceptions of
+emotion seem to be organized (Fischer et al., 1989: Shaver, Schwartz, Kirson, and O'Connor, 1987). Indeed, many significant components of emotion
+p r o t o t y p e s - concerning the antecedents of emotion, the consequences of
+an emotional response and its display, and the strategies of emotional selfregulation - - are initially constituted in the earliest forms of meta-emotive
+understanding in the preschool years, and are significantly deepened and
+elaborated as a consequence of the developmental achievements of middle
+childhood.
+
+A THEORY OF PERSONAL EMOTION IN ADOLESCENCE
+Along with the growth of psychologically-oriented conceptions of emotion and emotional regulation, middle childhood also witnesses the growth
+of self-understanding that provides children with insight into their own emotive processes, distinct from those of others. Early in the grade-school years,
+if not during the preschool period, children become aware that their own
+emotional experiences are different from those of others in important ways.
+A child may discover that he does not enjoy roller-coaster rides or scary
+movies as much as his friends do, or that it takes her longer to feel comfortable with unfamiliar people than it does others, but that there are things
+she can do to facilitate this process. In other words, while they are acquiring
+general knowledge about emotive processes, children are also learning about
+emotive processes that are more idiosyncratic to themselves. This constitutes
+the basis for a theory of personal emotion: an understanding of how emotion
+functions and is managed within oneself.
+It is easy to see why the rudiments of a theory of personal emotion
+would emerge early in life, and why children would be motivated to enlarge
+this form of self-understanding. Emotional experiences are salient and significant catalysts for social functioning and behavioral self-management,
+and thus a capacity to understand and predict how one will react emotionally to commonly-occurring situations would enable children to act more
+
+294
+
+Thompson
+
+competently and confidently. In addition, an appreciation of the emotional
+self-regulatory strategies that are particularly effective in one's own exper i e n c e - whether they entail the use of mental imagery or listening to favorite music m would further enable children to enlist their emotions in
+more productive and useful ways in their ongoing interactions with the social and nonsocial world. For these reasons, it is unsurprising that one can
+find clues to the early emergence of rudiments of such a theory in some
+of the studies cited above. For example, in his study of behaviorally inhibited children, Kagan and his colleagues (1987) quote one of their children
+who said to his mother at age 5 1/2: "I know I am afraid, but I'm trying
+not to be."
+For the same reasons, however, it is clear that a theory of personal
+emotion achieves significant coherence and consistency primarily during
+adolescence. It is during the teenage years that individuals are constructing
+a network of self-referent beliefs that are psychologically more complex,
+differentiated, and integrated than those that existed in earlier years. It
+thus seems likely that during this period, the theory of personal emotion
+is shaped by other elements of the self-system and provides an important
+contribution to emerging self-understanding. Moreover, as this "theory" becomes progressively refined during the adolescent and young adult years,
+it becomes part of the network of self-schemas (Markus, 1977) that organize self-understanding in maturity. As a consequence, emotional self-understanding is a contributor to and is shaped by other aspects of
+self-awareness that become consolidated during adolescence.
+
+EMOTIONAL SELF-REGULATION IN THE ADULT YEARS
+The developmental research literature has little to say about further
+growth in emotional self-regulation in maturity. Indeed, prevailing debates
+over whether the general quality of emotional experience changes (especially in later l i f e ) - and if so, what are its c a u s e s - remain essentially
+unresolved (cf. Malatesta, 1981). However, it is possible to identify (albeit
+speculatively) several general themes to the self-regulation of emotion during the adult years.
+First, it is likely that emotional experience becomes regulated in increasingly idiosyncratic ways, depending on (1) the individual's goals for
+regulating emotion, (2) the "theory of personal emotion" by which selfregulatory efforts are organized, and (3) the demands of the social setting
+(Labouvie-Vief, Hakim-Larson, DeVoe, and Schoeberlein, 1989). Indeed,
+Labouvie-Vief and colleagues (1989) have proposed that with increasing
+
+Emotional Regulation and Development
+
+295
+
+maturity, individuals are less constrained by the conventional demands of
+the emotion culture and increasingly regulate emotional experience according to personal goals and a recognition of the need to maintain a vibrant,
+unique subjective emotional experience. It seems likely that a history of
+experiences of emotional self-regulation culminates by the adult years in
+the development of an effective repertoire of strategies that are enlisted
+in creating a more unique, personalized emotional life.
+Second, it is likely that emotional self-regulation becomes increasingly
+organized in emotion-specific ways. As the demands of emotional experience and the dictates of the emotional culture increasingly focus on discrete
+emotions in older individuals, self-regulatory strategies are likely to become
+more emotion-specific. Thus it is likely that mature individuals develop differentiated regulatory strategies for the management of anger, anxiety,
+guilt, and other emotions, using distracting ideation for some emotions,
+intellectualization for others, and avoiding emotionally-arousing circumstances for still other emotions.
+Third, and finally, it is likely that with increasing age, emotional selfregulation is based not only on differentiated strategies of self-regulation,
+but also on regulating the emotional demands of the environment, both
+interpersonal and inanimate. As Carstensen's (1987, in press; Frederickson
+and Carstensen, 1990) research reviewed earlier seems to indicate, in later
+life, adults exercise greater selectivity in their social relationships, choosing
+those that ensure predictable and manageable emotional demands and
+that heighten positive affect. Indeed, one of the themes of later-life developmental theories is the selectivity older adults exercise in their interpersonal and ecological settings to construct congenial and manageable
+life experiences. Thus, insofar as they are capable of exercising such control over their environments, older adults are likely to regulate their emotional experiences by regulating the interpersonal density, noise, privacy
+intrusions, and other demands of their settings, and the emotional, consequences of these demands. And whereas younger children try to regulate
+emotion by restricting information intake, older adults can manage emotional arousal by restructuring their schedules (e.g., clearing the schedule
+for a midafternoon "time out") escaping from the situation (e.g., by a
+spontaneous or planned vacation), or retiring to a private place. This reflects that the maintenance of satisfying emotional well-being in the adult
+years is fostered both by an elaborate repertoire of emotional self-regulatory strategies and by the ability to regulate the extrinsic demands on
+one's emotional life, in the context of striving to create a more personalized, unique quality of subjective experience.
+
+Thompson
+
+296
+
+CONCLUSION
+The study of emotional regulation poses fascinating and significant
+challenges to the educational psychologist because of the multidimensional
+quality of emotional experience and the numerous catalysts to the growth
+of extrinsic and self-regulatory processes throughout the life-span. This research review is both a conceptual outline and an empirical challenge: it
+is not hard to find important domains of underresearched topics described
+above as well as suggestions for further inquiry. In many respects, the significance of emotional regulatory processes for subjective well-being at various phases of life underscores the importance of future research.
+This is especially true during the school years, in educational as well
+as in extracurricular contexts. Although establishing applications from this
+research to how parents and teachers can facilitate children's learning,
+achievement, and competence in school is a bit premature, some speculative implications can be identified. For example, Mischel's research
+(Mischel and Mischel, 1977, 1983) strongly suggests that children during
+this period can enlist emotional self-regulatory strategies offered by an
+adult that will improve their performance in tasks involving delayed rewards
+and the inhibition of initial response tendencies. These are skills that assume an important role in certain kinds of problem-solving tasks. Emotional self-regulation in these contexts is fostered by deliberate strategies
+involving distracting ideation or, alternatively, focusing on the rewards of
+delay or inhibition. These can be fostered by direct instruction (coaching),
+modeling, or in other ways.
+In other situations, learning can be encouraged by equipping children
+with emotional self-regulatory strategies that enable them to cope better
+with the frustrations of initial task failures or performance anxiety (e.g.,
+through self-coaching, re-directing attributions, or reinterpreting the failure) and which promote continued interest in the task. Indeed, such strategies may have the added benefit of fostering the child's intrinsic
+motivation related to task performance, which is an important contributor
+to academic success (Lepper, 1988). More broadly, students' perceptions
+of their own competence in academic and non-academic situations involves, among other things, the capacity to attend to appropriate indications of t h e i r skills in the context of p e r f o r m a n c e evaluations,
+social-comparison information, and other criteria, and to manage the emotions engendered by their success and failure experiences. Developmental
+changes in children's perceptions of competence are related to changes
+in their attention to relevant criteria of their skills (especially at earlier
+ages) and changes in their management of achievement-related emotions,
+
+Emotional Regulation and Development
+
+297
+
+which may be especially significant during the junior-high years (cf. Connell, 1985; Harter, 1982c; Harter and Pike, 1984). This is a topic of developmental study meriting further research.
+In addition to fostering students' emotional self-regulatory efforts
+in achievement situations, parents and teachers may also strive to enhance learning and achievement by extrinsic modes of emotional regulation. Attributional theory and derivative research indicate that the
+emotional dimensions of performance feedback alter children's perceptions of the causes of their success or failure experiences. These perc e p t i o n s affect, in turn, f u t u r e efforts to succeed. F o r example,
+performance evaluations accompanied by emotions like sympathy imply
+that failure is due to inability, but emotions like anger suggest that failure is due to lack of effort, with the implication that one can succeed
+in the future by trying harder (e.g., Graham, 1991). Teachers and parents may directly influence a child's achievement motivation, therefore,
+through the emotional responses they provide to the child's successes
+and failures. Reacting to a student's failure with annoyance rather than
+pity implies that the child is capable of performing well contingent on
+added effort and is consistent with encouragement to the child to try
+harder.
+Furthermore, the child's causal ascriptions for success and failure
+can also be altered by influencing the child's o w n emotional responses
+to these experiences. Encouraging feelings of pride in academic success,
+for example, fosters the child's perception that she is responsible for her
+success, whereas children who feel grateful or surprised for their success
+are less likely to experience the same sense of personal responsibility for
+doing well. Similarly, encouraging children to feel guilty (or, perhaps, angry at themselves) for academic failure implies that the causes of failure
+are remediable and controllable, which is not true of failure-based reactions like hopelessness or resignation. In short, the causal interpretations
+of success and failure experiences in academic situations are profoundly
+affected by emotional reactions to these experiences, both by authorities
+and by oneself. These can be a significant target of extrinsic strategies
+of emotional regulation that can affect students' striving for success in
+future tasks.
+The study of emotional regulation thus has potentially valuable applications to educational concerns as well as to other situations that affect
+personal well-being. Elucidating these applications, as well as the developmental pathways leading to the skills of emotional self-regulation, becomes
+an important task for theory and research.
+
+298
+
+Thompson
+
+ACKNOWLEDGMENTS
+The author is very grateful for the helpful comments of Alice Ganzel
+and Heidi Pisaruk on an earlier version of this manuscript, as well as the
+suggestions of the editor and two anonymous reviewers for this journal.
+This paper is an extension of an earlier analysis of emotional regulation
+presented in Thompson (1990).
+
+REFERENCES
+Aber, J. L., and Cicchetti, D. (1984). The socio-emotional development of maltreated children:
+An empirical and theoretical analysis. In Fitzgerald, H. R., Lester, B. M., and Yogman,
+M. W. (eds.), Theory and Research in Behavioral Pediatrics (Vol. 2), Plenum, New York,
+pp. 147-205.
+Achenbach, T. M. and Edelbrock, C. (1983). Manual for the Child Behavior Checklist, Queen
+City Printers, Burlington, Vermont.
+Ainsworth, M. D. S., Blehar, M. C., Waters, E., and Wall, S. (1978). Patterns of Attachment,
+Erlbaum, Hillsdale, New Jersey.
+Altshuler, J. L., and Ruble, D. N. (1989). Developmental changes in children's awareness of
+strategies for coping with uncontrollable stress. Child Dev. 60: 1337-1349.
+Band, E., and Weisz, J. R. (1988). How to feel better when it feels bad: Children's perspectives
+on coping with everyday stress. Dev. Psychol. 24: 247-253.
+Barden, R. C., Zelko, F. A., Duncan, S. W., and Masters, J. C. (1980). Children's consensual
+knowledge about the experiential determinants of emotion. J. Person. Soc. Psychol. 39:
+968-976.
+Barrett, K. C., and Campos, J. J. (1987). Perspectives on emotional development II: A
+functionalist approach to emotions. In J. D. Osofsky (ed.), Handbook of Infant
+Development (2nd Ed.), Wiley, New York, pp. 555-578.
+Bates, J. E. (1987). Temperament in infancy. In J.D. Osofsky (ed.), Handbook of Infant
+Development (2nd Ed.), Wiley, New York, pp. 1101-1149.
+Borke, H. (1971). Interpersonal perception of young children: Egocentrism or empathy? Dev.
+Psychol. 5: 263-269.
+Brazelton, T. B., Koslowski, B., and Main, M. (1974). The origins of reciprocity: The early
+mother-infant interaction. In Lewis, M., and Rosenblum, L. (eds.). The Effects of the
+Infant on Its Caregiver, Wiley, New York, pp. 49-76.
+Bretherton, I., and Beeghly, M. (1982). Talking about internal states: The acquisition of an
+explicit theory of mind. Dev. Psychol. 18: 906-921.
+Bretherton, I., McNew, S., and Beeghly-Smith, M. (1981). Early person knowledge as
+expressed in gestural and verbal communication: When do infants acquire a "theory of
+mind"? In Lamb, M.E., and Sherrod, L.R. (eds.), Infant Social Cognition, Erlbaum,
+Hillsdale, New Jersey, pp. 333-373.
+Bretherton, I., Fritz, J., Zahn-Waxler, C., and Ridgeway, D. (1986). Learning to talk about
+emotions: A functionalist perspective. Child Dev. 57: 529-548.
+Brooks-Gunn, J., and Lewis, M. (1982). Affective exchanges between normal and handicapped
+infants and their mothers. In Field, T., and Fogel, A. (eds.), Emotion and Early Interaction,
+Edbaum, Hillsdale, New Jersey, pp. 161-188.
+Burgess, R. L., and Conger, R. D. (1978). Family interaction in abusive, neglectful, and normal
+families. Child Dev. 49: 1163-1173.
+Buss, A. H., and Plomin, R. (1984). Temperament: Early Developing Personality Traits, Erlbaum,
+Hillsdale, New Jersey.
+
+Emotional Regulation and Development
+
+299
+
+Campos, J. J., and Stenberg, C. C. (1981). Perception, appraisal and emotion: The onset of
+social referencing. In Lamb, M.E., and Sherrod, L.R. (eds.), Infant Social Cognition,
+Erlbaum, Hillsdale, New Jersey, pp. 273-314.
+Campos, J. J., Barrett, K. C., Lamb, M. E., Goldsmith, H. H., and Stenberg, C. (1983).
+Socioemotional development. In Mussen, P.H. (ed.); Haith, M. M., and Campos, J.J.
+(Vol. eds.). Handbook of Child Psychology (Vol. II): Infancy and Developmental
+Psychobiology, Wiley, New York, pp. 783-915.
+Campos, J. J., Campos, R. G., and Barrett, K. C. (1989). Emergent themes in the study of
+emotional development and emotional regulation. Dev. PsychoL 25: 394-402.
+Campos, R. G. (1989). Soothing pain-elicited distress in infants with swaddling and pacifiers.
+Child Dev. 60: 781-782.
+Carroll, J. J., and Steward, M. S. (1984). The role of cognitive development in children's
+understandings of their own feelings. Child Dev. 55: 1486-1492.
+Carstensen, L. L. (1987). Age-related changes in social aGtivity. In Carstensen, L. L., and
+Edelstein, B. A. (eds.), Handbook of Clinical Gerontology, Pergamon, New York, pp.
+222-237.
+Carstensen, L. L. (in press). Selectivity theory: Social activity in life-span context. In Schaie,
+K.W. (ed.). Annual Review of Geriatrics and Gerontology, Springer, New York.
+Caudill, W., and Frost, L. (1975). A comparison of maternal care and infant behavior in
+Japanese-American, American, and Japanese families. In Bronfenbrenner, U., and
+Mahoney, M. A. (eds.), Influences on Human Development (2nd ed.), Dryden, Hinsdale,
+Illinois, pp. 329-342.
+Caudill, W., and Weinstein, H. (1969). Maternal care and infant behavior in Japan and
+America. Psychiatry 32: 12-43.
+Chen, S.-J., and Miyake, K. (1986). Japanese studies of infant development. In Stevenson,
+H., Azuma, H., and Hakuta, K. (eds.), Child Development and Education in Japan,
+Freeman, New York, pp. 135-146.
+Cicchetti, D. (1990). The organization and coherence of socioemotional, cognitive, and
+representational development: Illustrations through a developmental psychopathology
+perspective on Down syndrome and child maltreatment. In Thompson, R. A. (ed.),
+Socioemotional Development. Nebraska Symposium on Motivation (Vol. 36), University of
+Nebraska Press, Lincoln, Nebraska, pp. 259-366.
+Cole, P. M. (1986). Children's spontaneous control of facial expression. Child Dev. 57:
+1309-1321.
+Cole, P. M., and Kaslow, N. J. (1988). Interactional and cognitive strategies for affect
+regulation: Developmental perspective on childhood depression. In Alloy, L. (ed.),
+Cognitive Processes in Depression, Guilford, New York, pp. 310-341.
+Connell, J. P. (1985). A new multidimensional measure of children's perceptions of control.
+Child Dev. 56: 1018-1041.
+Cummings, E. M. (1987). Coping with background anger in early childhood. Child Dev. 58:
+976-984.
+Cummings, E. M., Zahn-Waxler, C., and Radke-Yarrow, M. (1981). Young children's
+responses to expressions of anger and affection by others in the family. Child Dev. 52:
+1274-1282.
+Cummings, E. M., Zahn-Waxler, C., and Radke-Yarrow, M. (1984). Developmental changes
+in children's reactions to anger in the home. J. Child Psychol. Psychiat. 25: 63-74.
+Cummings, E. M., Iannotti, R. J., and Zahn-Waxler, C. (1985). Influence of conflict between
+adults on the emotions and aggression of young children. Dev. PsychoL 21: 495-507.
+Cummings, J. S., Pellegrini, D. S., Notarius, C. I., and Cummings, E. M. (1989). Children's
+responses to angry adult behavior as a function of marital distress and history of
+interparent hostility. Child Dev. 60: 1035-1043.
+Damon, W., and Hart, D. (1982). The development of self-understanding from infancy through
+adolescence. Child Dev. 60: 841-864.
+Davidson, R. J., and Fox, N. A. (1982). Asymmetrical brain activity discriminates between
+positive and negative affective stimuli in human infants. Science 218: 1235-1237.
+
+300
+
+Thompson
+
+Dawson, G., and Panagiotides, H. (in press). The role of frontal lobe functioning in the
+development of infant self-regulatory behavior. Brain Cognition.
+Derryberry, D., and Rothbart, M. K. (1984). Emotion, attention, and temperament. In Izard,
+C. E., Kagan, J., and Zajonc, R. B. (eds.), Emotions, Cognition and Behavior, Cambridge
+University Press, Cambridge, pp. 132-166.
+Diamond, A. (1988a). Abilities and neural mechanisms underlying AB performance. Child
+Dev. 59: 523-527.
+Diamond, A. (1988b). Differences between adult and infant cognition: Is the crucial variable
+presence or absence of language? In Weiskrantz, L. (ed.), Thought Without Language,
+Oxford University Press, Oxford, pp. 337-370.
+Dickstein, S., Thompson, R. A., Estes, D., Malkin, C., and Lamb, M. E. (1984). Social
+referencing and the security of attachment, lnfant Behav. Dev. 7: 507-516.
+Dienstbier, R. A. (1989). Arousal and physiological toughness: Implications for mental and
+physical health. Psychol. Rev. 96: 84-100.
+Dodge, K. A. (1991). Emotion and social information processing. In Garber, J., and Dodge,
+K. (eds.), The Development of Emotion Regulation and Dysregulation, Cambridge, New
+York, pp. 159-181.
+Dodge, K. A., Pettit, G. S., McClaskey, C. L., and Brown, M. M. (1986). Social competence
+in children. Monographs Soc Res. Child Dev. 51 (Serial no. 213).
+Donaldson, S. K., and Westerman, M. A. (1986), Development of children's understanding
+of ambivalence and causal theories of emotions. Dev. Psychol. 22: 655-662.
+Dorr, A. (1985). Contexts for experience with emotion, with special attention to television.
+In Lewis, M., and Saarni, C. (eds.), The Socialization of Emotion, Plenum, New York,
+pp. 55-85.
+Dunn, J., Bretherton, I., and Munn, P. (1987). Conversations about feeling states between
+mothers and their young children. Dev. Psychol. 23: 132-139.
+Emde, R. N., Gaensbauer, T. J., and Harmon, R. J. (1976). Emotional expression in infancy:
+A biobehavioral study. Psychol. Issues 10 (Monograph 37).
+Fagan, J. W., Ohr, P. S., Fleckenstein, L. K., and Ribner, O. R. (1985). The effect of crying
+on long-term memory in infancy. Child Dev. 56: 1584-1592.
+Feinman, S. (1982). Social referencing in infancy. Merrill-Palmer Q. 28: 445-470.
+Feinman, S. (1985). Emotional expression, social referencing, and preparedness for learning
+in i n f a n c y - Mother knows best, but sometimes I know better. In Zivin, G. (ed.). The
+Development of Expressive Behavior, Academic, Orlando, Florida, pp. 291-318.
+Field, T. (1985). Infant arousal, attention and affect during early interactions. In Lipsitt, L.
+P. (ed.), Advances in Infancy Research (Vol. 1), Ablex, Norwood, New Jersey, pp. 57-100.
+Fischer, K. W. (1980). A theory of cognitive development: The control and construction of
+hierarchies of skills. Psychol. Rev. 87: 477-531.
+Fischer, K. W., Shaver, P., and Carnochan, P. (1989). A skill approach to emotional
+development: From basic- to subordinate-category emotions. In Damon, W. (ed.), Child
+Development Today and Tomorrow (New Directions for Child Development Series, no.
+40), Jossey-Bass, San Francisco, pp. 107-136.
+Flavell, J. H., Flavell, E. R., and Green, F. L. (1983). Development of the appearance-reality
+distinction. Cognitive Psychol. 15: 96-120.
+Fogel, A. (1982). Affect dynamics in early infancy: Affective tolerance. In Field, T., and Fogel,
+A. (eds.), Emotion and Early Interaction, Erlbaum, Hillsdale, New Jersey, pp. 25-56.
+Fox, N. A. (1989a). Psychophysiological correlates of emotional reactivity during the first year
+of life. Dev. Psychol. 25: 364-372.
+Fox, N. A. (1989b). Heart rate variability and self-regulation: Individual differences in
+autonomic patterning and their relation to infant and child temperament. In Reznick, S.,
+and Kagan, J. (eds.), Perspectives on Behavioral Inhibition, University of Chicago Press,
+Chicago, pp. 177-195.
+Fox, N. A., and Davidson, R. J. (1984). Hemispheric substrates of affect: A developmental
+model. In Fox, N. A., and Davidson, R. J. (eds.), The Psychobiology of Affective
+Development, Erlbaum, Hillsdale, New Jersey, pp. 353-381.
+
+Emotional Regulation and Development
+
+301
+
+Fox, N. A., and Davidson, R. J. (1987). Electroencephalogram asymmetry in response to the
+approach of a stranger and maternal separation in 10-month-old infants. Dev. Psychol.
+23: 233-240.
+Fox, N. A., and Davidson, R. J. (1988). Patterns of brain electrical activity during facial signs
+of emotion in 10-month-old infants. Dev. PsychoL 24: 230-236.
+Fox, N. A., and Davidson, R. J. (1991). Hemispheric specialization and separation protest
+behavior: Developmental processes and individual differences. In Gewirtz, J. L., and
+Kurtines, W. (eds.), Intersection Points in Attachment Research, Plenum, New York, pp.
+147-164.
+Frederickson, B. L., and Carstensen, L. L. (1990). Choosing social partners: How old age and
+anticipated endings make people more selective. PsychoL Aging 5: 335-347.
+Frodi, A. M., and Lamb, M. E. (1980). Child abusers' responses to infant smiles and cries.
+Child Dev. 51: 238-241.
+Fuchs, D., and Thelen, M. H. (1988). Children's expected interpersonal consequences of
+communicating their affective state and reported likelihood of expression. Child Dev. 59:
+1314-1322.
+Gaensbauer, T. J. (1982). Regulation of emotional expression in infants from two contrasting
+caretaking environments. J. Am. Acad. Child Psychiat. 21: 163-171.
+Gaensbauer, T. J., and Mrazek, D. (1981). Differences in the patterning of affective expression
+in infants. Z Am. Acad. Child Psychiat. 20: 673-691.
+Gaensbauer, T. J., and Sands, K. (1979). Distorted affective communications in
+abused/neglected infants and their potential impact on caretakers. Z Am. Acad. Child
+Psychiat. 18: 236-250.
+Gekoski, M. J., Rovee-Collier, C. K., and Carulli-Rabinowitz, V. (1983). A longitudinal
+analysis of inhibition of infant distress: The origins of social expectations? Infant Behav
+Dev. 6: 339-351.
+Gianino, A., and Tronick, E. (1988). The Mutual Regulation Model: The infant's self and
+interactive regulation and coping and defensive capacities. In Field, T., McCabe, P., and
+Schneiderman, N. (eds.) Stress and Coping (Vol. 2), Erlbaum, Hillsdale, New Jersey, pp.
+47-68.
+Gnepp, J., and Chilamkurti, C. (1988). Children's use of personality attributions to predict
+other people's emotional and behavioral reactions. Child Dev. 59: 743-754.
+Gnepp, J., and Gould, M. E. (1985). The development of personalized inferences:
+Understanding other people's emotional reactions in light of their prior experiences. Child
+Dev. 56: 1455-1464.
+Goldsmith, H. H., Buss, A. H., Plomin, R., Rothbart, M. K., Thomas, A., Chess, S., Hinde,
+R. A., and McCall, R. B. (1987). Roundtable: What is temperament? Four approaches.
+Child Dev. 58: 505-529.
+Gordon, S. L. (1989). The socialization of children's emotions: Emotional culture, competence,
+and exposure. In Saarni, C., and Harris, P. (eds.), Children's Understanding of Emotion,
+Cambridge University Press, Cambridge, pp. 319-349.
+Gottman, J., and Mettetal, G. (1986). Speculations about social and affective development:
+Friendship and acquaintanceship through adolescence. In Gottman, J. M., and Parker,
+J.G. (eds.), Conversations of Friends: Speculations on Affective Development, Cambridge
+University Press, Cambridge, pp. 192-237.
+Graham, S. (1991). A review of attribution theory in achievement contexts. Educat. Psychol.
+Rev. 3: 5-39.
+Graham, S., and Weiner, B. (1986). From an attributional theory of emotion to developmental
+psychology: A round-trip ticket? Soc. Cognit. 4: 152-179.
+Gross, D., and Harris, P. L. (1988). False beliefs about emotion: Children's understanding of
+misleading emotional displays, lnt. Z Behav. Dev. 11: 475-488.
+Gunnar, M. R. (1986). Human developmental psychoneuroendocrinology: A review of
+research on neuroendocrine responses to challenge and threat in infancy and childhood.
+In Lamb, M., Brown, A., and Rogoff, B. (eds.), Advances in Developmental Psychology
+(Vol. 4), Erlbaum, Hillsdale, New Jersey, pp. 51-103.
+
+302
+
+Thompson
+
+Gunnar, M. R., Mangelsdorf, S., Larson, M., and Hertzgaard, L. (1989). Attachment,
+temperament and adrenocortical activity in infancy: A study of psychoendoerine
+regulation. Dev. Psychol. 25: 355-363.
+Gunnar, M. R., Marvinney, D., Isensee, J., and Fisch, R. O. (1989). Coping with uncertainty:
+New models of the relations between hormonal, behavioral and cognitive processes. In
+Palermo, D. (ed.), Coping with Uncertain(F, Erlbaum, Hillsdale, New Jersey, pp. 101-129.
+Gunnar, M. R., Mangelsdorf, S., Kestenbaum, R., Lang, S., Larson, M., and Andreas, D.
+(1991). Temperament, attachment, and neuroendocrine reactivity: A systemic approach
+to the study of stress in normal infants. In Cicchetti, D., (ed.), The Emergence of a
+Discipline: Rochester Symposium on Developmental Psychopathology, Cambridge University
+Press, Cambridge, pp. 119-138.
+Harris, P. L. (1983). Children's understanding of the link between situation and emotion. Z
+Exp. Child Psychol. 36: 490-509.
+Harris, P. L., and Gross, D. (1989). Children's understanding of real and apparent emotion.
+In Astington, J. W., Harris, P. L, and Olson, D. R. (eds.), Developing Theories of Mind,
+Cambridge University Press, New York, pp. 295-314.
+Harris, P. L., and Lipian, M. S. (1989). Understanding emotion and experiencing emotion.
+In Saarni, C., and Harris, P. L. (eds.), Children's Understanding of Emotion, Cambridge
+University Press, Cambridge, pp. 241-258.
+Harris, P. L., and Olthof, T. (1982). The child's concept of emotion. In Butterworth, G., and
+Light, P. (eds.), Social Cognition: Studies in the Development of Understandin~ University
+of Chicago Press, Chicago, pp. 188-209.
+Harris, P. L., Olthof, T., and Meerum Terwogt, M. (1981). Children's knowledge of emotion.
+J. Child Psychol. Psychiat. 22: 247-261.
+Harris, P. L., Guz, G. R., Lipian, M. S., and Man-Shu, Z. (1985). Insight into the time course
+of emotion among Western and Chinese children. Child Dev. 56: 972-988.
+Harris, P. L., Donnelly, K., Guz, G. R., and Pitt-Watson, R. (1986). Children's understanding
+of the distinction between real and apparent emotion. Child Dev. 57: 895-909.
+Harris, P. L., Olthof, T., Meerum Terwogt, M., and Hardman, C. E. (1987). Children's
+knowledge of the situations that provoke emotion. Int. Z Behav. Dev. 10: 319-343.
+Harter, S. (1982a). A cognitive-developmental approach to children's understanding of affect
+and trait labels. In Serafica, F.C. (ed.), Social-Cognitive Development in Context, Guilford,
+New York, pp. 27-61.
+Harter, S. (1982b). Children's understanding of multiple emotions: A cognitive-developmental
+approach. In Overton, W. F. (ed.), The Relationship Between Social and Cognitive
+Development, Erlbaum, Hillsdale, New Jersey, pp. 147-194.
+Hatter, S. (1982c). The perceived competence scale for children. Child Dev. 53: 87-97.
+Hatter, S., and Buddin, B. J. (1987). Children's understanding of the simultaneity of two
+emotions: A five-stage developmental acquisition sequence. Dev. Psychol. 23: 388-399.
+Harter, S., and Pike, R. (1984). The pictorial scale of perceived competence and social
+acceptance for young children. Child Dev. 55: 1969-1982.
+Haviland, J. M., and Lelwica, M. (1987). The induced affect response: 10-week-old infants'
+responses to three emotion expressions. Dev. Psychol. 23: 97-104.
+Healey, B. T., Fox, N. A., and Porges, S. W. (1988). The Heritabil#y of Autonomic Patterns
+and Social Behavior in Young Twins, Manuscript submitted for publication, University of
+Miami Medical School.
+Hetherington, E. M., Cox, M., and Cox, R. (1982). Effects of divorce on parents and children.
+In Lamb, M. (ed.), Nontraditional Families, Erlbaum, Hillsdale, New Jersey, pp. 233-288.
+Hoffman, M. L. (1982). Development of prosocial motivation: Empathy and guilt. In
+Eisenberg, N. (ed.), The Development of Prosocial Behavior, Academic, New York, pp.
+281-313.
+Izard, C. E., and Malatesta, C. Z. (1987). Perspectives on emotional development I:
+Differential emotions theory of early emotional development. In Osofsky, J. D. (ed.),
+Handbook of Infant Development, (2rid Ed), Wiley, New York, pp. 494-554.
+Jersild, A. T. (1954). Emotional development. In Carmichael, L. (ed.), Manual of Child
+Psychology (2nd Ed.), Wiley, New York, pp. 833-917.
+
+Emotional Regulation and Development
+
+303
+
+Kagan, J., Reznick, J. S., and Snidman, N. (1987). The physiology and psychology of behavioral
+inhibition in children. Child Dev. 58: 1459-1473.
+Kagan, J., Reznick, J. S., and Gibbons, J. (1989). Inhibited and uninhibited types of children.
+Child Dev. 60: 838-845.
+Karraker, K. H., and Lake, M. A. (1991). Normative stress and coping processes in infancy.
+In Cummings, E. M., Greene, A. L., and Karraker, K. H. (eds.), Life-Span Developmental
+Psychology: Life-Span Perspectives on Stress and Coping, Erlbanm, Hillsdale, New Jersey,
+pp. 85-108.
+Kessen, W., and Mandler, G. (1961). Anxiety, pain, and the inhibition of distress. PsychoL
+Rev. 68: 396-404.
+Kinsbourne, M., and Bemporad, B. (1984). Lateralization of emotion: A model and the
+evidence. In Fox, N. A., and Davidson, R. J. (eds.), The Psychobiology of Affective
+Development, Erlbaum, Hillsdale, New Jersey, pp. 259-291.
+Kinsbourne, M., and Hiscock, M. (1983). The normal and deviant development of functional
+lateralization of the brain. In Mussen, P. H. (ed.); Haith, M. M., and Campos, J. J. (Vol.
+eds.), Handbook of Child Psychology (Vol. II): Infancy and Developmental Psychobiology
+(4th Ed.), Wiley, New York, pp. 157-280.
+Klinnert, M. D., Campos, J. J., Sorce, J. F., Emde, R. N., and Svejda, M. (1983). Emotions
+as behavior regulators: Social referencing in infancy. In Plutchik, R., and Kellerman, H.
+(eds.), Emotion: Theory, Research, and Experience (Vol. 2): Emotions in Early Development,
+Academic, New York, pp. 57-86.
+Korner, A. F., and Thoman, E. B. (1970). Visual alertness in neonates as evoked by maternal
+care. J. Exp. Child PsychoL 10: 67-78.
+Korner, A. F., and Thoman, E. B. (1972). The relative efficacy of contact and
+vestibular-proprioeeptive stimulation in soothing neonates. Child Dev. 43: 443-453.
+Kropp, J. P., and Haynes, O. M. (1987). Abusive and nonabusive mothers, ability to identify
+general and specific emotion signals of infants. Child Dev. 58: 187-190.
+Labouvie-Vief, G., Hakim-Larson, J., DeVoe, M., and Schoeberlein, S. (1989). Emotions and
+self-regulation: A life span view. Human Dev. 32: 279-299.
+Lamb, M. E. (1981a). Developing trust and perceived effectance in infancy. In Lipsitt, L.P.
+(ed.), Advances in Infancy Research (Vol. 2), Ablex, Norwood, New Jersey, pp. 101-127.
+Lamb, M. E. (1981b). The development of social expectations in the first year of life. In
+Lamb, M. E., and Sherrod, L. (eds.), Infant Social Cognition, Erlbaum, Hillsdale, New
+Jersey, pp. 155-175.
+Lamb, M. E., and Malkin, C. M. (1986). The development of social expectations in
+distress-relief sequences: A longitudinal study. Int. J. Behav. Dev. 9: 235-249.
+Lamb, M. E., Thompson, R. A., Gardner, W. P., and Charnov, E. L. (1985). Infant-Mother
+Attachment, Erlbaum, Hillsdale, New Jersey.
+Lerner, J. V., and Lerner, R. M. (1983). Temperament and adaptation across life: Theoretical
+and empirical issues. In Baltes, P. B., and Brim, O. G., Jr. (eds.), Life-Span Development
+and Behavior (Vol. 5), Academic, New York, pp. 197-231.
+Lepper, M. R. (1988). Motivational considerations in the study of instruction. Cognit. Instr.
+5: 289-309.
+Levenson, R. W. (1988). Emotion and the autonomic nervous system: A prospectus for
+research on autonomic specificity. In Wagner, H. L. (ed.), Social Psychophysiology and
+Emotion: Theory and Clinical Applications, Wiley, London, pp. 17-42.
+Lewis, M., and Michalson, L. (1983). Children's Emotions and Moods: Developmental Theory
+and Measurement, Plenum, New York.
+Lewis, M., and Schaeffer, S. (1981). Peer behavior and mother-infant interaction in maltreated
+children. In Lewis, M., and Rosenblum, L. (eds.), The Uncommon Child, Plenum, New
+York, pp. 193-223.
+Lipsitt, L. (1983). Stress in infancy: Toward understanding the origins of coping behavior. In
+Garmezy, N., and Rutter, M. (eds.), Stress, Coping, and Development in Children,
+McGraw-Hill, New York, pp. 161-190.
+Malatesta, C. Z. (1981). Affective development over the lifespan: Involution or growth?
+Merrill-Palmer Q. 27: 145-173.
+
+304
+
+Thompson
+
+Malatesta, C. Z. (1990). The role of emotions in the development and organization of
+personality. In Thompson, R. A. (ed.), Socioemotional Development. Nebraska Symposium
+on Motivation (Vol. 36), University of Nebraska Press, Lincoln, New Jersey, pp. 1-56.
+Malatesta, C. Z., and Haviland, J. M. (1982). Learning display rules: The socialization of
+emotion expression in infancy. Child Dev. 53: 991-1003.
+Malatesta, C. Z., and Izard, C. 13. (1984). The ontogenesis of human social signals: From
+biological imperative to symbol utilization. In Fox, N. A., and Davidson, R. J. (eds.), The
+Psychobiology of Affective Development, Erlbaum, HiUsdale, New Jersey, pp. 161-206.
+Malatesta, C. Z., Grigoryev, P., Lamb, C., Albin, M., and Culver, C. (1986). Emotion
+socialization and expressive development in preterm and full-term infants. Child Dev. 57:
+316-330.
+Malatesta, C. Z., Culver, C., Tesman, J. R., and Shepard, B. (1989). The development of
+emotion expression during the first two years of life. Monogr. Soc. Res. Child Dev. 54
+(1-2, Serial no. 219).
+Markus, H. (1977). Self-schemata and processing information about the self. J. Person. Soc.
+Psychol. 35: 63-78.
+Masters, J. C., and Carlson, C. R. (1984). Children's and adults' understanding of the causes
+and consequences of emotional states. In Izard, C. E., Kagan, J., and Zajonc, R. B. (eds.),
+Emotions, Cognition, and Behavior, Cambridge University Press, Cambridge, pp. 438-463.
+Masters, J. C., Ford, M. E., and Arend, R. A. (1983). Children's strategies for controlling
+affective responses to aversive social experience. Motiv. Emotion 7: 103-116.
+McCoy, C. L., and Masters, J. C. (1985). The development of children's strategies for the
+social control of emotion. Child Dev. 56: 1214-1222.
+Meerum Terwogt, M., and Olthof, T. (1989). Awareness and self-regulation of emotion in
+young children. In Saarni, C., and Harris, P. L. (eds.), Children's Understanding of
+Emotion, Cambridge University Press, Cambridge, pp. 209-237.
+Meerum Terwogt, M., Koops, W., Oosterhoff, T., and Olthof, T. (1986). Development in
+processing of multiple emotional situations. J. Gen. PsychoL 113: 109-119.
+Meerum Terwogt, M., Schene, J., and Harris, P. L. (1986). Self-control of emotional reactions
+by young children. J. Child Psychol. Psychiat. 27: 357-366.
+Miller, P. J., and Moore, B. B. (1989). Narrative conjunctions of caregiver and child: A
+comparative perspective on socialization through stories. Ethos 17: 428-449.
+Miller, P. J., and Sperry, L. L. (1987). The socialization of anger and aggression. Merrill-Palmer
+Q. 33: 1-31.
+Miller, P. J., and Sperry, L. L. (1988). The socialization and acquisition of emotional meanings,
+with special reference to language: A reply to Saarni. Merrill-Palmer Q. 34: 217-222.
+Miller, S. M., and Green, M. L. (1985). Coping with stress and frustration: Origins, nature,
+and development. In Lewis, M., and Saarni, C. (eds.), The Socialization of Emotions,
+Plenum, New York, pp. 263-314.
+Mischel, H. N., and Mischel, W. (1983). The development of children's knowledge of
+self-control strategies. Child Dev. 54: 603-619.
+Mischel, W., and Mischel, H. N. (1977). Self-control and the self. In Mischel, T., (ed.), The
+Self: Psychological and Philosophical Issues, Basil Blackwell, Oxford, pp. 31-64.
+Miyake, K., Chen, S.-J., and Campos, J. J. (1985). Infant temperament, mother's mode of
+interaction, and attachment in Japan: An interim report. In Bretherton, I., and Waters,
+E. (eds.), Growing points in attachment theory and research. Monogr. Soc. Res. Child
+Dev. 50 (1-2, Serial no. 209).
+Miyake, K., Campos, J. J., Kagan, J., and Bradshaw, D. L. (1986). Issues in socioemotional
+development. In Stevenson, H., Azuma, H., and Hakuta, K. (eds.), Child Development
+and Education in Japan, Freeman, New York, pp. 239-281.
+Mood, D. W., Johnson, J. E., and Shantz, C. U. (1978). Social comprehension and
+affect-matching in young children. Merrill-Palmer Q. 24: 63-66.
+Panksepp, J. (1989). The neurobiology of emotions: Of animal brains and human feelings. In
+Wagner, H., and Manstead, T. (eds.), Handbook of Psychophysiology, Plenum, New York,
+pp. 5-26.
+
+Emotional Regulation and Development
+
+305
+
+Porges, S. W. (1991). Vagal tone: An autonomic mediator of affect. In Garber, J., and Dodge,
+K. (eds.), The Development of Emotion Regulation and Dysregulation, Cambridge
+University Press, Cambridge, pp. 111-128.
+Ridgeway, D., Waters, E., and Kuczaj, S. A. (1985). Acquisition of emotion-descriptive
+language: Receptive and productive vocabulary norms for ages 18 months to 6 years.
+Dev. Psychol. 21: 901-908.
+Rothbart, M. K. (1981). Measurement of temperament in infancy. Child Dev. 52: 569-578.
+Rothbart, M. K., and Derryberry, D. (1981). Development of individual differences in
+temperament. In Lamb, M. E., and Brown, A. L. (eds.), Advances in Developmental
+Psychology (Vol. 1), Erlbaum, Hillsdale, New Jersey, pp. 37-86.
+Rothbart, M. K., and Posner, M. I. (1981). Temperament and the development of
+self-regulation. In Hartlage, L. C., and Telzrow, C. F. (eds.), The Neuropsychology of
+Individual Differences: A Developmental Perspective, Plenum, New York, pp. 93-123.
+Rubin, K. H., and Rose-Krasnor, L. (1986). Social-cognitive and social behavioral perspectives
+on problem solving. In Perlmutter, M. (ed.), Cognitive Perspectives on Children's Social
+and Behavioral Development. Minnesota Symposium on Child Psychology (Vol. 18),
+Erlbaum, Hillsdale, New Jersey, pp. 1-68.
+Rubin, K. H., and Rose-Krasnor, L. (in press). Interpersonal problem-solving and social
+competence in children. In van Hasselt, V. B., and Hersen, M. (eds.), Handbook of Social
+Development: ,4 Lifespan Perspective, Plenum, New York.
+Russell, J. A., and Ridgeway, D. (1983). Dimensions underlying children's emotion concepts.
+Dev. PsychoL 19: 795-804.
+Rutter, M., and Garmezy, N. (1983). Developmental psychopathology. In Mussen, P. H. (ed.),
+Hetherington, E. M. (Vol. ed.), Handbook of Child Psychology (Vol. IV): Socialization,
+Personality, and Social Development, Wiley, New York, pp. 775-911.
+Saarni, C. (1979). Children's understanding of display rules for expressive behavior. Dev.
+PsychoL 15: 424-429.
+Saarni, C. (1984). An observational study of children's attempts to monitor their expressive
+behavior. Child Dev. 55: 1504-1513.
+Saarni, C. (1989). Children's understanding of strategic control of emotional expression in
+social transactions. In Saarni, C., and Harris, P. L. (eds.), Children's Understanding of
+Emotion, Cambridge University Press, Cambridge, pp. 181-208.
+Saarni, C. (1990). Emotional competence: How emotions and relationships become integrated.
+In Thompson, R. A. (ed.), Socioemotional Development. Nebraska Symposium on
+Motivation (Vol. 36), University of Nebraska Press, Lincoln, New Jersey, pp. 115-182.
+Saarni, C., and Harris, P. L. (eds.) (1989). Children's understanding of emotion. Cambridge
+University Press, Cambridge.
+Sagi, A., Lamb, M. E., Lewkowicz, K. S., Shoham, R., Dvir, R., and Estes, D. (1985). Security
+of infant-mother, -father, and -metapelet attachments among Kibbutz-reared Israeli
+children. In Bretherton, I., and Waters, E. (eds.), Growing Points in Attachment Theory
+and Research. Monogr. Soc. Res. Child Dev. 50 (I-2, Serial no. 209).
+Schwartz, R. M., and Trabasso, T. (1984). Children's understanding of emotions. In Izard, C.
+E., Kagan, J., and Zajone, R. (eds.), Emotions, Cognition, and Behavior, Cambridge
+University Press, New York, pp. 409-437.
+Selman, R. L. (1981). The Growth of Interpersonal Understanding, Academic, New York.
+Selman, R. L. (1981). What children understand of intrapsychic processes: The child as a
+budding personality theorist. In Shapiro, E. K., and Weber, E. (eds.), Cognitive and
+Affective Growth, Erlbaum, Hillsdale, New Jersey, pp. 187-215.
+Shantz, C. U. (1983). Social Cognition. In Mussen, P. H. (ed.), Flavell, J. H., and Markman,
+E. M. (Vol. eds.), Handbook of Child Psychology (Vol. III): Cognitive Development, Wiley,
+New York, pp. 495-555.
+Shaver, P., Schwartz, J., Kirson, D., and O'Connor, C. (lV87). Emotion knowledge: Further
+exploration of a prototype approach. J. Person. Soc. Psychol. 52: 1061-1086.
+Smolek, L., and Weinraub, M. (March 1979). Separation Distress and Representational
+Development. Paper presented at the Biennial Meeting of the Society for Research in
+Child Development, San Francisco, California.
+
+306
+
+Thompson
+
+Sroufe, L. A., and Wunsch, J. P. (1972). The development of laughter in the first year of life.
+Child Dev. 43: 1326-1344.
+Stein, N. L., and Levine, L. J. (1989). The causal organization of emotional knowledge: A
+developmental study. Cognit. Emotion. 3: 343-378.
+Stein, N. L., and Trabasso, T. (1989). Children's understanding of changing emotional states.
+In Saarni, C., and Harris, P. L. (eds.), Children's Understanding of Emotion, Cambridge
+University Press, Cambridge, pp. 50-77.
+Stern, D. N. (1974). The goal and structure of mother-infant play. Z Am. Acad. Child Psychiat.
+13: 402-421.
+Stern, D. N. (1977). The First Relationship, Harvard University Press, Cambridge,
+Massachusetts.
+Stern, D. N. (1986). The Interpersonal World of the Infant, Basic, New York.
+Stern, D. N., Hofer, L., Haft, W., and Dore, J. (1985). Affect attunement: The sharing of
+feeling states between mother and infant by means of intermodal fluency. In Field, T.
+M., and Fox, N. A. (eds.), Social Perception in Infants, Ablex, Norwood, New Jersey, pp.
+249-268.
+Stiefel, G. S., Plunkett, J. W., and Meisels, S. J. (1987). Affective expression among preterm
+infants of varying levels of biological risk. Infant Behav. Dev. 10: 151-164.
+Stifter, C. A., and Fox, N. A. (1990). Infant reactivity: Physiological correlates of newborn
+and 5-month temperament. Dev. Psychol. 26: 582-588.
+Stipek, D. (1983). A developmental analysis of pride and shame. Human Dev. 26: 42-54.
+Taylor, D. A., and Harris, P. L. (1984). Knowledge of strategies for the expression of emotion
+among normal and maladjusted boys: A research note. Z Child Psychol. Psychiat. 24:
+141-145.
+Termine, N. T., and Izard, C. E. (1988). Infants' responses to their mothers' expressions of
+joy and sadness. Dev. Psychol. 24: 223-229.
+Thompson, R. A. (1987). Development of children's inferences of the emotions of others.
+Dev. Psychol. 23: 124-131.
+Thompson, R. A. (1989). Causal attributions and children's emotional understanding. In
+Saarni, C., and Harris, P. L. (eds.), Children's Understanding of Emotion, Cambridge
+University Press, Cambridge, pp. 117-150.
+Thompson, R. A. (1990). Emotion and self-regulation. In Thompson, R. A. (ed.),
+Socioemotional Development. Nebraska Symposium on Motivation (Vol. 36), University of
+Nebraska Press, Lincoln, Nebraska, pp. 367-467.
+Thompson, R. A., and Lamb, M. E. (1983). Individual differences in dimensions of
+socioemotional development in infancy. In Plutchik, R., and Kellerman, H. (eds.),
+Emotion: Theory, Research, and Experience (Vol. 2): Emotions in Early Development,
+Academic, New York, pp. 87-114.
+Thompson, R. A., and Limber, S. (1990). "Social anxiety" in infancy: Stranger wariness and
+separation distress. In Leitenberg, H. (ed.), SocialAnx&ty, Plenum, New York, pp. 85-137.
+Thompson, R. A., Cicchetti, D., Lamb, M. E., and Malkin, C. (1985). Emotional responses
+of Down Syndrome and normal infants in the Strange Situation: The organization of
+affective behavior in infants. Dev. PsychoL 21: 828-841.
+Thompson, R. A., Connell, J. P., and Bridges, L. (1988). Temperament, emotion, and social
+interactive behavior in the Strange Situation: A component process analysis of attachment
+system functioning. Child Dev., 59: 1102-1110.
+Trabasso, T., Stein, N. L., and Johnson, L. R. (1981). Children's knowledge of events: A
+causal analysis of story structure. In Bower, G. (ed.), The Psychology of Learning and
+Motivation, Academic, New York, pp. 237-282.
+Tronick, E. Z., Cohn, J., and Shea, E. (1986). The transfer of affect between mothers and
+infants. In Brazelton, T. B., and Yogman, M. W. (eds.), Affective Development in lnfancy,
+Ablex, Norwood, New Jersey, pp. 11-25.
+Tucker, D. M., and Frederick, S. L. (1989). Emotion and brain lateralization. In Wagner, H.,
+and Manstead, T. (eds.), Handbook of Psychophysiology: Emotion and Social Behavior,
+Wiley, New York, pp. 22-70.
+Watson, J. S. (1972). Smiling, cooing, and "the game." Merrill-Palmer Q. 18: 323-339.
+
+Emotional Regulation and Development
+
+307
+
+Watson, J. S., and Ramey, C. T. (1972). Reactions to response-contingent stimulation in early
+infancy. Merrill-Palmer Q. 18: 219-227.
+Weiner, B., and Graham, S. (1984). An attributional approach to emotional development. In
+Izard, C. E., Kagan, J., and Zajone, R. (eds.), Emotions, Cognition, and Behavior,
+Cambridge University Press, New York, pp. 167-191.
+Zahn-Waxler, C., and Kochanska, G. (1990). The origins of guilt. In Thompson, R. A. (ed.),
+Socioemotional Development. Nebraska Symposium on Motivation (Vol. 36), University of
+Nebraska Press, Lincoln, Nebraska, pp. 183-268.
+
+
