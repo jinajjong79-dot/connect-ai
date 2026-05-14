@@ -398,7 +398,7 @@ function ensureBrainGitignore(brainDir: string) {
     const gi = path.join(brainDir, '.gitignore');
     if (fs.existsSync(gi)) return;
     const lines = [
-        '# Connect AI auto-generated',
+        '# Genmon AI auto-generated',
         '.DS_Store',
         '.obsidian/',
         '.trash/',
@@ -512,13 +512,13 @@ function runCommandCaptured(
 }
 
 // ============================================================
-// Connect AI — Full Agentic Local AI for VS Code
+// Genmon AI — Full Agentic Local AI for VS Code
 // 100% Offline · File Create · File Edit · Terminal · Multi-file Context
 // ============================================================
 
 // Settings are read from VS Code configuration (File > Preferences > Settings)
 function getConfig() {
-    const cfg = vscode.workspace.getConfiguration('connectAiLab');
+    const cfg = vscode.workspace.getConfiguration('genmonAi');
 
     // ollamaUrl: only http(s)://localhost or 127.0.0.1 is meaningful here.
     let ollamaBase = (cfg.get<string>('ollamaUrl', 'http://127.0.0.1:11434') || '').trim();
@@ -581,7 +581,7 @@ async function _ensureBrainDir(): Promise<string | null> {
     if (!folders || folders.length === 0) return null;
     
     const selectedPath = folders[0].fsPath;
-    await vscode.workspace.getConfiguration('connectAiLab').update('localBrainPath', selectedPath, vscode.ConfigurationTarget.Global);
+    await vscode.workspace.getConfiguration('genmonAi').update('localBrainPath', selectedPath, vscode.ConfigurationTarget.Global);
     vscode.window.showInformationMessage(`✅ 지식 폴더가 설정되었어요: ${selectedPath}`);
     return selectedPath;
 }
@@ -605,7 +605,7 @@ function _loadPrompt(file: string): string {
     try {
         cached = fs.readFileSync(path.join(_PROMPTS_DIR, file), 'utf-8');
     } catch (e: any) {
-        console.error(`[Connect AI] prompt 로드 실패 ${file}:`, e?.message || e);
+        console.error(`[Genmon AI] prompt 로드 실패 ${file}:`, e?.message || e);
         cached = '';
     }
     _promptCache.set(file, cached);
@@ -622,7 +622,7 @@ function _loadToolSeed(rel: string): string {
     try {
         cached = fs.readFileSync(path.join(_TOOL_SEEDS_DIR, rel), 'utf-8');
     } catch (e: any) {
-        console.error(`[Connect AI] tool seed 로드 실패 ${rel}:`, e?.message || e);
+        console.error(`[Genmon AI] tool seed 로드 실패 ${rel}:`, e?.message || e);
         cached = '';
     }
     _toolSeedCache.set(rel, cached);
@@ -725,7 +725,7 @@ const WORLD_LAYOUT = {
  *  agent at a real desk/seat in their room, avoiding walls and furniture.
  *  The y values anchor agent FEET (sprite is 96px tall, feet at bottom). */
 const CUSTOM_MAP_DESKS: Record<string, DeskPos> = {
-  // Top-left CEO solo office (glass-walled, "Connect AI" sign on wall)
+  // Top-left CEO solo office (glass-walled, "Genmon AI" sign on wall)
   ceo:        { x: 8,  y: 22 },
   // Front desk just outside CEO's office — Secretary station
   secretary:  { x: 18, y: 33 },
@@ -763,7 +763,7 @@ function buildWorldDeskPositions(): Record<string, DeskPos> {
 //   1) Nested (default, v2.58): company at `<brain>/_company/`. Same git
 //      repo, brain stays clean at root, _company/ collapses under one
 //      prefix. Best for solo users who want one backup.
-//   2) Detached (v2.59): user sets `connectAiLab.companyDir` to an absolute
+//   2) Detached (v2.59): user sets `genmonAi.companyDir` to an absolute
 //      path. Company lives wherever they want — e.g., team-shared folder,
 //      separate git repo, different cloud sync. Brain stays at brain root,
 //      independent.
@@ -790,12 +790,12 @@ function _migrateCompanyToSubdir() {
       const src = path.join(root, d);
       const dst = path.join(target, d);
       try { fs.renameSync(src, dst); } catch (e) {
-        console.warn(`[Connect AI] migration: rename ${d} failed`, e);
+        console.warn(`[Genmon AI] migration: rename ${d} failed`, e);
       }
     }
-    console.log(`[Connect AI] migrated ${present.length} legacy folders under ${target}`);
+    console.log(`[Genmon AI] migrated ${present.length} legacy folders under ${target}`);
   } catch (e) {
-    console.warn('[Connect AI] _company/ migration failed', e);
+    console.warn('[Genmon AI] _company/ migration failed', e);
   }
 }
 
@@ -803,7 +803,7 @@ async function setCompanyDir(absPath: string) {
   // Redirects to localBrainPath: choosing a company location now means
   // choosing where the brain (and therefore the company) lives.
   try {
-    const cfg = vscode.workspace.getConfiguration('connectAiLab');
+    const cfg = vscode.workspace.getConfiguration('genmonAi');
     await cfg.update('localBrainPath', absPath, vscode.ConfigurationTarget.Global);
   } catch {
     if (_extCtx) {
@@ -868,7 +868,7 @@ function _migrateCompanyToBrain() {
     const brain = _getBrainDir();
     if (fs.existsSync(path.join(brain, '_shared'))) return; // already unified
 
-    const cfg = vscode.workspace.getConfiguration('connectAiLab');
+    const cfg = vscode.workspace.getConfiguration('genmonAi');
     let legacy = ((cfg.get('companyDir') as string | undefined) || '').trim();
     if (!legacy && _extCtx) {
       legacy = (_extCtx.globalState.get<string>('companyDir') || '').trim();
@@ -892,9 +892,9 @@ function _migrateCompanyToBrain() {
     if (_extCtx) {
       try { _extCtx.globalState.update('companyDir', undefined); } catch {}
     }
-    console.log(`Connect AI: migrated ${legacy} → ${brain}`);
+    console.log(`Genmon AI: migrated ${legacy} → ${brain}`);
   } catch (e) {
-    console.error('Connect AI: company → brain migration failed', e);
+    console.error('Genmon AI: company → brain migration failed', e);
   }
 }
 
@@ -1706,7 +1706,7 @@ function _releaseTelegramLockIfOwned(): void {
   } catch { /* ignore */ }
 }
 
-const TELEGRAM_HELP = `🤖 *Connect AI 봇* — 비서가 24시간 대기 중
+const TELEGRAM_HELP = `🤖 *Genmon AI 봇* — 비서가 24시간 대기 중
 
 *그냥 자연어로 말해주세요. 비서가 알아서 처리합니다.*
 
@@ -1975,7 +1975,7 @@ function _buildCapabilityReport(): string {
     /* 1) 비서 본인의 직접 능력 */
     lines.push('*📅 일정 관리*');
     if (calOk) lines.push('  ✅ 추가·조회·수정·취소 (자연어로) — "내일 3시 미팅 잡아줘"');
-    else lines.push('  ⚠️ 미연결 — 명령 팔레트 → "Connect AI: Google Calendar 자동 일정 연결"');
+    else lines.push('  ⚠️ 미연결 — 명령 팔레트 → "Genmon AI: Google Calendar 자동 일정 연결"');
     lines.push('');
     lines.push('*📨 텔레그램 양방향*');
     if (tg.token && tg.chatId) lines.push('  ✅ 작동 중 — 명령 받고 보고 보내기');
@@ -2062,7 +2062,7 @@ function _buildDispatchStatusReport(): string {
     } catch { /* tracker may not exist */ }
     /* 24시간 자율 사이클 ON/OFF */
     try {
-        const enabled = vscode.workspace.getConfiguration('connectAiLab').get<boolean>('autoCycleEnabled', true);
+        const enabled = vscode.workspace.getConfiguration('genmonAi').get<boolean>('autoCycleEnabled', true);
         lines.push(`*🌙 24시간 자율 사이클*: ${enabled ? '✅ ON (15분마다 일거리 자동 실행)' : '⏸ OFF'}`);
     } catch { /* ignore */ }
     return lines.join('\n');
@@ -2248,7 +2248,7 @@ async function handleTelegramViaSecretary(userText: string): Promise<void> {
     if (mode === 'calendar_create') {
         const ev = parsed.event;
         if (!isCalendarWriteConnected()) {
-            await sendTelegramReport(`⚠️ Google Calendar가 연결되지 않았어요.\n\n*명령 팔레트* → "Connect AI: Google Calendar 자동 일정 연결" 로 먼저 셋업해주세요.`);
+            await sendTelegramReport(`⚠️ Google Calendar가 연결되지 않았어요.\n\n*명령 팔레트* → "Genmon AI: Google Calendar 자동 일정 연결" 로 먼저 셋업해주세요.`);
             return;
         }
         if (!ev || typeof ev.title !== 'string' || typeof ev.start !== 'string') {
@@ -3156,7 +3156,7 @@ async function _runCalendarOAuthLoopback(
         }
         res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
         if (err) {
-          res.end(`<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Connect AI — 인증 실패</title>
+          res.end(`<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Genmon AI — 인증 실패</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{min-height:100vh;display:flex;align-items:center;justify-content:center;background:#080a0f;color:#e2e8f0;font-family:'SF Pro Display','Pretendard',-apple-system,system-ui,sans-serif;overflow:hidden}
@@ -3176,7 +3176,7 @@ h1{font-size:22px;font-weight:700;color:#ef4444;margin-bottom:10px;text-shadow:0
 <div class="icon">🔴</div>
 <h1>인증 실패</h1>
 <div class="err">${err}</div>
-<p class="msg">Connect AI로 돌아가서 다시 시도해주세요.</p>
+<p class="msg">Genmon AI로 돌아가서 다시 시도해주세요.</p>
 <p class="hint">이 탭은 닫아도 됩니다.</p>
 </div>
 </body></html>`);
@@ -3184,7 +3184,7 @@ h1{font-size:22px;font-weight:700;color:#ef4444;margin-bottom:10px;text-shadow:0
           _resolve({ ok: false, error: err });
           return;
         }
-        res.end(`<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Connect AI — 인증 완료</title>
+        res.end(`<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Genmon AI — 인증 완료</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{min-height:100vh;display:flex;align-items:center;justify-content:center;background:#080a0f;color:#e2e8f0;font-family:'SF Pro Display','Pretendard',-apple-system,system-ui,sans-serif;overflow:hidden}
@@ -3218,7 +3218,7 @@ h1{font-size:22px;font-weight:700;color:#00ff41;margin-bottom:10px;text-shadow:0
 <div class="brand">Connect · AI Solopreneur OS</div>
 <div class="ring"><span class="icon">✅</span></div>
 <h1>인증 완료!</h1>
-<p class="msg">Google Calendar가 <strong>Connect AI</strong>에 연결됐어요.<br>이 탭은 자동으로 닫힙니다.</p>
+<p class="msg">Google Calendar가 <strong>Genmon AI</strong>에 연결됐어요.<br>이 탭은 자동으로 닫힙니다.</p>
 <p class="countdown" id="cd">3초 후 닫힘</p>
 </div>
 <script>
@@ -3289,7 +3289,7 @@ var t=setInterval(function(){s--;if(s<=0){clearInterval(t);cd.textContent='닫�
         prompt: 'consent',
       }).toString();
       try { await vscode.env.openExternal(vscode.Uri.parse(authUrl)); } catch { /* user can copy from log */ }
-      console.log('[Connect AI] Calendar OAuth URL:', authUrl);
+      console.log('[Genmon AI] Calendar OAuth URL:', authUrl);
     });
     /* Cancel after 3 minutes max */
     const timer = setTimeout(() => {
@@ -3374,7 +3374,7 @@ function _parseBriefingTime(raw: string): { hour: number; minute: number } | nul
 
 async function _runDailyBriefingOnce(force = false): Promise<void> {
     try {
-        const cfg = vscode.workspace.getConfiguration('connectAiLab');
+        const cfg = vscode.workspace.getConfiguration('genmonAi');
         const time = _parseBriefingTime(cfg.get<string>('dailyBriefingTime') || '09:00');
         if (!time && !force) return; // off
         const { token, chatId } = readTelegramConfig();
@@ -3437,7 +3437,7 @@ function startDailyBriefingLoop() {
        The single-fire guard via globalState makes this safe to over-tick. */
     _dailyBriefingTimer = setInterval(() => {
         try {
-            const cfg = vscode.workspace.getConfiguration('connectAiLab');
+            const cfg = vscode.workspace.getConfiguration('genmonAi');
             const time = _parseBriefingTime(cfg.get<string>('dailyBriefingTime') || '09:00');
             if (!time) return;
             const now = new Date();
@@ -3744,7 +3744,7 @@ async function scaffoldDeveloperProject(name: string, template: 'vite-vanilla' |
 <body class="bg-zinc-950 text-zinc-100 min-h-screen flex items-center justify-center">
   <main class="text-center space-y-4">
     <h1 class="text-4xl font-bold">${safe}</h1>
-    <p class="text-zinc-400">Connect AI · Developer 에이전트가 만든 페이지</p>
+    <p class="text-zinc-400">Genmon AI · Developer 에이전트가 만든 페이지</p>
   </main>
 </body>
 </html>
@@ -4721,7 +4721,7 @@ ${presets}
   // .gitignore — 시크릿과 캐시 보호
   const giPath = path.join(dir, '.gitignore');
   const desiredGi =
-`# 자동 생성 — Connect AI 1인 기업 모드
+`# 자동 생성 — Genmon AI 1인 기업 모드
 # 시크릿·API 키 보호
 _agents/*/config.md
 # 도구 설정 JSON 안에 API 키·텔레그램 봇 토큰이 들어갈 수 있어 git에서 제외
@@ -4786,7 +4786,7 @@ _tmp/
 5. 지식 베이스 (\`10_Wiki/\`)
 
 ## 다른 PC로 옮길 때
-1. 새 PC에 Connect AI 설치
+1. 새 PC에 Genmon AI 설치
 2. 👔 모드 ON → "📥 다른 PC에서 가져오기" 선택
 3. GitHub URL 입력 → 자동 clone
 4. 끝.
@@ -6371,7 +6371,7 @@ const CEO_CHAT_PROMPT = _loadPrompt('ceo-chat.md');
 type SecretaryBridgeMode = 'off' | 'output_only' | 'full';
 function readSecretaryBridgeMode(): SecretaryBridgeMode {
     try {
-        const cfg = vscode.workspace.getConfiguration('connectAiLab');
+        const cfg = vscode.workspace.getConfiguration('genmonAi');
         const v = (cfg.get<string>('secretaryBridgeMode') || 'off').trim().toLowerCase();
         if (v === 'output_only' || v === 'full') return v;
     } catch { /* fall through to default */ }
@@ -6611,7 +6611,7 @@ async function _safeGitAutoSync(brainDir: string, commitMsg: string, provider: a
         // (사용자가 settings.json에서 직접 폴더 경로를 입력한 경우에도 작동하도록 함)
         const isRepo = gitExecSafe(['status'], brainDir) !== null;
         if (!isRepo) {
-            const repoUrl = vscode.workspace.getConfiguration('connectAiLab').get<string>('secondBrainRepo', '');
+            const repoUrl = vscode.workspace.getConfiguration('genmonAi').get<string>('secondBrainRepo', '');
             const cleanRepo = repoUrl ? validateGitRemoteUrl(repoUrl) : null;
             if (!cleanRepo) {
                 // GitHub URL도 없음 → 사용자가 sync 의도를 표현한 적이 없음. 조용히 종료.
@@ -6636,7 +6636,7 @@ async function _safeGitAutoSync(brainDir: string, commitMsg: string, provider: a
         // No remote configured → try to pull from settings, otherwise stay local.
         const existingRemote = gitExecSafe(['remote', 'get-url', 'origin'], brainDir)?.trim() || '';
         if (!existingRemote) {
-            const repoUrl = vscode.workspace.getConfiguration('connectAiLab').get<string>('secondBrainRepo', '');
+            const repoUrl = vscode.workspace.getConfiguration('genmonAi').get<string>('secondBrainRepo', '');
             const cleanRepo = repoUrl ? validateGitRemoteUrl(repoUrl) : null;
             if (!cleanRepo) {
                 notify(`✅ 지식이 로컬에 안전하게 저장되었습니다.\n\n💡 **Tip:** 깃허브 백업을 원하시면 🧠 메뉴 → '깃허브 동기화'를 눌러주세요!`, 3000);
@@ -6704,7 +6704,7 @@ async function _safeGitAutoSync(brainDir: string, commitMsg: string, provider: a
 
 /* Company-folder git sync (separate from brain). Only meaningful when the
    company is DETACHED (lives outside <brain>/_company/) AND the user has
-   set `connectAiLab.companyRepo`. Otherwise no-op — company is already
+   set `genmonAi.companyRepo`. Otherwise no-op — company is already
    covered by brain sync (nested) or user hasn't asked for backup. Uses
    its own lock so it can run in parallel with brain sync. */
 async function _safeGitAutoSyncCompany(commitMsg: string, provider: any = null) {
@@ -6714,7 +6714,7 @@ async function _safeGitAutoSyncCompany(commitMsg: string, provider: any = null) 
     const isNested = path.normalize(companyDir).startsWith(path.normalize(brainDir) + path.sep);
     if (isNested) return; // brain sync covers it
     if (!fs.existsSync(companyDir)) return;
-    const repoUrl = vscode.workspace.getConfiguration('connectAiLab').get<string>('companyRepo', '');
+    const repoUrl = vscode.workspace.getConfiguration('genmonAi').get<string>('companyRepo', '');
     const cleanRepo = repoUrl ? validateGitRemoteUrl(repoUrl) : null;
     if (!cleanRepo) return; // user hasn't asked for company backup yet
 
@@ -6786,7 +6786,7 @@ function _recoverEngineUrlIfMismatched(context: vscode.ExtensionContext) {
     if (context.globalState.get('engineUrlRecovered')) return;
     (async () => {
         try {
-            const cfg = vscode.workspace.getConfiguration('connectAiLab');
+            const cfg = vscode.workspace.getConfiguration('genmonAi');
             const url = (cfg.get<string>('ollamaUrl') || '').trim();
             const model = (cfg.get<string>('defaultModel') || '').trim();
             if (!model) {
@@ -6818,11 +6818,11 @@ function _recoverEngineUrlIfMismatched(context: vscode.ExtensionContext) {
             else if (await probe('http://127.0.0.1:11434', false)) target = 'http://127.0.0.1:11434';
             if (target && target !== url) {
                 await cfg.update('ollamaUrl', target, vscode.ConfigurationTarget.Global);
-                console.log(`Connect AI: engine URL recovered → ${target} (model: ${model})`);
+                console.log(`Genmon AI: engine URL recovered → ${target} (model: ${model})`);
             }
             await context.globalState.update('engineUrlRecovered', true);
         } catch (e) {
-            console.error('Connect AI: engine URL recovery failed', e);
+            console.error('Genmon AI: engine URL recovery failed', e);
         }
     })();
 }
@@ -6834,7 +6834,7 @@ function _recoverEngineUrlIfMismatched(context: vscode.ExtensionContext) {
 function _autoPickInstalledModelIfMissing() {
     (async () => {
         try {
-            const cfg = vscode.workspace.getConfiguration('connectAiLab');
+            const cfg = vscode.workspace.getConfiguration('genmonAi');
             const current = (cfg.get<string>('defaultModel') || '').trim();
             if (current) return; // 사용자가 이미 골랐음 — 절대 건드리지 않음
             const url = (cfg.get<string>('ollamaUrl') || 'http://127.0.0.1:11434').trim();
@@ -6845,7 +6845,7 @@ function _autoPickInstalledModelIfMissing() {
                     const models = (r.data?.data || []) as Array<{ id: string }>;
                     if (models.length > 0) {
                         await cfg.update('defaultModel', models[0].id, vscode.ConfigurationTarget.Global);
-                        console.log(`Connect AI: auto-picked LM Studio model → ${models[0].id}`);
+                        console.log(`Genmon AI: auto-picked LM Studio model → ${models[0].id}`);
                     }
                 } catch { /* LM Studio 미실행 — 다음 활성화 때 다시 시도 */ }
             } else {
@@ -6856,19 +6856,19 @@ function _autoPickInstalledModelIfMissing() {
                         // 가장 작은 모델부터 — 첫 호출 실패 진입 장벽 최소화
                         models.sort((a, b) => (a.size || 0) - (b.size || 0));
                         await cfg.update('defaultModel', models[0].name, vscode.ConfigurationTarget.Global);
-                        console.log(`Connect AI: auto-picked Ollama model → ${models[0].name} (${(models[0].size / 1e9).toFixed(2)} GB)`);
+                        console.log(`Genmon AI: auto-picked Ollama model → ${models[0].name} (${(models[0].size / 1e9).toFixed(2)} GB)`);
                     }
                 } catch { /* Ollama 미실행 — 다음 활성화 때 다시 시도 */ }
             }
         } catch (e) {
-            console.error('Connect AI: auto-pick model failed', e);
+            console.error('Genmon AI: auto-pick model failed', e);
         }
     })();
 }
 
 export function activate(context: vscode.ExtensionContext) {
-    vscode.window.showInformationMessage('🔥 Connect AI V2 활성화 완료!');
-    console.log('Connect AI extension activated.');
+    vscode.window.showInformationMessage('🔥 Genmon AI V2 활성화 완료!');
+    console.log('Genmon AI extension activated.');
 
     _extCtx = context;
     _migrateCompanyToBrain();
@@ -6962,8 +6962,8 @@ export function activate(context: vscode.ExtensionContext) {
                     if (lmRes.data?.data?.length > 0) {
                         engineName = 'LM Studio';
                         modelName = lmRes.data.data[0].id;
-                        await vscode.workspace.getConfiguration('connectAiLab').update('ollamaUrl', 'http://127.0.0.1:1234', vscode.ConfigurationTarget.Global);
-                        await vscode.workspace.getConfiguration('connectAiLab').update('defaultModel', modelName, vscode.ConfigurationTarget.Global);
+                        await vscode.workspace.getConfiguration('genmonAi').update('ollamaUrl', 'http://127.0.0.1:1234', vscode.ConfigurationTarget.Global);
+                        await vscode.workspace.getConfiguration('genmonAi').update('defaultModel', modelName, vscode.ConfigurationTarget.Global);
                     }
                 } catch {}
 
@@ -6973,8 +6973,8 @@ export function activate(context: vscode.ExtensionContext) {
                         if (ollamaRes.data?.models?.length > 0) {
                             engineName = 'Ollama';
                             modelName = ollamaRes.data.models[0].name;
-                            await vscode.workspace.getConfiguration('connectAiLab').update('ollamaUrl', 'http://127.0.0.1:11434', vscode.ConfigurationTarget.Global);
-                            await vscode.workspace.getConfiguration('connectAiLab').update('defaultModel', modelName, vscode.ConfigurationTarget.Global);
+                            await vscode.workspace.getConfiguration('genmonAi').update('ollamaUrl', 'http://127.0.0.1:11434', vscode.ConfigurationTarget.Global);
+                            await vscode.workspace.getConfiguration('genmonAi').update('defaultModel', modelName, vscode.ConfigurationTarget.Global);
                         }
                     } catch {}
                 }
@@ -6991,7 +6991,7 @@ export function activate(context: vscode.ExtensionContext) {
                 if (engineName) {
                     vscode.window.showInformationMessage(`🧠 자동 설정 완료! ${engineName} 감지됨 → 모델: ${modelName}`);
                 } else {
-                    vscode.window.showInformationMessage('🧠 Connect AI 준비 완료! LM Studio 또는 Ollama를 실행하면 자동 연결됩니다.');
+                    vscode.window.showInformationMessage('🧠 Genmon AI 준비 완료! LM Studio 또는 Ollama를 실행하면 자동 연결됩니다.');
                 }
             } catch (e) {
                 // 마법사 실패해도 무시 (익스텐션 정상 작동)
@@ -7001,7 +7001,7 @@ export function activate(context: vscode.ExtensionContext) {
     }
 
     // ==========================================
-    // EZER AI <-> Connect AI Bridge Server (Port 4825)
+    // EZER AI <-> Genmon AI Bridge Server (Port 4825)
     // ==========================================
     try {
         const server = http.createServer((req, res) => {
@@ -7019,7 +7019,7 @@ export function activate(context: vscode.ExtensionContext) {
                 const brainDir = _getBrainDir();
                 const brainCount = fs.existsSync(brainDir) ? provider._findBrainFiles(brainDir).length : 0;
                 res.writeHead(200, { 'Content-Type': 'application/json' });
-                res.end(JSON.stringify({ status: 'ok', msg: 'Connect AI Bridge Ready', config: getConfig(), brain: { fileCount: brainCount, enabled: provider._brainEnabled } }));
+                res.end(JSON.stringify({ status: 'ok', msg: 'Genmon AI Bridge Ready', config: getConfig(), brain: { fileCount: brainCount, enabled: provider._brainEnabled } }));
             }
             else if (req.method === 'POST' && req.url === '/api/exam') {
                 (async () => {
@@ -7028,7 +7028,7 @@ export function activate(context: vscode.ExtensionContext) {
                         const parsed = JSON.parse(body);
                         const promptStr = typeof parsed.prompt === 'string' ? parsed.prompt : '자동 접수된 문제';
 
-                        // 웹사이트에서 전송된 문제를 Connect AI 채팅창으로 실시간 보고
+                        // 웹사이트에서 전송된 문제를 Genmon AI 채팅창으로 실시간 보고
                         provider.sendPromptFromExtension(`[A.U 입학시험 수신] ${promptStr}`);
 
                         // 실제 AI 엔진으로 문제를 전달하여 답안을 받아옴
@@ -7112,7 +7112,7 @@ export function activate(context: vscode.ExtensionContext) {
                             const isTimeout = apiErr.code === 'ETIMEDOUT' || apiErr.code === 'ECONNABORTED' || apiErr.message?.includes('timeout');
                             const isConn = apiErr.code === 'ECONNREFUSED' || apiErr.code === 'ENOTFOUND';
                             const errDetail = isTimeout
-                                ? `⏱ 모델이 시간 안에 답을 못 냈어요. 다음 중 하나 시도하세요:\n  • 더 작은 모델로 변경 (gemma2:2b, qwen2.5:1.5b 등)\n  • 안티그래비티 설정에서 connectAiLab.requestTimeout을 600(10분) 이상으로`
+                                ? `⏱ 모델이 시간 안에 답을 못 냈어요. 다음 중 하나 시도하세요:\n  • 더 작은 모델로 변경 (gemma2:2b, qwen2.5:1.5b 등)\n  • 안티그래비티 설정에서 genmonAi.requestTimeout을 600(10분) 이상으로`
                                 : isConn
                                 ? `🔌 AI 엔진에 연결 못함. Ollama/LM Studio가 켜져 있는지 확인해주세요.\n  • Ollama: 터미널에서 \`ollama serve\`\n  • LM Studio: 앱 실행 후 Local Server 시작`
                                 : `AI 엔진 호출 실패: ${apiErr.message || '알 수 없는 원인'}`;
@@ -7199,8 +7199,8 @@ export function activate(context: vscode.ExtensionContext) {
                 (async () => {
                     // Unconditional reception signal — proves the bridge endpoint
                     // was hit, regardless of folder state / sidebar / graph.
-                    console.log('[Connect AI Bridge] /api/brain-inject hit @', new Date().toISOString());
-                    vscode.window.setStatusBarMessage('🛬 Connect AI: 주입 요청 수신', 4000);
+                    console.log('[Genmon AI Bridge] /api/brain-inject hit @', new Date().toISOString());
+                    vscode.window.setStatusBarMessage('🛬 Genmon AI: 주입 요청 수신', 4000);
                     try {
                         const body = await readRequestBody(req);
                         const parsed = JSON.parse(body);
@@ -7290,8 +7290,8 @@ export function activate(context: vscode.ExtensionContext) {
                    바로 이 스킬을 <run_command>로 사용할 수 있음. brain-inject와
                    같은 패턴이지만 대상이 _agents/{agent}/tools/{name}.py임. */
                 (async () => {
-                    console.log('[Connect AI Bridge] /api/skill-inject hit @', new Date().toISOString());
-                    vscode.window.setStatusBarMessage('🛠 Connect AI: 스킬팩 수신', 4000);
+                    console.log('[Genmon AI Bridge] /api/skill-inject hit @', new Date().toISOString());
+                    vscode.window.setStatusBarMessage('🛠 Genmon AI: 스킬팩 수신', 4000);
                     try {
                         const body = await readRequestBody(req);
                         const parsed = JSON.parse(body);
@@ -7378,23 +7378,23 @@ export function activate(context: vscode.ExtensionContext) {
         server.on('error', (err: any) => {
             // listen() failures arrive as 'error' events, NOT as throws.
             const msg = err?.code === 'EADDRINUSE'
-                ? `🚫 Connect AI Bridge: 포트 4825가 이미 사용 중입니다. 다른 안티그래비티 인스턴스를 종료하고 재시작해 주세요. (EZER / A.U Training 연동이 동작하지 않습니다.)`
-                : `🚫 Connect AI Bridge 시작 실패: ${err?.message || err}`;
-            console.error('[Connect AI Bridge] server error:', err);
+                ? `🚫 Genmon AI Bridge: 포트 4826가 이미 사용 중입니다. 다른 안티그래비티 인스턴스를 종료하고 재시작해 주세요. (EZER / A.U Training 연동이 동작하지 않습니다.)`
+                : `🚫 Genmon AI Bridge 시작 실패: ${err?.message || err}`;
+            console.error('[Genmon AI Bridge] server error:', err);
             vscode.window.showErrorMessage(msg);
         });
-        server.listen(4825, '127.0.0.1', () => {
-            console.log('[Connect AI Bridge] listening on http://127.0.0.1:4825');
-            vscode.window.setStatusBarMessage('🟢 Connect AI Bridge: 포트 4825 listening', 4000);
+        server.listen(4826, '127.0.0.1', () => {
+            console.log('[Genmon AI Bridge] listening on http://127.0.0.1:4826');
+            vscode.window.setStatusBarMessage('🟢 Genmon AI Bridge: 포트 4826 listening', 4000);
         });
     } catch (e: any) {
-        console.error('[Connect AI Bridge] failed to start:', e);
-        vscode.window.showErrorMessage(`🚫 Connect AI Bridge 초기화 실패: ${e?.message || e}`);
+        console.error('[Genmon AI Bridge] failed to start:', e);
+        vscode.window.showErrorMessage(`🚫 Genmon AI Bridge 초기화 실패: ${e?.message || e}`);
     }
     // ==========================================
 
     context.subscriptions.push(
-        vscode.window.registerWebviewViewProvider('connect-ai-lab-v2-view', provider, {
+        vscode.window.registerWebviewViewProvider('genmon-ai-v2-view', provider, {
             webviewOptions: { retainContextWhenHidden: true }
         })
     );
@@ -7409,13 +7409,13 @@ export function activate(context: vscode.ExtensionContext) {
     _ytDashboardProvider = new YouTubeDashboardProvider();
 
     // Persistent status bar — always-visible entry into the dashboard.
-    // Replaces the old in-sidebar CTAs. Click → "Connect AI: 회사 둘러보기".
+    // Replaces the old in-sidebar CTAs. Click → "Genmon AI: 회사 둘러보기".
     const dashStatusBar = vscode.window.createStatusBarItem(
         vscode.StatusBarAlignment.Left, 100
     );
     dashStatusBar.text = '$(organization) 우리 회사';
     dashStatusBar.tooltip = '우리 회사 — 에이전트 팀 + 오늘의 일 한 눈에';
-    dashStatusBar.command = 'connectAiLab.dashboard.open';
+    dashStatusBar.command = 'genmonAi.dashboard.open';
     dashStatusBar.show();
     context.subscriptions.push(dashStatusBar);
 
@@ -7425,7 +7425,7 @@ export function activate(context: vscode.ExtensionContext) {
     const aprStatusBar = vscode.window.createStatusBarItem(
         vscode.StatusBarAlignment.Left, 99
     );
-    aprStatusBar.command = 'connectAiLab.dashboard.open';
+    aprStatusBar.command = 'genmonAi.dashboard.open';
     aprStatusBar.tooltip = '승인 대기 액션이 있어요 — 클릭해서 처리';
     const refreshAprBadge = () => {
         try {
@@ -7443,7 +7443,7 @@ export function activate(context: vscode.ExtensionContext) {
     context.subscriptions.push(aprStatusBar);
     setInterval(refreshAprBadge, 8000);
     context.subscriptions.push(
-        vscode.commands.registerCommand('connectAiLab.youtube.connectOAuth', async () => {
+        vscode.commands.registerCommand('genmonAi.youtube.connectOAuth', async () => {
             const r = await startYouTubeOAuthFlow();
             if (r.ok) {
                 vscode.window.showInformationMessage(r.message);
@@ -7453,7 +7453,7 @@ export function activate(context: vscode.ExtensionContext) {
                 vscode.window.showWarningMessage(r.message);
             }
         }),
-        vscode.commands.registerCommand('connectAiLab.dashboard.open', () => {
+        vscode.commands.registerCommand('genmonAi.dashboard.open', () => {
             try {
                 _dashboardExtensionUri = context.extensionUri;
                 CompanyDashboardPanel.createOrShow(context.extensionUri);
@@ -7463,20 +7463,20 @@ export function activate(context: vscode.ExtensionContext) {
                 console.error('[dashboard.open] failed:', e);
             }
         }),
-        vscode.commands.registerCommand('connectAiLab.apiConnections.open', () => {
+        vscode.commands.registerCommand('genmonAi.apiConnections.open', () => {
             ApiConnectionsPanel.createOrShow();
         })
     );
     context.subscriptions.push(
-        vscode.commands.registerCommand('connectAiLab.tasks.refresh', () => {
+        vscode.commands.registerCommand('genmonAi.tasks.refresh', () => {
             _taskTreeProvider?.refresh();
         }),
-        vscode.commands.registerCommand('connectAiLab.tasks.markDone', (item: TaskTreeItem) => {
+        vscode.commands.registerCommand('genmonAi.tasks.markDone', (item: TaskTreeItem) => {
             if (item?.task) {
                 updateTrackerTask(item.task.id, { status: 'done', evidence: '사이드바에서 완료 처리' });
             }
         }),
-        vscode.commands.registerCommand('connectAiLab.tasks.cancel', async (item: TaskTreeItem) => {
+        vscode.commands.registerCommand('genmonAi.tasks.cancel', async (item: TaskTreeItem) => {
             if (!item?.task) return;
             const ok = await vscode.window.showWarningMessage(
                 `"${item.task.title}" 취소할까요?`,
@@ -7487,7 +7487,7 @@ export function activate(context: vscode.ExtensionContext) {
                 updateTrackerTask(item.task.id, { status: 'cancelled', evidence: '사이드바에서 취소' });
             }
         }),
-        vscode.commands.registerCommand('connectAiLab.tasks.setPriority', async (item: TaskTreeItem) => {
+        vscode.commands.registerCommand('genmonAi.tasks.setPriority', async (item: TaskTreeItem) => {
             if (!item?.task) return;
             const pick = await vscode.window.showQuickPick(
                 [
@@ -7502,7 +7502,7 @@ export function activate(context: vscode.ExtensionContext) {
                 updateTrackerTask(item.task.id, { priority: pick.value });
             }
         }),
-        vscode.commands.registerCommand('connectAiLab.tasks.openTrackerJson', async () => {
+        vscode.commands.registerCommand('genmonAi.tasks.openTrackerJson', async () => {
             try {
                 const p = path.join(getCompanyDir(), '_shared', 'tracker.json');
                 if (!fs.existsSync(p)) {
@@ -7515,7 +7515,7 @@ export function activate(context: vscode.ExtensionContext) {
                 vscode.window.showErrorMessage(`tracker.json 열기 실패: ${e?.message || e}`);
             }
         }),
-        vscode.commands.registerCommand('connectAiLab.dailyBriefing.fireNow', async () => {
+        vscode.commands.registerCommand('genmonAi.dailyBriefing.fireNow', async () => {
             try {
                 await _runDailyBriefingOnce(true);
                 vscode.window.showInformationMessage('🌅 데일리 브리핑이 텔레그램으로 발송됐어요. (토큰 미설정이면 무시됨)');
@@ -7523,7 +7523,7 @@ export function activate(context: vscode.ExtensionContext) {
                 vscode.window.showErrorMessage(`브리핑 발사 실패: ${e?.message || e}`);
             }
         }),
-        vscode.commands.registerCommand('connectAiLab.youtube.refreshCommentQueue', async () => {
+        vscode.commands.registerCommand('genmonAi.youtube.refreshCommentQueue', async () => {
             try {
                 vscode.window.showInformationMessage('📺 YouTube 댓글 가져오는 중...');
                 const r = await _youtubeCommentReplyDraftBatch({});
@@ -7538,7 +7538,7 @@ export function activate(context: vscode.ExtensionContext) {
                 vscode.window.showErrorMessage(`YouTube 큐 갱신 실패: ${e?.message || e}`);
             }
         }),
-        vscode.commands.registerCommand('connectAiLab.developer.scaffoldProject', async () => {
+        vscode.commands.registerCommand('genmonAi.developer.scaffoldProject', async () => {
             try {
                 const name = await vscode.window.showInputBox({
                     placeHolder: '프로젝트 이름 (영문/숫자/하이픈)',
@@ -7577,28 +7577,28 @@ export function activate(context: vscode.ExtensionContext) {
 
     // New Chat
     context.subscriptions.push(
-        vscode.commands.registerCommand('connect-ai-lab.newChat', () => {
+        vscode.commands.registerCommand('genmon-ai.newChat', () => {
             provider.resetChat();
         })
     );
 
     // Export Chat as Markdown
     context.subscriptions.push(
-        vscode.commands.registerCommand('connect-ai-lab.exportChat', async () => {
+        vscode.commands.registerCommand('genmon-ai.exportChat', async () => {
             await provider.exportChat();
         })
     );
 
     // Focus Chat Input (Cmd+L)
     context.subscriptions.push(
-        vscode.commands.registerCommand('connect-ai-lab.focusChat', () => {
+        vscode.commands.registerCommand('genmon-ai.focusChat', () => {
             provider.focusInput();
         })
     );
 
     // Explain Selected Code (right-click menu)
     context.subscriptions.push(
-        vscode.commands.registerCommand('connect-ai-lab.explainSelection', () => {
+        vscode.commands.registerCommand('genmon-ai.explainSelection', () => {
             const editor = vscode.window.activeTextEditor;
             if (!editor) { return; }
             const selection = editor.document.getText(editor.selection);
@@ -7610,47 +7610,60 @@ export function activate(context: vscode.ExtensionContext) {
 
     // Show Brain Network Topology
     context.subscriptions.push(
-        vscode.commands.registerCommand('connect-ai-lab.showBrainNetwork', () => {
+        
+        vscode.commands.registerCommand('genmon-ai.generateScriptDraft', async () => {
+            const query = await vscode.window.showInputBox({ prompt: '부모님의 질문이나 고민을 입력하세요 (예: 아이가 매일 저녁 폭발해요)' });
+            if (!query) return;
+            _activeChatProvider?.sendPromptFromExtension?.(
+                `[Agentic RAG 파이프라인 가동] 다음 부모 쿼리에 대해 ATLAS 지식망(1-hop BFS)을 탐색하고, 논문/경험을 검증한 뒤 '삼각구조' 대본 초안을 작성해주세요:\n\n"${query}"`,
+                { fromTelegram: false, corporate: true }
+            );
+        }),
+        vscode.commands.registerCommand('genmon-ai.showAtlasGraph', () => {
+            vscode.commands.executeCommand('genmon-ai.showBrainNetwork');
+        }),
+
+        vscode.commands.registerCommand('genmon-ai.showBrainNetwork', () => {
             showBrainNetwork(context);
         })
     );
 
     // 🏢 Open virtual office (스몰빌식 가상 사무실)
     context.subscriptions.push(
-        vscode.commands.registerCommand('connect-ai-lab.openOffice', () => {
+        vscode.commands.registerCommand('genmon-ai.openOffice', () => {
             OfficePanel.createOrShow(context, provider);
         }),
         /* v2.89.96 — 사이드바 ⋯ 메뉴가 어떤 이유로 클릭 안 받을 때를 대비한
-           명령 팔레트 fallback. Cmd/Ctrl+Shift+P → "Connect AI: 설정 열기" */
-        vscode.commands.registerCommand('connect-ai-lab.openSettings', async () => {
+           명령 팔레트 fallback. Cmd/Ctrl+Shift+P → "Genmon AI: 설정 열기" */
+        vscode.commands.registerCommand('genmon-ai.openSettings', async () => {
             try { await (provider as any)._handleSettingsMenu?.(); }
             catch (e: any) {
                 vscode.window.showErrorMessage(`설정 메뉴 열기 실패: ${e?.message || e}`);
             }
         }),
         /* 회사 폴더 위치 변경 — 두뇌 안 nested vs 완전 분리 선택 */
-        vscode.commands.registerCommand('connect-ai-lab.changeCompanyDir', async () => {
+        vscode.commands.registerCommand('genmon-ai.changeCompanyDir', async () => {
             await runChangeCompanyDir();
         }),
         /* 회사 GitHub 별도 연결 — 두뇌와 분리된 repo로 백업 */
-        vscode.commands.registerCommand('connect-ai-lab.connectCompanyRepo', async () => {
+        vscode.commands.registerCommand('genmon-ai.connectCompanyRepo', async () => {
             await runConnectCompanyRepo();
         }),
         /* Google Calendar 자동 일정 등록 (OAuth) */
-        vscode.commands.registerCommand('connect-ai-lab.connectGoogleCalendarWrite', async () => {
+        vscode.commands.registerCommand('genmon-ai.connectGoogleCalendarWrite', async () => {
             await runConnectGoogleCalendarWrite();
         })
     );
 }
 
 async function runConnectCompanyRepo() {
-    const cfg = vscode.workspace.getConfiguration('connectAiLab');
+    const cfg = vscode.workspace.getConfiguration('genmonAi');
     const companyDir = getCompanyDir();
     const brainDir = _getBrainDir();
     const isNested = path.normalize(companyDir).startsWith(path.normalize(brainDir) + path.sep);
     if (isNested) {
         const ok = await vscode.window.showInformationMessage(
-            `회사 폴더가 두뇌 안 nested 위치에 있어요 — 두뇌 GitHub 저장소(\`secondBrainRepo\`)로 이미 같이 백업됩니다.\n\n별도 저장소를 쓰려면 먼저 명령 팔레트에서 "Connect AI: 회사 폴더 변경"으로 회사를 두뇌 외부로 옮기세요.`,
+            `회사 폴더가 두뇌 안 nested 위치에 있어요 — 두뇌 GitHub 저장소(\`secondBrainRepo\`)로 이미 같이 백업됩니다.\n\n별도 저장소를 쓰려면 먼저 명령 팔레트에서 "Genmon AI: 회사 폴더 변경"으로 회사를 두뇌 외부로 옮기세요.`,
             { modal: false },
             '회사 폴더 변경하기',
             '괜찮아요'
@@ -7692,7 +7705,7 @@ async function runConnectCompanyRepo() {
      B) Pick another folder (detached — separate git repo, team-shared, ...)
      C) Cancel */
 async function runChangeCompanyDir() {
-    const cfg = vscode.workspace.getConfiguration('connectAiLab');
+    const cfg = vscode.workspace.getConfiguration('genmonAi');
     const cur = (cfg.get<string>('companyDir', '') || '').trim();
     const oldDir = getCompanyDir();
     const brainDir = _getBrainDir();
@@ -8041,7 +8054,7 @@ function _RENDER_GRAPH_HTML(graphJson: string, isEmpty: boolean, forceGraphSrc: 
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src ${cspSource} data:; style-src ${cspSource} 'unsafe-inline'; script-src ${cspSource} 'unsafe-inline'; font-src ${cspSource};">
-  <title>Connect AI — 지식 네트워크</title>
+  <title>Genmon AI — 지식 네트워크</title>
   <style>
     body { margin: 0; padding: 0; background: #131419; overflow: hidden; width: 100vw; height: 100vh; font-family: 'SF Pro Display', -apple-system, sans-serif; color: #d8d9de; }
     /* Subtle vignette behind the canvas — z-index -1 so it never obscures nodes */
@@ -8943,7 +8956,7 @@ function _RENDER_GRAPH_HTML(graphJson: string, isEmpty: boolean, forceGraphSrc: 
 // _SIDEBAR_BRAND_CSS moved to assets/webview/sidebar-brand.css
 // _BRAND_CSS moved to assets/webview/brand.css
 class ApprovalsPanelProvider implements vscode.WebviewViewProvider {
-    public static readonly viewId = 'connectAiLab.approvals';
+    public static readonly viewId = 'genmonAi.approvals';
     private _view?: vscode.WebviewView;
     private _refreshTicker: NodeJS.Timeout | null = null;
 
@@ -8954,7 +8967,7 @@ class ApprovalsPanelProvider implements vscode.WebviewViewProvider {
         view.webview.onDidReceiveMessage(async (msg) => {
             if (msg?.type === 'refresh') this._post();
             else if (msg?.type === 'openDash') {
-                vscode.commands.executeCommand('connectAiLab.dashboard.open');
+                vscode.commands.executeCommand('genmonAi.dashboard.open');
             } else if (msg?.type === 'approve' && msg.id) {
                 const r = await resolveApproval(msg.id, 'approved');
                 this._post(r.message);
@@ -9064,7 +9077,7 @@ vscode.postMessage({ type: 'refresh' });
 let _approvalsPanelProvider: ApprovalsPanelProvider | null = null;
 
 class YouTubeDashboardProvider implements vscode.WebviewViewProvider {
-    public static readonly viewId = 'connectAiLab.youtube';
+    public static readonly viewId = 'genmonAi.youtube';
     private _view?: vscode.WebviewView;
 
     resolveWebviewView(view: vscode.WebviewView): void {
@@ -9076,7 +9089,7 @@ class YouTubeDashboardProvider implements vscode.WebviewViewProvider {
                 if (msg?.type === 'refresh') {
                     await this._sendChannelData();
                 } else if (msg?.type === 'openDash') {
-                    vscode.commands.executeCommand('connectAiLab.dashboard.open');
+                    vscode.commands.executeCommand('genmonAi.dashboard.open');
                 } else if (msg?.type === 'addCompetitor' && msg.handleOrId) {
                     await this._addCompetitor(msg.handleOrId);
                 } else if (msg?.type === 'removeCompetitor' && msg.id) {
@@ -9086,7 +9099,7 @@ class YouTubeDashboardProvider implements vscode.WebviewViewProvider {
                     this._view?.webview.postMessage({ type: 'toast', text: r.reason ? `⚠️ ${r.reason}` : `📺 ${r.drafted}건 큐 생성, ${r.skipped}건 스킵`, err: !!r.reason });
                     await this._sendChannelData();
                 } else if (msg?.type === 'connectOAuth') {
-                    vscode.commands.executeCommand('connectAiLab.youtube.connectOAuth');
+                    vscode.commands.executeCommand('genmonAi.youtube.connectOAuth');
                 }
             } catch (e: any) {
                 this._view?.webview.postMessage({ type: 'toast', text: `⚠️ ${e?.message || e}`, err: true });
@@ -9307,7 +9320,7 @@ let _ytDashboardProvider: YouTubeDashboardProvider | null = null;
    instead of stacking. */
 class CompanyDashboardPanel {
     public static current: CompanyDashboardPanel | null = null;
-    public static readonly viewType = 'connectAiLab.dashboard';
+    public static readonly viewType = 'genmonAi.dashboard';
     private readonly _panel: vscode.WebviewPanel;
     private _disposables: vscode.Disposable[] = [];
     private _refreshTimer: NodeJS.Timeout | null = null;
@@ -9386,7 +9399,7 @@ class CompanyDashboardPanel {
                     this._postToast(r.reason ? `⚠️ ${r.reason}` : `📺 ${r.drafted}건 큐 생성, ${r.skipped}건 스킵`, !!r.reason);
                     await this._sendState();
                 } else if (msg?.type === 'connectOAuth') {
-                    vscode.commands.executeCommand('connectAiLab.youtube.connectOAuth');
+                    vscode.commands.executeCommand('genmonAi.youtube.connectOAuth');
                 } else if (msg?.type === 'addCompetitor' && msg.handleOrId) {
                     if (_ytDashboardProvider) {
                         /* Reuse the storage helpers on the sidebar provider — same source of truth. */
@@ -9882,7 +9895,7 @@ class CompanyDashboardPanel {
                 }),
                 conversationsToday,
                 recentLog: recentLog.slice(-1500),
-                briefingTime: vscode.workspace.getConfiguration('connectAiLab').get<string>('dailyBriefingTime') || '09:00',
+                briefingTime: vscode.workspace.getConfiguration('genmonAi').get<string>('dailyBriefingTime') || '09:00',
             });
         } catch { /* panel disposed */ }
     }
@@ -10098,7 +10111,7 @@ function _loadWebviewAsset(name: string): string {
         const p = path.join(_dashboardExtensionUri.fsPath, 'assets', 'webview', name);
         return fs.readFileSync(p, 'utf-8');
     } catch (e: any) {
-        console.warn(`[Connect AI] webview asset 로드 실패 ${name}:`, e?.message || e);
+        console.warn(`[Genmon AI] webview asset 로드 실패 ${name}:`, e?.message || e);
         return '';
     }
 }
@@ -10163,7 +10176,7 @@ const API_SERVICES: ApiServiceDef[] = [
         summary: '시청 지속률 · 트래픽 소스 · 시청자 인구통계. Client ID/Secret 채운 뒤 "OAuth 연결" 버튼 (또는 에이전트가 자동으로 발동).',
         helpUrl: 'https://console.cloud.google.com/',
         agentId: 'youtube',
-        wizardCommand: 'connectAiLab.youtube.connectOAuth',
+        wizardCommand: 'genmonAi.youtube.connectOAuth',
         fields: [
             { key: 'YOUTUBE_OAUTH_CLIENT_ID', label: 'Client ID', type: 'password' },
             { key: 'YOUTUBE_OAUTH_CLIENT_SECRET', label: 'Client Secret', type: 'password', help: 'Authorized redirect URI: http://127.0.0.1:5814/yt-oauth-callback' },
@@ -10175,9 +10188,9 @@ const API_SERVICES: ApiServiceDef[] = [
         icon: '📅',
         summary: '비서가 사용자 일정을 읽고 자동으로 task 마감일과 동기화합니다.',
         agentId: 'secretary',
-        wizardCommand: 'connect-ai-lab.connectGoogleCalendarWrite',
+        wizardCommand: 'genmon-ai.connectGoogleCalendarWrite',
         fields: [
-            { key: 'GOOGLE_CALENDAR_ID', label: 'Calendar ID', type: 'text', placeholder: 'primary 또는 yourcal@group.calendar.google.com', help: '명령 팔레트 → "Connect AI: Google Calendar 자동 일정 연결" 추천' },
+            { key: 'GOOGLE_CALENDAR_ID', label: 'Calendar ID', type: 'text', placeholder: 'primary 또는 yourcal@group.calendar.google.com', help: '명령 팔레트 → "Genmon AI: Google Calendar 자동 일정 연결" 추천' },
         ],
     },
     {
@@ -10422,7 +10435,7 @@ async function saveApiConnection(serviceId: string, values: Record<string, strin
 
 class ApiConnectionsPanel {
     public static current: ApiConnectionsPanel | null = null;
-    public static readonly viewType = 'connectAiLab.apiConnections';
+    public static readonly viewType = 'genmonAi.apiConnections';
     private readonly _panel: vscode.WebviewPanel;
     private _disposables: vscode.Disposable[] = [];
 
@@ -10654,7 +10667,7 @@ async function startYouTubeOAuthFlow(): Promise<{ ok: boolean; message: string }
                 const ein = tk.data?.expires_in || 3600;
                 _writeYtOAuthTokens({ access_token: at, refresh_token: rt, expires_at: Date.now() + ein * 1000 });
                 res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
-                res.end('<!doctype html><html><body style="background:#0a0d12;color:#e6edf3;font-family:sans-serif;text-align:center;padding:60px"><h1 style="color:#00ff41">✅ Connect AI · YouTube 연결 완료</h1><p>이 창을 닫고 안티그래비티로 돌아가세요.</p></body></html>');
+                res.end('<!doctype html><html><body style="background:#0a0d12;color:#e6edf3;font-family:sans-serif;text-align:center;padding:60px"><h1 style="color:#00ff41">✅ Genmon AI · YouTube 연결 완료</h1><p>이 창을 닫고 안티그래비티로 돌아가세요.</p></body></html>');
                 if (!resolved) {
                     resolved = true;
                     clearTimeout(timer);
@@ -10827,14 +10840,14 @@ class OfficePanel {
                     } catch { /* ignore */ }
                     break;
                 case 'openDashboard':
-                    try { vscode.commands.executeCommand('connectAiLab.dashboard.open'); } catch { /* ignore */ }
+                    try { vscode.commands.executeCommand('genmonAi.dashboard.open'); } catch { /* ignore */ }
                     break;
                 case 'openApiConnections':
-                    try { vscode.commands.executeCommand('connectAiLab.apiConnections.open'); } catch { /* ignore */ }
+                    try { vscode.commands.executeCommand('genmonAi.apiConnections.open'); } catch { /* ignore */ }
                     break;
                 case 'toggleAutoCycle':
                     try {
-                        await vscode.workspace.getConfiguration('connectAiLab').update('autoCycleEnabled', !!msg.on, vscode.ConfigurationTarget.Global);
+                        await vscode.workspace.getConfiguration('genmonAi').update('autoCycleEnabled', !!msg.on, vscode.ConfigurationTarget.Global);
                         if (msg.on) _activeChatProvider?.startAutoCycle?.(15, 0);
                         else _activeChatProvider?.stopAutoCycle?.();
                     } catch { /* ignore */ }
@@ -10962,7 +10975,7 @@ class OfficePanel {
 
     /** 사용자가 설정에 명시적으로 추가 자산 경로를 지정한 경우만 사용. 그 외엔 vsix 번들 자산 사용. */
     private static _resolveUserAssetsPath(): string {
-        const cfg = vscode.workspace.getConfiguration('connectAiLab');
+        const cfg = vscode.workspace.getConfiguration('genmonAi');
         const explicit = (cfg.get<string>('assetsPath') || '').trim();
         if (explicit && fs.existsSync(explicit)) return explicit;
         // Dev mode: extension repo includes the LimeZu pack at
@@ -11118,7 +11131,7 @@ class OfficePanel {
         if (customMapUri) {
             world.desks = { ...world.desks, ...CUSTOM_MAP_DESKS };
         }
-        const workdayOn = vscode.workspace.getConfiguration('connectAiLab').get<boolean>('autoCycleEnabled', true);
+        const workdayOn = vscode.workspace.getConfiguration('genmonAi').get<boolean>('autoCycleEnabled', true);
         this._panel.webview.postMessage({
             type: 'officeInit',
             agents,
@@ -12653,7 +12666,7 @@ cmdSend.addEventListener('click', send);
 cmdInput.addEventListener('keydown', e => { if (e.key==='Enter' && !e.shiftKey) { e.preventDefault(); send(); }});
 folderBtn.addEventListener('click', () => vscode.postMessage({ type: 'openCompanyFolder' }));
 /* Single master switch: walking + chatter + 24h work cycle move together.
-   Initial state mirrors the workspace setting connectAiLab.autoCycleEnabled,
+   Initial state mirrors the workspace setting genmonAi.autoCycleEnabled,
    pushed by the host on officeInit. */
 const workdayBtn = document.getElementById('workdayBtn');
 let _chatterTimer = null;
@@ -12914,7 +12927,7 @@ window.addEventListener('message', e => {
       document.body.classList.add('floorplan');
       try {
         const dbg = (m.debug || {});
-        console.log('[Connect AI] world init — buildings:', dbg.buildingsLoaded, '/ decor:', dbg.decorationsLoaded, '/ custom map:', dbg.customMap||'none');
+        console.log('[Genmon AI] world init — buildings:', dbg.buildingsLoaded, '/ decor:', dbg.decorationsLoaded, '/ custom map:', dbg.customMap||'none');
         const customNote = (dbg.customMap === 'OK') ? ' · 🎨 커스텀 맵 사용' : '';
         logActivity('🛠','ceo','캠퍼스 v2.28: '+(dbg.buildingsLoaded||0)+'동 + '+(dbg.decorationsLoaded||0)+' 장식'+customNote);
       } catch {}
@@ -13348,7 +13361,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
         try {
             if (!isCompanyConfigured()) return;
             // 사용자가 24시간 업무를 OFF 했으면 자동 브리핑도 같이 OFF.
-            const enabled = vscode.workspace.getConfiguration('connectAiLab').get<boolean>('autoCycleEnabled', true);
+            const enabled = vscode.workspace.getConfiguration('genmonAi').get<boolean>('autoCycleEnabled', true);
             if (!enabled) return;
             const today = new Date().toISOString().slice(0, 10);
             const last = ctx.globalState.get<string>('lastMorningBriefDate', '');
@@ -13467,7 +13480,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
         if (idleMs > 0 && Date.now() - this._lastUserActivityTs < idleMs) return;
         if (!isCompanyConfigured()) return;
         // Manual kill switch from agent panel — settings key, default ON.
-        const enabled = vscode.workspace.getConfiguration('connectAiLab').get<boolean>('autoCycleEnabled', true);
+        const enabled = vscode.workspace.getConfiguration('genmonAi').get<boolean>('autoCycleEnabled', true);
         if (!enabled) return;
         const model = this.getDefaultModel();
         if (!model) return;
@@ -13861,7 +13874,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
 
     private _sendStatusUpdate() {
         if (!this._view) return;
-        const cfg = vscode.workspace.getConfiguration('connectAiLab');
+        const cfg = vscode.workspace.getConfiguration('genmonAi');
         const folderPath = _isBrainDirExplicitlySet() ? _getBrainDir() : '';
         let fileCount = 0;
         if (folderPath && fs.existsSync(folderPath)) {
@@ -13905,7 +13918,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
         // Beginner-friendly: clicking ☁️ ALWAYS opens the URL input box, with the
         // current URL pre-filled. After save, sync runs automatically.
         // No nested menu — direct typing is the most intuitive flow.
-        const cfg = vscode.workspace.getConfiguration('connectAiLab');
+        const cfg = vscode.workspace.getConfiguration('genmonAi');
         const existing = cfg.get<string>('secondBrainRepo', '') || '';
 
         const inputUrl = await vscode.window.showInputBox({
@@ -14042,9 +14055,9 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
             vscode.window.showWarningMessage('내보낼 대화가 없습니다.');
             return;
         }
-        let md = `# Connect AI — 대화 기록\n\n_${new Date().toLocaleString('ko-KR')}_\n\n---\n\n`;
+        let md = `# Genmon AI — 대화 기록\n\n_${new Date().toLocaleString('ko-KR')}_\n\n---\n\n`;
         for (const m of this._displayMessages) {
-            const label = m.role === 'user' ? '**👤 You**' : '**✦ Connect AI**';
+            const label = m.role === 'user' ? '**👤 You**' : '**✦ Genmon AI**';
             md += `### ${label}\n\n${m.text}\n\n---\n\n`;
         }
         const root = vscode.workspace.workspaceFolders?.[0]?.uri.fsPath;
@@ -14296,7 +14309,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                         const verifiedCount = countAgentVerifiedClaims(msg.agent);
                         const tg = readTelegramConfig();
                         const telegramConnected = !!(tg.token && tg.chatId);
-                        const autoOn = vscode.workspace.getConfiguration('connectAiLab').get<boolean>('autoCycleEnabled', true);
+                        const autoOn = vscode.workspace.getConfiguration('genmonAi').get<boolean>('autoCycleEnabled', true);
                         const tools = listAgentTools(msg.agent).map(t => ({
                             name: t.name,
                             displayName: t.displayName,
@@ -14557,12 +14570,12 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                 case 'runCalendarWriteWizard': {
                     /* Triggered from agent panel ⚙️ on google_calendar_write —
                        runs the host-side OAuth wizard. */
-                    vscode.commands.executeCommand('connect-ai-lab.connectGoogleCalendarWrite').then(undefined, () => { /* user cancel */ });
+                    vscode.commands.executeCommand('genmon-ai.connectGoogleCalendarWrite').then(undefined, () => { /* user cancel */ });
                     break;
                 }
                 case 'toggleAutoCycle': {
                     try {
-                        await vscode.workspace.getConfiguration('connectAiLab').update('autoCycleEnabled', !!msg.on, vscode.ConfigurationTarget.Global);
+                        await vscode.workspace.getConfiguration('genmonAi').update('autoCycleEnabled', !!msg.on, vscode.ConfigurationTarget.Global);
                         if (msg.on) {
                             this.startAutoCycle(15, 0);
                         } else {
@@ -14630,7 +14643,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                     break;
                 }
                 case 'onboardingState': {
-                    const cfg = vscode.workspace.getConfiguration('connectAiLab');
+                    const cfg = vscode.workspace.getConfiguration('genmonAi');
                     const url = (cfg.get<string>('ollamaUrl') || '').trim();
                     const model = (cfg.get<string>('defaultModel') || '').trim();
                     const brain = (cfg.get<string>('localBrainPath') || '').trim();
@@ -14668,7 +14681,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                     if (detected && detail) {
                         const targetUrl = detected === 'LM Studio' ? 'http://127.0.0.1:1234' : 'http://127.0.0.1:11434';
                         try {
-                            const cfg = vscode.workspace.getConfiguration('connectAiLab');
+                            const cfg = vscode.workspace.getConfiguration('genmonAi');
                             await cfg.update('ollamaUrl', targetUrl, vscode.ConfigurationTarget.Global);
                             await cfg.update('defaultModel', detail, vscode.ConfigurationTarget.Global);
                         } catch {}
@@ -14684,7 +14697,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                         openLabel: '내 두뇌 폴더로 사용', title: '🧠 두뇌 폴더 선택 (지식·대화·회사 모두 여기에 저장됨)'
                     });
                     if (picked && picked[0]) {
-                        const cfg = vscode.workspace.getConfiguration('connectAiLab');
+                        const cfg = vscode.workspace.getConfiguration('genmonAi');
                         try { await cfg.update('localBrainPath', picked[0].fsPath, vscode.ConfigurationTarget.Global); } catch {}
                         if (this._view) this._view.webview.postMessage({ type: 'brainFolderPicked', path: picked[0].fsPath });
                     }
@@ -14697,7 +14710,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                         break;
                     }
                     try {
-                        const cfg = vscode.workspace.getConfiguration('connectAiLab');
+                        const cfg = vscode.workspace.getConfiguration('genmonAi');
                         await cfg.update('secondBrainRepo', url, vscode.ConfigurationTarget.Global);
                     } catch {}
                     if (this._view) this._view.webview.postMessage({ type: 'githubRepoResult', ok: true, url });
@@ -15025,16 +15038,16 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                     await this._handleBrainMenu();
                     break;
                 case 'showBrainNetwork':
-                    vscode.commands.executeCommand('connect-ai-lab.showBrainNetwork');
+                    vscode.commands.executeCommand('genmon-ai.showBrainNetwork');
                     break;
                 case 'openOffice':
-                    vscode.commands.executeCommand('connect-ai-lab.openOffice');
+                    vscode.commands.executeCommand('genmon-ai.openOffice');
                     break;
                 case 'toggleOffice':
                     if (OfficePanel.current) {
                         OfficePanel.current.dispose();
                     } else {
-                        vscode.commands.executeCommand('connect-ai-lab.openOffice');
+                        vscode.commands.executeCommand('genmon-ai.openOffice');
                     }
                     break;
                 case 'closeOffice':
@@ -15094,7 +15107,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                    메모리 부족, 또는 prior request의 stream pipe가 꼬여 axios 내부에서
                    RangeError. */
                 const stack = msgErr?.stack ? String(msgErr.stack).split('\n').slice(0, 4).join('\n') : '';
-                console.error('[Connect AI] message handler 예외:', stack || msgErr);
+                console.error('[Genmon AI] message handler 예외:', stack || msgErr);
                 try {
                     webviewView.webview.postMessage({
                         type: 'error',
@@ -15155,7 +15168,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
 
             if (!pick) return;
             const target = (pick as any).action === 'ollama' ? 'http://127.0.0.1:11434' : 'http://127.0.0.1:1234';
-            await vscode.workspace.getConfiguration('connectAiLab').update('ollamaUrl', target, vscode.ConfigurationTarget.Global);
+            await vscode.workspace.getConfiguration('genmonAi').update('ollamaUrl', target, vscode.ConfigurationTarget.Global);
             vscode.window.showInformationMessage(`AI 엔진이 [${pick.label}] 로 변경되었습니다.`);
             await this._sendModels();
         } 
@@ -15347,7 +15360,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
         const brainFiles = fs.existsSync(brainDir) ? this._findBrainFiles(brainDir) : [];
         const fileCount = brainFiles.length;
         
-        const currentRepo = vscode.workspace.getConfiguration('connectAiLab').get<string>('secondBrainRepo', '');
+        const currentRepo = vscode.workspace.getConfiguration('genmonAi').get<string>('secondBrainRepo', '');
         const repoLabel = currentRepo ? currentRepo.split('/').pop() : '없음';
         
         const items: any[] = [
@@ -15399,7 +15412,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                 });
                 if (folders && folders.length > 0) {
                     const selectedPath = folders[0].fsPath;
-                    await vscode.workspace.getConfiguration('connectAiLab').update('localBrainPath', selectedPath, vscode.ConfigurationTarget.Global);
+                    await vscode.workspace.getConfiguration('genmonAi').update('localBrainPath', selectedPath, vscode.ConfigurationTarget.Global);
                     this._brainEnabled = true;
                     this._ctx.globalState.update('brainEnabled', true);
                     
@@ -15410,7 +15423,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                             gitExec(['init'], selectedPath);
                             gitExecSafe(['branch', '-M', 'main'], selectedPath);
 
-                            const existingRepo = vscode.workspace.getConfiguration('connectAiLab').get<string>('secondBrainRepo', '');
+                            const existingRepo = vscode.workspace.getConfiguration('genmonAi').get<string>('secondBrainRepo', '');
                             const cleanRepo = existingRepo ? validateGitRemoteUrl(existingRepo) : null;
                             if (cleanRepo) {
                                 gitExecSafe(['remote', 'add', 'origin', cleanRepo], selectedPath);
@@ -15435,7 +15448,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                 break;
             }
             case 'viewGraph': {
-                vscode.commands.executeCommand('connect-ai-lab.showBrainNetwork');
+                vscode.commands.executeCommand('genmon-ai.showBrainNetwork');
                 break;
             }
             case 'githubSync': {
@@ -15443,7 +15456,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                 break;
             }
             case 'changeGithub': {
-                const existing = vscode.workspace.getConfiguration('connectAiLab').get<string>('secondBrainRepo', '');
+                const existing = vscode.workspace.getConfiguration('genmonAi').get<string>('secondBrainRepo', '');
                 const inputUrl = await vscode.window.showInputBox({
                     prompt: '☁️ 온라인 지식 공간 — GitHub 주소 (Enter로 저장)',
                     placeHolder: '예: https://github.com/사용자명/저장소이름',
@@ -15458,15 +15471,15 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
                 });
                 if (inputUrl !== undefined && inputUrl.trim()) {
                     const cleaned = validateGitRemoteUrl(inputUrl) || inputUrl.trim();
-                    await vscode.workspace.getConfiguration('connectAiLab').update('secondBrainRepo', cleaned, vscode.ConfigurationTarget.Global);
-                    const saved = vscode.workspace.getConfiguration('connectAiLab').get<string>('secondBrainRepo', '');
+                    await vscode.workspace.getConfiguration('genmonAi').update('secondBrainRepo', cleaned, vscode.ConfigurationTarget.Global);
+                    const saved = vscode.workspace.getConfiguration('genmonAi').get<string>('secondBrainRepo', '');
                     vscode.window.showInformationMessage(`✅ 온라인 지식 공간 저장됨: ${saved}`);
                     this._sendStatusUpdate();
                 }
                 break;
             }
             case 'cleanup': {
-                const cfg = vscode.workspace.getConfiguration('connectAiLab');
+                const cfg = vscode.workspace.getConfiguration('genmonAi');
                 const hasGit = !!(cfg.get<string>('secondBrainRepo', '') || '');
                 const hasFolder = _isBrainDirExplicitlySet();
 
@@ -15528,7 +15541,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
             if (!ensured) { return; }
         }
 
-        let secondBrainRepo = vscode.workspace.getConfiguration('connectAiLab').get<string>('secondBrainRepo', '');
+        let secondBrainRepo = vscode.workspace.getConfiguration('genmonAi').get<string>('secondBrainRepo', '');
         
         // UX 극대화: 안 채워져 있으면 에러 내뱉지 말고 입력창 띄우기!
         if (!secondBrainRepo) {
@@ -15546,7 +15559,7 @@ class SidebarChatProvider implements vscode.WebviewViewProvider {
             if (!inputUrl || !inputUrl.trim()) { return; }
 
             const cleaned = validateGitRemoteUrl(inputUrl) || inputUrl.trim();
-            await vscode.workspace.getConfiguration('connectAiLab').update('secondBrainRepo', cleaned, vscode.ConfigurationTarget.Global);
+            await vscode.workspace.getConfiguration('genmonAi').update('secondBrainRepo', cleaned, vscode.ConfigurationTarget.Global);
             secondBrainRepo = cleaned;
         }
 
@@ -16878,7 +16891,7 @@ ${catalog.map((c, i) => `${i + 1}. agent=${c.agentId} tool=${c.tool} — ${c.des
                         appendConversationLog({ speaker: '시스템', emoji: '📁', body: fileReport.join('\n') });
                     }
                 } catch (actErr: any) {
-                    console.error('[Connect AI] casual-chat 파일 액션 실패:', actErr?.message || actErr);
+                    console.error('[Genmon AI] casual-chat 파일 액션 실패:', actErr?.message || actErr);
                 }
                 this._displayMessages.push({ text: this._stripActionTags(text), role: 'ai' });
                 appendConversationLog({ speaker: 'CEO', emoji: '👔', body: text });
@@ -16932,21 +16945,21 @@ ${catalog.map((c, i) => `${i + 1}. agent=${c.agentId} tool=${c.tool} — ${c.des
                         base += `\n\n[활성 게이트] 다음 에이전트는 현재 사용 불가 — 절대 tasks 배열에 넣지 마세요: ${labels}\n`;
                     }
                 } catch (gateErr: any) {
-                    console.error('[Connect AI] 활성 게이트 적용 실패:', gateErr?.message || gateErr);
+                    console.error('[Genmon AI] 활성 게이트 적용 실패:', gateErr?.message || gateErr);
                 }
                 ceoStage = 'readAgentSharedContext';
                 let shared = '';
                 try { shared = readAgentSharedContext('ceo'); }
                 catch (sc: any) {
                     /* 두뇌 RAG 등이 폭주해도 CEO 호출은 계속 — 컨텍스트 일부 누락한 채 진행. */
-                    console.error('[Connect AI] readAgentSharedContext 실패, 빈 컨텍스트로 계속:', sc?.message || sc);
+                    console.error('[Genmon AI] readAgentSharedContext 실패, 빈 컨텍스트로 계속:', sc?.message || sc);
                     shared = '';
                 }
                 ceoStage = 'readRecentConversations';
                 let recent = '';
                 try { recent = readRecentConversations(2000); }
                 catch (rc: any) {
-                    console.error('[Connect AI] readRecentConversations 실패:', rc?.message || rc);
+                    console.error('[Genmon AI] readRecentConversations 실패:', rc?.message || rc);
                     recent = '';
                 }
                 ceoSystemPrompt = `${base}\n${shared}${recent}`;
@@ -17971,9 +17984,9 @@ ${catalog.map((c, i) => `${i + 1}. agent=${c.agentId} tool=${c.tool} — ${c.des
            timeout이 첫 토큰 도착 전에 끊김 (사용자 "60초 벽" 컴플레인). 이제:
            - FIRST_TOKEN_TIMEOUT (디폴트 240초): 모델 첫 토큰까지 기다리는 시간
            - IDLE_TIMEOUT (디폴트 60초): 첫 토큰 이후 chunk 사이 대기 시간
-           둘 다 settings.json `connectAiLab.streamFirstTokenTimeoutSec`,
-           `connectAiLab.streamIdleTimeoutSec` 로 사용자 조정 가능. */
-        const cfg = vscode.workspace.getConfiguration('connectAiLab');
+           둘 다 settings.json `genmonAi.streamFirstTokenTimeoutSec`,
+           `genmonAi.streamIdleTimeoutSec` 로 사용자 조정 가능. */
+        const cfg = vscode.workspace.getConfiguration('genmonAi');
         const FIRST_TOKEN_TIMEOUT_MS = (cfg.get<number>('streamFirstTokenTimeoutSec', 240) || 240) * 1000;
         const IDLE_TIMEOUT_MS = (cfg.get<number>('streamIdleTimeoutSec', 60) || 60) * 1000;
         await new Promise<void>((resolve, reject) => {
@@ -17996,7 +18009,7 @@ ${catalog.map((c, i) => `${i + 1}. agent=${c.agentId} tool=${c.tool} — ${c.des
                     const sec = Math.round(limit / 1000);
                     finish(new Error(
                         `LLM ${stage} ${sec}초 초과. 저사양 머신이면 ` +
-                        `settings.json에서 connectAiLab.streamFirstTokenTimeoutSec 값을 ` +
+                        `settings.json에서 genmonAi.streamFirstTokenTimeoutSec 값을 ` +
                         `늘리거나 (예: 600), 더 작은 모델로 변경하세요 (gemma2:2b 1.6GB 등).`
                     ));
                 }
@@ -18569,7 +18582,7 @@ ${catalog.map((c, i) => `${i + 1}. agent=${c.agentId} tool=${c.tool} — ${c.des
         // Show notification — silent suppresses for corporate dispatch (카드 뷰에서 별도 보고됨)
         const successCount = report.filter(r => r.startsWith('✅') || r.startsWith('✏️') || r.startsWith('🖥️') || r.startsWith('🗑️') || r.startsWith('📖') || r.startsWith('📂') || r.startsWith('🗂') || r.startsWith('🚀')).length;
         if (successCount > 0 && !opts?.silent) {
-            vscode.window.showInformationMessage(`Connect AI: ${successCount}개 에이전트 작업 완료!`);
+            vscode.window.showInformationMessage(`Genmon AI: ${successCount}개 에이전트 작업 완료!`);
         }
 
         // Auto-Push Second Brain changes to Cloud
